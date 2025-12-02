@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "mod": "\u6D4B",
+    "introduce": "\u6D4B\u8BD5",
+    "author": "\u6D4B\u8BD5",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251202/b726785d59e344b1ad1759f501c5987a.png",
+    "tag": [
+      "\u6D4B\u8BD5"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.50.6",
+        "modVersion": "1.0.0",
+        "size": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%B5%8B-1.0.0-game0.50.6-20251202045715/FamilyTree.zip"
+      }
+    ]
+  }
+]
