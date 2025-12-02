@@ -82,6 +82,12 @@
         "modVersion": "1.0.6",
         "size": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%B2%99%E7%9B%92%E5%B7%A5%E5%85%B7%E7%AE%B1Sandbox-1.0.6-game0.50.6-20251202112325/0.50.6%2B.Sandbox_1.0.6.zip"
+      },
+      {
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.8",
+        "size": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%B2%99%E7%9B%92%E5%B7%A5%E5%85%B7%E7%AE%B1Sandbox-1.0.8-game0.51.x-20251202112328/0.51.%2B.Sandbox_1.0.8.zip"
       }
     ]
   }
