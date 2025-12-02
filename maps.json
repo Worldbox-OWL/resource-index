@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "mod": "\u83AB\u6CF0\u62C9\u5E7B\u60F3\u4E16\u754C",
+    "introduce": "",
+    "author": "Mr.Calamitous",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251202/b8f768ad36a1496b82d48b1bc03bb70e.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u4E16\u754C",
+      "\u5E95\u56FE",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "14x7",
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/%E8%8E%AB%E6%B3%B0%E6%8B%89%E5%B9%BB%E6%83%B3%E4%B8%96%E7%95%8C-14x7-game0.22.x-20251202114157/_14x7.Mr.Calamitous.zip"
+      }
+    ]
+  }
+]
