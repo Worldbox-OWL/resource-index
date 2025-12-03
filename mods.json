@@ -418,6 +418,12 @@
         "modVersion": "0.4.0",
         "size": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4.0-game0.50.x-20251203141130-82111c9c/0.50.5%2B.WorldResilience_0.4.0.zip"
+      },
+      {
+        "gameversion": "0.51.x",
+        "modVersion": "0.4.0",
+        "size": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4.0-game0.51.x-20251203141133-42367aba/0.50.5%2B.WorldResilience_0.4.0.zip"
       }
     ]
   }
