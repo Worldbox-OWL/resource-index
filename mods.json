@@ -270,5 +270,24 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.1-game0.51.x-20251203092801-ea187be4/0.51.%2B.Buzz.Off_1.1.1.zip"
       }
     ]
+  },
+  {
+    "uuid": "a40bf705efdd409f97264acb2a40e512",
+    "mod": "\u7981\u7528\u6743\u80FD\u7279\u6548",
+    "introduce": "\u7981\u6B62\u6743\u80FD\u7684\u91D1\u5149\u7279\u6027\u4EE5\u907F\u514D\u8BE6\u7EC6\u5730\u56FE\u4E2D\u906E\u6321\u753B\u9762",
+    "author": "\u7D20\u548C\u665F\u777F\u5BD2\u6D77",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251203/ef1176d2b36e4c89951f553aa3f2c685.png",
+    "tag": [
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.50.x",
+        "modVersion": "1.0",
+        "size": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.50.x-20251203132548-8a0ef0b2/0.50.%2B._1.0.zip"
+      }
+    ]
   }
 ]
