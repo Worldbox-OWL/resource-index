@@ -443,6 +443,12 @@
         "modVersion": "0.3.0beta",
         "size": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.0beta-game0.22.x-20251203155840-5493508c/0.22.7%2B.Optime_0.3.0beta.NeoMod.zip"
+      },
+      {
+        "gameversion": "0.50.x",
+        "modVersion": "0.3.2pre",
+        "size": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.2pre-game0.50.x-20251203155844-bd971581/0.50.%2B.Optime_0.3.2-prerelease.zip"
       }
     ]
   }
