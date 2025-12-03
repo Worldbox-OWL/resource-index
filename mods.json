@@ -276,9 +276,9 @@
     "versions": [
       {
         "gameversion": "0.50.x",
-        "modVersion": "1.0.0",
+        "modVersion": "1.1",
         "size": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E7%A6%81%E6%AD%A2%E8%9C%9C%E8%9C%82-1.0.0-game0.50.x-20251203091227/0.50.%2B.Buzz.Off_1.0.0.zip"
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E7%A6%81%E6%AD%A2%E8%9C%9C%E8%9C%82-v1.1-game0.50.x-20251203091343/0.50.%2B.Buzz.Off_1.0.0.zip"
       }
     ]
   }
