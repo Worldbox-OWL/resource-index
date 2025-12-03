@@ -287,6 +287,12 @@
         "modVersion": "1.0",
         "size": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.50.x-20251203132548-8a0ef0b2/0.50.%2B._1.0.zip"
+      },
+      {
+        "gameversion": "0.51.x",
+        "modVersion": "1.0",
+        "size": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.51.x-20251203132552-3b1e6619/0.50.%2B._1.0.zip"
       }
     ]
   }
