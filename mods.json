@@ -449,6 +449,12 @@
         "modVersion": "0.3.2pre",
         "size": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.2pre-game0.50.x-20251203155844-bd971581/0.50.%2B.Optime_0.3.2-prerelease.zip"
+      },
+      {
+        "gameversion": "0.51.x",
+        "modVersion": "0.3.2pre",
+        "size": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.2pre-game0.51.x-20251203155848-02ade205/0.50.%2B.Optime_0.3.2-prerelease.zip"
       }
     ]
   }
