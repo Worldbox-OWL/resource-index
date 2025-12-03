@@ -394,5 +394,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.1-game0.51.x-20251203135659-a46a801d/0.51.%2B.FriendlyVillagers_1.5.1.zip"
       }
     ]
+  },
+  {
+    "uuid": "6eba93dfd5a44d4a8c61e39aa668dfe3",
+    "mod": "\u4E16\u754C\u590D\u539F\u529BWorld Resilience",
+    "introduce": "\u2460\u6781\u5927\u63D0\u5347\u4E86\u7FA4\u7CFB\u751F\u957F\u7684\u901F\u5EA6\uFF0C\u8FD9\u4E0B\u5373\u4F7F\u662F\u5343\u75AE\u767E\u5B54\u7684\u4E16\u754C\u4E5F\u80FD\u6062\u590D\u5982\u521D\r\n\u2461\u4F7F\u6D77\u6D0B\u53EF\u4EE5\u7F13\u6162\u4FB5\u8680\u6C99\u5730\u3001\u4E09\u79CD\u6D77\u6D0B\u53EF\u4EE5\u7F13\u6162\u8F6C\u6362\uFF0C\u6A21\u62DF\u6D77\u9646\u53D8\u8FC1\r\n\u2462\u6D77\u6D0B\u2192\u6C99\u5730\u2192\u8349\u539F\u2192\u68EE\u6797\uFF0C\u53CD\u8FC7\u6765\u4E5F\u662F\u53EF\u4EE5\u7684",
+    "author": "Pholith#5515",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251203/34c43b9cd60e441b8f50812f57b83195.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u5730\u5F62\u53D8\u5316"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.22.x",
+        "modVersion": "0.3.0",
+        "size": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.0-game0.22.x-20251203141125-f3d46446/0.22.7%2B.WorldResilience_0.3.0.zip"
+      }
+    ]
   }
 ]
