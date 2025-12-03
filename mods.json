@@ -244,5 +244,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E4%B8%8A%E5%B8%9D%E6%A8%A1%E5%BC%8F%E7%BF%BB%E8%AF%91-1.1.4-game0.51.x-20251203090159/0.51.%2B._1.1.4.zip"
       }
     ]
+  },
+  {
+    "uuid": "176b6bbb26bd4331a31720c20a5134e5",
+    "mod": "1",
+    "introduce": "11",
+    "author": "11",
+    "preview": null,
+    "tag": [
+      "\u8F85\u52A9\u6A21\u7EC4",
+      "\u5FC5\u5907"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.50.x",
+        "modVersion": "1.0.0",
+        "size": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/1-1.0.0-game0.50.x-20251203090614/0.51.%2B._1.1.4.zip"
+      }
+    ]
   }
 ]
