@@ -157,6 +157,12 @@
         "modVersion": "1.0.2",
         "size": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%9C%B0%E5%9B%BE%E5%A4%84%E7%90%86%E6%A8%A1%E7%BB%84MapDeal-1.0.2-game0.22.x-20251203053416/0.22.%2B.MapDeal_1.0.2.zip"
+      },
+      {
+        "gameversion": "0.50.x",
+        "modVersion": "1.0.2new",
+        "size": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%9C%B0%E5%9B%BE%E5%A4%84%E7%90%86%E6%A8%A1%E7%BB%84MapDeal-1.0.2new-game0.50.x-20251203053419/0.50beta%2B.MapDeal_1.0.2.zip"
       }
     ]
   }
