@@ -368,6 +368,12 @@
         "modVersion": "1.3.0",
         "size": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.0-game0.22.x-20251203135647-cf104895/0.22.%2B.FriendlyVillagers_1.3.0.NeoMod.zip"
+      },
+      {
+        "gameversion": "0.50.x",
+        "modVersion": "1.5.0",
+        "size": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.0-game0.50.x-20251203135651-f0f5b640/0.50beta%2B.FriendlyVillagers_1.5.0.zip"
       }
     ]
   }
