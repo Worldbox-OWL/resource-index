@@ -380,5 +380,24 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x16-game0.14.x-20251204133250-2aee5459/_16x16.Parsec.zip"
       }
     ]
+  },
+  {
+    "uuid": "120e469e91b1447aabdc1313b7c48453",
+    "mod": "\u7A7F\u68AD\u4E94\u661F",
+    "introduce": "",
+    "author": "Constructor",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/ca3bcb7aa0de405a8e82cd0d53253b64.png",
+    "tag": [
+      "\u661F\u7CFB\u6A21\u62DF"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "15x9",
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v15x9-game0.50.x-20251204133344-79f7983d/_15x9.Constructor.zip"
+      }
+    ]
   }
 ]
