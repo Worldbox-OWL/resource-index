@@ -281,5 +281,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x8-game0.22.x-20251204131822-a266717e/_13x8.Kideuz.zip"
       }
     ]
+  },
+  {
+    "uuid": "ce699ed3498d447787829445ec5fe573",
+    "mod": "\u4E16\u754C\u5730\u56FE\uFF1A\u73AF\u592A\u5E73\u6D0B(\u58A8\u5361\u6258\u6295\u5F71)",
+    "introduce": "",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/192bb88356b04e8c9ff9b74a8e77e216.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u4E16\u754C\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "16x7",
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x7-game0.22.x-20251204132002-5d24c637/_16x7.boki.zip"
+      }
+    ]
   }
 ]
