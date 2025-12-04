@@ -399,5 +399,24 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v15x9-game0.50.x-20251204133344-79f7983d/_15x9.Constructor.zip"
       }
     ]
+  },
+  {
+    "uuid": "d25b062c54fb4bc6a51080cb501ed786",
+    "mod": "\u5341\u4E8C\u661F\u754C",
+    "introduce": "",
+    "author": "MarKI",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/fad35be2bd344133993b683bbffc6fb1.png",
+    "tag": [
+      "\u661F\u7CFB\u6A21\u62DF"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "12x12",
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x12-game0.50.x-20251204133444-df958190/_12x12.MarKI.zip"
+      }
+    ]
   }
 ]
