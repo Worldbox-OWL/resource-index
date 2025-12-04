@@ -194,5 +194,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v33x16-game0.22.x-20251204085903-1b69be02/_33x16.boki.zip"
       }
     ]
+  },
+  {
+    "uuid": "68fe6d5c8958483abd12d25d6fe855e2",
+    "mod": "\u7075\u51C0\u4E0E\u8352\u68EE\u4E16\u754C",
+    "introduce": "",
+    "author": "Hedgehog",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/cb2a980c866243dcaa2004c7e06f4e78.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u4E16\u754C\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "14x18",
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14x18-game0.50.x-20251204091722-254dd889/_14x18.Hedgehog.zip"
+      }
+    ]
   }
 ]
