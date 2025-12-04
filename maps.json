@@ -273,6 +273,12 @@
         "modVersion": null,
         "size": "20x13",
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x13-game0.22.x-20251204131815-b95979a9/_20x13.Kideuz.zip"
+      },
+      {
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "13x8",
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x8-game0.22.x-20251204131822-a266717e/_13x8.Kideuz.zip"
       }
     ]
   }
