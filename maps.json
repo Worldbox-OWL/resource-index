@@ -254,5 +254,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v18x10-game0.14.x-20251204131340-04fb51ac/_18x10.Ingwe.Ingweron.zip"
       }
     ]
+  },
+  {
+    "uuid": "ba67da90eeea46fb84147a735836a3da",
+    "mod": "\u5317\u87F9\u6D32",
+    "introduce": "",
+    "author": "Kideuz",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/07c66cb1ceb14658b95d4a379d8f086f.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u5927\u578B\u9646\u5730",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "20x13",
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x13-game0.22.x-20251204131815-b95979a9/_20x13.Kideuz.zip"
+      }
+    ]
   }
 ]
