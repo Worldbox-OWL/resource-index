@@ -341,5 +341,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x10-game0.22.x-20251204132916-09ad5811/_16x10.polvo1.zip"
       }
     ]
+  },
+  {
+    "uuid": "118faaf4b31b4902b9a46e4fa0df0118",
+    "mod": "\u4E16\u754C\u76D2\u5B50\u661F\u7403",
+    "introduce": "",
+    "author": "\u68A6\u68AD",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/2dd52c57b2d342e5819e60ca766b1388.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u661F\u7CFB\u6A21\u62DF"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "10x10",
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v10x10-game0.14.x-20251204133127-25026c7d/_10x10.zip"
+      }
+    ]
   }
 ]
