@@ -72,5 +72,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x10-game0.50.x-20251204084250-88125664/IV._19x10.YoyotheAlmighty.zip"
       }
     ]
+  },
+  {
+    "uuid": "927bc94219984b0ba7c43fe41af823fc",
+    "mod": "\u4FEE\u666E\u8BFA\u65AF",
+    "introduce": "",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/0a60565ed86143b28a652f496f4d1945.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u7CBE\u54C1\u5730\u56FE",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "12x8",
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x8-game0.22.x-20251204084422-949eccd1/_12x8.boki.zip"
+      }
+    ]
   }
 ]
