@@ -361,5 +361,24 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v10x10-game0.14.x-20251204133127-25026c7d/_10x10.zip"
       }
     ]
+  },
+  {
+    "uuid": "13bf42fc4328463497aba68a6b9b0fcc",
+    "mod": "\u65E0\u5E8F\u7A7A\u95F4",
+    "introduce": "",
+    "author": "Parsec",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/e96d47d8709b42b6953da43708c3f4cb.png",
+    "tag": [
+      "\u661F\u7CFB\u6A21\u62DF"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "16x16",
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x16-game0.14.x-20251204133250-2aee5459/_16x16.Parsec.zip"
+      }
+    ]
   }
 ]
