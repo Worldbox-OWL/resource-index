@@ -321,5 +321,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x7-game0.22.x-20251204132100-30004f0a/_16x7.boki.zip"
       }
     ]
+  },
+  {
+    "uuid": "033469f8a4bb4308ab40c609894d388b",
+    "mod": "\u51B0\u4E0E\u706B\u4E4B\u6B4C\u4E16\u754C",
+    "introduce": "",
+    "author": "polvo1",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/1f087b79511740c9af626b981110598e.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u4E16\u754C\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "16x10",
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x10-game0.22.x-20251204132916-09ad5811/_16x10.polvo1.zip"
+      }
+    ]
   }
 ]
