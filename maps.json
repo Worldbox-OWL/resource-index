@@ -475,5 +475,24 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9%28%E5%86%B0%E5%B1%B1%29-game0.22.x-20251204171433-b99c75fa/_9x9.Gregorianek.zip"
       }
     ]
+  },
+  {
+    "uuid": "b26fe0ecb8fc46408f7a8a062333af29",
+    "mod": "\u5B87\u5B99\u6811\u2161",
+    "introduce": "",
+    "author": "Kropolis",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/eb8173651d984fcbb1f9781caad8aa30.png",
+    "tag": [
+      "\u661F\u7CFB\u6A21\u62DF"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "9x9(\u51B0\u5C71)",
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9%28%E5%86%B0%E5%B1%B1%29-game0.50.x-20251204171528-478f70f9/_9x9.Kropolis.zip"
+      }
+    ]
   }
 ]
