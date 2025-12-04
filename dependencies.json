@@ -9,7 +9,7 @@
     "index": null,
     "versions": [
       {
-        "gameversion": "0.22.6",
+        "gameversion": "0.22.0",
         "modVersion": "1.0.8.2",
         "size": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.0.8.2-game0.22.6-20251204203826-ec83bfd5/NeoModLoader_1.0.8.2.0.22.zip"
@@ -101,4 +101,5 @@
       }
     ]
   }
+
 ]
