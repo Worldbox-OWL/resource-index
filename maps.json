@@ -186,6 +186,12 @@
         "modVersion": null,
         "size": "20x8",
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x8-game0.14.x-20251204085859-fde53f81/_20x8.boki.zip"
+      },
+      {
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "33x16",
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v33x16-game0.22.x-20251204085903-1b69be02/_33x16.boki.zip"
       }
     ]
   }
