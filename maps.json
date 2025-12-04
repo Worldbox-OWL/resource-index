@@ -418,5 +418,24 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x12-game0.50.x-20251204133444-df958190/_12x12.MarKI.zip"
       }
     ]
+  },
+  {
+    "uuid": "5e8de14509e84f04978215fd059fdc30",
+    "mod": "\u661F\u7403\u5927\u6218",
+    "introduce": "",
+    "author": "\u706F\u6CE1",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/caf032876a0b41458fcde2266c3653e8.png",
+    "tag": [
+      "\u661F\u7CFB\u6A21\u62DF"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.12.x",
+        "modVersion": null,
+        "size": "10x10",
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v10x10-game0.12.x-20251204170214-46b249af/_10x10.zip"
+      }
+    ]
   }
 ]
