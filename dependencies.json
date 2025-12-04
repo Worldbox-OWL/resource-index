@@ -83,5 +83,22 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.1.3.0-game0.50.6-20251204203904-19d3420c/NeoModLoader_1.1.3.0.0.50.6.zip"
       }
     ]
+  },
+  {
+    "uuid": "17b62243c3d8408da480a1c228e003f5",
+    "mod": "\u6A21\u7EC4\u88C5\u8F7D\u5668NeoModLoader_1.2.0.1(\u9002\u7528\u4E8E0.51.\u002B)",
+    "introduce": "",
+    "author": "-",
+    "preview": null,
+    "tag": [],
+    "index": null,
+    "versions": [
+      {
+        "gameversion": "0.51.x",
+        "modVersion": "1.2.0.1",
+        "size": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.2.0.1-game0.51.x-20251204203913-ce9ba98f/NeoModLoader_1.2.0.1.0.51.%2B.zip"
+      }
+    ]
   }
 ]
