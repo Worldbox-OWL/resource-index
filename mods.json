@@ -1,6 +1,5 @@
 [
   {
-    "uuid": "b68ff406430142b7ba450897ab2a9eff",
     "mod": "\u66F4\u591A\u6743\u529BPowerBox",
     "introduce": "\u2460\u6269\u5C55\u529F\u80FD\uFF1A\u67E5\u770B\u6587\u660E\u5355\u4F4D(\u5728\u5404\u4E2A\u6587\u660E\u7684\u9762\u677F\u53F3\u4FA7)\u3001\u7F16\u8F91\u57CE\u5E02\u7269\u8D44(\u5728\u5404\u4E2A\u57CE\u5E02\u9762\u677F\u7684\u53F3\u4FA7)\u3001\u680F\u5185\u7684\u4E0A\u5E1D\u6A21\u5F0F\u6309\u94AE\n\u2461\u7F16\u8F91\u529F\u80FD\uFF1A\u521B\u5EFA\u65B0\u57CE\u5E02/\u6C0F\u65CF/\u6587\u5316/\u8BED\u8A00/\u5B97\u6559/\u4E9A\u79CD\u3001\u7F16\u8F91\u5355\u4F4D\u6C0F\u65CF/\u6587\u5316/\u8BED\u8A00/\u5B97\u6559/\u4E9A\u79CD\u3001\u6269\u5C55/\u7F29\u51CF\u57CE\u5E02\u533A\u5757\u3001\u6269\u5C55/\u7F29\u51CF\u6587\u660E\u533A\u5757\u3001\u5EFA\u7B51\u5347\u7EA7/\u964D\u7EA7\u3001\u6307\u6D3E\u56FD\u738B/\u9886\u4E3B\u3001\u521B\u5EFA\u65B0\u519B\u961F\u3001\u5355\u4F4D\u5165\u4F0D\u3001\u58EB\u5175\u9000\u4F0D\u3001\u7ED3\u76DF\u3001\u5EFA\u7ACB\u53CB\u8C0A\n\u2462\u6295\u653E\u529F\u80FD\uFF1A3\u4E2A\u65B0\u751F\u7269(\u9A6C\u514B\u897F\u59C6\u3001\u9A6C\u65AF\u7279\u592B\u3001\u6C49\u5821\u8718\u86DB)\u3001\u53EF\u4EE5\u653E\u7F6E\u5355\u4F4D(\u80BF\u7624\u602A\u3001\u80BF\u7624\u5C0F\u602A\u3001\u5B62\u5B50\u4EBA\u3001\u5B62\u5B50\u5C0F\u602A\u3001\u8FD0\u8F93\u8239\u3001\u5546\u8239\u3001\u6E14\u8239)\u3001\u6108\u7597\u4E4B\u4E91(\u964D\u4E0B\u8840\u96E8)\u3001\u6C49\u5821\u8718\u86DB\u4E91(\u964D\u4E0B\u6C49\u5821\u8718\u86DB)\u3001\u67E5\u627E\u6240\u6709\u751F\u7269(\u6682\u65E0\u641C\u7D22\u529F\u80FD)",
     "author": "Keymasterer, IFailedLife, don_nikon",
@@ -12,63 +11,80 @@
     "index": null,
     "versions": [
       {
+        "uuid": "698fe727c7de4d7eafd7e954385b5c29",
         "gameversion": "0.50.5",
         "modVersion": "1.4.0",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%9B%B4%E5%A4%9A%E6%9D%83%E5%8A%9BPowerBox-1.4.0-game0.50.5-20251202072328/0.50.5%2B.PowerBox_1.4.0.zip"
       },
       {
+        "uuid": "e5026f65e07d4817b04f1eead4f91f78",
         "gameversion": "0.50.6",
         "modVersion": "1.4.0",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%9B%B4%E5%A4%9A%E6%9D%83%E5%8A%9BPowerBox-1.4.0-game0.50.6-20251202072332/0.50.5%2B.PowerBox_1.4.0.zip"
       },
       {
+        "uuid": "2b2ba9b467d845198832a7beff9eb60a",
         "gameversion": "0.50.3",
         "modVersion": "(\u6D4B\u8BD5)",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%9B%B4%E5%A4%9A%E6%9D%83%E5%8A%9BPowerBox-%28%E6%B5%8B%E8%AF%95%29-game0.50.3-20251202072335/0.50.3%2B.PowerBox_.zip"
       },
       {
+        "uuid": "4827f94b504943f9ba4ce876f7741a52",
         "gameversion": "0.50.4",
         "modVersion": "(\u6D4B\u8BD5)",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%9B%B4%E5%A4%9A%E6%9D%83%E5%8A%9BPowerBox-%28%E6%B5%8B%E8%AF%95%29-game0.50.4-20251202072337/0.50.3%2B.PowerBox_.zip"
       },
       {
+        "uuid": "8106a0f6ba414bb8aa40f47d7792e767",
         "gameversion": "0.50.0",
         "modVersion": "1.4.0beta1",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%9B%B4%E5%A4%9A%E6%9D%83%E5%8A%9BPowerBox-1.4.0beta1-game0.50.0-20251202072340/0.50beta%2B.PowerBox_1.4.0beta1.zip"
       },
       {
+        "uuid": "2bc1bf7226664583a9c8650e1e037303",
         "gameversion": "0.50.1",
         "modVersion": "1.4.0beta1",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%9B%B4%E5%A4%9A%E6%9D%83%E5%8A%9BPowerBox-1.4.0beta1-game0.50.1-20251202072343/0.50beta%2B.PowerBox_1.4.0beta1.zip"
       },
       {
+        "uuid": "09dbdeafd5774c5890ea7b5bdeca7f28",
         "gameversion": "0.50.2",
         "modVersion": "1.4.0beta1",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%9B%B4%E5%A4%9A%E6%9D%83%E5%8A%9BPowerBox-1.4.0beta1-game0.50.2-20251202072346/0.50beta%2B.PowerBox_1.4.0beta1.zip"
       },
       {
+        "uuid": "73eb535e21d343988e0458f4d19a3aa5",
         "gameversion": "0.51.x",
         "modVersion": "1.5.1new",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%9B%B4%E5%A4%9A%E6%9D%83%E5%8A%9BPowerBox-1.5.1new-game0.51.x-20251202072642/0.51.%2B.PowerBox_1.5.1new.zip"
       },
       {
+        "uuid": "c773ac4c10de4946aac8a5daa13b142f",
         "gameversion": "0.22.7",
         "modVersion": "1.3.2",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%9B%B4%E5%A4%9A%E6%9D%83%E5%8A%9BPowerBox-1.3.2-game0.22.7-20251202102944/0.22.7%2B.PowerBox_1.3.2.zip"
       }
     ]
   },
   {
-    "uuid": "721c2adabd524cd28c47e9efa9115ff4",
     "mod": "\u6C99\u76D2\u5DE5\u5177\u7BB1Sandbox",
     "introduce": "\u2460\u5355\u4F4D\u5F52\u5C5E\uFF1A\u5F3A\u5236\u5355\u4F4D\u5165\u57CE\u3001\u5F3A\u5236\u5355\u4F4D\u8BED\u8A00\u3001\u5F3A\u5236\u5355\u4F4D\u6587\u660E\u3001\u5F3A\u5236\u5355\u4F4D\u5B97\u6559\u3001\u4EFB\u547D\u56FD\u738B\u3001\u4EFB\u547D\u9886\u4E3B\r\n\u2461\u7981\u7528\u7279\u8D28\uFF1A\u7981\u7528\u6C0F\u65CF\u7279\u8D28\u3001\u7981\u7528\u8BED\u8A00\u7279\u8D28\u3001\u7981\u7528\u6587\u660E\u7279\u8D28\u3001\u7981\u7528\u5B97\u6559\u7279\u8D28\r\n\u2462\u5C5E\u6027\u7F16\u8F91\uFF1A\u5728\u4E9A\u79CD\u7684\u57FA\u56E0\u7F16\u8F91\u4E2D\u53EF\u4EE5\u9009\u62E9\u5C5E\u6027(\u6682\u4E0D\u652F\u6301\u9B54\u529B)\uFF0C\u7136\u540E\u5728\u4E0B\u65B9\u8F93\u5165\u6846\u8FDB\u884C\u6570\u503C\u4FEE\u6539\r\n\u2463\u5176\u4ED6\uFF1A\u7B5B\u9009\u78C1\u94C1\u3001\u653E\u7F6E\u5EFA\u7B51\u3001\u5F3A\u5236\u5B8C\u6210\u8C0B\u5212\u3001\u5F3A\u5236\u5EFA\u57CE\r\n\u2464\u6A21\u7EC4\u8BBE\u7F6E\uFF1A\u5EFA\u7B51\u7269\u5730\u5757\u68C0\u67E5-\u7981\u7528\u540E\uFF0C\u6240\u6709\u5EFA\u7B51\u7269\u653E\u7F6E\u4E0D\u518D\u53D7\u5730\u5757\u5F71\u54CD\r\n(\u6A21\u7EC4\u5217\u8868\u4E2D\u627E\u5230\u6B64\u6A21\u7EC4\u7136\u540E\u70B9\u51FB\u53F3\u4FA7\u9F7F\u8F6E\u53EF\u89C1\u6A21\u7EC4\u8BBE\u7F6E)",
     "author": "kenoli, ApexLite",
@@ -80,21 +96,24 @@
     "index": null,
     "versions": [
       {
+        "uuid": "c5bb9bc8f05e4cafa5f0e6124163893a",
         "gameversion": "0.50.6",
         "modVersion": "1.0.6",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%B2%99%E7%9B%92%E5%B7%A5%E5%85%B7%E7%AE%B1Sandbox-1.0.6-game0.50.6-20251202112325/0.50.6%2B.Sandbox_1.0.6.zip"
       },
       {
+        "uuid": "871a06a734cb43f08c9441ce37247a81",
         "gameversion": "0.51.x",
         "modVersion": "1.0.8",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%B2%99%E7%9B%92%E5%B7%A5%E5%85%B7%E7%AE%B1Sandbox-1.0.8-game0.51.x-20251202112328/0.51.%2B.Sandbox_1.0.8.zip"
       }
     ]
   },
   {
-    "uuid": "ca6383e623084deb81b315e562463619",
     "mod": "\u5BD2\u6D77\u7684\u5168\u89E3\u9501\u6A21\u7EC4",
     "introduce": "\u8FDB\u5165\u6E38\u620F\u540E\u52A0\u8F7D\u6B64\u6A21\u7EC4\uFF0C\u7136\u540E\u89E3\u9501\u65B0\u7248\u672C\u4E2D\u7684\u6240\u6709\u6210\u5C31\u3001\u751F\u7269\u3001\u57FA\u56E0\u3001\u4E9A\u79CD\u3001\u88C5\u5907\u3001\u751F\u7269\u7279\u8D28\u3001\u6C0F\u65CF\u7279\u8D28\u3001\u56FD\u5BB6\u7279\u8D28\u963F\u5DF4\u963F\u5DF4\u7684\u4E00\u5927\u5806\r\n\u540C\u65F6\u6309\u4F4F F9 F10 \u91CD\u65B0\u52A0\u8F7D\u6A21\u7EC4\uFF0C\u907F\u514D\u542F\u52A8\u65F6\u672A\u80FD\u89E3\u9501\u95EE\u9898",
     "author": "\u7D20\u548C\u665F\u777F\u5BD2\u6D77",
@@ -106,21 +125,24 @@
     "index": null,
     "versions": [
       {
+        "uuid": "3248da8e1d0e4f4f90ebe55f322f419c",
         "gameversion": "0.50.x",
         "modVersion": "1.2",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%AF%92%E6%B5%B7%E7%9A%84%E5%85%A8%E8%A7%A3%E9%94%81%E6%A8%A1%E7%BB%84-1.2-game0.50.x-20251202112906/0.50.%2B._1.2.zip"
       },
       {
+        "uuid": "6b6def02bfa841d893f76fe48e3584d2",
         "gameversion": "0.51.x",
         "modVersion": "1.2",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%AF%92%E6%B5%B7%E7%9A%84%E5%85%A8%E8%A7%A3%E9%94%81%E6%A8%A1%E7%BB%84-1.2-game0.51.x-20251202112911/0.50.%2B._1.2.zip"
       }
     ]
   },
   {
-    "uuid": "7d960737244a46538393747954644850",
     "mod": "\u5BD2\u6D77\u7684\u8F85\u52A9\u5DE5\u5177SHToolkitmod",
     "introduce": "\u2460\u8F85\u52A9\u5DE5\u5177\uFF1A\n\u63A7\u5236\u65F6\u95F4\u6D41\u901F(\u002B1\u3001\u002B10\u3001\u00D710\u7B49\u7B49\uFF0C\u65E0\u9650\u5806\u53E0)\n\u6279\u91CF\u6DFB\u52A0/\u79FB\u9664\u7279\u8D28(\u652F\u6301\u4EE5\u519B\u961F\u3001\u57CE\u5E02\u3001\u56FD\u5BB6\u3001\u4E16\u754C\u4E3A\u57FA\u7840)\n\u6279\u91CF\u6DFB\u52A0/\u79FB\u9664\u88C5\u5907(\u652F\u6301\u4EE5\u519B\u961F\u3001\u57CE\u5E02\u3001\u56FD\u5BB6\u3001\u4E16\u754C\u4E3A\u57FA\u7840)\n\u6279\u91CF\u6DFB\u52A0\u75AF\u72C2(\u652F\u6301\u4EE5\u519B\u961F\u3001\u57CE\u5E02\u3001\u56FD\u5BB6\u3001\u4E16\u754C\u4E3A\u57FA\u7840)\n\u4E16\u754C\u8FED\u4EE3\u6B21\u6570(1\u5E27\u4E2D\u8FDB\u884C\u7684\u4E16\u754C\u66F4\u65B0\uFF0C\u642D\u914D\u9AD8\u500D\u6570)\n\u8D85\u7EA7\u6682\u505C(\u5305\u542B\u51BB\u7ED3\u6240\u6709\u7279\u6548\u3001\u7C92\u5B50\u3001\u6295\u5C04\u7269)\n\u8D85\u7EA7\u6A61\u76AE(\u4EE3\u7801\u6740\u6A61\u76AE)\n\u5FEB\u6377\u952E F1\u002BF2\u5524\u51FA\u4E0A\u5E1D\u6A21\u5F0F\n\u2461\u8F85\u52A9\u8BBE\u7F6E\uFF1A\n\u968F\u673A\u751F\u6210\u6587\u660E\u751F\u7269(\u5177\u4F53\u914D\u7F6E\u5728\u6B64\u5F00\u5173\u7684\u4E0A\u65B9\u9F7F\u8F6E)\n\u5FEB\u901F\u6210\u5E74(\u65E0\u5B69\u7AE5\u5F62\u6001\uFF0C\u51FA\u751F\u5373\u6210\u5E74)\n\u57CE\u5E02/\u738B\u56FD\u6587\u5316\u4FDD\u62A4(\u9632\u6B62\u9886\u8896\u53D8\u66F4\u5BFC\u81F4\u7684\u6587\u5316\u53D8\u66F4)\n\u6279\u91CF\u653E\u7F6E(\u642D\u914D\u5DE6\u4FA7\u7EA2\u5E95\u9F7F\u8F6E\u4E2D\u914D\u7F6E)\n\u4FEE\u6539\u81EA\u52A8\u4FDD\u5B58\u95F4\u9694(\u642D\u914D\u5DE6\u4FA7\u7EA2\u5E95\u9F7F\u8F6E\u4E2D\u914D\u7F6E)\n\u66F4\u591A\u5730\u56FE\u5927\u5C0F(\u5728\u7EA2\u5E95\u9F7F\u8F6E\u4E2D\u914D\u7F6E\uFF0C\u5728\u539F\u7248\u751F\u6210\u5730\u56FE\u5904\u751F\u6210)\n\u5B50\u5F39\u78B0\u649E\u3001\u7981\u7528\u5B50\u5F39\u7A7F\u5899\u3001\u8FDC\u7A0B\u653B\u51FB\u89C6\u7EBF\u3001\u53BB\u9664\u65E0\u654C\u5E27\u3001\u7981\u7528\u5B97\u6559\n\u7981\u7528\u8054\u76DF\u3001\u7262\u4E0D\u53EF\u7834\u7684\u8054\u76DF\u3001\u5F3A\u5236\u81EA\u52A8\u4FDD\u5B58\u3001\u597D\u6218\u519B\u961F",
     "author": "\u7D20\u548C\u665F\u777F\u5BD2\u6D77",
@@ -132,27 +154,32 @@
     "index": null,
     "versions": [
       {
+        "uuid": "4becf4a424b64cda8db72ef706678d8b",
         "gameversion": "0.51.x",
         "modVersion": "0.1.4",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%AF%92%E6%B5%B7%E7%9A%84%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7SHToolkitmod-0.1.4-game0.51.x-20251202113240/0.51.%2B.SHToolkitmod_0.1.4.zip"
       },
       {
+        "uuid": "62461ce7738b4cbab92be2881c6b3af5",
         "gameversion": "0.50.6",
         "modVersion": "0.1.2",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%AF%92%E6%B5%B7%E7%9A%84%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7SHToolkitmod-0.1.2-game0.50.6-20251202113245/SHToolkitmod0.1.2-WorldBox0.50.6.zip"
       },
       {
+        "uuid": "c83783a6c92545d7b4cdb807d626eaba",
         "gameversion": "0.22.x",
         "modVersion": "2.0.0",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.0.0-game0.22.x-20251203140227-e0432c6d/0.22.%2B.SHAuxmod_2.0.0.zip"
       }
     ]
   },
   {
-    "uuid": "d26f59cdb68e444d93dd16422a250603",
     "mod": "\u5730\u56FE\u5904\u7406\u6A21\u7EC4MapDeal",
     "introduce": "\u2460\u8BB0\u5F55\u5730\u56FE\uFF1A\u5C06\u5F53\u524D\u5730\u56FE\u7684\u5730\u5F62\u4FDD\u5B58\u4E0B\u6765\u4EE5\u4FBF\u4E0B\u65B9\u7684\u64CD\u4F5C\r\n\u2461\u955C\u50CF/\u98A0\u5012/\u5217\u9635\u653E\u7F6E\uFF1A\u89C6\u4E3A\u5F00\u5173\u914D\u7F6E\uFF0C\u4F7F\u7528\u2462\u63D0\u53CA\u7684\u529F\u80FD\u65F6\uFF0C\u4F1A\u5C06\u8BB0\u5F55\u7684\u5730\u56FE \u955C\u50CF(\u6C34\u5E73)\u53CD\u8F6C/\u98A0\u5012(\u7AD6\u76F4)\u53CD\u8F6C/\u6392\u5217\u94FA\u6EE1 \u653E\u7F6E\r\n\u2462\u4ECE\u5DE6\u4E0B/\u5DE6\u4E0A/\u53F3\u4E0B/\u53F3\u4E0A/\u4E2D\u5FC3\u653E\u7F6E\u65E7\u5730\u56FE\uFF1A\u5982\u5F53\u524D\u5730\u56FE\u5927\u5C0F\u548C\u4FDD\u5B58\u7684\u5730\u56FE\u5927\u5C0F\u76F8\u540C\uFF0C\u5219\u65E0\u533A\u522B\uFF0C\u6B64\u60C5\u51B5\u53EF\u7528\u4E8E\u6062\u590D\u5730\u5F62\uFF1B\u5982\u5C0F\u4E8E\u4FDD\u5B58\u7684\u5730\u56FE\u5927\u5C0F\uFF0C\u5219\u4F1A\u6709\u90E8\u5206\u5730\u5F62\u4E0D\u4F1A\u7C98\u8D34\u5230\u5F53\u524D\u5730\u56FE\uFF0C\u6B64\u60C5\u51B5\u53EF\u7528\u4E8E\u88C1\u5207\u5730\u56FE\uFF1B\u5982\u5927\u4E8E\u4FDD\u5B58\u7684\u5730\u56FE\u5927\u5C0F\uFF0C\u5219\u591A\u4F59\u90E8\u5206\u4EE5\u5F53\u524D\u5730\u56FE\u4E3A\u51C6\uFF0C\u6B64\u60C5\u51B5\u53EF\u7528\u4E8E\u62FC\u63A5\u5730\u56FE\r\n\u2463\u7F29\u653E\u5730\u56FE\uFF1A\u5C06\u4FDD\u5B58\u7684\u5730\u56FE\u4EE5\u5F53\u524D\u5730\u56FE\u5927\u5C0F\u4E3A\u57FA\u51C6\u7C98\u8D34\r\n\u2464\u751F\u6210\u5730\u56FE\uFF1A\u5728\u4E24\u4E2A\u8F93\u5165\u683C\u4E2D\u586B\u5165\u6570\u503C\u7136\u540E\u70B9\u51FB\u4E0B\u65B9\u6309\u94AE\u5237\u65B0\u5927\u5C0F\uFF0C\u786E\u8BA4\u65E0\u8BEF\u540E\u70B9\u51FB\u201C\u751F\u6210\u5730\u56FE\u201D\u5373\u53EF\r\n\u2465\u5904\u7406\u566A\u70B9(\u539F\u201C\u5730\u56FE\u5730\u5F62\u5904\u7406\u201D)\uFF1A\u5C06\u5F53\u524D\u5730\u56FE\u96F6\u6563\u7684\u5730\u5757\u66FF\u6362\u4E3A\u90BB\u8FD1\u5730\u5757\uFF0C\u5982\uFF1A\u7A00\u6811\u8349\u539F\u516B\u56F4\u4E00\uFF0C\u5219\u4E2D\u5FC3\u5730\u5757\u53D8\u4E3A\u7A00\u6811\u8349\u539F\r\n\u2466\u5168\u89E3\u9501\uFF1A\u76F4\u63A5\u542F\u7528\u539F\u7248\u90AA\u6076\u4EEA\u5F0F\u7684\u5168\u89E3\u9501(\u7279\u8D28\u3001\u88C5\u5907\u3001\u751F\u7269\u7B49)",
     "author": "\u8D1D\u4F26\u5E1D\u56FD",
@@ -164,33 +191,40 @@
     "index": null,
     "versions": [
       {
+        "uuid": "4ff5cf2eaeb5410395255eaeb94bde83",
         "gameversion": "0.22.x",
         "modVersion": "1.0.2",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%9C%B0%E5%9B%BE%E5%A4%84%E7%90%86%E6%A8%A1%E7%BB%84MapDeal-1.0.2-game0.22.x-20251203053416/0.22.%2B.MapDeal_1.0.2.zip"
       },
       {
+        "uuid": "c06dd2d69ed748c3a09d9c6aa1fd1088",
         "gameversion": "0.50.x",
         "modVersion": "1.0.2new",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%9C%B0%E5%9B%BE%E5%A4%84%E7%90%86%E6%A8%A1%E7%BB%84MapDeal-1.0.2new-game0.50.x-20251203053419/0.50beta%2B.MapDeal_1.0.2.zip"
       },
       {
+        "uuid": "214b87a080854942b36662bce7e57e01",
         "gameversion": "0.50.5",
         "modVersion": "1.0.3",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%9C%B0%E5%9B%BE%E5%A4%84%E7%90%86%E6%A8%A1%E7%BB%84MapDeal-1.0.3-game0.50.5-20251203053422/0.50.5%2B.MapDeal_1.0.3.zip"
       },
       {
+        "uuid": "45ffa2941924442eace15d2fb048697e",
         "gameversion": "0.51.x",
         "modVersion": "1.0.5",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%9C%B0%E5%9B%BE%E5%A4%84%E7%90%86%E6%A8%A1%E7%BB%84MapDeal-1.0.5-game0.51.x-20251203053425/0.51.%2B.MapDeal_1.0.5.zip"
       }
     ]
   },
   {
-    "uuid": "14ce260699d943fa8b18b90a603b060b",
     "mod": "\u66F4\u591A\u5B58\u6863\u6A21\u7EC4MoreSaves",
     "introduce": "\u5F53\u6700\u540E\u4E00\u683C\u5B58\u6863\u6709\u5730\u56FE\u65F6\u4F1A\u989D\u5916\u6DFB\u52A0\u4E09\u683C\u5730\u56FE\uFF0C\u5177\u4F53\u6548\u679C\u4E3A\u5728\u7B2C60\u002B3n(n\u4E3A\u81EA\u7136\u6570)\u4FDD\u5B58\u5C31\u53EF\u4EE5\u591A\u51FA\u989D\u5916\u5B58\u6863\n\u5373\uFF0C\u5728\u7B2C60\u683C\u4FDD\u5B58\u5730\u56FE\uFF0C\u518D\u6B21\u8FDB\u5165\u53EF\u4EE5\u770B\u523063\u683C\u5730\u56FE\uFF0C\u518D\u5728\u7B2C63\u683C\u4FDD\u5B58\u5730\u56FE\uFF0C\u518D\u6B21\u8FDB\u5165\u53EF\u4EE5\u770B\u523066\u683C\u5730\u56FE\uFF0C\u4EE5\u6B64\u7C7B\u63A8",
     "author": "ApexLite",
@@ -201,33 +235,40 @@
     "index": null,
     "versions": [
       {
+        "uuid": "cd238e770bce44ecbb9a0f8bc97abc97",
         "gameversion": "0.50.5",
         "modVersion": "1.1.1",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%9B%B4%E5%A4%9A%E5%AD%98%E6%A1%A3%E6%A8%A1%E7%BB%84MoreSaves-1.1.1-game0.50.5-20251203083626/0.50.5%2B.MoreSaves_1.1.1.zip"
       },
       {
+        "uuid": "8f495f7553bb4881a8c974e9b2e6e311",
         "gameversion": "0.22.x",
         "modVersion": "1.0.1",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%9B%B4%E5%A4%9A%E5%AD%98%E6%A1%A3%E6%A8%A1%E7%BB%84MoreSaves-1.0.1-game0.22.x-20251203083933/0.22.%2B.MoreSaves_1.0.1.zip"
       },
       {
+        "uuid": "772198014e894ac7a4c603993f9c74bf",
         "gameversion": "0.50.x",
         "modVersion": "1.1.0",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%9B%B4%E5%A4%9A%E5%AD%98%E6%A1%A3%E6%A8%A1%E7%BB%84MoreSaves-1.1.0-game0.50.x-20251203083937/0.50.%2B.MoreSaves_1.1.0.zip"
       },
       {
+        "uuid": "99dd3cff3ac24bd88521d75d19064ad8",
         "gameversion": "0.51.x",
         "modVersion": "1.1.1",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%9B%B4%E5%A4%9A%E5%AD%98%E6%A1%A3%E6%A8%A1%E7%BB%84MoreSaves-1.1.1-game0.51.x-20251203083941/0.50.5%2B.MoreSaves_1.1.1.zip"
       }
     ]
   },
   {
-    "uuid": "ce2b22f5d6e5470c84158ec4b517a71c",
     "mod": "\u4E0A\u5E1D\u6A21\u5F0F\u7FFB\u8BD1",
     "introduce": "\u2460\u5C06\u4E0A\u5E1D\u6A21\u5F0F\u7A97\u53E3\u4E2D\u7684\u5206\u7C7B\u680F\u548C\u6309\u94AE\u8FDB\u884C\u6C49\u5316\u7FFB\u8BD1\uFF0C\u7528\u5E26\u8272\u5F69\u7684*\u8FDB\u884C\u91CD\u70B9\u6807\u6CE8(\u4F20\u8BF4\u548C\u53F2\u8BD7\u54C1\u8D28\u7684\u8272\u5F69)\r\n\u2461\u4E3A\u6309\u94AE\u6DFB\u52A0\u60AC\u505C\u83DC\u5355\uFF0C\u63D0\u4F9B\u5B8C\u6574\u8BF4\u660E\uFF0C\u7528\u5BF9\u5E94\u989C\u8272\u6807\u6CE8\u53EF\u80FD\u51FA\u73B0\u7684\u5185\u5BB9(\u6D45\u7EFF\u8272\u4EE3\u8868\u9664\u4E0A\u5E1D\u6A21\u5F0F\u5916\u539F\u7248\u7684\u81EA\u5E26\u529F\u80FD)\r\n\r\n\u4E0A\u5E1D\u6A21\u5F0F\u9ED8\u8BA4\u6253\u5F00\u65B9\u5F0F\u4E3A\uFF0C\u9F7F\u8F6E\uFF1E\u8BBE\u7F6E\uFF0C\u5DE6\u4E0A\u89D2\u7684\u6C49\u5821\u70B911\u4E0B\uFF0C\u754C\u9762\u53F3\u4E0A\u89D2\u5C31\u4F1A\u51FA\u73B0\u201C\u8C03\u8BD5\u83DC\u5355\u201D\u6309\u94AE",
     "author": "\u7D20\u548C\u665F\u777F\u5BD2\u6D77,\u534A\u68A6\u534A\u9192",
@@ -238,21 +279,24 @@
     "index": null,
     "versions": [
       {
+        "uuid": "266b5bec1f244cadaec1a46149dc7b12",
         "gameversion": "0.50.x",
         "modVersion": "1.1.4",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E4%B8%8A%E5%B8%9D%E6%A8%A1%E5%BC%8F%E7%BF%BB%E8%AF%91-1.1.4-game0.50.x-20251203090155/0.51.%2B._1.1.4.zip"
       },
       {
+        "uuid": "fd4a38883f7e4ba3aa9cdf04fbf369fb",
         "gameversion": "0.51.x",
         "modVersion": "1.1.4",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E4%B8%8A%E5%B8%9D%E6%A8%A1%E5%BC%8F%E7%BF%BB%E8%AF%91-1.1.4-game0.51.x-20251203090159/0.51.%2B._1.1.4.zip"
       }
     ]
   },
   {
-    "uuid": "176b6bbb26bd4331a31720c20a5134e5",
     "mod": "\u7981\u6B62\u6606\u866B\u607C\u4EBABuzz Off",
     "introduce": "\u2460\u7981\u6B62\u8FDB\u5316\uFF1A\u7981\u6B62\u871C\u8702\u8FDB\u5316\u3001\u7981\u6B62\u82CD\u8747\u8FDB\u5316\u3001\u7981\u6B62\u8774\u8776\u8FDB\u5316\u3001\u7981\u6B62\u8682\u86B1\u8FDB\u5316\u3001\u7981\u6B62\u7532\u866B\u8FDB\u5316\n\u2461\u7981\u6B62\u8702\u5DE2\uFF1A\u7981\u6B62\u8702\u5DE2\u751F\u6210\u3001\u6E05\u7406\u5F53\u524D\u8702\u5DE2\n(\u6A21\u7EC4\u5217\u8868\u4E2D\u627E\u5230\u6B64\u6A21\u7EC4\u7136\u540E\u70B9\u51FB\u53F3\u4FA7\u9F7F\u8F6E\u53EF\u89C1\u6A21\u7EC4\u8BBE\u7F6E)",
     "author": "ApexLite",
@@ -264,21 +308,24 @@
     "index": null,
     "versions": [
       {
+        "uuid": "b0729ba7dad345f5bab3d83941b3cdde",
         "gameversion": "0.50.x",
         "modVersion": "1.0.0",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/1-1.0.0-game0.50.x-20251203090614/0.51.%2B._1.1.4.zip"
       },
       {
+        "uuid": "d05c5749c60f45c988ff9c9a027caf1e",
         "gameversion": "0.51.x",
         "modVersion": "1.1.1",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.1-game0.51.x-20251203092801-ea187be4/0.51.%2B.Buzz.Off_1.1.1.zip"
       }
     ]
   },
   {
-    "uuid": "a40bf705efdd409f97264acb2a40e512",
     "mod": "\u7981\u7528\u6743\u80FD\u7279\u6548",
     "introduce": "\u7981\u6B62\u6743\u80FD\u7684\u91D1\u5149\u7279\u6027\u4EE5\u907F\u514D\u8BE6\u7EC6\u5730\u56FE\u4E2D\u906E\u6321\u753B\u9762",
     "author": "\u7D20\u548C\u665F\u777F\u5BD2\u6D77",
@@ -289,21 +336,24 @@
     "index": null,
     "versions": [
       {
+        "uuid": "dc3eb6687d64464892014e8ed929e6c6",
         "gameversion": "0.50.x",
         "modVersion": "1.0",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.50.x-20251203132548-8a0ef0b2/0.50.%2B._1.0.zip"
       },
       {
+        "uuid": "ebf373661bae49f9b9fe132fbddace67",
         "gameversion": "0.51.x",
         "modVersion": "1.0",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.51.x-20251203132552-3b1e6619/0.50.%2B._1.0.zip"
       }
     ]
   },
   {
-    "uuid": "3a40cfef74b24f47bf7e9e25a52bf141",
     "mod": "\u5929\u547D\u699C(\u6076\u9B54\u6E38\u620F\u89C4\u5219)",
     "introduce": "\u2460\u6076\u9B54\u6A21\u5F0F\u76F8\u5173\uFF1A\r\n1.\u4E16\u754C\u8D5B\u4E8B\uFF08\u5E74\u4EFD\u53EF\u914D\u7F6E\uFF09\uFF1A\u6BCF480\u5E74\u6311\u9009\u51FA\u5341\u540D\u5019\u9009\uFF08\u81EA\u52A8\u6536\u85CF\uFF09\uFF0C\u5171\u540C\u4F20\u9001\u5230\u540C\u4E00\u5730\u70B9\uFF0C\u53AE\u6740\u5341\u5E74\u7684\u8D5B\u4E8B\u3002\u6076\u9B54\u6A21\u5F0F\u4E0B\u8D5B\u4E8B\u4E3A\u201C\u6076\u9B54\u98DE\u5347\u201D\uFF0C\u6B63\u5E38\u6A21\u5F0F\u4E0B\u4E3A\u201C\u5927\u9053\u4E89\u950B\u201D\r\n\u201C\u6076\u9B54\u98DE\u5347\u201D\u5019\u9009\u8005\u4F1A\u62E5\u6709\u201C\u6DF1\u6E0A\u4F4E\u8BED\u201D\u7279\u8D28\uFF0C\u51A0\u519B\u6388\u4E88\u201C\u98DE\u5347\u6076\u9B54\u201D\u201C\u98DE\u5347\u8005\u201D\u7279\u8D28\u5E76\u53D8\u4E3A\u6076\u9B54\r\n\u201C\u5927\u9053\u4E89\u950B\u201D\u5019\u9009\u8005\u4F1A\u62E5\u6709\u201C\u5929\u547D\u5019\u9009\u4EBA\u201D\u7279\u8D28\uFF0C\u51A0\u519B\u6388\u4E88\u201C\u9053\u4E3B\u201D\u201C\u98DE\u5347\u8005\u201D\u7279\u8D28\r\n2.\u6076\u9B54\u4F7F\u5F92\u73B0\u8EAB\uFF1A\u4EC5\u6076\u9B54\u6A21\u5F0F\u4E0B\u53D1\u751F\uFF0C\u6BCF777\u5E74\u4F1A\u6709\u4E00\u53EA\u5F3A\u5927\u6076\u9B54\u5165\u4FB5\r\n3.\u81EA\u52A8\u5BFC\u64AD\uFF1A\u81EA\u52A8\u9501\u5B9A\u6700\u6709\u6F5C\u529B\u7684\u5355\u4F4D\u4F18\u5148\u8DDF\u968F\uFF0C\u7ED9\u4E88\u201C\u6076\u9B54\u9762\u5177\u201D\u7279\u8D28\uFF0C\u5F00\u542F\u201C\u8282\u76EE\u4E00\u201D\u540E\u88AB\u8DDF\u968F\u7684\u5355\u4F4D\u66F4\u4E3B\u52A8\u6311\u8845\u4E0E\u8868\u6F14\r\n4.\u6076\u9B54\u4F24\u5BB3\uFF1A\u62E5\u6709\u201C\u6076\u9B54\u9762\u5177\u201D\u7684\u5355\u4F4D\u53D7\u51FB\u65F670%\u6982\u7387\u5F3A\u5236\u89E6\u53D1\u201C\u6076\u9B54\u4F24\u5BB3\u4EA4\u6362\u201D\uFF0C\u53CC\u65B9\u5747\u4F1A\u9020\u6210\u4E0D\u5206\u654C\u6211\u7684\u8303\u56F4\u4F24\u5BB3\u3002\u6076\u9B54\u6A21\u5F0F\u4E0B\u6B64\u8303\u56F4\u4F24\u5BB3\u4F1A\u5438\u5F15\u5176\u4ED6\u4EBA\u7684\u4EC7\u6068\r\n\u2461\u5176\u4ED6\uFF1A\r\n1.\u4E16\u4FD7\u6218\u4E89\uFF08\u5E74\u4EFD\u53EF\u914D\u7F6E\uFF09\uFF1A\u6BCF100\u5E74\u5F3A\u5236\u4E00\u4E2A\u56FD\u5BB6\u53D1\u52A8\u6218\u4E89\uFF0C\u5982\u65E0\u654C\u56FD\u52191~20\u57CE\u53DB\u4E71\r\n2.\u6392\u884C\u699C\uFF1A\u6218\u529B\u699C\uFF08\u7EFC\u5408\u653B\u3001\u9632\u3001\u8840\u3001\u5BFF\u547D\u7684\u524D10)\u3001\u6740\u622E\u699C\uFF08\u51FB\u6740\u6570\u524D10\uFF09\r\n3.\u4E8B\u4EF6\u65E5\u5FD7\uFF1A\u5C06\u76F8\u5173\u4E8B\u4EF6\u5199\u5165\u65E5\u5FD7\u6587\u4EF6\u4E2D\uFF0C\u5F00\u542F\u8BE6\u7EC6\u6A21\u5F0F\u540E\u4F1A\u5305\u542B\u56FD\u738B\u9886\u4E3B\u6218\u4E89\u7B49\u5177\u4F53\u5185\u5BB9\r\n4.\u51FB\u6740\u8F6C\u79FB\uFF1A\u6218\u6B7B\u8005\u51FB\u6740\u6570\u768450%\u8F6C\u79FB\u7ED9\u80DC\u8005\uFF1B\u5F3A\u8005\u6B7B\u4E8E\u73AF\u5883\u65F6\uFF0C\u9644\u8FD1\u5E78\u5B58\u8005\u51FB\u6740\u6570\u968F\u673A\u589E\u52A0\r\n5.\u5730\u56FE\u6E05\u7406\uFF1A\u201C\u91CE\u751F\u4E0E\u8D85\u7EA7\u751F\u547D\u6E05\u7406\u201D\u3001\u201C\u5355\u6B21\u4E16\u754C\u5F52\u96F6\u4E0E\u6E05\u56FE\u201D",
     "author": "\u5154\u5B50Reo,\u51F8( \u2192_\u2192 )\u51F8",
@@ -314,21 +364,24 @@
     "index": null,
     "versions": [
       {
+        "uuid": "7485136b7ec34d4ebed74a5f3e2474e2",
         "gameversion": "0.50.x",
         "modVersion": "0.79",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.79-game0.50.x-20251203132954-65a28d95/0.50.6%2B._0.79.zip"
       },
       {
+        "uuid": "7c5762dfe1d949d4b919728b4ca1a943",
         "gameversion": "0.51.x",
         "modVersion": "0.88",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.88-game0.51.x-20251203133000-8d8c3bd4/0.51.%2B._0.88.zip"
       }
     ]
   },
   {
-    "uuid": "7379cf8cfb3f40d7868b7d43c7f4c59d",
     "mod": "\u7279\u8D28\u6B66\u9053",
     "introduce": "\u2460\u6DFB\u52A0\u4E86\u4E00\u4E9B\u8089\u9E3D\u5143\u7D20\u7684\u7279\u8D28\uFF0C\u6B64\u7248\u672C\u5171163\u4E2A\u7279\u8D28\uFF0C\u53EF\u8BDE\u751F\u3001\u9057\u4F20\u51FA\u73B0\r\n\u2460\u5355\u72EC\u7684\u6B66\u9053\u4FEE\u70BC\u4F53\u7CFB\uFF0C\u5728\u751F\u7269\u9762\u677F\u5C06\u9F20\u6807\u60AC\u505C\u81F3\u751F\u7269\u4E0A\u53EF\u89C1(\u540C\u65F6\u53EF\u89C1\u5929\u8D4B\u4EE5\u53CA\u52A0\u6210)\uFF0C\u51716\u4E2A\u5883\u754C\uFF0C\u51E1\u4EBA(\u672A\u7B97\u5728\u5185)\u3001\u5165\u54C1\u3001\u540E\u5929(\u6B66\u9053\u7279\u8D28\u002B1)\u3001\u5148\u5929(\u6B66\u9053\u7279\u8D28\u002B1)\u3001\u81F3\u81FB(\u6B66\u9053\u7279\u8D28\u002B2)\u3001\u8D85\u51E1\u5165\u5723(\u6B66\u9053\u7279\u8D28\u002B2)\u3001\u6B66\u9053\u9547\u795E(\u6B66\u9053\u7279\u8D28\u002B4~5)\r\n\u2462\u6A21\u7EC4\u8BBE\u7F6E\uFF1A\u5141\u8BB8\u57CE\u5E02\u6295\u964D(\u5173\u95ED\u540E\u57CE\u5E02\u4E0D\u4F1A\u88AB\u5176\u4ED6\u56FD\u5BB6\u5360\u9886\uFF0C\u53EA\u80FD\u8D76\u5C3D\u6740\u7EDD)\u3001\u51FB\u6740\u83B7\u53D6\u7ECF\u9A8C\u7CFB\u6570(\u51FB\u6740\u6240\u83B7\u7ECF\u9A8C=\u539F\u7248\u51FB\u6740\u7ECF\u9A8C\u00D7\u6B64\u7CFB\u6570)\u3001\u5929\u8D4B\u751F\u6548\u500D\u6570(\u81EA\u7136\u4FEE\u70BC\u7ECF\u9A8C=\u5929\u8D4B\u00D7\u6B64\u500D\u6570)\r\n\u6CE8\uFF1A\u6A21\u7EC4\u8BBE\u7F6E\u53EF\u5728\u6B66\u9053\u680F\u5185\u8FDB\u5165\u4E5F\u53EF\u5728\u6A21\u7EC4\u5217\u8868\u7A97\u53E3\u4E2D\u8FDB\u5165\uFF1B\u6B66\u9053\u680F\u5185\u6392\u884C\u699C\u8FD8\u672A\u5B8C\u6210\uFF0C\u65E0\u6CD5\u4F7F\u7528",
     "author": "\u672B\u5F71\u5927\u9ED1,\u4E00\u7C73",
@@ -339,27 +392,32 @@
     "index": null,
     "versions": [
       {
+        "uuid": "30661b854cdb4d21aa9e7438d4b81e46",
         "gameversion": "0.50.6",
         "modVersion": "1.5.2",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.2-game0.50.6-20251203134944-6f39706c/0.50.6%2B._1.5.2.zip"
       },
       {
+        "uuid": "735844fc280e4d1182177e1b38d63138",
         "gameversion": "0.22.x",
         "modVersion": "1.4.0",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.4.0-game0.22.x-20251203134948-314644ba/0.22.%2B._1.4.0.zip"
       },
       {
+        "uuid": "85fe89b4c9db4b79949bdf3f0fa00115",
         "gameversion": "0.50.3",
         "modVersion": "1.5.1",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.1-game0.50.3-20251203134952-f5581bf8/0.50.3%2B._1.5.1.zip"
       }
     ]
   },
   {
-    "uuid": "08f45366a5ea460abf5c29a164c0f246",
     "mod": "\u53CB\u5584\u5171\u5904\u6A21\u7EC4Friendly Villagers",
     "introduce": "\u2460\u7269\u79CD\u76F8\u548C\uFF1A\u901A\u8FC7\u7981\u6B62\u6587\u660E\u7684\u201C\u6392\u5916\u201D\u7279\u8D28\uFF0C\u5B9E\u73B0\u4E0D\u540C\u7269\u79CD\u5728\u57CE\u5E02\u4E2D\u5171\u5B58\r\n\u2461\u6A21\u7EC4\u57FA\u7840\u529F\u80FD\uFF1A\u76F8\u5F53\u4E8E\u5B9E\u65F6\u542F\u7528/\u7981\u7528\u6A21\u7EC4\u8BBE\u7F6E\u4E2D\u7684\u5176\u4ED6\u914D\u7F6E\uFF0C\u76EE\u524D\u4EC5\u4E0B\u9762\u8FD9\u4E24\u4E2A\u529F\u80FD\r\n\u53CD\u5411\u55DC\u8840\uFF1A\u5176\u4ED6\u57CE\u5E02\u4E0E\u9996\u90FD\u7269\u79CD\u4E0D\u76F8\u540C\u65F6\uFF0C\u9886\u4E3B\u62E5\u6709\u55DC\u8840\u7279\u8D28\u4F1A\u589E\u52A0\u5FE0\u8BDA\u5EA6\r\n\u5BF9\u5916\u53CB\u5584\uFF1A\u6587\u660E\u4E2D\u65E0\u201C\u4EB2\u5916\u201D\u7279\u8D28\u7684\u56FD\u5BB6\u9ED8\u8BA4\u884C\u4E3A\u548C\u4EB2\u5916\u56FD\u5BB6\u4E00\u81F4(\u4E0D\u4F1A\u8BEF\u4F24\u666E\u901A\u5E02\u6C11)",
     "author": "carpaldunnel",
@@ -370,33 +428,40 @@
     "index": null,
     "versions": [
       {
+        "uuid": "0fcb22e7c2af45cb80bb81913f3135cb",
         "gameversion": "0.22.x",
         "modVersion": "1.3.0",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.0-game0.22.x-20251203135647-cf104895/0.22.%2B.FriendlyVillagers_1.3.0.NeoMod.zip"
       },
       {
+        "uuid": "808698d4c4da42148388edcac51a636a",
         "gameversion": "0.50.x",
         "modVersion": "1.5.0",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.0-game0.50.x-20251203135651-f0f5b640/0.50beta%2B.FriendlyVillagers_1.5.0.zip"
       },
       {
+        "uuid": "86468eef8c81408696dd02d0f8d64c0c",
         "gameversion": "0.50.5",
         "modVersion": "1.5.0new",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.0new-game0.50.5-20251203135655-0e29fc94/0.50.5%2B.FriendlyVillagers_1.5.0new.zip"
       },
       {
+        "uuid": "dff17b29544d464abf4ea4bfed9dc2a4",
         "gameversion": "0.51.x",
         "modVersion": "1.5.1",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.1-game0.51.x-20251203135659-a46a801d/0.51.%2B.FriendlyVillagers_1.5.1.zip"
       }
     ]
   },
   {
-    "uuid": "6eba93dfd5a44d4a8c61e39aa668dfe3",
     "mod": "\u4E16\u754C\u590D\u539F\u529BWorld Resilience",
     "introduce": "\u2460\u6781\u5927\u63D0\u5347\u4E86\u7FA4\u7CFB\u751F\u957F\u7684\u901F\u5EA6\uFF0C\u8FD9\u4E0B\u5373\u4F7F\u662F\u5343\u75AE\u767E\u5B54\u7684\u4E16\u754C\u4E5F\u80FD\u6062\u590D\u5982\u521D\r\n\u2461\u4F7F\u6D77\u6D0B\u53EF\u4EE5\u7F13\u6162\u4FB5\u8680\u6C99\u5730\u3001\u4E09\u79CD\u6D77\u6D0B\u53EF\u4EE5\u7F13\u6162\u8F6C\u6362\uFF0C\u6A21\u62DF\u6D77\u9646\u53D8\u8FC1\r\n\u2462\u6D77\u6D0B\u2192\u6C99\u5730\u2192\u8349\u539F\u2192\u68EE\u6797\uFF0C\u53CD\u8FC7\u6765\u4E5F\u662F\u53EF\u4EE5\u7684",
     "author": "Pholith#5515",
@@ -408,27 +473,32 @@
     "index": null,
     "versions": [
       {
+        "uuid": "9ee5507a28b2454f92a8bed0a3369506",
         "gameversion": "0.22.x",
         "modVersion": "0.3.0",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.0-game0.22.x-20251203141125-f3d46446/0.22.7%2B.WorldResilience_0.3.0.zip"
       },
       {
+        "uuid": "b8b164a1933643fc8c0e5664b3c5ddea",
         "gameversion": "0.50.x",
         "modVersion": "0.4.0",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4.0-game0.50.x-20251203141130-82111c9c/0.50.5%2B.WorldResilience_0.4.0.zip"
       },
       {
+        "uuid": "30e5a28b450a429bbf5ffa72090fca3a",
         "gameversion": "0.51.x",
         "modVersion": "0.4.0",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4.0-game0.51.x-20251203141133-42367aba/0.50.5%2B.WorldResilience_0.4.0.zip"
       }
     ]
   },
   {
-    "uuid": "a2a3c5ca08d24afbbe24c3ce4c3714fc",
     "mod": "\u7B80\u6613\u4F18\u5316\u6A21\u7EC4Optime",
     "introduce": "\u5728\u6A21\u7EC4\u5217\u8868\u4E2D\u627E\u5230\u6B64\u6A21\u7EC4\uFF0C\u7136\u540E\u70B9\u51FB\u6A21\u7EC4\u8BBE\u7F6E\u5373\u53EF\u770B\u5230\u4EE5\u4E0B\u5185\u5BB9\r\n\u2460\u4F18\u5316\u529F\u80FD-\u533A\u5757\u61D2\u52A0\u8F7D\uFF1A\u7981\u6B62\u53CD\u590D\u52A0\u8F7D\u53EF\u89C6\u533A\u57DF\u7684\u533A\u5757\uFF0C\u51CF\u5C11\u52A0\u8F7D\u8D1F\u62C5\r\n\u2461\u8F85\u52A9\u529F\u80FD-\u771F\u6B63\u7684\u6682\u505C\uFF1A\u6E38\u620F\u6682\u505C\u65F6\u5C06\u5F39\u5C04\u7269\u7B49\u4E00\u8D77\u6682\u505C\r\n\u7981\u7528\u5206\u6790\uFF1A\u79BB\u5F00\u6E38\u620F\u65F6\u4E0D\u81EA\u52A8\u53D1\u9001\u5206\u6790\u7ED9\u5F00\u53D1\u8005\r\n\u663E\u793A\u5E27\u7387\uFF1A\u5728\u5C4F\u5E55\u5DE6\u4E0A\u65B9\u89D2\u663E\u793A\u4E00\u4E2A\u5E27\u7387\u8BA1\u6570\r\n\u6E38\u620F\u5E27\u6570\u4E0A\u9650\uFF1A\u7528\u4E8E\u8C03\u6574\u6700\u5927\u5E27\u6570\u4E0A\u9650\r\n\u9690\u85CF\u6B22\u8FCE\u7A97\u53E3\uFF1A\u9690\u85CF\u6BCF\u6B21\u8FDB\u5165\u6E38\u620F\u90FD\u4F1A\u5F39\u51FA\u7684\u7A97\u53E3\r\n\u2462\u5F00\u53D1\u8005-\u5F00\u53D1\u6A21\u5F0F\uFF1A\u5728\u53F3\u4E0A\u89D2\u663E\u793A\u4E0A\u5E1D\u6A21\u5F0F\u6309\u94AE\r\n\u7981\u7528\u5730\u56FE\u7EDF\u8BA1\uFF1A\u5982\u5176\u540D\uFF0C\u4F46\u4EC5\u5728\u5F00\u53D1\u6A21\u5F0F\u751F\u6548\u4E0B\u542F\u7528",
     "author": "ApexLite",
@@ -439,27 +509,32 @@
     "index": null,
     "versions": [
       {
+        "uuid": "c96d983ad9e74fc1b6f043c57d274aff",
         "gameversion": "0.22.x",
         "modVersion": "0.3.0beta",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.0beta-game0.22.x-20251203155840-5493508c/0.22.7%2B.Optime_0.3.0beta.NeoMod.zip"
       },
       {
+        "uuid": "ecbcaf9a3d93491fa3ab742eb04cf1d3",
         "gameversion": "0.50.x",
         "modVersion": "0.3.2pre",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.2pre-game0.50.x-20251203155844-bd971581/0.50.%2B.Optime_0.3.2-prerelease.zip"
       },
       {
+        "uuid": "e886c78431df4e508de79b8e6ea8e46c",
         "gameversion": "0.51.x",
         "modVersion": "0.3.2pre",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.2pre-game0.51.x-20251203155848-02ade205/0.50.%2B.Optime_0.3.2-prerelease.zip"
       }
     ]
   },
   {
-    "uuid": "a27e8c24f4504c4caa04d92dbeb6aff1",
     "mod": "Avb\u7684\u5BA1\u7F8E\u8C03\u6574\u6A21\u7EC4",
     "introduce": "\u2460\u6240\u6709\u751F\u7269\u548C\u7279\u6B8A\u5EFA\u7B51\u6DFB\u52A0\u4E86\u65B0\u7684\u6309\u94AE\u8FB9\u6846\uFF0C\u5982\uFF1A\u7ECF\u5178\u56DB\u65CF\u938F\u91D1\u6E10\u53D8\u8FB9\u6846\u3001\u8FDB\u5316\u751F\u7269\u6DF1\u7EA2\u8FB9\u6846\u3001\u6CD5\u5E08\u79D8\u94F6\u8FB9\u6846\u3001\u683C\u96F7\u91D1\u8272\u8FB9\u6846\u3001\u5EFA\u7B51\u94F6\u5236\u8FB9\u6846\u3001\u87F9\u65AF\u62C9\u7EA2\u8272\u8FB9\u6846\u4E14\u4E0D\u518D\u7070\u8D34\u56FE\u3001\u5851\u9020\u5730\u5F62\u7684\u751F\u7269(\u6253\u5370\u8681\u3001\u5176\u4ED6\u8681\u3001\u8815\u866B\u3001\u6C99\u6F20\u8718\u86DB)\u571F\u9EC4\u8272\u8FB9\u6846\r\n\u2461\u66F4\u6362\u5927\u90E8\u5206\u751F\u7269\u548C\u5176\u4ED6\u4E00\u4E9B\u8D34\u56FE\uFF0C\u5982\uFF1A\u6D77\u7EF5\u3001\u9570\u9550\u65A7\u9539\u3001\u4EEA\u5F0F\u8C0B\u5212\u3001\u52A0\u76DF\u8C0B\u5212\u3001(\u666E\u901A\u3001\u786B\u9178\u3001\u5CA9\u6D46)\u96E8\u4E91\u3001\u539F\u5B50\u5F39\u3001\u53CD\u7269\u8D28\u3001\u5EB7\u5A01\u3001\u70B8\u836F\r\n\u6A21\u7EC4\u9009\u9879\u53EF\u8C03\u6574\r\n\u201C\u666E\u901A\u52A8\u7269\u8C03\u6574\u201D-\u66F4\u6362\u666E\u901A\u52A8\u7269\u7684\u8D34\u56FE\uFF0C\u57FA\u672C\u4E0A\u53EA\u662F\u6539\u8272\uFF0C\u9ED8\u8BA4\u542F\u7528\r\n\u201C\u8FDB\u5316\u52A8\u7269\u8C03\u6574\u201D-\u66F4\u6362\u8FDB\u5316\u52A8\u7269\u7684\u8D34\u56FE\uFF0C\u57FA\u672C\u4E0A\u53EA\u662F\u6539\u8272",
     "author": "Avb",
@@ -470,21 +545,24 @@
     "index": null,
     "versions": [
       {
+        "uuid": "24cd203265d64833959c3cdc6af6a121",
         "gameversion": "0.50.x",
         "modVersion": "1.25",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.25-game0.50.x-20251203160304-e6df7511/0.50.6%2BAvb._1.25.zip"
       },
       {
+        "uuid": "5881f72c43ae4acca9619c8e57395d3f",
         "gameversion": "0.51.x",
         "modVersion": "1.3",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3-game0.51.x-20251203160310-a34d589b/0.51.%2BAvb._1.3.zip"
       }
     ]
   },
   {
-    "uuid": "e1a61a9e30d344ea9b262690bdbee2b7",
     "mod": "\u690D\u7269\u5927\u6218\u50F5\u5C38\u6A21\u7EC4PVZmod",
     "introduce": "\u2460\u539F\u7248PVZ\uFF1A\u6DFB\u52A0\u4E86\u4E00\u4EE3\u690D\u7269\u548C\u50F5\u5C38\u4EE5\u53CA\u5C11\u91CF\u4E8C\u4EE3\u690D\u7269\uFF1B\u7838\u7F50\u3001\u5893\u7891\u3001\u8FF7\u96FE\u3001\u591C\u665A\u3001\u575A\u679C\u4FDD\u9F84\u7403\uFF1B\u5728\u680F\u5185\u70B9\u51FB\u201CPVZ\u6A21\u5F0F\u201D\u53EF\u4EE5\u6E38\u73A9\u4E00\u4EE3\u5192\u9669\u548C\u90E8\u5206\u8FF7\u4F60\u6E38\u620F\r\n\u2461\u50F5\u5C38\u4E0E\u690D\u7269\uFF1A\u667A\u6167\u79CD\u65CF\u6709\u201C\u667A\u6167\u50F5\u5C38\u201D(\u5BF9\u5E94Boss\u65E0\u754F\u8005\u673A\u7532)\u3001\u201C\u4EA1\u7075\u50F5\u5C38\u201D(\u5BF9\u5E94Boss\u4EA1\u7075\u6CD5\u5E08)\u3002\u690D\u7269\u867D\u7136\u6CA1\u6709\u667A\u6167\u79CD\u65CF\uFF0C\u4F46\u53EF\u4EE5\u9760\u7ED9\u690D\u7269\u79D1\u6280(\u6216\u8005\u690D\u7269\u6CD5\u5219\u91CC\u5141\u8BB8\u6587\u660E\u5236\u9020)\u7684\u65B9\u5F0F\u8BA9\u5176\u4ED6\u667A\u6167\u79CD\u65CF\u7814\u7A76\u3001\u653E\u7F6E\u690D\u7269\u3002\u8FD8\u6709\u5F69\u86CB\u79CD\u65CF\u6234\u592B\u53CA\u4ED6\u7684\u75AF\u72C2\u79D1\u6280\r\n\u2462\u8DA3\u5473\u6269\u5C55\uFF1A\u50F5\u5C38\u548C\u690D\u7269\u6CD5\u5219\u91CC\u7684\u5854\u9632\u6A21\u5F0F\u3001\u50F5\u5C38\u6CD5\u5219(\u50F5\u5C38\u5165\u4FB5\u3001\u751F\u6210\u5893\u7891\u3001\u6A2A\u5411\u50F5\u5C38\u7B49)\u3001\u690D\u7269\u6CD5\u5219(\u968F\u673A\u5B50\u5F39\u3001\u8DDF\u8E2A\u5B50\u5F39\u3001\u6A2A\u5411\u690D\u7269\u7B49)\u3001\u5DE5\u5177(\u6ED1\u52A8\u5730\u5757\u3001\u80FD\u91CF\u8C46\u3001\u9524\u5B50\u3001\u56ED\u827A\u624B\u5957\u7B49)\u3001\u5F69\u86CB\u5185\u5BB9\r\n\u2463\u5176\u4ED6\uFF1A\u57FA\u4E8E\u4E0A\u8FF0\u5185\u5BB9\u6DFB\u52A0\u4E86\u7279\u8D28\u3001\u88C5\u5907\u3001\u8D44\u6E90\u3001\u6210\u5C31\r\n\u66F4\u65B0\u65E5\u5FD7\u8BE6\u89C1\u6A21\u7EC4\u680F\u4E2D\u8BF4\u660E",
     "author": "\u7D20\u548C\u665F\u777F\u5BD2\u6D77",
@@ -496,15 +574,16 @@
     "index": null,
     "versions": [
       {
+        "uuid": "d3e93824be5542acb5a7c710806fbfef",
         "gameversion": "0.14.x",
         "modVersion": "0.9.18",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.9.18-game0.14.x-20251205071153-a66da017/PVZmod0.9.18.zip"
       }
     ]
   },
   {
-    "uuid": "8064809c636d4c01a687c23bfdb3f942",
     "mod": "\u65F6\u5149\u56DE\u6EAF\u76D2ReplayBox",
     "introduce": "\u2460\u8BB0\u5F55\u5FEB\u7167\uFF1A\u6BCF15\u79D2\u8FDB\u884C\u5FEB\u7167\u81EA\u52A8\u4FDD\u5B58\uFF0C\u4EC5\u4FDD\u5B58\u6700\u8FD1\u7684120\u6B21\u5FEB\u7167\uFF0C\u91CD\u542F\u6E38\u620F\u540E\u9057\u7559\u5FEB\u7167\u4F1A\u88AB\u6E05\u9664(\u6240\u63D0\u53CA\u6570\u5B57\u5747\u53EF\u5728\u6A21\u7EC4\u8BBE\u7F6E\u8C03\u6574)\r\n\u2461\u5206\u652F\u65F6\u95F4\uFF1A\r\n[Shift] \u002B [\u2190]\uFF1A\u56DE\u9000\u81F3\u4E0A\u4E00\u4E2A\u5FEB\u7167\r\n[Shift] \u002B [\u2192]\uFF1A\u5FEB\u8FDB\u81F3\u4E0B\u4E00\u4E2A\u5FEB\u7167\r\n[Shift] \u002B [\u2191/\u2193]\uFF1A\u8DF3\u8DC3\u81F31\u5206\u949F\u524D/\u540E\r\n[Shift] \u002B [X]\uFF1A\u663E\u793A/\u9690\u85CF\u56DE\u6EAF\u6A21\u5F0F\u4E0B\u7684\u8B66\u544A\r\n[Shift] \u002B [Enter]\uFF1A\u4FEE\u6539\u5F53\u524D\u5FEB\u7167(\u521B\u5EFA\u65B0\u65F6\u95F4\u7EBF)\r\n(\u6A21\u7EC4\u5217\u8868\u4E2D\u627E\u5230\u6B64\u6A21\u7EC4\u7136\u540E\u70B9\u51FB\u53F3\u4FA7\u9F7F\u8F6E\u53EF\u89C1\u6A21\u7EC4\u8BBE\u7F6E)",
     "author": "markami#5286",
@@ -516,9 +595,11 @@
     "index": null,
     "versions": [
       {
+        "uuid": "c74b189fb110405eaea597b7fb2594d2",
         "gameversion": "0.51.x",
         "modVersion": "0.0.2",
         "size": null,
+        "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.2-game0.51.x-20251205071707-dece7e2c/0.51.%2B.ReplayBox._0.0.2.zip"
       }
     ]
