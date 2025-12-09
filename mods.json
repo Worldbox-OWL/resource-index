@@ -726,6 +726,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.21.x-20251209083157-42c1a587/0.21.%2B.1.0.0.zip"
+      },
+      {
+        "uuid": "14c70b7281f54ca2b3f079ca88804f67",
+        "gameversion": "0.22.x",
+        "modVersion": "1.0.1",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.1-game0.22.x-20251209083202-8ec6e750/0.22.%2B._1.0.1.zip"
       }
     ]
   }
