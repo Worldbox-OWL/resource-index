@@ -192,6 +192,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.0.0-game0.22.x-20251203140227-e0432c6d/0.22.%2B.SHAuxmod_2.0.0.zip"
+      },
+      {
+        "uuid": "f553b96b96394a3abb302da3b0b67e43",
+        "gameversion": "0.21.x",
+        "modVersion": "1.0.1",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.1-game0.21.x-20251209080225-cc170b98/SHAuxmod1.0.1.zip"
       }
     ]
   },
