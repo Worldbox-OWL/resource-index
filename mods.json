@@ -820,5 +820,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4.0-game0.51.x-20251209090604-41922e7c/0.51.%2B.RulerBox._0.4.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u79CD\u65CF\u517C\u5BB9\u6027\u4FEE\u590DBuildingRaceFix",
+    "introduce": "\u8BA9\u6A21\u7EC4\u7684\u79CD\u65CF\u80FD\u6709\u66F4\u597D\u7684\u517C\u5BB9\u6027\uFF0C\u5982\u73B0\u4EE3\u5316\u76D2\u3001\u539F\u7248\u6269\u5C55\u6DFB\u52A0\u7684\u5EFA\u7B51\u4F1A\u5BFC\u81F4\u79CD\u65CF\u521B\u5EFA\u56FD\u5BB6\u540E\u76F4\u63A5\u88AB\u6467\u6BC1",
+    "author": "Keymasterer",
+    "preview": null,
+    "tag": [
+      "Bug\u4FEE\u590D",
+      "\u5FC5\u5907"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "3ab620145b3d44f4a64ab36c09be7118",
+        "gameversion": "0.22.x",
+        "modVersion": "1.1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0-game0.22.x-20251209101016-3449049e/0.22.7%2B.BuildingRaceFix_1.1.0.NeoMod.zip"
+      }
+    ]
   }
 ]
