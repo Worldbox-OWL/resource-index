@@ -800,6 +800,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.2-game0.21.x-20251209090553-1ebd9eba/0.21.%2B.rulerbox.boki._0.2.zip"
+      },
+      {
+        "uuid": "fd2098daeeda4274893375459b028ece",
+        "gameversion": "0.22.x",
+        "modVersion": "0.0.3",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.3-game0.22.x-20251209090558-8edc84ba/0.22.%2B.RulerBox._0.0.3.zip"
       }
     ]
   }
