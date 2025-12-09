@@ -773,5 +773,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.8.1-game0.22.x-20251209084359-591fc1df/0.22.7%2BDej.CollectionMod._0.8.1beta.zip"
       }
     ]
+  },
+  {
+    "mod": "\u7EDF\u6CBB\u8005\u76D2RulerBox",
+    "introduce": "\u2460\u7EDF\u6CBB\u6A21\u62DF\uFF1A\u9F20\u6807\u60AC\u505C \u002B [K] \u9009\u62E9\u738B\u56FD\u8FDB\u884C\u6A21\u62DF\uFF0C\u5C4F\u5E55\u4E0A\u65B9\u4F1A\u51FA\u73B0\u6A2A\u680F\uFF0C\u663E\u793A\u56FD\u65D7\u3001\u7ECF\u6D4E\u3001\u4EBA\u53E3\u3001\u4EBA\u529B\u3001\u5916\u60A3\u3001\u5185\u5FE7\uFF0C\u70B9\u51FB\u56FD\u65D7\u5F00\u5173\u4E3B\u9762\u677F\uFF0C\u5176\u4ED6\u53EA\u80FD\u60AC\u505C\u663E\u793A\r\n\u2461\u4E3B\u9762\u677F\uFF1A\u5916\u4EA4\u663E\u793A\u540C\u76DF\u4E0E\u654C\u5BF9\u56FD\uFF0C\u5DE6\u4E0B\u89D2\u641C\u7D22\u56FD\u5BB6\u548C\u56FD\u5BB6\u5217\u8868\uFF0C\u53F3\u4E0B\u89D2\u6CD5\u5F8B\u5B98\u5458\u653F\u7B56\u6392\u540D\uFF1B\u7ECF\u6D4E\u663E\u793A\u6536\u5165\u652F\u51FA\u3001\u53EF\u4EE5\u8BBE\u7F6E\u5F00\u9500\u3001\u653E\u7F6E\u5EFA\u7B51\u3001\u8D38\u6613\u8D44\u6E90\r\n\u2462\u968F\u673A\u4E8B\u4EF6\uFF1A\u6709\u8FDB\u884C\u7EDF\u6CBB\u6A21\u62DF\u540E\uFF0C\u6BCF\u4E09\u5206\u949F\u4F1A\u5728\u7A97\u53E3\u5DE6\u4E0B\u89D2\u51FA\u73B0\u611F\u53F9\u53F7\uFF0C\u4EE3\u8868\u968F\u673A\u4E8B\u4EF6\uFF0C\u6709\u5916\u4EA4\u5185\u653F\u8D44\u6E90\u4EA4\u6613\u761F\u75AB\u7B49\r\n\u26A0\u79D1\u6280\u9875\u5E76\u672A\u5B8C\u5DE5",
+    "author": "markami#5286",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251209/407ecf4890b542bc899ca45759e709b8.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u786C\u7F16\u7801\u6C49\u5316"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "1207cd0c5c964ac395861aa603594e0a",
+        "gameversion": "0.14.x",
+        "modVersion": "0.0.1",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.1-game0.14.x-20251209090547-61e851c8/0.14.%2B.Rulerbox.zip"
+      }
+    ]
   }
 ]
