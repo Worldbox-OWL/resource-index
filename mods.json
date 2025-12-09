@@ -863,6 +863,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.1-game0.14.x-20251209101528-5291425e/0.14.3.map.makers1.0.1.zip"
+      },
+      {
+        "uuid": "64aa27cd6e3c4c56b85abe29db54fa02",
+        "gameversion": "0.22.x",
+        "modVersion": "1.0.2",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.2-game0.22.x-20251209101535-9a5981c3/0.22.%2B.MapMakersMod._1.0.2.zip"
       }
     ]
   }
