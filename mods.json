@@ -808,6 +808,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.3-game0.22.x-20251209090558-8edc84ba/0.22.%2B.RulerBox._0.0.3.zip"
+      },
+      {
+        "uuid": "aced451903f646a6833f3e19b749b269",
+        "gameversion": "0.51.x",
+        "modVersion": "0.4.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4.0-game0.51.x-20251209090604-41922e7c/0.51.%2B.RulerBox._0.4.0.zip"
       }
     ]
   }
