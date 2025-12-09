@@ -755,6 +755,14 @@
         "size": null,
         "variant": "\u4E0D\u542B\u7FA4\u7CFB",
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.6.9-game0.22.x-20251209084215-d3422d9b/0.22.%2BDej.CollectionMod_0.6.9.zip"
+      },
+      {
+        "uuid": "edffd06fb5d24d94a4960cc74bd45fb4",
+        "gameversion": "0.21.x",
+        "modVersion": "0.6.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.6.0-game0.21.x-20251209084230-6ec100b0/0.21.%2BDej.CollectionMod_0.6.0.zip"
       }
     ]
   }
