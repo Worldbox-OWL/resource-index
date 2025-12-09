@@ -900,6 +900,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.7.2-game0.22.x-20251209103442-f6c7c380/0.22.%2B.NarutoBox_0.7.2.zip"
+      },
+      {
+        "uuid": "608d36afdf564fb7afb7d6444aa0ee81",
+        "gameversion": "0.50.x",
+        "modVersion": "1.1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0-game0.50.x-20251209103502-acbb444b/0.50.5%2B.NarutoBox_1.1.0.zip"
       }
     ]
   }
