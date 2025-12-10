@@ -1013,6 +1013,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3fix-game0.50.x-20251210165012-ff05213b/0.50.%2B.NaturalTraits_1.3fix.zip"
+      },
+      {
+        "uuid": "4eef7d62b4fa4b1eb95b6c7778234199",
+        "gameversion": "0.51.x",
+        "modVersion": "1.3fix",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3fix-game0.51.x-20251210165025-5de115f5/0.50.%2B.NaturalTraits_1.3fix.zip"
       }
     ]
   }
