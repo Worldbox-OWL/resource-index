@@ -976,6 +976,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.4-game0.50.x-20251210164441-7abc4d38/0.50.5%2BDarkie._1.0.4.zip"
+      },
+      {
+        "uuid": "ba1f6e97bdcf4613be163ee071965aa4",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.8",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.8-game0.51.x-20251210164459-bbab6385/0.51.%2BDarkie._1.0.8.zip"
       }
     ]
   }
