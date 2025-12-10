@@ -1023,5 +1023,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3fix-game0.51.x-20251210165025-5de115f5/0.50.%2B.NaturalTraits_1.3fix.zip"
       }
     ]
+  },
+  {
+    "mod": "\u7B80\u5355\u6C49\u5316\u6A21\u7EC4\u4FEE\u6B63",
+    "introduce": "\u4E00\u7C73\u5927\u4F6C\u5199\u5B8C\u6A21\u7EC4\u540E\u501F\u52A9deepseekv3\u4E3A0.50\u7248\u672C\u7FFB\u8BD1\u4E86\u65B0\u5185\u5BB9\uFF0C\u540E\u7EED\u66F4\u65B0\u4E3A\u6C49\u5316\r\n\u26A0\u6B64\u6A21\u7EC4\u4EC5\u4E3A\u6E38\u620F\u5185\u53EF\u7FFB\u8BD1\u5185\u5BB9\u8FDB\u884C\u6C49\u5316\uFF0C\u5E76\u4E0D\u6D89\u53CA\u540D\u5B57\u548C\u5176\u4ED6\u6A21\u7EC4\u5185\u5BB9\u3002\u6BCF\u6B21\u5C0F\u66F4\u65B0\u90FD\u4F1A\u5173\u95ED\u6E38\u620F\u4E2D\u7684\u5B9E\u9A8C\u6A21\u5F0F\uFF0C\u8BF7\u81EA\u884C\u67E5\u770B",
+    "author": "\u4E00\u7C73,\u534A\u68A6\u534A\u9192",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251210/75671d2498fe4c49ac61a9cf44d7e9e1.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u4F53\u9A8C\u4F18\u5316",
+      "Bug\u4FEE\u590D",
+      "\u5FC5\u5907"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "ef93e64413b04f19ac1d49c66b15a7b7",
+        "gameversion": "0.50.x",
+        "modVersion": "1.0.8",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.8-game0.50.x-20251210165305-36e84e56/0.50.%2B._1.0.8.zip"
+      }
+    ]
   }
 ]
