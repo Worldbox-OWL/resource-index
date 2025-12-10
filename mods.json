@@ -1119,5 +1119,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.7-game0.22.x-20251210171116-84d9554f/0.22.%2B.MapSizes._0.0.7.zip"
       }
     ]
+  },
+  {
+    "mod": "\u8D85\u7EA7RPG\uFF1A\u63A7\u5236\u5C0F\u4EBA\u6A21\u7EC4(\u6C49\u5316,\u4FEE\u6539)",
+    "introduce": "\u2460\u63A7\u5236\uFF1A\u9F20\u6807\u60AC\u505C\u5230\u751F\u7269\u4E0A\u6309F\u952E\uFF0C\u7136\u540E\u6309\u83DC\u5355\u91CC\u7684\u201C\u63A7\u5236\u201D\u5373\u53EF;\u7ED3\u675F\u63A7\u5236\u540C\u6837\u5BF9\u5176\u70B9\u51FBF\u952E\uFF0C\u6309\u201C\u7ED3\u675F\u63A7\u5236\u201D\r\n\u2461\u5EFA\u9020\uFF1A\u63A7\u5236\u5C0F\u4EBA\u540E\u6309F2\u952E\u6216\u8005B\u952E\u6253\u5F00\u201C\u5EFA\u8BBE\u754C\u9762\u201D\uFF0C\u53EF\u4EE5\u653E\u7F6E\u5EFA\u7B51\u548C\u65B0\u589E\u88C5\u9970\u54C1(\u5982\u57CE\u5899\u3001\u6C99\u6EE9\u6905\uFF0C\u53EA\u80FD\u81EA\u5DF1\u653E\u7F6E)\r\n\u2462\u80CC\u5305\uFF1A\u6309Tab\u952E\u6216I\u952E\uFF0C\u98DF\u7269\u53EF\u76F4\u63A5\u98DF\u7528;\u5EFA\u9020\u6240\u9700\u6750\u6599\u9700\u91C7\u96C6\r\n\u26A0\u672C\u6A21\u7EC4\u952E\u4F4D\u548Cbug\u8F83\u591A\uFF0C\u5B89\u88C5\u540E\u53EF\u6253\u5F00\u5BF9\u5E94\u6A21\u7EC4\u76EE\u5F55\u67E5\u770B\u8BE6\u7EC6\u60C5\u51B5",
+    "author": "Cody",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251210/597f0f35ef284f26ace1eb08da05a09f.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u786C\u7F16\u7801\u6C49\u5316"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "c5961990c780408b8855f76a9b06dbc2",
+        "gameversion": "0.22.x",
+        "modVersion": "1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.22.x-20251210172134-58157f01/0.22.%2BSuperRPG_1.0.zip"
+      }
+    ]
   }
 ]
