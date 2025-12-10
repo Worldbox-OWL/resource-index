@@ -986,5 +986,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.8-game0.51.x-20251210164459-bbab6385/0.51.%2BDarkie._1.0.8.zip"
       }
     ]
+  },
+  {
+    "mod": "\u81EA\u7136\u7279\u8D28NaturalTraits",
+    "introduce": "\u2460\u6DFB\u52A0\u4E86221\u4E2A\u7279\u8D28\uFF0C\u5171\u5206\u4F18\u826F\u3001\u4E0D\u826F\u3001\u7CBE\u54C1\u3001\u7CBE\u795E\u75BE\u75C5\u3001\u8EAB\u578B5\u4E2A\u7279\u8D28\u7EC4\r\n\u26A0\u534A\u6210\u54C1\uFF0C0.22\u5E26\u6709\u7684\u72B6\u6001\u6548\u679C\u5E76\u672A\u5B8C\u6210",
+    "author": "Politano23",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251210/9769716b0b474af3b050cdf8aebdcc92.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "71145a08876045c7926060b5925dd47f",
+        "gameversion": "0.22.x",
+        "modVersion": "1.2",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2-game0.22.x-20251210165001-da7dabb2/0.22.%2B.NaturalTraits_1.2.zip"
+      }
+    ]
   }
 ]
