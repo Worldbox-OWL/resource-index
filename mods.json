@@ -1090,5 +1090,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.3-game0.22.x-20251210170801-ba655c44/0.22.7%2B.BeatBack_1.0.3.zip"
       }
     ]
+  },
+  {
+    "mod": "\u968F\u673A\u5730\u56FE\u751F\u6210\u6A21\u7EC4MapSizes",
+    "introduce": "\u2460\u53F3\u4E0A\u89D2\u4F1A\u591A\u51FA\u4E00\u4E2AMapSizes\u7684\u6309\u94AE\uFF0C\u70B9\u51FB\u540E\u4F1A\u591A\u51FA\u4E00\u4E2A\u9762\u677F\uFF0C\u53EF\u4EE5\u9009\u62E9\u968F\u673A\u751F\u6210\u7684\u4E00\u4E9B\u7EC6\u8282\r\n\u2461\u7C7B\u578B\u5173\u952E\u8BCD\uFF1Acontinent(\u5927\u9646)\u3001box_world(\u76D2\u4E2D\u4E16\u754C)\u3001island(\u5C9B\u5C7F)\u3001boring_plains(\u65E0\u804A\u5E73\u539F)\u3001donut(\u751C\u751C\u5708)\u3001toast(\u9762\u5305\u7247)\u3001pancake(\u70ED\u9999\u997C)\u3001dormant_volcano(\u6B7B\u706B\u5C71)\u3001cheese(\u5E72\u916A)\u3001bad_apple(\u574F\u82F9\u679C)\u3001anthill(\u8681\u7A74)\u3001chaos_pearl(\u6DF7\u6C8C\u4E4B\u73E0)\u3001chaos_lasagna(\u6DF7\u6C8C\u5343\u5C42\u9762)\u3001checkerboard(\u68CB\u76D8)\u3001cubicles(\u9694\u95F4)\u3001empty(\u7A7A\u767D)\r\n\u26A0\u6B64\u6A21\u7EC4\u751F\u6210\u5730\u56FE\u65F6\u53EF\u80FD\u4F1A\u5361\u987F\u7247\u523B\uFF0C\u4E0D\u7528\u7740\u6025",
+    "author": "Cody",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251210/d0515dd6ff364265a2e21dfc98d72dc2.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u786C\u7F16\u7801\u6C49\u5316"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "0dae3bb508a145cfabc341b1fef79a4d",
+        "gameversion": "0.14.x",
+        "modVersion": "0.0.5",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.5-game0.14.x-20251210171106-1e48fc62/0.14.%2B.MapSizes._0.0.5.zip"
+      }
+    ]
   }
 ]
