@@ -1109,6 +1109,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.5-game0.14.x-20251210171106-1e48fc62/0.14.%2B.MapSizes._0.0.5.zip"
+      },
+      {
+        "uuid": "54e422cf8c504c36ac8db4d0d4f83e95",
+        "gameversion": "0.22.x",
+        "modVersion": "0.0.7",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.7-game0.22.x-20251210171116-84d9554f/0.22.%2B.MapSizes._0.0.7.zip"
       }
     ]
   }
