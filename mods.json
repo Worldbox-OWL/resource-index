@@ -1140,5 +1140,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.22.x-20251210172134-58157f01/0.22.%2BSuperRPG_1.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u8BF7\u52FF\u89E6\u78B0\u5168\u89E3\u9501",
+    "introduce": "\u201C\u8BF7\u52FF\u89E6\u78B0\u201D\u7C7B\u7279\u8D28\u5141\u8BB8\u6DFB\u52A0/\u79FB\u9664\r\n\u53D8\u66F4\u7279\u8D28\u65F6\u4F1A\u81EA\u52A8\u79FB\u9664\u201C\u5723\u75D5\u201D",
+    "author": "\u5EB7\u5EB7",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/9ef23bcacf174ad5b9f0e8373c996615.png",
+    "tag": [
+      "\u8F85\u52A9\u6A21\u7EC4",
+      "\u5FC5\u5907",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "3bd6bbc06c7d4a2fbbbd6d0965b18f78",
+        "gameversion": "0.50.x",
+        "modVersion": "1.1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0-game0.50.x-20251211054936-23c2227b/0.50.%2B._1.1.0.zip"
+      }
+    ]
   }
 ]
