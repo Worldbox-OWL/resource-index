@@ -792,5 +792,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x10-game0.14.x-20251211180602-b3d3474f/_13x10.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5927\u851A\u5E1D\u56FD",
+    "introduce": "",
+    "author": "\u5927\u851A\u5929",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/836e527588684bc69a97605a045aab5e.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u7CBE\u54C1\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "7f895ec7039e44f29a430ab040a8a298",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "20x13",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x13-game0.22.x-20251211180823-8c7236ad/_20x13.zip"
+      }
+    ]
   }
 ]
