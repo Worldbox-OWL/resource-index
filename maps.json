@@ -588,6 +588,14 @@
         "size": "14x14(\u5168\u8C8C)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14x14%28%E5%85%A8%E8%B2%8C%29-game0.22.x-20251211171257-822b26b1/_14x14.Kotowski.zip"
+      },
+      {
+        "uuid": "18bb4383b2784e2080d234c3abbc348a",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "20x11(\u4E1C\u897F)",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x11%28%E4%B8%9C%E8%A5%BF%29-game0.22.x-20251211171303-07aa1079/_20x11.Kotowski.zip"
       }
     ]
   }
