@@ -885,5 +885,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14x7%28%E7%A0%B4%E7%A2%8E%E7%BA%AA%E5%85%83%29-game0.22.x-20251211182750-adb047d8/LOL.-._14x7.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6697\u9ED1\u7834\u574F\u795E\uFF1A\u5E87\u62A4\u4E4B\u5730",
+    "introduce": "",
+    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/51890a3fe3e94f9aab90031dd539765c.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u4E16\u754C\u5730\u56FE",
+      "\u6D77\u5CE1",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "85027adb64124b429c928876e0080df8",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "28x18(\u65E0\u8272)",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v28x18%28%E6%97%A0%E8%89%B2%29-game0.22.x-20251211183520-11d36aac/_28x18.zip"
+      }
+    ]
   }
 ]
