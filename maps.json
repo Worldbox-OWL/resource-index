@@ -144,14 +144,6 @@
     "index": null,
     "versions": [
       {
-        "uuid": "bef146a6cfee49b5a21c67bb0eacf554",
-        "gameversion": "0.22.x",
-        "modVersion": null,
-        "size": "18x18",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v18x18-game0.22.x-20251204085204-952bd859/_18x18.Ovo.a.zip"
-      },
-      {
         "uuid": "483a5752ff0d490b8b14b6d438659edf",
         "gameversion": "0.14.x",
         "modVersion": null,
