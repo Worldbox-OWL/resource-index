@@ -728,5 +728,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v30x20%28%E8%A1%8C%E6%94%BF%29-game0.22.x-20251211175338-5949da47/_30x20.zip"
       }
     ]
+  },
+  {
+    "mod": "\u83AB\u5F97",
+    "introduce": "",
+    "author": "\u6D1B\u5FB7\u6797",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/cba2416be4e94760b4785637934d9806.png",
+    "tag": [
+      "\u4E16\u754C\u5730\u56FE",
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u7CBE\u54C1\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "6359dd072f464a939a5453e09d2e19ca",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "12x12",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x12-game0.14.x-20251211180228-b83e5d24/_12x12.zip"
+      }
+    ]
   }
 ]
