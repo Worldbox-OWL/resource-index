@@ -1124,6 +1124,14 @@
         "size": "7x18(\u6708)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v7x18%28%E6%9C%88%29-game0.14.x-20251212055502-26f1e3a3/_7x18.Ingwe.Ingweron.zip"
+      },
+      {
+        "uuid": "3819925f8043458a9eaa1f706b1d6c32",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "10x19(\u65E5\u4E4B\u5317)",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v10x19%28%E6%97%A5%E4%B9%8B%E5%8C%97%29-game0.14.x-20251212055514-7e6aecba/_10x19.Ingwe.Ingweron.zip"
       }
     ]
   }
