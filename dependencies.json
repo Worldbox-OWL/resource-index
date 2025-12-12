@@ -106,5 +106,23 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.2.0.1-game0.51.x-20251204203913-ce9ba98f/NeoModLoader_1.2.0.1.0.51.%2B.zip"
       }
     ]
+  },
+  {
+    "mod": "ncms1.7.0",
+    "introduce": "",
+    "author": "-",
+    "preview": null,
+    "tag": [],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "e594afcfc6974b0b958710417112c9cc",
+        "gameversion": "0.14.3",
+        "modVersion": "1.7.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.7.0-game0.14.3-20251212132235-95c43a6c/ncms1.7.0.zip"
+      }
+    ]
   }
 ]
