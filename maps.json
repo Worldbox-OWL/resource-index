@@ -980,5 +980,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x9-game0.14.x-20251212052719-e34b8c7e/_20x9.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5927\u8352\u57DF",
+    "introduce": "",
+    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251212/9da4a7ad0e5b4c9bb0da2a664926a6fd.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u7ACB\u4F53\u6A21\u62DF"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "f3f4b3c9d298444b851f4d8b0c3ebd54",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "20x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x9-game0.14.x-20251212052821-8a69bb9e/_20x9.zip"
+      }
+    ]
   }
 ]
