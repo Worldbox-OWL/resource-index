@@ -1487,6 +1487,14 @@
         "size": null,
         "variant": "\u79FB\u9664\u5165\u4FB5",
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.3-game0.22.x-20251213182747-74c4ffce/0.22.%2B.IsekaiWorld._0.0.3.zip"
+      },
+      {
+        "uuid": "c7692fc2138c44358b1729d53f657819",
+        "gameversion": "0.22.x",
+        "modVersion": "0.0.3",
+        "size": null,
+        "variant": "\u4FDD\u7559\u5165\u4FB5",
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.3-game0.22.x-20251213182803-7baac64c/0.22.%2B.IsekaiWorld._0.0.3.zip"
       }
     ]
   }
