@@ -1654,5 +1654,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.7-game0.22.x-20251213185323-11782d88/0.21.%2B.MoBox._0.1.7.zip"
       }
     ]
+  },
+  {
+    "mod": "\u673A\u68B0\u6218\u4E89MachinesWars",
+    "introduce": "\u26A0\u672C\u6A21\u7EC4\u6682\u672A\u63D0\u4F9B\u5DE5\u5177\u680F\uFF0C\u6240\u4EE5\u4EE5\u4E0B\u5185\u5BB9\u4E0D\u80FD\u76F4\u63A5\u653E\u7F6E\r\n\u2460\u8FC7\u6E21\u65F6\u4EE3\uFF1A\u653B\u57CE\u8BBE\u5907(\u653B\u57CE\u6295\u77F3\u673A\u3001\u51B2\u950B\u6218\u8F66\u3001\u6218\u6597\u8FEB\u51FB\u70AE\u7B49)\uFF1B\u5668\u68B0(\u5766\u514B\u516D\u7C7B\uFF0C\u98DE\u673A\u4E24\u7C7B)\r\n\u2461\u673A\u5668\u4EBA\u65F6\u4EE3\uFF1A\u4F3D\u9A6C(\u4E94\u79CD)\u3001\u5FB7\u5C14\u5854(\u4E94\u79CD)\u3001\u6B27\u7C73\u4F3D(\u4E94\u79CD)\u3001\u79D1\u7279\u65AF(\u4E94\u79CD)\u3001\u6CFD\u5854(\u4E94\u79CD)\u3001\u5965\u5E03\u56FE\u5C3C(\u4E94\u79CD)\u3001\u8D85\u80FD(\u4E94\u79CD)\u3001\u5E87\u62A4(\u4E24\u79CD)\u4EE5\u53CA\u4E00\u4E9B\u4E9A\u673A\u5668\u4EBA(\u6218\u6597\u76D8\u3001\u673A\u7532\u70AE)\uFF0C\u7279\u5B9A\u673A\u5668\u4EBA\u7C7B\u578B\u62E5\u6709\u989D\u5916\u589E\u5E45\r\n\u2462\u8FD8\u6DFB\u52A0\u4E86\u4E00\u79CD\u65B0\u77FF\u7269\u6FC0\u77F3\u53EF\u7528\u4E8E\u5236\u4F5C\u88C5\u5907\u3002\u542B34\u4EF6\u88C5\u5907\u548C28\u4EF6\u6B66\u5668(\u8FD1\u6218\u3001\u67AA\u68B0\u3001\u672A\u6765)",
+    "author": "ThePolitano_21",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/96083d28b6f14779bcdb43c29bba0633.png",
+    "tag": [
+      "\u8FD1\u73B0\u4EE3\u79D1\u6280",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "48c7f62c464d436ea026866428ccf81c",
+        "gameversion": "0.22.x",
+        "modVersion": "0.4",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4-game0.22.x-20251213185655-9da6e63c/0.22.%2B.MachinesWars_0.4.zip"
+      }
+    ]
   }
 ]
