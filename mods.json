@@ -1439,5 +1439,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.3-game0.22.x-20251213175612-3b9e1557/0.22.%2B.Noble.s.Life_0.0.3.zip"
       }
     ]
+  },
+  {
+    "mod": "\u65B0\u6218\u4E89\u827A\u672F",
+    "introduce": "\u5C06\u539F\u7248\u201C\u6307\u6325\u201D\u3001\u201C\u5916\u4EA4\u201D\u3001\u201C\u7EC4\u7EC7\u201D\u5206\u522B\u63D0\u4F9B\u201C\u6218\u4E89\u201D\u3001\u201C\u548C\u5E73\u201D\u3001\u201C\u7EDF\u6CBB\u201D\u7279\u8D28\u5E8F\u5217\u5BF9\u5E94\uFF0C\u5404\u5E8F\u5217\u6700\u9AD86\u7EA7\uFF0C\u4E3B\u8981\u6839\u636E\u540E\u5929\u52AA\u529B\u5347\u7EA7\u5E8F\u5217\u53F7",
+    "author": "\u661F\u66DC,\u7384\u5B50",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/8fab7b27f9a54fcca03fae8841b02106.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "db219931e24f47149af6f0ef2a256efb",
+        "gameversion": "0.14.x",
+        "modVersion": "1.2.1.8",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.1.8-game0.14.x-20251213180048-628a4392/0.14.%2B.Art.of.War_1.2.1.8.zip"
+      }
+    ]
   }
 ]
