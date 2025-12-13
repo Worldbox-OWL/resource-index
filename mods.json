@@ -1270,5 +1270,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0.0-game0.22.x-20251213171946-05de1e0a/0.22.%2B.DVS.Fix_1.0.0.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u67AA\u68B0\u5F55GunsmithBook",
+    "introduce": "\u2460\u6DFB\u52A0\u4E8663\u628A\u8FD1\u4EE3\u67AA\u68B0(\u5F29\u3001\u706B\u94F3\u3001\u8F6C\u8F6E\u67AA\u3001\u71E7\u53D1\u67AA\u3001\u706B\u5E3D\u67AA\u3001\u96F7\u7BA1\u67AA\u7B49)\u53CA2\u4E2A\u70B8\u5F39(\u571F\u70B8\u5F39\u3001\u70B8\u836F)\uFF0C\u9700\u8981\u83B7\u5F97\u5BF9\u5E94\u6587\u660E\u77E5\u8BC6\u624D\u80FD\u5728\u5DE5\u574A\u91CC\u5236\u9020\r\n\u2461\u83B7\u5F97\u77E5\u8BC6\u53EF\u4EE5\u5EFA\u9020\u5BF9\u5E94\u67AA\u68B0\u7C7B\u578B\u7684\u70AE\u53F0(\u706B\u94F3\u70AE\u53F0\u3001\u71E7\u53D1\u70AE\u53F0\u3001\u71E7\u53D1\u9F50\u5C04\u67AA\u53F0\u3001\u52A0\u7279\u6797\u67AA\u53F0\u3001\u5BFC\u5F39\u70AE\u53F0)\u3002\u7279\u6B8A\u7684\uFF0C\u83B7\u5F97\u201C\u53D1\u5C04\u88C5\u7F6E\u201D\u77E5\u8BC6\u5219\u53EF\u4EE5\u5BFC\u5F39\u70AE\u53F0\r\n\u76F8\u8F83\u4E8E\u5176\u4ED6\u67AA\u68B0\u6A21\u7EC4\u8F83\u4E3A\u548C\u539F\u7248\u5E73\u8861\r\n\u26A0\u6B63\u5E38\u6765\u8BF4\u4E0D\u4F1A\u83B7\u5F97\u201C\u53D1\u5C04\u88C5\u7F6E\u201D\u77E5\u8BC6\uFF0C\u56E0\u4E3A\u5176\u83B7\u53D6\u7B49\u7EA7\u4E3A235\u7EA7\uFF0C\u7B97\u662F\u5F69\u86CB\uFF0C\u4F46\u4F60\u5982\u679C\u60F3\u7528\u53EF\u4EE5dej\u6A21\u7EC4\u76F4\u63A5\u6DFB\u52A0",
+    "author": "Alex n\u0027 Italy",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/b9d6380499344e3589bb8334d6caa1bd.png",
+    "tag": [
+      "\u8FD1\u73B0\u4EE3\u79D1\u6280",
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "1b7474c2f70a4877a40e0b877d6f634f",
+        "gameversion": "0.22.x",
+        "modVersion": "0.4.1.1",
+        "size": null,
+        "variant": "\u5B8C\u6574",
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4.1.1-game0.22.x-20251213172303-5e62a557/0.22.%2B.GunsmithBook_0.4.1.1.zip"
+      }
+    ]
   }
 ]
