@@ -1138,6 +1138,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.22.x-20251210172134-58157f01/0.22.%2BSuperRPG_1.0.zip"
+      },
+      {
+        "uuid": "d2f2b27390a04e3f994ff8bcb63caede",
+        "gameversion": "0.14.x",
+        "modVersion": "0.0.9",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.9-game0.14.x-20251213192542-8059f9e9/0.14.%2B.RPG.SuperRPG_0.0.9.zip"
       }
     ]
   },
