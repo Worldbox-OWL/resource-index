@@ -1190,5 +1190,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/vbeta-game0.22.x-20251213160232-a7813ccc/0.22.7%2B.ChaosWorld_.zip"
       }
     ]
+  },
+  {
+    "mod": "\u7ECF\u6D4E\u76D2\u6A21\u7EC4EconomyBox",
+    "introduce": "\u2460\u8D27\u5E01\u7CFB\u7EDF\uFF1A\u65B0\u589E53\u79CD\u8D27\u5E01\uFF0C\u56FD\u5BB6\u95F4\u53EF\u4EE5\u8FD0\u7528\u76F8\u540C\u7684\u8D27\u5E01\u6765\u5151\u6362\u7269\u8D44(\u4E0D\u540C\u7684\u8D27\u5E01\u662F\u9700\u8981\u4F9D\u9760\u6C47\u7387\u5151\u6362\u7684)\r\n\u2461\u5E02\u573A\u7ECF\u6D4E\uFF1A\u5982\u2460\u6240\u8BF4\u7269\u8D44\u9700\u8981\u8D27\u5E01\u6765\u8D2D\u4E70\uFF0C\u800C\u7269\u8D44\u7D27\u7F3A\u7684\u65F6\u5019\u6240\u9700\u7269\u8D44\u5C31\u66F4\u8D35\r\n\u2462\u94F6\u884C\u50A8\u84C4\uFF1A\u56FD\u5BB6\u53EF\u4EE5\u5C06\u9EC4\u91D1\u6216\u8D27\u5E01\u5B58\u4E8E\u201C\u56FD\u9645\u94F6\u884C\u201D\u4EE5\u4FBF\u5E94\u5BF9\u7ECF\u6D4E\u5371\u673A\r\n\u2463\u79C1\u6709\u8D22\u4EA7\uFF1A\u4E0D\u592A\u660E\u663E\uFF0C\u5BF9\u5E94\u7684\u201C\u5BCC\u8C6A\u699C\u201D\u6392\u5E8F\u4F9D\u636E\u4E5F\u5C31\u662F\u5176\u6240\u6301\u8D22\u5BCC\r\n\u2464\u65B0\u7684\u7EAA\u5143\u3001\u7279\u8D28\u3001\u72B6\u6001\uFF0C\u8BA9\u56FD\u5BB6\u611F\u53D7\u4E00\u4E0B\u7ECF\u6D4E\u98CE\u66B4\u2026\u2026",
+    "author": "MarKami#5286",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/66b7af26e3b84f03ba03e76acc2c5b28.png",
+    "tag": [
+      "\u6027\u80FD\u7834\u574F"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "c3216eba3e514172bf00126ffe1f8dd6",
+        "gameversion": "0.22.x",
+        "modVersion": "0.0.3",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.3-game0.22.x-20251213160501-72c14586/0.22.%2B.EconomyBox._0.0.3.zip"
+      }
+    ]
   }
 ]
