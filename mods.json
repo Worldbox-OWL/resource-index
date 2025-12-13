@@ -1675,5 +1675,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4-game0.22.x-20251213185655-9da6e63c/0.22.%2B.MachinesWars_0.4.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6587\u827A\u590D\u5174\u6A21\u7EC4RenaissanceBox",
+    "introduce": "\u2460\u6DFB\u52A0\u4E86\u5B97\u6559\u4FE1\u4EF0\uFF0C\u4F0A\u65AF\u5170\u6559(\u900A\u5C3C\u6D3E\u3001\u4EC0\u53F6\u6D3E)\u3001\u57FA\u7763\u6559(\u4E1C\u6B63\u6559\u3001\u53E4\u5E0C\u814A\u591A\u795E\u6559\u3001\u57FA\u7763\u65B0\u6559)\u3001\u72B9\u592A\u6559\u3001\u7410\u7F57\u4E9A\u65AF\u5FB7\u6559/\u62DC\u706B\u6559\uFF0C\u5BF9\u5E94\u6587\u660E\u77E5\u8BC6\u4F1A\u6709\u4E9B\u6539\u53D8\r\n\u2461\u6DFB\u52A0\u4E86\u7EBA\u7EC7\u4E1A\u3001\u5E02\u573A\u7B49\u6587\u827A\u590D\u5174\u5143\u7D20\uFF0C\u5E76\u8BA9\u519B\u961F(\u519B\u4E8B\u8BAD\u7EC3\u3001\u519B\u961F\u6269\u5145\u3001\u65E0\u575A\u4E0D\u6467)\u3001\u4F4F\u623F(\u623F\u5C4B7\u7EA7\u3001\u623F\u5C4B8\u7EA7)\u90FD\u5F97\u5230\u5347\u7EA7\u3001\u4EBA\u53E3\u5BB9\u91CF(\u4EBA\u53E3\u589E\u957F\u3001\u5DE8\u623F\u5C4B)\u3002\u5747\u4E3A\u6587\u660E\u77E5\u8BC6\r\n\u2462\u6DFB\u52A0\u4E867\u79CD\u6587\u827A\u590D\u5174\u65F6\u671F\u7684\u67AA\u68B0(\u65E9\u671F2\u79CD\uFF0C\u665A\u671F5\u79CD)\uFF0C10\u79CD\u51B7\u5175\u5668(\u5305\u62EC\u5F29)\uFF0C19\u4EF6\u5176\u4ED6\u88C5\u5907\uFF0C\u8FD8\u6709\u5EFA\u7B51\u201C\u8303\u767B\u5821\u9F50\u5C04\u67AA\u201D\u3001\u201C\u4F4F\u5B85\u533A\u201D\u3001\u5404\u6559\u4EE3\u8868\u6027\u5EFA\u7B51",
+    "author": "Thriller",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/e05279b98adf4011bf2d44ab704203ad.png",
+    "tag": [
+      "\u8FD1\u73B0\u4EE3\u79D1\u6280",
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "ed18e8d7606842469f16e9a28b118140",
+        "gameversion": "0.21.x",
+        "modVersion": "1.0.7",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.7-game0.21.x-20251213190002-db596c5e/0.21.%2B.RenaissanceBox_1.0.7.zip"
+      }
+    ]
   }
 ]
