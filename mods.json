@@ -1607,6 +1607,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.21.x-20251213184755-f152e944/0.21.%2B.YesTouching_1.0.0.zip"
+      },
+      {
+        "uuid": "7c376586de204f378557b7008e43d45f",
+        "gameversion": "0.22.x",
+        "modVersion": "1.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.22.x-20251213184800-2d5a07d7/0.21.%2B.YesTouching_1.0.0.zip"
       }
     ]
   }
