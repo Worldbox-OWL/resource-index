@@ -1238,6 +1238,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.5-game0.21.x-20251213171750-ed243002/0.21.%2B.FavoriteBox._0.1.5.zip"
+      },
+      {
+        "uuid": "9f88fcd33a1a4f98b3d0c34813ab8932",
+        "gameversion": "0.22.x",
+        "modVersion": "0.1.5",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.5-game0.22.x-20251213171755-fa11767b/0.21.%2B.FavoriteBox._0.1.5.zip"
       }
     ]
   }
