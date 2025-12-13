@@ -1617,5 +1617,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.22.x-20251213184800-2d5a07d7/0.21.%2B.YesTouching_1.0.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u751F\u7269\u9B54\u76D2MoBox",
+    "introduce": "\u2460\u6DFB\u52A0\u4E00\u70B9\u65B0\u7684\u751F\u7269\uFF0C\u5305\u62ECscp001\r\n\u2461\u8BA9\u539F\u7248\u751F\u7269\u5747\u53EF\u76F4\u63A5\u653E\u7F6E(\u6DFB\u52A0\u5728\u539F\u7248\u7684\u751F\u7269\u680F\u5185)",
+    "author": "MarKami#5286",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/b4cdc6c595b349ec808a1efecf2746bf.png",
+    "tag": [
+      "\u4F53\u9A8C\u4F18\u5316",
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "f647248be30f4463bb5350d938eefafc",
+        "gameversion": "0.14.x",
+        "modVersion": "0.1.6",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.6-game0.14.x-20251213185312-2ed03b9c/0.14.%2B.MoBox._0.1.6.zip"
+      }
+    ]
   }
 ]
