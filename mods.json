@@ -1588,5 +1588,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.22.x-20251213184506-cb0df4b7/0.22.%2B.bug.SmallFixesMod_1.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u53EF\u89E6\u78B0\u7279\u8D28YesTouching",
+    "introduce": "\u8BA9\u7279\u8D28\u5206\u7C7B\u4E3A\u201C\u8BF7\u52FF\u89E6\u78B0\u201D\u7684\u7279\u8D28\u53EF\u4EE5\u7F16\u8F91",
+    "author": "AdinizWarcraft",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/bddde868b1d64b569d79285a25916c24.png",
+    "tag": [
+      "\u4F53\u9A8C\u4F18\u5316",
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "d29231cc8ad54ae18ef3460f51afbe52",
+        "gameversion": "0.21.x",
+        "modVersion": "1.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.21.x-20251213184755-f152e944/0.21.%2B.YesTouching_1.0.0.zip"
+      }
+    ]
   }
 ]
