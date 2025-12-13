@@ -1636,6 +1636,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.6-game0.14.x-20251213185312-2ed03b9c/0.14.%2B.MoBox._0.1.6.zip"
+      },
+      {
+        "uuid": "a0983ab3c81946208feb9ff33f1eea4d",
+        "gameversion": "0.21.x",
+        "modVersion": "0.1.7",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.7-game0.21.x-20251213185318-17ed94a0/0.21.%2B.MoBox._0.1.7.zip"
       }
     ]
   }
