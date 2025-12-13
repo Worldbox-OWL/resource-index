@@ -1505,5 +1505,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.1-game0.14.x-20251213183051-30bcf20a/0.14.%2B.IsekaiWorld_0.0.1.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6D77\u8D3C\u738B\u6A21\u7EC4OnePiece",
+    "introduce": "\u2460\u6DFB\u52A0\u4E86\u5927\u91CF\u7279\u8D28\u5E76\u5305\u542B\u4E00\u4E9B\u673A\u5236\uFF0C\u5982\u6076\u9B54\u679C\u5B9E(\u670925\u79CD\uFF0C\u5171\u4E94\u7EA7)\u548C\u9738\u6C14\u8272\u53EF(\u5171\u4E09\u7EA7)\u9010\u6E10\u8FDB\u9636\uFF0C\u679C\u5B9E\u53EF\u81EA\u884C\u8BDE\u751F\r\n\u2461\u6DFB\u52A0\u4E86\u6218\u8239\u673A\u5236\uFF0C\u6309\u5206\u7C7B\u6709\u56DB\u79CD\uFF0C\u53EF\u76F4\u63A5\u653E\u7F6E\uFF1A\u6D77\u519B\u3001\u9769\u547D\u519B\u3001\u6D77\u8D3C\u3001\u4E16\u754C\u653F\u5E9C(\u539F\u7248\u8FD0\u8F93\u8239\u4E5F\u4F1A\u62E5\u6709\u706B\u70AE\u4F46\u4E0D\u5728\u6B64\u5217)\r\n\u2462\u5141\u8BB8\u76F4\u63A5\u653E\u7F6E\u4E00\u4E9B\u7279\u6709\u5355\u4F4D\uFF1A\u5982\u8DEF\u98DE\u3001\u7D22\u9686\u3001\u767D\u80E1\u5B50\u7B49",
+    "author": "Agriche",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/9b2ce665dd15479099072de47580de37.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u529F\u80FD\u6269\u5C55",
+      "\u4FEE\u70BC\u4F53\u7CFB"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "f20a351325bb49d4a61287deb5354a22",
+        "gameversion": "0.14.x",
+        "modVersion": "0.0.6",
+        "size": null,
+        "variant": "\u672A\u6C49\u5316",
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.6-game0.14.x-20251213184034-6c7967f1/0.14.%2B.OnePiece._0.0.6.zip"
+      }
+    ]
   }
 ]
