@@ -1694,6 +1694,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.7-game0.21.x-20251213190002-db596c5e/0.21.%2B.RenaissanceBox_1.0.7.zip"
+      },
+      {
+        "uuid": "fdcf92067d6144fe8c0140155fa0fc6e",
+        "gameversion": "0.22.x",
+        "modVersion": "1.4.7",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.4.7-game0.22.x-20251213190013-83a0d524/0.22.%2B.RenaissanceBox._1.4.7.zip"
       }
     ]
   }
