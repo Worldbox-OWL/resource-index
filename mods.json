@@ -1416,5 +1416,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.0-game0.22.x-20251213175440-7af6f121/0.22.%2B.FunctionalTraits_1.5.0.NeoMod.zip"
       }
     ]
+  },
+  {
+    "mod": "\u8D35\u65CF\u751F\u6D3BNoble\u0027s Life",
+    "introduce": "\u2460\u5F53\u57CE\u5E02\u5EFA\u9020\u5B8C\u5927\u5385/\u5E02\u653F\u5385\u540E\u5E02\u6C11\u4F1A\u7740\u624B\u5EFA\u9020\u57CE\u5899\uFF0C\u73AF\u7ED5\u7684\u57CE\u5899\u4F18\u5148\u88AB\u654C\u4EBA\u653B\u51FB\r\n\u2461\u9F20\u6807\u9009\u4E2D\u5355\u4F4D\u540E\u70B9\u51FBR\u952E\u63A7\u5236\uFF0CWASD\u8FDB\u884C\u79FB\u52A8\uFF0C\u9F20\u6807\u5DE6\u952E \u79FB\u52A8/\u5BF9\u654C\u4EBA\u653B\u51FB\uFF0C\u70B9\u51FBQ\u8131\u79BB\u63A7\u5236",
+    "author": "CallMeDin#0668",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/15dfdf09edd643b8899ee22edab99009.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u6027\u80FD\u7834\u574F",
+      "\u786C\u7F16\u7801\u6C49\u5316",
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "d184e0c1112746cb945104a3659ea446",
+        "gameversion": "0.22.x",
+        "modVersion": "0.0.3",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.3-game0.22.x-20251213175612-3b9e1557/0.22.%2B.Noble.s.Life_0.0.3.zip"
+      }
+    ]
   }
 ]
