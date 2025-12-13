@@ -1543,5 +1543,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.1-game0.22.x-20251213184058-7bc3a60f/0.22.%2B.OnePiece._0.1.1.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5168\u526F\u6B66\u88C5\u6A21\u7EC4FullyArmed",
+    "introduce": "\u2460\u5C06\u519B\u961F\u5206\u4E3A\u6D77\u9646\u7A7A\u4E09\u519B(\u5F53\u7136\u662F\u8981\u7B49\u6587\u660E\u53D1\u5C55\u51FA\u6765\u98DE\u673A\u548C\u6218\u8239)\uFF0C\u5E76\u6DFB\u52A0\u76F8\u5E94\u7684\u4E1C\u897F\uFF0C\u5BF9\u5E94\u5668\u68B0\u9700\u8981\u4F9D\u9760\u77F3\u6CB9\u624D\u80FD\u6B63\u5E38\u4F7F\u7528(\u77F3\u6CB9\u4F1A\u81EA\u7136\u4EA7\u751F\uFF0C\u4E5F\u53EF\u4EE5\u5728\u539F\u7248\u7684\u201C\u81EA\u7136\u53CA\u707E\u96BE\u201D\u680F\u4E2D\u627E\u5230\u77F3\u6CB9\u81EA\u884C\u653E\u7F6E)\r\n\u2461\u6DFB\u52A0\u4E86\u4E9B\u67AA\u68B0\u3001\u9632\u5177\u4EE5\u53CA\u4E00\u4E9B\u5947\u602A\u7684\u4E1C\u897F(\u4EE5\u88C5\u5907\u5F62\u5F0F\u643A\u5E26\u7684\u4E66\u3001\u5730\u56FE\u7B49);\u6DFB\u52A0\u4E86\u4E9B\u9632\u5FA1\u5DE5\u4E8B(\u5EFA\u7B51);\u6DFB\u52A0\u4E86\u5F88\u591A\u7279\u8D28\uFF0C\u867D\u7136\u6709\u4E00\u4E9B\u6BD4\u8F83\u5947\u8469",
+    "author": "\u519B\u5E08",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/eb2884ce1302461fa193a663cc4e4189.png",
+    "tag": [
+      "\u8FD1\u73B0\u4EE3\u79D1\u6280",
+      "\u529F\u80FD\u6269\u5C55",
+      "\u6027\u80FD\u7834\u574F"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "7512de8ce26548d5862d655b9ffc3aba",
+        "gameversion": "0.22.x",
+        "modVersion": "1.2.3",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.3-game0.22.x-20251213184343-5f27cc3b/0.22.%2B.FullyArmed_1.2.3.zip"
+      }
+    ]
   }
 ]
