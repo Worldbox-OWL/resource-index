@@ -1458,6 +1458,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.1.8-game0.14.x-20251213180048-628a4392/0.14.%2B.Art.of.War_1.2.1.8.zip"
+      },
+      {
+        "uuid": "4be93327e7c2428bbe222c73f9f7c60d",
+        "gameversion": "0.22.x",
+        "modVersion": "0.2.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.2.0-game0.22.x-20251213180055-0e003cb7/0.22.%2B._0.2.0.zip"
       }
     ]
   }
