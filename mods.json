@@ -1565,5 +1565,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.3-game0.22.x-20251213184343-5f27cc3b/0.22.%2B.FullyArmed_1.2.3.zip"
       }
     ]
+  },
+  {
+    "mod": "\u539F\u7248bug\u4FEE\u590DSmallFixesMod",
+    "introduce": "\u2460\u4FEE\u590D\u8349\u5730\u4E0A\u7684\u8150\u673D\u5927\u6811\uFF1Amaxim\u4E3A\u4E86NTR\u8150\u673D\u7FA4\u7CFB\u7279\u610F\u8BA9\u8150\u673D\u7FA4\u7CFB\u4E0A\u4E0D\u4F1A\u51FA\u73B0\u7684\u5927\u6811\u51FA\u73B0\u5728\u539F\u751F\u8349\u5730\u4E0A\r\n\u2461\u4FEE\u590D\u51BB\u571F\u67E0\u6AAC\uFF1Amaxim\u590D\u5236\u7C98\u8D34\u7FA4\u7CFB\u65F6\u5FD8\u8BB0\u628A\u67E0\u6AAC\u53BB\u6389\u4E86\r\n\u2462\u4FEE\u590D\u957F\u5B50\u7EE7\u627F\u5236\uFF1Amaxim\u7684\u5947\u5F02\u5224\u65AD\u5BFC\u81F4\u53EA\u6709\u88AB\u9010\u51FA\u6C0F\u65CF\u6216\u5DF2\u6B7B\u4EA1\u7684\u6C0F\u65CF\u5355\u4F4D\u53EF\u4EE5\u7EE7\u627F\u56FD\u738B\r\n\u2463\u4FEE\u590D\u9053\u8DEF\u4E0A\u7684\u77FF\u4E95\uFF1Amaxim\u559C\u6B22\u5728\u77FF\u4E95\u5EFA\u5B8C\u540E\u518D\u628A\u9053\u8DEF\u5EFA\u77FF\u4E95\u91CC\u5BFC\u81F4\u4EC0\u4E48\u8D44\u6E90\u90FD\u6CA1\u6709\r\n\u2464\u4FEE\u590D\u9996\u90FD\u53DB\u4E71\uFF1A\u9996\u90FD\u9886\u4E3B\u53DB\u4E71\u5BFC\u81F4\u56FD\u738B\u6210\u4E3A\u4ED6\u56FD\u5E02\u6C11\r\n\u2465\u4FEE\u590D\u51B0\u51BB\u72B6\u6001\u4E0B\u53EF\u4EE5\u5403\u98DF\u7269\uFF1Amaxim\u4E3A\u4E86\u8BA9\u51BB\u4F4F\u7684\u5218\u5FB7\u534E\u53EF\u4EE5\u6D3B\u7740\u51C6\u5907\u7684",
+    "author": "Avb",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/5b570f5498464295bca5a366f10e7efa.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u4F53\u9A8C\u4F18\u5316",
+      "Bug\u4FEE\u590D",
+      "\u5FC5\u5907"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "e3518e9b21924e24b5c9c6f3da7e5107",
+        "gameversion": "0.22.x",
+        "modVersion": "1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.22.x-20251213184506-cb0df4b7/0.22.%2B.bug.SmallFixesMod_1.0.zip"
+      }
+    ]
   }
 ]
