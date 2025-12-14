@@ -1748,6 +1748,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.0new-game0.51.x-20251214095521-29ce1fa1/0.50.6%2B._1.5.0new.zip"
+      },
+      {
+        "uuid": "e0037d8fdadc4878bf6d43e5bda310f5",
+        "gameversion": "0.14.x",
+        "modVersion": "1.0.1",
+        "size": null,
+        "variant": "\u5168\u56FD\u98CE",
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.1-game0.14.x-20251214101508-04b56acd/0.14.%2B._1.0.1.zip"
       }
     ]
   }
