@@ -1829,5 +1829,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.51.0-game0.51.x-20251216092119-ba561b53/0.51.%2B._0.51.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6570\u636E\u6D41\u5BB6\u5EAD\u6811",
+    "introduce": "\u5728\u5355\u4F4D\u9762\u677F\u53F3\u4E0A\u89D2\u6DFB\u52A0\u4E86\u5BB6\u5EAD\u6811\u6309\u94AE(\u201C\u6DFB\u52A0\u5230\u6536\u85CF\u5939\u201D\u7684\u4E0B\u65B9)\uFF0C\u70B9\u5F00\u540E\u6EE1\u5C4F\u5C55\u793A\u8BE5\u5355\u4F4D\u7684\u6C0F\u65CF\u5185\u5BB6\u5EAD\u6811\uFF0C\u6D45\u84DD\u4E3A\u7537\uFF0C\u6DE1\u7C89\u4E3A\u5973\uFF0C\u6697\u9EC4\u4E3A\u6240\u793A\u5355\u4F4D\uFF0C\u6697\u7070\u4E3A\u5DF2\u6545\uFF0C\u6697\u7EFF\u6846\u4F4F\u540C\u8F88(\u7236\u6BCD\u3001\u59BB\u5B50/\u4E08\u592B\u3001\u5144\u5F1F\u59D0\u59B9\u3001\u5B50\u5973)\r\n(\u6C0F\u65CF\u4E2D\u5C06\u4EBA\u6570\u9650\u5236\u7684\u7279\u8D28\u90FD\u53BB\u6389\uFF0C\u5C31\u9ED8\u8BA4\u4E0D\u9650\u5236\u6C0F\u65CF\u4EBA\u6570)",
+    "author": "\u661F\u66DC",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251216/79b9737e04e84d9b9e7d36c5419925fc.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "ec6632a8f9d34e7596db91a54c4e4c6f",
+        "gameversion": "0.51.x",
+        "modVersion": "0.1.5",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.5-game0.51.x-20251216161040-82282d3c/0.51.%2B.Family.Tree_0.1.5.zip"
+      }
+    ]
   }
 ]
