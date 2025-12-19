@@ -1510,5 +1510,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x12%28%E6%96%B0%29-game0.22.x-20251219091232-f64c2c7c/_20x12.boki.zip"
       }
     ]
+  },
+  {
+    "mod": "\u539F\u795E\uFF1A\u63D0\u74E6\u7279\u5927\u9646",
+    "introduce": "",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/26e4b2ce7ead49cc9d08cb8828a954a0.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "089f4933ed634c3ab3e590caedc52f71",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "11x12",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v11x12-game0.22.x-20251219091514-c0a43bc4/_11x12.boki.zip"
+      }
+    ]
   }
 ]
