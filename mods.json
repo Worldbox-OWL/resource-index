@@ -1872,5 +1872,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.4.0-game0.51.x-20251219084221-1c3984c1/0.51.%2B.WorldSphereMod_1.4.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u7231\u7684\u4E3B\u65CB\u5F8BTopic of Love",
+    "introduce": "\u2460\u529F\u80FD\u6269\u5C55\uFF1A\u7231\u795E\u4E4B\u7BAD(\u6210\u604B\u4EBA)\u3001\u7231\u795E\u94C5\u7BAD(\u62C6\u604B\u4EBA)\u3001\u5F3A\u5236\u4EA4\u914D\u3001\u5F3A\u5236\u4EB2\u543B\u3001\u8BD5\u7BA1\u53D7\u7CBE(\u8FDC\u8DDD\u79BB\u7E41\u6B96)\u3001\u5F3A\u5236\u7EA6\u4F1A\r\n\u2461\u539F\u7248\u8C03\u6574\uFF1A\u4E16\u754C\u6CD5\u5219-\u53D8\u5316\u7684\u6027\u53D6\u5411\r\n\u5355\u4F4D\u7279\u8D28-\u5FE0\u8D1E\u3001\u758F\u8FDC\u4EB2\u5BC6\u3001\u653E\u8361\u3001\u56FA\u53D6\u5411\r\n\u6587\u5316\u7279\u8D28-\u5FE0\u8D1E\u4E0D\u6E1D\u3001\u540C\u9F84\u7EA6\u4F1A\u3001\u751F\u80B2\u81F3\u4E0A\u3001\u751F\u547D\u7EF4\u7CFB\u3001\u795E\u5723\u4EA4\u914D\u3001\u6027\u7684\u671F\u5F85\u3001\u6297\u62D2\u5F02\u6027\u3001\u6297\u62D2\u540C\u6027\r\n\u82E5\u5E72\u7EDF\u8BA1\u6570\u636E\u53CA\u72B6\u6001\u7B49\r\n\u2462LGBT\u002B\uFF1A\u5728\u5355\u4F4D\u9762\u677F\u5DE6\u4FA7\u6DFB\u52A0\u4E86\u4E00\u4E2A\u201C\u53D6\u5411\u201D\u7684\u9009\u9879\uFF0C\u53EF\u4EE5\u66F4\u6539\u5176\u6027\u53D6\u5411\u548C\u604B\u7231\u53D6\u5411\u3001\u5206\u522B\u5BF9\u5E94\u505A\u25CB\u548C\u604B\u7231\u65E5\u5E38\uFF0C\u4F1A\u5BF9\u5E78\u798F\u503C\u4EA7\u751F\u5F71\u54CD",
+    "author": "MianReplicate",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/89ae4ccf95ce4d26a711fc85e9907fb5.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u6027\u80FD\u7834\u574F",
+      "\u534A\u6210\u54C1"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "b133a82cf4eb49279382ad4c0a1f98c0",
+        "gameversion": "0.51.x",
+        "modVersion": "1.3.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.0-game0.51.x-20251219103436-59e8970a/0.51.%2B.Topic.of.Love_1.3.0.zip"
+      }
+    ]
   }
 ]
