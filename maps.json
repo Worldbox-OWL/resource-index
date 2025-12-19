@@ -1393,5 +1393,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v4x4-game0.22.x-20251219085405-2c577af6/_4x4.zip"
       }
     ]
+  },
+  {
+    "mod": "\u8FDC\u53E4\u5927\u9646",
+    "introduce": "",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/71240ff01f24420191f8a76ff816b820.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "a1f6f003826244278a388f8f8535a02f",
+        "gameversion": "0.12.x",
+        "modVersion": null,
+        "size": "11x11",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v11x11-game0.12.x-20251219090426-4f8c2cae/_11x11.boki.zip"
+      }
+    ]
   }
 ]
