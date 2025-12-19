@@ -1764,5 +1764,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v18x14-game0.12.x-20251219093507-6ecbbec6/_18x14.AtomicSpud.zip"
       }
     ]
+  },
+  {
+    "mod": "\u52AA\u5854\u59C6\u5927\u9646",
+    "introduce": "",
+    "author": "AtomicSpud",
+    "preview": null,
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u5927\u9646\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "675258530fae404ea9b464918255814a",
+        "gameversion": "0.12.",
+        "modVersion": null,
+        "size": "16x16",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x16-game0.12.-20251219093557-63def8e2/_16x16.AtomicSpud.zip"
+      }
+    ]
   }
 ]
