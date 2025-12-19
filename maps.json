@@ -1681,6 +1681,14 @@
         "size": "12x9",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x9-game0.22.x-20251219092248-4677ba9b/DNF._12x9.boki.zip"
+      },
+      {
+        "uuid": "6f62e20cb99f4f38b14e74a4dbf685ac",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "20x16",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x16-game0.22.x-20251219092254-04e1b4ca/DNF._20x16.boki.zip"
       }
     ]
   }
