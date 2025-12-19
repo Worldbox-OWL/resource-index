@@ -94,14 +94,6 @@
     "index": null,
     "versions": [
       {
-        "uuid": "25fb0566db26404c82a8dbaf5434b7bd",
-        "gameversion": "0.22.x",
-        "modVersion": null,
-        "size": "12x8",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x8-game0.22.x-20251204084422-949eccd1/_12x8.boki.zip"
-      },
-      {
         "uuid": "8191335fda1345f4a5556a833aa4c9c9",
         "gameversion": "0.22.x",
         "modVersion": null,
