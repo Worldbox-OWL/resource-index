@@ -85,7 +85,7 @@
     "mod": "\u4FEE\u666E\u8BFA\u65AF",
     "introduce": "",
     "author": "boki\u4EBA",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/0a60565ed86143b28a652f496f4d1945.png",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/d05e0e25027a41deb0e5988a53474ca3.png",
     "tag": [
       "\u67B6\u7A7A\u5E7B\u60F3",
       "\u7CBE\u54C1\u5730\u56FE",
@@ -108,6 +108,14 @@
         "size": "20x13",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x13-game0.22.x-20251204084427-c7e67403/_20x13.boki.zip"
+      },
+      {
+        "uuid": "23f5bb155ed54b50982aaa7ac637d727",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "12x8",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x8-game0.22.x-20251219092432-727e6120/_12x8.boki.zip"
       }
     ]
   },
