@@ -1661,5 +1661,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x16-game0.22.x-20251219092139-f1f99b98/DNF._20x16.boki.zip"
       }
     ]
+  },
+  {
+    "mod": "DNF\uFF1A\u9B54\u754C",
+    "introduce": "",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/c213cabe33a24f7b93e1f1a0db3f4df3.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u7CBE\u54C1\u5730\u56FE",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "8270c6e09fd14f5ba925b305140a6edd",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "12x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x9-game0.22.x-20251219092248-4677ba9b/DNF._12x9.boki.zip"
+      }
+    ]
   }
 ]
