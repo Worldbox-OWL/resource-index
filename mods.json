@@ -1850,5 +1850,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.5-game0.51.x-20251216161040-82282d3c/0.51.%2B.Family.Tree_0.1.5.zip"
       }
     ]
+  },
+  {
+    "mod": "\u7ACB\u4F53\u4E16\u754C\u6A21\u7EC4WorldSphereMod",
+    "introduce": "\u5C06\u5F53\u524D\u5730\u56FE\u89C6\u89D2\u53D8\u4E3A3D\u7ACB\u4F53\uFF0C\u53EF\u5728\u5BF9\u5E94\u680F\u4E2D\u8FDB\u884C\u8C03\u6574\uFF0C\u5982\u4E16\u754C\u8BBE\u7F6E\u4E2D\u53EF\u4EE5\u901A\u8FC7\u5207\u6362\u201C\u5730\u5E73\u8BF4\u201D/\u201C\u5706\u67F1\u8BF4\u201D\u6765\u4F53\u9A8C\u4E0D\u540C\u7684\u7ACB\u4F53\u89C6\u89D2\r\n\u6CE8\uFF1A3d\u89C6\u89D2\u53EF\u80FD\u9700\u8981\u7535\u8111\u786C\u4EF6\u652F\u6301\uFF0C\u800C\u6E38\u620F\u5185\u5EFA\u7B51\u7269\u4ECD\u662F\u8D34\u56FE",
+    "author": "Melvin",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/0f85e25e0bf0441c823257a9aa1920c7.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u7ACB\u4F53\u6A21\u62DF",
+      "\u6027\u80FD\u7834\u574F"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "7425bdcf2a254ab4bf9b689f66f4a516",
+        "gameversion": "0.51.x",
+        "modVersion": "1.4.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.4.0-game0.51.x-20251219084221-1c3984c1/0.51.%2B.WorldSphereMod_1.4.0.zip"
+      }
+    ]
   }
 ]
