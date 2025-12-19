@@ -1806,5 +1806,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x9-game0.14.x-20251219093828-5d2684e2/_12x9.AmericanToad.zip"
       }
     ]
+  },
+  {
+    "mod": "\u52A0\u5C3C\u533F\u79D1",
+    "introduce": "",
+    "author": "ChickenMaster",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/c01aef855d76431e940c4f5ea23c0783.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u591A\u5C9B\u5C7F"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "299eb1b2c0e244f2b13a114b4d1c744f",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "14x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14x9-game0.50.x-20251219093957-31cb1e89/_14x9.ChickenMaster.zip"
+      }
+    ]
   }
 ]
