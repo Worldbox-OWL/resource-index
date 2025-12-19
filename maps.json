@@ -1721,5 +1721,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v25x16-game0.22.x-20251219092716-7f3aff63/_25x16.boki.zip"
       }
     ]
+  },
+  {
+    "mod": "\u65B9\u7891\u904D\u5E03\u4E4B\u5730",
+    "introduce": "",
+    "author": "Gregorianek",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/67b3f41ea16942118ccf92f5e3059e18.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u7CBE\u54C1\u5730\u56FE",
+      "\u6D77\u5CE1"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "0a25206213624fd0aea0a7ac8a65048b",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "16x16",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x16-game0.50.x-20251219093359-072c16c7/_16x16.Gregorianek.zip"
+      }
+    ]
   }
 ]
