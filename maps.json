@@ -1743,5 +1743,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x16-game0.50.x-20251219093359-072c16c7/_16x16.Gregorianek.zip"
       }
     ]
+  },
+  {
+    "mod": "\u67CF\u8FEA\u5C14\u5E7B\u60F3\u5927\u9646",
+    "introduce": "",
+    "author": "AtomicSpud",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/9f3e45b79f994a818ccc567dcd5f0c85.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u5927\u9646\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "25b8e98f30f24dfe9ae7f4b51c91c6bb",
+        "gameversion": "0.12.x",
+        "modVersion": null,
+        "size": "18x14",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v18x14-game0.12.x-20251219093507-6ecbbec6/_18x14.AtomicSpud.zip"
+      }
+    ]
   }
 ]
