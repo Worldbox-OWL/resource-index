@@ -1892,5 +1892,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x12-game0.50.x-20251222070731-93c2e159/-._12x12.vempin.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5BFB\u9F99\u4F20\u8BF4\uFF1A\u9F99\u4F51\u4E4B\u90A6",
+    "introduce": "",
+    "author": "Mr.Slime",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/561dc59568d943dea3cd44ce88a7463b.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u5927\u9646\u5730\u56FE",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "525b92e66b5f429996bdb5a18a005c2b",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "15x8",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v15x8-game0.14.x-20251222071334-b4ec1c35/_15x8.Mr.Slime.zip"
+      }
+    ]
   }
 ]
