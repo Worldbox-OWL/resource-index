@@ -2285,5 +2285,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x4-game0.14.x-20251222125213-a1eb0c3e/_19x4.boki.zip"
       }
     ]
+  },
+  {
+    "mod": "\u4E9A\u6B27\u975E\u5927\u9646",
+    "introduce": "",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/58d8206947e94324a76d5fa12799753a.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u5927\u6D32\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "f332a2e1f4364b728ab3cf9bc81faa77",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "14x6",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14x6-game0.14.x-20251222125316-51f0b1f0/_14x6.boki.zip"
+      }
+    ]
   }
 ]
