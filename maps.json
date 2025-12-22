@@ -1827,5 +1827,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14x9-game0.50.x-20251219093957-31cb1e89/_14x9.ChickenMaster.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6D77\u8D3C\u738B\uFF1A\u524D\u534A\u7A0B\u9B54\u6539",
+    "introduce": "",
+    "author": "Ridgey",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/4f8fe11abaa24e2e8408d5c45f80834d.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u591A\u5C9B\u5C7F"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "18cc5b57280748b598cd50e072fa03fc",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "16x16",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x16-game0.50.x-20251222070444-a0c49965/_16x16.Ridgey.zip"
+      }
+    ]
   }
 ]
