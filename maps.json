@@ -1848,5 +1848,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x16-game0.50.x-20251222070444-a0c49965/_16x16.Ridgey.zip"
       }
     ]
+  },
+  {
+    "mod": "\u4E0A\u53E4\u5377\u8F74\u2164\uFF1A\u5929\u9645\u7701",
+    "introduce": "",
+    "author": "z6ir",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/b2e353572edd463ca6404577e83df44c.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u5927\u9646\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "a7a64ecebb674d3e8ece789664306e36",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "9x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.50.x-20251222070606-f9e8a8df/_9x9.z6ir.zip"
+      }
+    ]
   }
 ]
