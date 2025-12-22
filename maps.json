@@ -2030,5 +2030,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.22.x-20251222100736-f2135530/_9x9.CultistCorpse.zip"
       }
     ]
+  },
+  {
+    "mod": "MC\uFF1A\u5947\u89C2\u4E4B\u65C5",
+    "introduce": "\u6765\u81EAMinecraft(\u6211\u7684\u4E16\u754C)\u7684\u60F3\u8C61\u529B",
+    "author": "cbrothers3d",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/94f0dbb9c0eb49e5945e642fc74b7e7e.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u7CBE\u54C1\u5730\u56FE",
+      "\u7ACB\u4F53\u6A21\u62DF"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "4cfc11b0ef354084917e74a39310b2c2",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "9x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.50.x-20251222100858-558d6c1f/MC._9x9.cbrothers3d.zip"
+      }
+    ]
   }
 ]
