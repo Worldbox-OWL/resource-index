@@ -1953,5 +1953,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x14-game0.22.x-20251222071548-337bb6ac/_16x14.Ingwe.Ingweron.zip"
       }
     ]
+  },
+  {
+    "mod": "\u8FDB\u51FB\u7684\u5DE8\u4EBA\uFF1A\u5E15\u62C9\u8FEA\u5C9B",
+    "introduce": "",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/55e62a25458c402599830f8bc561fe80.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "240a2f9f141d441693eb2a46da7809fe",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "9x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.14.x-20251222071705-f23e53c0/_9x9.boki.zip"
+      }
+    ]
   }
 ]
