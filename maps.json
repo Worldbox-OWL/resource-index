@@ -2205,14 +2205,6 @@
     "index": null,
     "versions": [
       {
-        "uuid": "7a06c2a6b1414ca4921a76274b82582c",
-        "gameversion": "0.14.x",
-        "modVersion": null,
-        "size": "16x10(\u6709\u6CB3)",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x10%28%E6%9C%89%E6%B2%B3%29-game0.14.x-20251222112120-4fc3fce7/_16x10.Ingwe.Ingweron.zip"
-      },
-      {
         "uuid": "ab4bbd1b7ab04066bb54219aa39251fc",
         "gameversion": "0.14.x",
         "modVersion": null,
