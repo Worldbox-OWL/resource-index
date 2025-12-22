@@ -2560,6 +2560,14 @@
         "size": "13x5",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x5-game0.22.x-20251222133204-474ff2b9/_13x5.zip"
+      },
+      {
+        "uuid": "451075dda799469dba88a77d89480c66",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "21x10",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v21x10-game0.14.x-20251222133210-8cc64926/_21x10.zip"
       }
     ]
   }
