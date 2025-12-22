@@ -1922,5 +1922,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v29x16-game0.22.x-20251222071341-e1557e33/_29x16.Mr.Slime.zip"
       }
     ]
+  },
+  {
+    "mod": "\u4E03\u91CD\u5929\uFF1A\u963F\u62C9\u8D1D\u65AF",
+    "introduce": "",
+    "author": "Ingw\u00EB Ingweron",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/40abf903bec64852ab8719d1c4e61935.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u7CBE\u54C1\u5730\u56FE",
+      "\u5927\u9646\u5730\u56FE",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "6232585cd53c40cab34bfdec909d3ca6",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "11x10",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v11x10-game0.22.x-20251222071541-c62d9085/_11x10.Ingwe.Ingweron.zip"
+      }
+    ]
   }
 ]
