@@ -2621,5 +2621,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v17x13-game0.14.x-20251222133552-ab9c79d9/_17x13.zip"
       }
     ]
+  },
+  {
+    "mod": "\u87BA\u65CB\u7EB9\u8DEF",
+    "introduce": "",
+    "author": "Gregorianek",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251223/862b427d7af346389aef6b6e8dec101f.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u7CBE\u54C1\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "424205bf3426444ebbf1a3412c7153a6",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "12x12",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x12-game0.50.x-20251223155102-dd097631/_12x12.Gregorianek.zip"
+      }
+    ]
   }
 ]
