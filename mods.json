@@ -1894,5 +1894,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.0-game0.51.x-20251219103436-59e8970a/0.51.%2B.Topic.of.Love_1.3.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u78C1\u94C1\u5438\u9644\u4FEE\u590DMagnetFix",
+    "introduce": "\u8BA9\u78C1\u94C1\u53EF\u4EE5\u5C06\u623F\u5C4B\u5185\u7684\u5355\u4F4D\u5438\u51FA\u6765",
+    "author": "Jean-Antoine",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251224/edf6c0202da84648b9c9387aecdd3e6c.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "Bug\u4FEE\u590D"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "afe1850049a846ca891c9c6350a7e6b1",
+        "gameversion": "0.51.x",
+        "modVersion": "5.0.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v5.0.0.0-game0.51.x-20251224071135-65d06014/0.51.%2B.MagnetFix_5.0.0.0.zip"
+      }
+    ]
   }
 ]
