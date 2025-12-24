@@ -1913,6 +1913,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v5.0.0.0-game0.51.x-20251224071135-65d06014/0.51.%2B.MagnetFix_5.0.0.0.zip"
+      },
+      {
+        "uuid": "aedb3c6e160f4e40966c77372e0daf2b",
+        "gameversion": "0.22.x",
+        "modVersion": "4.0.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v4.0.0.0-game0.22.x-20251224071146-68b1ba7c/0.22.%2B.MagnetFix_4.0.0.0.zip"
       }
     ]
   }
