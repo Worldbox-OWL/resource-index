@@ -2672,5 +2672,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v17x13-game0.22.x-20251223155220-9796bead/_17x13.ZR25.ohno1052.zip"
       }
     ]
+  },
+  {
+    "mod": "\u9B54\u517D\u4E16\u754C\uFF1A\u827E\u6CFD\u62C9\u65AFAzeroth",
+    "introduce": "",
+    "author": "Vanillafolda",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260103/bd73cd27e8694950a8926aa89f696bce.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u4E16\u754C\u5730\u56FE",
+      "\u591A\u5C9B\u5C7F"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "a1e37e4968ad4d708641acfa3a482ace",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "23x18",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v23x18-game0.50.x-20260103011955-e52059f9/Azeroth_23x18.Vanillafolda.zip"
+      }
+    ]
   }
 ]
