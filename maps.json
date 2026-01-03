@@ -78,6 +78,14 @@
         "size": "19x10",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x10-game0.50.x-20251204084250-88125664/IV._19x10.YoyotheAlmighty.zip"
+      },
+      {
+        "uuid": "2cac06fd135148578869492a7ade84c6",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "19x10(\u65E0\u96EA\u65B0\u7248)",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x10%28%E6%97%A0%E9%9B%AA%E6%96%B0%E7%89%88%29-game0.50.x-20260103011431-b895456f/IV._19x10.Yoyo.zip"
       }
     ]
   },
