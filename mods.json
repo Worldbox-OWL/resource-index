@@ -2006,6 +2006,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.6-game0.14.x-20260103082343-d427b0f0/0.14.%2B.DiversityCrate._1.0.6.zip"
+      },
+      {
+        "uuid": "e6a1ba6781fa4ba39348de271af290c3",
+        "gameversion": "0.22.x",
+        "modVersion": "1.1.4",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.4-game0.22.x-20260103082351-5f2bac55/0.22.%2B.DiversityCrate._1.1.4.zip"
       }
     ]
   }
