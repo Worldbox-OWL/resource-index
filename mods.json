@@ -2016,5 +2016,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.4-game0.22.x-20260103082351-5f2bac55/0.22.%2B.DiversityCrate._1.1.4.zip"
       }
     ]
+  },
+  {
+    "mod": "\u77FF\u7269\u76D2OreBox",
+    "introduce": "\u6DFB\u52A0\u4E86 \u77F3\u5934\u3001\u5E38\u89C1\u91D1\u5C5E\u3001\u9EC4\u91D1\u3001\u94F6\u3001\u79D8\u94F6\u3001\u7CBE\u91D1 \u77FF\u7269\u7684\u751F\u6210\u70B9\uFF0C\u7C7B\u4F3C\u77FF\u6D1E",
+    "author": "Erex147",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260104/3cb1b7e3fe6949cbb78bd1e9287676cf.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u539F\u751F\u8C03\u6574",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "3f19f78501fb4fdca2e586a731d9398a",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260104042115-5bb6dabb/0.51.%2B.OreBox_1.0.0.zip"
+      }
+    ]
   }
 ]
