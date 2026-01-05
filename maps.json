@@ -2708,6 +2708,14 @@
         "size": "8x13(\u897F\u90E8)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x13%28%E8%A5%BF%E9%83%A8%29-game0.50.x-20260105103423-e0e01d9d/_8x13.Vanillafolda.zip"
+      },
+      {
+        "uuid": "e4a57df886ad469dbe30303865cb1012",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "18x14(\u707E\u53D8\u540E)",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v18x14%28%E7%81%BE%E5%8F%98%E5%90%8E%29-game0.50.x-20260105103429-0bc9e56a/_18x14.Vanillafolda.zip"
       }
     ]
   },
