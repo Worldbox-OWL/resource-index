@@ -2760,6 +2760,14 @@
         "size": "14x7",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14x7-game0.22.x-20260108013043-b98bff0f/Project.ROA._14x7.boki.zip"
+      },
+      {
+        "uuid": "99e5388e35914f5d90f99e75e8446ef3",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "22x12",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v22x12-game0.22.x-20260108013048-7416638a/Project.ROA._22x12.boki.zip"
       }
     ]
   }
