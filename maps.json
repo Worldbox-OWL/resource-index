@@ -2798,5 +2798,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v30x30-game0.22.x-20260108013221-bd16b168/_30x30.Mr.Slime.zip"
       }
     ]
+  },
+  {
+    "mod": "\u963F\u5C14\u5361\u6CFD\u4E4B\u773C",
+    "introduce": "",
+    "author": "Mr.Calamitous",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260108/cf5c779c4bf447ea848c0b4f48fe7057.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u591A\u5C9B\u5C7F",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "2b9e4a49b6384d9f8d8b389a5b8f3672",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "8x10",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x10-game0.22.x-20260108013327-bca33f2c/_8x10.Mr.Calamitous.zip"
+      }
+    ]
   }
 ]
