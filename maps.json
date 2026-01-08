@@ -2830,5 +2830,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x15-game0.22.x-20260108013334-41b78041/_12x15.Mr.Calamitous.zip"
       }
     ]
+  },
+  {
+    "mod": "\u4E09\u65E5\u51CC\u7A7A",
+    "introduce": "",
+    "author": "Kropolis",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260108/fec2e8171cef434fb8b1f009f04fb000.png",
+    "tag": [
+      "\u661F\u7CFB\u6A21\u62DF"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "125b6fdaf9414751a9ae8b3b57aa0f7a",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "16x16",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x16-game0.50.x-20260108015312-6302c88b/_16x16.Kropolis.zip"
+      }
+    ]
   }
 ]
