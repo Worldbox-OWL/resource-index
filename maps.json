@@ -2901,5 +2901,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v21x14-game0.22.x-20260108015555-65ee5f6b/_21x14.MarKI.zip"
       }
     ]
+  },
+  {
+    "mod": "\u591C\u88AD\u54B8\u9633\uFF08\u653B\u57CE\u6218)",
+    "introduce": "",
+    "author": "Doc. Merc",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260108/5f2b002a516d4483a05e2177b86c0483.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u884C\u653F\u533A\u5212",
+      "\u57CE\u5E02\u89C4\u5212",
+      "\u7CBE\u54C1\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "e57699c7e34e4578bc1f7ece05a19335",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "9x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.22.x-20260108015820-c2e38c40/_9x9.Doc.Merc.zip"
+      }
+    ]
   }
 ]
