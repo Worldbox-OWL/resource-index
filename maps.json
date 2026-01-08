@@ -2741,5 +2741,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v23x15-game0.50.x-20260103012110-4d4dc0e8/Terralore_23x15.Favro.zip"
       }
     ]
+  },
+  {
+    "mod": "\u4E1C\u65B9Project\uFF1AROA\u5E7B\u60F3\u4E61\u5730\u56FE",
+    "introduce": "",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260108/b122adce8e694cd9a2c2fd74ca0997e6.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u7CBE\u54C1\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "a34903f9445143adab344830ab894406",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "14x7",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14x7-game0.22.x-20260108013043-b98bff0f/Project.ROA._14x7.boki.zip"
+      }
+    ]
   }
 ]
