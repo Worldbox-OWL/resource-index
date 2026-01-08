@@ -2818,6 +2818,14 @@
         "size": "8x10",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x10-game0.22.x-20260108013327-bca33f2c/_8x10.Mr.Calamitous.zip"
+      },
+      {
+        "uuid": "f11e3e63263542a291a6b4ac6679b249",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "12x15",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x15-game0.22.x-20260108013334-41b78041/_12x15.Mr.Calamitous.zip"
       }
     ]
   }
