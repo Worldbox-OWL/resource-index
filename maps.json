@@ -2871,5 +2871,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v11x11-game0.14.x-20260108015421-5576c58e/5._11x11.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6CF0\u5C14\u8FBE\u91CC\u5B89Teldarian",
+    "introduce": "",
+    "author": "MarKI",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260108/aaf9a5a4db0c43f38c9bb4e562fda269.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u5927\u9646\u5730\u56FE",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "aa702add2862491d9e67b98d80b5388f",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "15x10",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v15x10-game0.22.x-20260108015549-634f0d26/_15x10.MarKI.zip"
+      }
+    ]
   }
 ]
