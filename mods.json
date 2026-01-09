@@ -2079,6 +2079,14 @@
         "size": null,
         "variant": "\u7EAF\u51C0\u65E7\u7248",
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v10.1.0-game0.22.7-20260109122514-8bf94849/0.22.7%2B.ModernBox._10.1.0.zip"
+      },
+      {
+        "uuid": "b453e3983d3c4bd7854db0b57713290b",
+        "gameversion": "0.22.7",
+        "modVersion": "2.2.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.2.0.0-game0.22.7-20260109122528-1d7ccde5/0.22.7%2B.ModernBox_2.2.0.0.Neomod.zip"
       }
     ]
   }
