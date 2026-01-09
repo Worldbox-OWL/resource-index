@@ -2089,5 +2089,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.2.0.0-game0.22.7-20260109122528-1d7ccde5/0.22.7%2B.ModernBox_2.2.0.0.Neomod.zip"
       }
     ]
+  },
+  {
+    "mod": "\u73B0\u4EE3\u5EFA\u7B51\u6A21\u7EC4ModernMod",
+    "introduce": "\u2460\u7ED9\u6E38\u620F\u6DFB\u52A0\u4E86\u66F4\u52A0\u73B0\u4EE3\u5316\u7684\u5EFA\u7B51\uFF0C\u7531\u539F\u7248\u76846\u7EA7\u53D8\u4E3A11\u7EA7(\u5747\u9700\u5BF9\u5E94\u6587\u660E\u77E5\u8BC6\u89E3\u9501)\r\n\u2461\u5728\u6E38\u620F\u539F\u7248\u7684\u7B2C\u4E00\u680F\u4E2D\u6DFB\u52A0\u4E86\u201C\u5EFA\u7B51\u5347\u7EA7\u201D\u548C\u201C\u5EFA\u7B51\u964D\u7EA7\u201D\u529F\u80FD\uFF0C\u65B9\u4FBF\u5FEB\u901F\u53D1\u5C55",
+    "author": "keymasterer, don_nikon, quicklast",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260109/553193f3299143d29365fc3cb88c383f.png",
+    "tag": [
+      "\u8FD1\u73B0\u4EE3\u79D1\u6280",
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "c3f95b356634427698d213bc273fa946",
+        "gameversion": "0.22.x",
+        "modVersion": "1.3.3",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.3-game0.22.x-20260109122744-e7c5944a/0.22.%2B.ModernMod_1.3.3.zip"
+      }
+    ]
   }
 ]
