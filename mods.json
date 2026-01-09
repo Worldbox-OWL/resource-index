@@ -2110,5 +2110,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.3-game0.22.x-20260109122744-e7c5944a/0.22.%2B.ModernMod_1.3.3.zip"
       }
     ]
+  },
+  {
+    "mod": "\u7B80\u6613\u653E\u7F6E\u6A21\u7EC4amod",
+    "introduce": "\u2460\u6DFB\u52A0\u661F\u795E\u65CF\u5355\u4F4D(\u53EA\u80FD\u52A0\u5165\u5DF2\u6709\u6587\u660E)\u53CA\u5176\u5EFA\u7B51\u6446\u4EF6\uFF0C\u6CA1\u6709\u5B9E\u9645\u7528\u9014\r\n\u2461\u5F53\u6DFB\u52A0\u73B0\u4EE3\u5316\u76D2\u6A21\u7EC4\u65F6\uFF0C\u5141\u8BB8\u653E\u7F6E\u5BF9\u5E94\u5EFA\u7B51\r\n\u2462\u5F53\u6DFB\u52A0\u673A\u68B0\u6218\u4E89\u6A21\u7EC4\u65F6\uFF0C\u5141\u8BB8\u653E\u7F6E\u5BF9\u5E94\u5355\u4F4D",
+    "author": "\u661F\u66DC\u5403\u4E0D\u9971",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260109/f16c2378dca94135bf6d4c6536abfd75.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "cff2f8a22eb443ea8dd676c3ee0a35db",
+        "gameversion": "0.22.x",
+        "modVersion": "1.0.6",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.6-game0.22.x-20260109122951-f16ce386/amod_1.0.6.zip"
+      }
+    ]
   }
 ]
