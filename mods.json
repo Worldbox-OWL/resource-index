@@ -2187,5 +2187,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260110025023-9899b425/0.50.6%2B.DestructivewWars_1.0.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6709\u6548\u5C5E\u6027\u4E0A\u9650StatsCap",
+    "introduce": "\u5C06\u8840\u91CF\u3001\u9B54\u529B\u3001\u8010\u529B\u3001\u5916\u4EA4\u3001\u6307\u6325\u3001\u7EC4\u7EC7\u3001\u667A\u529B\u3001\u7B49\u7EA7\u3001\u91D1\u5E01\u4E0A\u9650\u8BBE\u4E3A21\u4EBF\uFF0C\u4F24\u5BB3\u4E0A\u9650\u8BBE\u4E3A2\u4EBF1\uFF0C\u66B4\u51FB\u4E0A\u9650\u8BBE\u4E3A2100\u4E07\uFF0C\u907F\u514D\u6570\u503C\u6EA2\u51FA",
+    "author": "\u770B\u5BA2",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260110/03d35df3061c437e82d515928a84ec30.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u4F53\u9A8C\u4F18\u5316",
+      "\u5FC5\u5907"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "e241e64154034bcba3e8666a72057521",
+        "gameversion": "0.51.x",
+        "modVersion": "0.1.2",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.2-game0.51.x-20260110154641-cbb224b6/0.51.%2B.StatsCap_0.1.2.zip"
+      }
+    ]
   }
 ]
