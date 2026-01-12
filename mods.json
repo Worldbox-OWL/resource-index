@@ -1224,6 +1224,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.3-game0.22.x-20251213160501-72c14586/0.22.%2B.EconomyBox._0.0.3.zip"
+      },
+      {
+        "uuid": "bb7c64fbdaa54279aa3937a9b620069c",
+        "gameversion": "0.51.x",
+        "modVersion": "0.2.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.2.0-game0.51.x-20260112045241-3ff4ede6/0.51.%2B.EconomyBox._0.2.0.zip"
       }
     ]
   },
