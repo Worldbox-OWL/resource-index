@@ -2217,5 +2217,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.2-game0.51.x-20260110154641-cbb224b6/0.51.%2B.StatsCap_0.1.2.zip"
       }
     ]
+  },
+  {
+    "mod": "\u51FA\u754C\u5B58\u6D3B\u6A21\u7EC4NoDeathOutside",
+    "introduce": "\u5355\u4F4D\u5728\u5730\u56FE\u8FB9\u754C\u5916\u65F6\u4E0D\u518D\u6301\u7EED\u53D7\u5230\u8FB9\u754C\u4F24\u5BB3",
+    "author": "Jean-Antoine",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260113/17d4429a31b147d9954bd5e6cf50f511.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "93bf63a39b154546a79d9a6fbb2aa08b",
+        "gameversion": "0.51.x",
+        "modVersion": "2.0.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.0.0.0-game0.51.x-20260113151826-8d72d870/0.51.%2B._2.0.0.0.zip"
+      }
+    ]
   }
 ]
