@@ -2300,5 +2300,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.8.84-game0.51.x-20260119115137-fb9a9fe8/0.51.%2B._1.8.84.zip"
       }
     ]
+  },
+  {
+    "mod": "\u975E\u8212\u9002\u7FA4\u7CFBDesadaptation",
+    "introduce": "\u5728\u4E9A\u79CD\u7279\u8D28\u7684\u9002\u5E94\u5206\u7EC4\u4E2D\u4E3A\u539F\u724817\u4E2A\u7FA4\u843D\u548C\u666E\u901A\u6C99\u5730\u6DFB\u52A0\u4E86\u96BE\u8010\u7279\u8D28\uFF0C\u53EF\u4EE5\u8BA9\u4E9A\u79CD\u65E0\u6CD5\u5728\u5BF9\u5E94\u7FA4\u7CFB\u5EFA\u7ACB\u57CE\u5E02",
+    "author": "Androlg",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260119/058084bf2ad6456cbd37675e103fa6ea.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "437d87e193a74ad09aeccff4bdad0baa",
+        "gameversion": "0.51.x",
+        "modVersion": "0.0.1",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.1-game0.51.x-20260119131543-224b33a5/0.51.%2B.Desadaptation_0.0.1.zip"
+      }
+    ]
   }
 ]
