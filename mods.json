@@ -2319,6 +2319,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.1-game0.51.x-20260119131543-224b33a5/0.51.%2B.Desadaptation_0.0.1.zip"
+      },
+      {
+        "uuid": "f0f30a677a0e4388911e48992e779e2a",
+        "gameversion": "0.50.x",
+        "modVersion": "0.0.1",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.1-game0.50.x-20260119131548-70c31c13/0.51.%2B.Desadaptation_0.0.1.zip"
       }
     ]
   }
