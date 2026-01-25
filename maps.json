@@ -2975,5 +2975,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x8-game0.50.x-20260113034417-195613f0/Ramificacao.Flasco_12x8.Kideuz.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6D77\u5CE1\u521B\u610FCreativity",
+    "introduce": "",
+    "author": "Gregorianek",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260125/407f40d073d04020823cf6d2864274eb.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u7ACB\u4F53\u6A21\u62DF",
+      "\u591A\u5C9B\u5C7F",
+      "\u7CBE\u54C1\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "4d50ac8a6bb64fb38da1fb615aea889b",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "11x11",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v11x11-game0.50.x-20260125042045-6c2e7207/_11x11.Gregorianek.zip"
+      }
+    ]
   }
 ]
