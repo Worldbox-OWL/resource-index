@@ -3018,5 +3018,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v24x24-game0.50.x-20260126080203-aa42f140/_24x24.Emess.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5BFB\u5E38\u7684\u6D77\u9F9F",
+    "introduce": "",
+    "author": "(\u672A\u77E5)",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/8cb404e678724740b938e6d782dca375.png",
+    "tag": [
+      "\u753B\u4F5C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "9c15f7b9b977436b885c8f66306be884",
+        "gameversion": "0.12.x",
+        "modVersion": null,
+        "size": "12x10",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x10-game0.12.x-20260126080309-2c6e5d71/_12x10.zip"
+      }
+    ]
   }
 ]
