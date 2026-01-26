@@ -3265,5 +3265,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14x6-game0.14.x-20260126082525-63fbdba0/NA._14x6.hantu.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6D77\u5730\u5C9B",
+    "introduce": "\u52A0\u52D2\u6BD4\u6D77\u7B2C\u4E8C\u5927\u5C9B\u5C7F",
+    "author": "hantu",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/fa42d2b0ecae443a8188491c6c46cd36.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u5C40\u90E8"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "8c622f81c0be40738cf3e64b1dd1167a",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "15x6",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v15x6-game0.14.x-20260126082643-8abe31c3/NA._15x6.hantu.zip"
+      }
+    ]
   }
 ]
