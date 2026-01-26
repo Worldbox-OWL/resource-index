@@ -3038,5 +3038,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x10-game0.12.x-20260126080309-2c6e5d71/_12x10.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6676\u9F99",
+    "introduce": "",
+    "author": "Katastrophic",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/14825e0833344bb78a8d6ec017e20954.png",
+    "tag": [
+      "\u753B\u4F5C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "58a47b57f8064f2ebc0316df1531cd23",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "6x6",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v6x6-game0.22.x-20260126080418-73473b99/_6x6.Katastrophic.zip"
+      }
+    ]
   }
 ]
