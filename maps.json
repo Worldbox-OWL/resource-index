@@ -3132,5 +3132,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v21x10-game0.14.x-20260126081500-134e02af/_21x10.boki.zip"
       }
     ]
+  },
+  {
+    "mod": "\u53E4\u6587\u660E\u7EB7\u4E89\u5730",
+    "introduce": "",
+    "author": "\u68A6\u68AD",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/e12c7c9bbee74cbbb420c93009901a67.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u5C40\u90E8"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "bc3fc9f8185f477a9e3b56b89250a72e",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "17x10",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v17x10-game0.14.x-20260126081600-a970f901/_17x10.zip"
+      }
+    ]
   }
 ]
