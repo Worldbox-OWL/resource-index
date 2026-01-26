@@ -2998,5 +2998,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v11x11-game0.50.x-20260125042045-6c2e7207/_11x11.Gregorianek.zip"
       }
     ]
+  },
+  {
+    "mod": "\u4E24\u4EEA\u751F\u56DB\u8C61",
+    "introduce": "",
+    "author": "Emess",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/986c1d9205d24fea8df6fad95f3dd31c.png",
+    "tag": [
+      "\u753B\u4F5C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "5c554514910d4badaa9483c812186d3c",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "24x24",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v24x24-game0.50.x-20260126080203-aa42f140/_24x24.Emess.zip"
+      }
+    ]
   }
 ]
