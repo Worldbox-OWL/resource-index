@@ -2389,5 +2389,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.51.x-20260127082329-2bf2aa52/0.51.%2B.AntiSingularity_1.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u8DE8\u79CD\u65CF\u604B\u7231InterracialRomance",
+    "introduce": "\u6DFB\u52A0\u4E00\u4E2A\u53EF\u4EE5\u5141\u8BB8\u4E0D\u540C\u7269\u79CD\u604B\u7231\u7E41\u6B96\u7684\u4E16\u754C\u6CD5\u5219",
+    "author": "PON2016",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260127/4cdb48d720f440d9a368f350d1ef2417.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "68c2e78fd8104d3ea63588d79e44c86f",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.51.x-20260127082556-5be30bcc/0.51.%2B.InterracialRomance_1.0.zip"
+      }
+    ]
   }
 ]
