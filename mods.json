@@ -2369,5 +2369,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.51.x-20260127082253-720d541a/0.51.%2B.NoMonolithRepulsion_1.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u7981\u6B62\u5947\u70B9\u4F20\u9001AntiSingularity",
+    "introduce": "\u6DFB\u52A0\u4E00\u4E2A\u53EF\u4EE5\u7981\u6B62\u5947\u70B9\u6CBC\u6CFD\u4F20\u9001\u7684\u4E16\u754C\u6CD5\u5219",
+    "author": "PON2016",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260127/1c6ee06be42042e3ba836db3ddacbded.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "e4dddb93478f44fb9b679557b36c066e",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.51.x-20260127082329-2bf2aa52/0.51.%2B.AntiSingularity_1.0.zip"
+      }
+    ]
   }
 ]
