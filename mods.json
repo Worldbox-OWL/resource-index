@@ -2410,5 +2410,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.51.x-20260127082556-5be30bcc/0.51.%2B.InterracialRomance_1.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5EFA\u9020\u6A21\u7EC4Buildings(\u6C49\u5316)",
+    "introduce": "\u7528\u4E8E\u542F\u7528\u6743\u6E38\u529F\u80FD\u548C\u5FEB\u901F\u653E\u7F6E\u5EFA\u7B51\u7269",
+    "author": "Dej",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260131/76c6c742c6b44608926b2b757b5c559e.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u8F85\u52A9\u6A21\u7EC4"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "3852ecec115c463f96e19ffc2e9ff3a3",
+        "gameversion": "0.14.x",
+        "modVersion": "0.0.2",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.2-game0.14.x-20260131103444-5ddd0f40/0.14.%2B.Buildings._0.0.2.zip"
+      }
+    ]
   }
 ]
