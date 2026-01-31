@@ -3850,5 +3850,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v15x15-game0.22.x-20260131105607-b67a23cc/_15x15.AvoidingBoredom.zip"
       }
     ]
+  },
+  {
+    "mod": "\u592A\u9633\u516B\u5206\u76D8",
+    "introduce": "",
+    "author": "dingus",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260131/399412c5c2c54bf6b37708c8bdc153b9.png",
+    "tag": [
+      "\u89C4\u6574\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "5ff6bc31db2146d399943498e67db3e2",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "9x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.22.x-20260131105731-74102d04/_9x9.dingus.zip"
+      }
+    ]
   }
 ]
