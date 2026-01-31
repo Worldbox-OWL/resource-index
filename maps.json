@@ -3890,5 +3890,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.14.x-20260131105848-75d31ecf/_9x9.5Fair.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5BF9\u79F0\u65B9\u5757\u9886\u57DF",
+    "introduce": "",
+    "author": "Parker_rules",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260131/56cccfedb65c411e9b710bba44c3b380.png",
+    "tag": [
+      "\u89C4\u6574\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "d1fc621f98104a4f925b93507f506c2c",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "9x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.14.x-20260131105931-bcf5779e/_9x9.Parker_rules.zip"
+      }
+    ]
   }
 ]
