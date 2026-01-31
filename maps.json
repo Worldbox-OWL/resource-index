@@ -3175,6 +3175,14 @@
         "size": "7x13",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v7x13-game0.14.x-20260126081709-5d523601/Af._7x13.boki.zip"
+      },
+      {
+        "uuid": "3f74ff0b745643399d0cc0720ba20032",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "13x22",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x22-game0.14.x-20260131104655-f23ca100/_13x22.boki.zip"
       }
     ]
   },
