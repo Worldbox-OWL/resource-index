@@ -3820,5 +3820,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x8-game0.22.x-20260131105153-eca761da/_8x8.Whedabra.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5E73\u8861\u5DE5\u7A0B\uFF1A\u5E0C\u671B",
+    "introduce": "",
+    "author": "AvoidingBoredom",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260131/e9404ebe25e347119324edc3b4d16e45.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u89C4\u6574\u5730\u56FE",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "049d16241fc74347a9f971419ee6e61f",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "9x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.22.x-20260131105602-6d8cde1c/_9x9.AvoidingBoredom.zip"
+      }
+    ]
   }
 ]
