@@ -3799,5 +3799,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v22x48-game0.14.x-20260131104842-e9a10ad0/_22x48.hantu.zip"
       }
     ]
+  },
+  {
+    "mod": "\u82B1\u7CD6",
+    "introduce": "",
+    "author": "Whedabra",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260131/6dae8aaa97c149ca8a35f70a133ba02b.png",
+    "tag": [
+      "\u753B\u4F5C",
+      "\u89C4\u6574\u5730\u56FE"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "c1beb6bf91aa46fe9de24c9cac8522f1",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "8x8",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x8-game0.22.x-20260131105153-eca761da/_8x8.Whedabra.zip"
+      }
+    ]
   }
 ]
