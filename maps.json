@@ -3910,5 +3910,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.14.x-20260131105931-bcf5779e/_9x9.Parker_rules.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6D1B\u7F8E\u7279\u5927\u9646Romate",
+    "introduce": "",
+    "author": "the pope",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260204/209baf8552c84448abc3482332460f19.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u5927\u9646\u5730\u56FE",
+      "\u591A\u5C9B\u5C7F"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "1cbed71540914e468710fb4efb5e3188",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "12x11",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x11-game0.22.x-20260204042858-6f17482a/Romate_12x11.the.pope.zip"
+      }
+    ]
   }
 ]
