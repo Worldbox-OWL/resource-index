@@ -3932,5 +3932,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x11-game0.22.x-20260204042858-6f17482a/Romate_12x11.the.pope.zip"
       }
     ]
+  },
+  {
+    "mod": "\u8D64\u77B3\u4FB5\u5165Oculus",
+    "introduce": "",
+    "author": "Gregorianek",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260204/240f63c7fd2b4ce6b98f9108eb2f29c1.png",
+    "tag": [
+      "\u753B\u4F5C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "747536db2407437b8fef1a0a74e24743",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "9x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.22.x-20260204044258-7e194611/Oculus_9x9.Gregorianek.zip"
+      }
+    ]
   }
 ]
