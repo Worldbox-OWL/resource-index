@@ -3974,5 +3974,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.22.x-20260207095210-f4569a46/_9x9.Darkness.zip"
       }
     ]
+  },
+  {
+    "mod": "\u9668\u843D\u7684\u6CF0\u5766",
+    "introduce": "",
+    "author": "Mr.Calamitous",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/da94d4ad3ec140198ffb60f5a396cfa2.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u753B\u4F5C",
+      "\u7CBE\u54C1\u5730\u56FE",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "702029bfdb124161a02f97b196efb6d8",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "6x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v6x9-game0.22.x-20260207100041-68a91792/_6x9.Mr.Calamitous.zip"
+      }
+    ]
   }
 ]
