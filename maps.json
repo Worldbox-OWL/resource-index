@@ -4013,5 +4013,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v24x36-game0.22.x-20260207100053-a928d04c/_24x36.Mr.Calamitous.zip"
       }
     ]
+  },
+  {
+    "mod": "\u7D2B\u7981\u57CE",
+    "introduce": "",
+    "author": "Q\u8363\u5E86Q",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/047d365e62c047de815ea140a21c505d.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u534E\u590F",
+      "\u5C40\u90E8",
+      "\u9B54\u6539"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "25f2e168a35247ff87e278b9653ef5ed",
+        "gameversion": "0.12.x",
+        "modVersion": null,
+        "size": "7x7",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v7x7-game0.12.x-20260207100237-50badd15/_7x7.Q.Q.zip"
+      }
+    ]
   }
 ]
