@@ -4037,5 +4037,29 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v7x7-game0.12.x-20260207100237-50badd15/_7x7.Q.Q.zip"
       }
     ]
+  },
+  {
+    "mod": "\u795E\u90FD\u6D1B\u9633",
+    "introduce": "",
+    "author": "Hu_ger",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/49fac153ddae4b80b06e3c8eb5b4cd28.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u534E\u590F",
+      "\u5C40\u90E8",
+      "\u9B54\u6539",
+      "\u57CE\u5E02\u89C4\u5212"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "ca87efe4454743debf1ad3d758762a69",
+        "gameversion": "0.12.x",
+        "modVersion": null,
+        "size": "12x12",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x12-game0.12.x-20260207100417-97a6f603/_12x12.up.Hu_ger.zip"
+      }
+    ]
   }
 ]
