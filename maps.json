@@ -4174,6 +4174,14 @@
         "size": "19x15",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x15-game0.14.x-20260207103345-fa5da4d4/_19x15.boki.zip"
+      },
+      {
+        "uuid": "3bd72a6ba6854f178069e33512fff713",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "19x15(\u53BB\u5CA9\u6D46\u6D77)",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x15%28%E5%8E%BB%E5%B2%A9%E6%B5%86%E6%B5%B7%29-game0.14.x-20260207103352-1d4e97c8/_19x15.boki.zip"
       }
     ]
   }
