@@ -4082,6 +4082,14 @@
         "size": "8x5",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x5-game0.22.x-20260207101838-9a09ca51/_8x5.Mr.Slime.zip"
+      },
+      {
+        "uuid": "6a206603b1b14ddd81c9eb66463de773",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "12x7",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x7-game0.22.x-20260207101843-45910681/_12x7.Mr.Slime.zip"
       }
     ]
   }
