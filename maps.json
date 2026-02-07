@@ -3952,5 +3952,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.22.x-20260204044258-7e194611/Oculus_9x9.Gregorianek.zip"
       }
     ]
+  },
+  {
+    "mod": "\u57CE\u5821\u9886\u5730",
+    "introduce": "",
+    "author": "Darkness",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/2bf69283851c414db6531ba283712382.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u57CE\u5E02\u89C4\u5212",
+      "\u753B\u4F5C"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "b11b2a40b34e4ba38c994b8a623f9bdd",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "9x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.22.x-20260207095210-f4569a46/_9x9.Darkness.zip"
+      }
+    ]
   }
 ]
