@@ -2496,5 +2496,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.9-game0.51.x-20260213044506-ff3cde2d/0.51.%2B.BorderControl_1.1.9.zip"
       }
     ]
+  },
+  {
+    "mod": "\u623F\u4EA7\u76D2OwnTheBox",
+    "introduce": "\u2460\u79C1\u6709\u571F\u5730\uFF1A\u5355\u4F4D\u53EF\u4EE5\u5BA3\u79F0\u516C\u5171\u6216\u8D2D\u4E70\u79C1\u4EBA\u5730\u76AE\u6210\u4E3A\u5730\u4E3B\u3001\u8D2D\u4E70\u623F\u5C4B\u6216\u5EFA\u9020\u6765\u6210\u4E3A\u623F\u4E3B\uFF0C\u623F\u4E3B\u4F1A\u9A71\u9010\u975E\u672C\u5BB6\u6210\u5458\uFF0C\u540C\u6C0F\u65CF/\u5BB6\u5EAD\u53EF\u4E3A\u6210\u5458\u63D0\u4F9B\u6298\u6263\u3002\u76F8\u5173\u6570\u636E\u53EF\u5728\u6A21\u7EC4\u8BBE\u7F6E\u4E2D\u4FEE\u6539\r\n\u2461\u7EE7\u627F\u5236\uFF1A\u53D6\u6D88\u4E86\u91D1\u5E01\u548C\u6218\u5229\u54C1\u4E0A\u9650\uFF0C\u4E14\u571F\u5730\u3001\u623F\u5C4B\u3001\u91D1\u5E01\u548C\u6218\u5229\u54C1\u5747\u53EF\u7EE7\u627F\u7ED9\u540E\u4EE3\uFF0C\u6839\u636E\u6587\u5316\u7EE7\u627F\u7EC4\u7279\u8D28\u6765\u9009\u62E9\r\n(\u6A21\u7EC4\u5217\u8868\u4E2D\u627E\u5230\u6B64\u6A21\u7EC4\u7136\u540E\u70B9\u51FB\u53F3\u4FA7\u9F7F\u8F6E\u53EF\u89C1\u6A21\u7EC4\u8BBE\u7F6E)",
+    "author": "MoshiMochi",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260213/12e7d2a5bc1642c0a63ac280c48e2cf5.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u539F\u751F\u8C03\u6574",
+      "\u534A\u6210\u54C1"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "8f5cf080767048b7ae5c93ee276ed539",
+        "gameversion": "0.51.x",
+        "modVersion": "1.1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0-game0.51.x-20260213044622-4dca6857/0.51.%2B.OwnTheBox_1.1.0.zip"
+      }
+    ]
   }
 ]
