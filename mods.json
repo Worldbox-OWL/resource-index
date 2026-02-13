@@ -2475,5 +2475,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.3.3-game0.22.x-20260205111526-d30f6163/0.22.%2B.GodTools_1.0.3.3.zip"
       }
     ]
+  },
+  {
+    "mod": "\u8FB9\u5883\u7BA1\u5236BorderControl",
+    "introduce": "\u82E5\u672A\u5BA3\u6218\u6216\u7ED3\u76DF\uFF0C\u519B\u961F\u4E0D\u5F97\u64C5\u81EA\u7A7F\u8D8A\u4ED6\u56FD\u9886\u571F",
+    "author": "MontyBox",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260213/9145775944f34370811df394e0b5b845.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "versions": [
+      {
+        "uuid": "0711a808325a446587402e00e3cae82b",
+        "gameversion": "0.51.x",
+        "modVersion": "1.1.9",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.9-game0.51.x-20260213044506-ff3cde2d/0.51.%2B.BorderControl_1.1.9.zip"
+      }
+    ]
   }
 ]
