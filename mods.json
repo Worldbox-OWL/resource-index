@@ -9,6 +9,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "698fe727c7de4d7eafd7e954385b5c29",
@@ -110,6 +111,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "c5bb9bc8f05e4cafa5f0e6124163893a",
@@ -139,6 +141,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "3248da8e1d0e4f4f90ebe55f322f419c",
@@ -168,6 +171,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "4becf4a424b64cda8db72ef706678d8b",
@@ -213,6 +217,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "4ff5cf2eaeb5410395255eaeb94bde83",
@@ -257,6 +262,7 @@
       "\u529F\u80FD\u6269\u5C55"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "cd238e770bce44ecbb9a0f8bc97abc97",
@@ -301,6 +307,7 @@
       "\u4F53\u9A8C\u4F18\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "266b5bec1f244cadaec1a46149dc7b12",
@@ -331,6 +338,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "b0729ba7dad345f5bab3d83941b3cdde",
@@ -359,6 +367,7 @@
       "\u4F53\u9A8C\u4F18\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "dc3eb6687d64464892014e8ed929e6c6",
@@ -387,6 +396,7 @@
       "\u529F\u80FD\u6269\u5C55"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "7485136b7ec34d4ebed74a5f3e2474e2",
@@ -407,42 +417,6 @@
     ]
   },
   {
-    "mod": "\u7279\u8D28\u6B66\u9053",
-    "introduce": "\u2460\u6DFB\u52A0\u4E86\u4E00\u4E9B\u8089\u9E3D\u5143\u7D20\u7684\u7279\u8D28\uFF0C\u6B64\u7248\u672C\u5171163\u4E2A\u7279\u8D28\uFF0C\u53EF\u8BDE\u751F\u3001\u9057\u4F20\u51FA\u73B0\r\n\u2460\u5355\u72EC\u7684\u6B66\u9053\u4FEE\u70BC\u4F53\u7CFB\uFF0C\u5728\u751F\u7269\u9762\u677F\u5C06\u9F20\u6807\u60AC\u505C\u81F3\u751F\u7269\u4E0A\u53EF\u89C1(\u540C\u65F6\u53EF\u89C1\u5929\u8D4B\u4EE5\u53CA\u52A0\u6210)\uFF0C\u51716\u4E2A\u5883\u754C\uFF0C\u51E1\u4EBA(\u672A\u7B97\u5728\u5185)\u3001\u5165\u54C1\u3001\u540E\u5929(\u6B66\u9053\u7279\u8D28\u002B1)\u3001\u5148\u5929(\u6B66\u9053\u7279\u8D28\u002B1)\u3001\u81F3\u81FB(\u6B66\u9053\u7279\u8D28\u002B2)\u3001\u8D85\u51E1\u5165\u5723(\u6B66\u9053\u7279\u8D28\u002B2)\u3001\u6B66\u9053\u9547\u795E(\u6B66\u9053\u7279\u8D28\u002B4~5)\r\n\u2462\u6A21\u7EC4\u8BBE\u7F6E\uFF1A\u5141\u8BB8\u57CE\u5E02\u6295\u964D(\u5173\u95ED\u540E\u57CE\u5E02\u4E0D\u4F1A\u88AB\u5176\u4ED6\u56FD\u5BB6\u5360\u9886\uFF0C\u53EA\u80FD\u8D76\u5C3D\u6740\u7EDD)\u3001\u51FB\u6740\u83B7\u53D6\u7ECF\u9A8C\u7CFB\u6570(\u51FB\u6740\u6240\u83B7\u7ECF\u9A8C=\u539F\u7248\u51FB\u6740\u7ECF\u9A8C\u00D7\u6B64\u7CFB\u6570)\u3001\u5929\u8D4B\u751F\u6548\u500D\u6570(\u81EA\u7136\u4FEE\u70BC\u7ECF\u9A8C=\u5929\u8D4B\u00D7\u6B64\u500D\u6570)\r\n\u6CE8\uFF1A\u6A21\u7EC4\u8BBE\u7F6E\u53EF\u5728\u6B66\u9053\u680F\u5185\u8FDB\u5165\u4E5F\u53EF\u5728\u6A21\u7EC4\u5217\u8868\u7A97\u53E3\u4E2D\u8FDB\u5165\uFF1B\u6B66\u9053\u680F\u5185\u6392\u884C\u699C\u8FD8\u672A\u5B8C\u6210\uFF0C\u65E0\u6CD5\u4F7F\u7528",
-    "author": "\u672B\u5F71\u5927\u9ED1,\u4E00\u7C73",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251203/4736f9278a684e12ab5be1d0dea6298d.png",
-    "tag": [
-      "\u4FEE\u70BC\u4F53\u7CFB"
-    ],
-    "index": null,
-    "versions": [
-      {
-        "uuid": "30661b854cdb4d21aa9e7438d4b81e46",
-        "gameversion": "0.50.6",
-        "modVersion": "1.5.2",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.2-game0.50.6-20251203134944-6f39706c/0.50.6%2B._1.5.2.zip"
-      },
-      {
-        "uuid": "735844fc280e4d1182177e1b38d63138",
-        "gameversion": "0.22.x",
-        "modVersion": "1.4.0",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.4.0-game0.22.x-20251203134948-314644ba/0.22.%2B._1.4.0.zip"
-      },
-      {
-        "uuid": "85fe89b4c9db4b79949bdf3f0fa00115",
-        "gameversion": "0.50.3",
-        "modVersion": "1.5.1",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.1-game0.50.3-20251203134952-f5581bf8/0.50.3%2B._1.5.1.zip"
-      }
-    ]
-  },
-  {
     "mod": "\u53CB\u5584\u5171\u5904\u6A21\u7EC4Friendly Villagers",
     "introduce": "\u2460\u7269\u79CD\u76F8\u548C\uFF1A\u901A\u8FC7\u7981\u6B62\u6587\u660E\u7684\u201C\u6392\u5916\u201D\u7279\u8D28\uFF0C\u5B9E\u73B0\u4E0D\u540C\u7269\u79CD\u5728\u57CE\u5E02\u4E2D\u5171\u5B58\r\n\u2461\u6A21\u7EC4\u57FA\u7840\u529F\u80FD\uFF1A\u76F8\u5F53\u4E8E\u5B9E\u65F6\u542F\u7528/\u7981\u7528\u6A21\u7EC4\u8BBE\u7F6E\u4E2D\u7684\u5176\u4ED6\u914D\u7F6E\uFF0C\u76EE\u524D\u4EC5\u4E0B\u9762\u8FD9\u4E24\u4E2A\u529F\u80FD\r\n\u53CD\u5411\u55DC\u8840\uFF1A\u5176\u4ED6\u57CE\u5E02\u4E0E\u9996\u90FD\u7269\u79CD\u4E0D\u76F8\u540C\u65F6\uFF0C\u9886\u4E3B\u62E5\u6709\u55DC\u8840\u7279\u8D28\u4F1A\u589E\u52A0\u5FE0\u8BDA\u5EA6\r\n\u5BF9\u5916\u53CB\u5584\uFF1A\u6587\u660E\u4E2D\u65E0\u201C\u4EB2\u5916\u201D\u7279\u8D28\u7684\u56FD\u5BB6\u9ED8\u8BA4\u884C\u4E3A\u548C\u4EB2\u5916\u56FD\u5BB6\u4E00\u81F4(\u4E0D\u4F1A\u8BEF\u4F24\u666E\u901A\u5E02\u6C11)",
     "author": "carpaldunnel",
@@ -451,6 +425,7 @@
       "\u4F53\u9A8C\u4F18\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "0fcb22e7c2af45cb80bb81913f3135cb",
@@ -496,6 +471,7 @@
       "\u5730\u5F62\u53D8\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "9ee5507a28b2454f92a8bed0a3369506",
@@ -534,6 +510,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "c96d983ad9e74fc1b6f043c57d274aff",
@@ -570,6 +547,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "24cd203265d64833959c3cdc6af6a121",
@@ -599,6 +577,7 @@
       "\u5927\u578B\u6A21\u7EC4"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "d3e93824be5542acb5a7c710806fbfef",
@@ -645,6 +624,7 @@
       "\u786C\u7F16\u7801\u6C49\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "c74b189fb110405eaea597b7fb2594d2",
@@ -665,6 +645,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "849a28e745b94b3cbfa33997165b04f4",
@@ -701,6 +682,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "5d1853fd5f344186922aaca5967177a9",
@@ -738,6 +720,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "5a9fcdec844c473e8e7b982726d2c386",
@@ -776,6 +759,7 @@
       "\u786C\u7F16\u7801\u6C49\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "595ae3dd3afd45b7b45d7dd99312cc8b",
@@ -813,6 +797,7 @@
       "\u786C\u7F16\u7801\u6C49\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "1207cd0c5c964ac395861aa603594e0a",
@@ -858,6 +843,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "3ab620145b3d44f4a64ab36c09be7118",
@@ -879,6 +865,7 @@
       "\u4F53\u9A8C\u4F18\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "e5e3230d4ccc42f59ce4e0ec423f1b7e",
@@ -908,6 +895,7 @@
       "\u4FEE\u70BC\u4F53\u7CFB"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "026b2c5b12304cf79f165aab2822e05e",
@@ -952,6 +940,7 @@
       "\u7279\u6B8A\u6548\u679C"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "bd8ba414aaac4d0e834cc381a87d6554",
@@ -997,6 +986,7 @@
       "\u4F53\u9A8C\u4F18\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "71145a08876045c7926060b5925dd47f",
@@ -1036,6 +1026,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "ef93e64413b04f19ac1d49c66b15a7b7",
@@ -1066,6 +1057,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "e802ea8bb8214a10a270581f673b0ea8",
@@ -1088,6 +1080,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "40bf473f459b4653ac4ee6dcf69e32ed",
@@ -1109,6 +1102,7 @@
       "\u786C\u7F16\u7801\u6C49\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "0dae3bb508a145cfabc341b1fef79a4d",
@@ -1138,6 +1132,7 @@
       "\u786C\u7F16\u7801\u6C49\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "c5961990c780408b8855f76a9b06dbc2",
@@ -1168,6 +1163,7 @@
       "\u4F53\u9A8C\u4F18\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "3bd6bbc06c7d4a2fbbbd6d0965b18f78",
@@ -1196,6 +1192,7 @@
       "\u529F\u80FD\u6269\u5C55"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "bb2fb0897b50449c8d9f80ebdfa2d545",
@@ -1216,6 +1213,7 @@
       "\u6027\u80FD\u7834\u574F"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "c3216eba3e514172bf00126ffe1f8dd6",
@@ -1246,6 +1244,7 @@
       "\u786C\u7F16\u7801\u6C49\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "4829167731554da69ae05b81bf62a2f4",
@@ -1284,6 +1283,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "5cc221870a0b47a6bfb27d749abfe849",
@@ -1305,6 +1305,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "1b7474c2f70a4877a40e0b877d6f634f",
@@ -1335,6 +1336,7 @@
       "\u6027\u80FD\u7834\u574F"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "95dcc9b50327490ea4f99049b60d86fa",
@@ -1381,6 +1383,7 @@
       "\u4F53\u9A8C\u4F18\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "720040aabd8e4285822c07deb863283d",
@@ -1401,6 +1404,7 @@
       "\u72EC\u7279\u751F\u7269"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "1a34d26e8fe14402b562dccb59e9c246",
@@ -1430,6 +1434,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "65d2ec3d55124ae8812174fe2ef71d18",
@@ -1453,6 +1458,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "d184e0c1112746cb945104a3659ea446",
@@ -1474,6 +1480,7 @@
       "\u4F53\u9A8C\u4F18\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "db219931e24f47149af6f0ef2a256efb",
@@ -1503,6 +1510,7 @@
       "\u72EC\u7279\u751F\u7269"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "bc603a57371448e1b8c174b888f484c8",
@@ -1541,6 +1549,7 @@
       "\u4FEE\u70BC\u4F53\u7CFB"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "f20a351325bb49d4a61287deb5354a22",
@@ -1579,6 +1588,7 @@
       "\u6027\u80FD\u7834\u574F"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "7512de8ce26548d5862d655b9ffc3aba",
@@ -1602,6 +1612,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "e3518e9b21924e24b5c9c6f3da7e5107",
@@ -1623,6 +1634,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "d29231cc8ad54ae18ef3460f51afbe52",
@@ -1652,6 +1664,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "f647248be30f4463bb5350d938eefafc",
@@ -1689,6 +1702,7 @@
       "\u4F53\u9A8C\u4F18\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "48c7f62c464d436ea026866428ccf81c",
@@ -1710,6 +1724,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "ed18e8d7606842469f16e9a28b118140",
@@ -1740,6 +1755,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "e5f4750e0ac44e3db31344f419cc4d97",
@@ -1784,6 +1800,7 @@
       "\u8FD1\u73B0\u4EE3\u79D1\u6280"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "f7307bc8b2cf49f8a45ce44c354170d3",
@@ -1806,6 +1823,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "51e0e48eb31a4d6b979ce7952f4266d7",
@@ -1827,6 +1845,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "ad98a73cc4084dd79acf6f5e21ec2783",
@@ -1848,6 +1867,7 @@
       "\u4F53\u9A8C\u4F18\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "ec6632a8f9d34e7596db91a54c4e4c6f",
@@ -1870,6 +1890,7 @@
       "\u6027\u80FD\u7834\u574F"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "7425bdcf2a254ab4bf9b689f66f4a516",
@@ -1892,6 +1913,7 @@
       "\u534A\u6210\u54C1"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "b133a82cf4eb49279382ad4c0a1f98c0",
@@ -1913,6 +1935,7 @@
       "Bug\u4FEE\u590D"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "afe1850049a846ca891c9c6350a7e6b1",
@@ -1941,6 +1964,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "d928411de5d1423fbf36ed0812da2ea3",
@@ -1963,6 +1987,7 @@
       "\u6027\u80FD\u7834\u574F"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "8e998d3e2dac410d93f10b0bc33f1dbe",
@@ -1985,6 +2010,7 @@
       "\u4F53\u9A8C\u4F18\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "bcbbca6715a94292869d9d0ff7b35267",
@@ -2006,6 +2032,7 @@
       "\u72EC\u7279\u751F\u7269"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "dc26d925a4d6421f9cc43fb16585585f",
@@ -2036,6 +2063,7 @@
       "\u4F53\u9A8C\u4F18\u5316"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "3f19f78501fb4fdca2e586a731d9398a",
@@ -2058,6 +2086,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "12b7c08ef30d414ca9bc707df33c51ab",
@@ -2080,6 +2109,7 @@
       "\u72EC\u7279\u751F\u7269"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "e79b7ee99e0048dbb9ef6bb8a5d41198",
@@ -2109,6 +2139,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "c3f95b356634427698d213bc273fa946",
@@ -2130,6 +2161,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "cff2f8a22eb443ea8dd676c3ee0a35db",
@@ -2150,6 +2182,7 @@
       "\u539F\u8457\u884D\u751F"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "84c666248d58433b9e9cb54de3b7a186",
@@ -2178,6 +2211,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "a53408063ccd4036b9dfee4549591f9c",
@@ -2208,6 +2242,7 @@
       "\u5FC5\u5907"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "e241e64154034bcba3e8666a72057521",
@@ -2228,6 +2263,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "93bf63a39b154546a79d9a6fbb2aa08b",
@@ -2249,6 +2285,7 @@
       "\u4FEE\u70BC\u4F53\u7CFB"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "7998e46a12e549f3b0ed4663f5f86e78",
@@ -2270,6 +2307,7 @@
       "\u5927\u8303\u56F4\u7834\u574F"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "e4be4a60776a470bb3777bdd5a767287",
@@ -2290,6 +2328,7 @@
       "\u4FEE\u70BC\u4F53\u7CFB"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "c347c19894684cb699127acd796cf996",
@@ -2311,6 +2350,7 @@
       "\u529F\u80FD\u6269\u5C55"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "437d87e193a74ad09aeccff4bdad0baa",
@@ -2339,6 +2379,7 @@
       "\u4FEE\u70BC\u4F53\u7CFB"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "f70eddba37a14b96b963e5cefcf0fc6d",
@@ -2359,6 +2400,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "bc7b9acc6fab4f37a7dcf56f7557f04e",
@@ -2379,6 +2421,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "e4dddb93478f44fb9b679557b36c066e",
@@ -2400,6 +2443,7 @@
       "\u529F\u80FD\u6269\u5C55"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "68c2e78fd8104d3ea63588d79e44c86f",
@@ -2421,6 +2465,7 @@
       "\u8F85\u52A9\u6A21\u7EC4"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "3852ecec115c463f96e19ffc2e9ff3a3",
@@ -2441,6 +2486,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "d5ca62c3a16040bc98108f4002c218e9",
@@ -2465,6 +2511,7 @@
       "\u534A\u6210\u54C1"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "fca14e50230c41c98923270d77fe83e2",
@@ -2486,6 +2533,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "0711a808325a446587402e00e3cae82b",
@@ -2508,6 +2556,7 @@
       "\u534A\u6210\u54C1"
     ],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "8f5cf080767048b7ae5c93ee276ed539",
@@ -2516,6 +2565,51 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0-game0.51.x-20260213044622-4dca6857/0.51.%2B.OwnTheBox_1.1.0.zip"
+      }
+    ]
+  },
+  {
+    "mod": "\u7279\u8D28\u6B66\u9053",
+    "introduce": "\u2460\u6DFB\u52A0\u4E86\u4E00\u4E9B\u8089\u9E3D\u5143\u7D20\u7684\u7279\u8D28\uFF0C\u6B64\u7248\u672C\u5171163\u4E2A\u7279\u8D28\uFF0C\u53EF\u8BDE\u751F\u3001\u9057\u4F20\u51FA\u73B0\r\n\u2460\u5355\u72EC\u7684\u6B66\u9053\u4FEE\u70BC\u4F53\u7CFB\uFF0C\u5728\u751F\u7269\u9762\u677F\u5C06\u9F20\u6807\u60AC\u505C\u81F3\u751F\u7269\u4E0A\u53EF\u89C1(\u540C\u65F6\u53EF\u89C1\u5929\u8D4B\u4EE5\u53CA\u52A0\u6210)\uFF0C\u51716\u4E2A\u5883\u754C\uFF0C\u51E1\u4EBA(\u672A\u7B97\u5728\u5185)\u3001\u5165\u54C1\u3001\u540E\u5929(\u6B66\u9053\u7279\u8D28\u002B1)\u3001\u5148\u5929(\u6B66\u9053\u7279\u8D28\u002B1)\u3001\u81F3\u81FB(\u6B66\u9053\u7279\u8D28\u002B2)\u3001\u8D85\u51E1\u5165\u5723(\u6B66\u9053\u7279\u8D28\u002B2)\u3001\u6B66\u9053\u9547\u795E(\u6B66\u9053\u7279\u8D28\u002B4~5)\r\n\u2462\u6A21\u7EC4\u8BBE\u7F6E\uFF1A\u5141\u8BB8\u57CE\u5E02\u6295\u964D(\u5173\u95ED\u540E\u57CE\u5E02\u4E0D\u4F1A\u88AB\u5176\u4ED6\u56FD\u5BB6\u5360\u9886\uFF0C\u53EA\u80FD\u8D76\u5C3D\u6740\u7EDD)\u3001\u51FB\u6740\u83B7\u53D6\u7ECF\u9A8C\u7CFB\u6570(\u51FB\u6740\u6240\u83B7\u7ECF\u9A8C=\u539F\u7248\u51FB\u6740\u7ECF\u9A8C\u00D7\u6B64\u7CFB\u6570)\u3001\u5929\u8D4B\u751F\u6548\u500D\u6570(\u81EA\u7136\u4FEE\u70BC\u7ECF\u9A8C=\u5929\u8D4B\u00D7\u6B64\u500D\u6570)\r\n\u6CE8\uFF1A\u6A21\u7EC4\u8BBE\u7F6E\u53EF\u5728\u6B66\u9053\u680F\u5185\u8FDB\u5165\u4E5F\u53EF\u5728\u6A21\u7EC4\u5217\u8868\u7A97\u53E3\u4E2D\u8FDB\u5165\uFF1B\u6B66\u9053\u680F\u5185\u6392\u884C\u699C\u8FD8\u672A\u5B8C\u6210\uFF0C\u65E0\u6CD5\u4F7F\u7528",
+    "author": "\u672B\u5F71\u5927\u9ED1,\u4E00\u7C73",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251203/4736f9278a684e12ab5be1d0dea6298d.png",
+    "tag": [
+      "\u4FEE\u70BC\u4F53\u7CFB"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T02:58:23.2268257Z",
+    "versions": [
+      {
+        "uuid": "30661b854cdb4d21aa9e7438d4b81e46",
+        "gameversion": "0.50.6",
+        "modVersion": "1.5.2",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.2-game0.50.6-20251203134944-6f39706c/0.50.6%2B._1.5.2.zip"
+      },
+      {
+        "uuid": "735844fc280e4d1182177e1b38d63138",
+        "gameversion": "0.22.x",
+        "modVersion": "1.4.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.4.0-game0.22.x-20251203134948-314644ba/0.22.%2B._1.4.0.zip"
+      },
+      {
+        "uuid": "85fe89b4c9db4b79949bdf3f0fa00115",
+        "gameversion": "0.50.3",
+        "modVersion": "1.5.1",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.1-game0.50.3-20251203134952-f5581bf8/0.50.3%2B._1.5.1.zip"
+      },
+      {
+        "uuid": "dc9a0614e1ec44caa1bee1fb628d43cc",
+        "gameversion": "0.51.x",
+        "modVersion": "1.6.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.6.0-game0.51.x-20260214025819-e21c88e5/0.51.%2B._1.6.0.zip"
       }
     ]
   }
