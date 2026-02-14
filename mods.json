@@ -2807,5 +2807,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.3-game0.22.x-20260214043930-960aee0e/0.22.%2B.MagicRaces_0.0.3.zip"
       }
     ]
+  },
+  {
+    "mod": "\u52A8\u7269\u5E84\u56EDAnimalFarm",
+    "introduce": "\u2460\u6DFB\u52A0\u751F\u7269\u2014\u2014\u732A\u3002\u732A\u53EF\u4EE5\u5EFA\u7ACB\u8D77\u738B\u56FD\u5E76\u5C06\u5176\u4ED6\u5BB6\u79BD(\u732B\u3001\u72D7\u3001\u5976\u725B\u7B49)\u7EB3\u5165\u5176\u4E2D\r\n\u2461\u65B0\u589E\u72EC\u6709\u7A00\u6709\u77E5\u8BC6\uFF1A\u6212\u5F8B5\u4FEE\u8BA2\u3001\u6212\u5F8B6\u4FEE\u8BA2\u3001\u6212\u5F8B7\u4FEE\u8BA2\r\n\u6212\u5F8B5\u4FEE\u8BA2\uFF1A\u89E3\u9501\u7269\u8D44\u5564\u9152\r\n\u6212\u5F8B6\u4FEE\u8BA2\uFF1A\u4E0E\u540C\u65CF\u738B\u56FD\u5916\u4EA4\u5173\u7CFB\u53D8\u5DEE\r\n\u6212\u5F8B7\u4FEE\u8BA2\uFF1A\u732A\u83B7\u5F97\u4EBA\u5F62\u6001",
+    "author": "\u7A7A\u661F\u6F2B\u6F2B",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/77db025b5c1049aea0ab18a5b73a4921.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u72EC\u7279\u751F\u7269",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T04:40:52.9629245Z",
+    "versions": [
+      {
+        "uuid": "3722b09c83c84f8b89796eb9a02decc5",
+        "gameversion": "0.22.x",
+        "modVersion": "0.2.2",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.2.2-game0.22.x-20260214044048-260a651c/0.22.%2B.AnimalFarm_0.2.2.zip"
+      }
+    ]
   }
 ]
