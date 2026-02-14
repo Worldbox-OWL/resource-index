@@ -2920,5 +2920,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.1-game0.22.x-20260214051122-a4b442e3/0.22.%2B.OPNavalBattle_0.1.1.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5EFA\u7B51\u53EF\u71C3\u6027\u6A21\u7EC4ScorchMod",
+    "introduce": "\u2460\u5C06\u539F\u7248\u7684\u6240\u6709\u5EFA\u7B51\u8BBE\u5B9A\u4E3A\u4EC5\u5730\u72F1\u548C\u6C34\u6676\u7FA4\u7CFB\u7684\u81EA\u7136\u690D\u7269\u5EFA\u7B51\u4E0D\u53EF\u71C3\uFF0C\u5176\u4ED6\u5747\u4F1A\u71C3\u70E7(\u662F\u7684\uFF0C\u77FF\u7269\u4E5F\u4F1A)\r\n\u2461\u5982\u679C\u60F3\u4FEE\u6539\u5EFA\u7B51\u53EF\u71C3\u6027\u53EF\u5728 ScorchMod_1.0/Code/BurnBuildingChanges.cs \u4E2D\u67E5\u770B\u5E76\u66F4\u6539",
+    "author": "avb",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/d157df6843cb4b31af9e6f390ca24344.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T05:12:35.6298807Z",
+    "versions": [
+      {
+        "uuid": "4551ad82c1b64ac68a0266afdba7eece",
+        "gameversion": "0.22.x",
+        "modVersion": "1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.22.x-20260214051231-0c881fbb/0.22.%2B.ScorchMod_1.0.NeoMod.zip"
+      }
+    ]
   }
 ]
