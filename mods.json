@@ -2717,5 +2717,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0.0-game0.22.x-20260214043423-19a7f10b/0.22.%2B.UnitInventoryViewer_1.0.0.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u66F4\u591A\u751F\u7269\u5EFA\u7B51MoreMobSpawners",
+    "introduce": "\u4E3A\u4E00\u4E9B\u539F\u7248\u5176\u4ED6\u751F\u7269\u6DFB\u52A0\u4E86\u5EFA\u7B51\uFF0C\u548C\u6E38\u620F\u5185\u201C\u51B0\u5854\u201D\u3001\u201C\u706B\u5854\u201D\u6548\u679C\u7C7B\u4F3C\r\n\u76EE\u524D\u6709\u5916\u661F\u4EBA\u3001\u4E27\u5C38\u3001\u9F99\u3001\u683C\u96F7\u3001\u5FB7\u9C81\u4F0A\u3001\u767D\u888D\u6CD5\u5E08\u3001\u7EA2\u888D\u6CD5\u5E08\u3001\u4EA1\u7075\u6CD5\u5E08\u3001\u9E21\u3001\u5E7D\u7075\u3001\u76D7\u8D3C\u3001\u96EA\u4EBA\u3001UFO",
+    "author": "Haydar_Kara",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/cc34d88474e241fa9d32fd2b63800384.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T04:35:19.1733430Z",
+    "versions": [
+      {
+        "uuid": "b748d078d86345af9b8a963c1fea5a5f",
+        "gameversion": "0.22.x",
+        "modVersion": "0.0.2",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.2-game0.22.x-20260214043516-709323fb/0.22.%2B.MoreMobSpawners._0.0.2.zip"
+      }
+    ]
   }
 ]
