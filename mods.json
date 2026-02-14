@@ -2631,7 +2631,7 @@
       "\u539F\u8457\u884D\u751F"
     ],
     "index": null,
-    "updatedAt": "2026-02-14T04:31:10.8902151Z",
+    "updatedAt": "2026-02-14T04:31:18.4587498Z",
     "versions": [
       {
         "uuid": "1d89c21721114f72b45f582346b673e4",
@@ -2640,6 +2640,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.1-game0.22.x-20260214043106-fd7b4428/0.22.%2B.World.of.Legends_0.0.1.zip"
+      },
+      {
+        "uuid": "85b405a1d2e9440da557d05005ad06bf",
+        "gameversion": "0.21.x",
+        "modVersion": "0.0.1",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.1-game0.21.x-20260214043114-a5c83a9d/0.22.%2B.World.of.Legends_0.0.1.zip"
       }
     ]
   }
