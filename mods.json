@@ -2876,5 +2876,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.22.x-20260214050919-3a2953af/0.22.%2B.UnitTrainerMod_1.0.0.NeoMod.zip"
       }
     ]
+  },
+  {
+    "mod": "\u65F7\u65E5\u4E4B\u6218EternalWars",
+    "introduce": "\u6B63\u5E38\u4F53\u9A8C\u4E2D\uFF0C\u4E16\u754C\u6CD5\u5219\u5173\u95ED\u201C\u5916\u4EA4-\u968F\u673A\u4E8B\u4EF6\u201D\u4F1A\u5BFC\u81F4\u6218\u4E89\u5F88\u5FEB\u505C\u6B62\uFF0C\u6B64\u6A21\u7EC4\u4E3A\u4E86\u786E\u4FDD\u6218\u4E89\u7684\u6301\u4E45\uFF0C\u5173\u95ED\u76F8\u5E94\u6CD5\u5219\u540E\u6218\u4E89\u5C06\u4E0D\u53EF\u80FD\u81EA\u52A8\u505C\u6B62",
+    "author": "Jean-Antoine",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/bdc7c432c28e4ed3bd7cb1f69a033881.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T05:10:24.1392509Z",
+    "versions": [
+      {
+        "uuid": "d66d839f5e5d41d6a49a916139483d04",
+        "gameversion": "0.22.x",
+        "modVersion": "1.0.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0.0-game0.22.x-20260214051021-cab4ce71/0.22.%2B._1.0.0.0.zip"
+      }
+    ]
   }
 ]
