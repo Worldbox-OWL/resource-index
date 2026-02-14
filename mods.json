@@ -2784,5 +2784,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.22.x-20260214043843-6168ebbc/0.22.%2B.FunBox_1.0.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u9B54\u6CD5\u79CD\u65CFMagicRaces",
+    "introduce": "\u2460\u4EBA\u7C7B\u2014\u767D\u8272\u6CD5\u5E08\uFF0C\u77EE\u4EBA\u2014\u90AA\u6076\u6CD5\u5E08\uFF0C\u7CBE\u7075\u2014\u5FB7\u9C81\u4F0A\uFF0C\u517D\u4EBA\u2014\u4EA1\u7075\u6CD5\u5E08\u3002\u5BF9\u5E94\u79CD\u65CF\u4F1A\u65BD\u5C55\u5BF9\u5E94\u6CD5\u5E08\u7684\u4E00\u4E9B\u6CD5\u672F\u4E14\u4F1A\u5236\u4F5C\u8BE5\u6CD5\u6756\r\n\u2461\u7279\u8D28\uFF1A\u4EBA\u7C7B\u6DFB\u52A0\u201C\u518D\u751F\u201D\u3001\u201C\u6297\u51BB\u201D;\u77EE\u4EBA\u6DFB\u52A0\u201C\u518D\u751F\u201D\u3001\u201C\u9632\u706B\u201D;\u7CBE\u7075\u6DFB\u52A0\u201C\u518D\u751F\u201D\u3001\u201C\u8010\u9178\u201D;\u517D\u4EBA\u6DFB\u52A0\u201C\u5FA1\u6BD2\u201D",
+    "author": "Agriche",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/8cd014acc694437494a490c8a199b07f.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u529F\u80FD\u6269\u5C55",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T04:39:34.0893752Z",
+    "versions": [
+      {
+        "uuid": "32d33129e6ce4e709a94c2cbde5b73f8",
+        "gameversion": "0.22.x",
+        "modVersion": "0.0.3",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.3-game0.22.x-20260214043930-960aee0e/0.22.%2B.MagicRaces_0.0.3.zip"
+      }
+    ]
   }
 ]
