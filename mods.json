@@ -2673,5 +2673,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0-game0.22.x-20260214043216-214e849c/0.22.%2B.Doctor_1.1.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6DF7\u4E71\u751F\u7269UnitMod",
+    "introduce": "\u2460\u6DFB\u52A0\u4E86\u5C60\u9F99\u8005\u3001\u7537/\u5973\u5438\u8840\u9B3C\u3001\u6B63\u4E49\u5927\u6CD5\u5E08\u3001\u90AA\u6076\u5927\u6CD5\u5E08\u3001\u5927\u6CD5\u5E08\u3001\u5DEB\u5996\u3001\u673A\u5668\u4EBA\u3001\u6076\u9B54\u9886\u4E3B\u3001\u4E94\u6761\u609F\u548C\u4E09\u79CD\u957F\u817F\u7684\u9C7C\r\n\u2461\u6DFB\u52A0\u4E86\u6989\u6811\u7FA4\u7CFB\u79CD\u5B50\u3001\u8FD8\u6709\u4E00\u4E9B\u9644\u5E26\u7684\u5F3A\u529B\u7279\u8D28(\u6BD4\u5982\u5F3A\u5236\u6B7B\u4EA1\u7684\u201C\u62B9\u6740\u201D\u3001\u6709\u590D\u6D3B\u80FD\u529B\u7684\u201C\u590D\u751F\u529B\u201D\u3001\u5F3A\u5236\u5F81\u5175\u7684\u201C\u58EB\u5175\u8BC1\u201D)\u3001\u72B6\u6001(\u514D\u53D7\u6240\u6709\u8D1F\u9762\u72B6\u6001\u7684\u201C\u6E05\u9192\u5492\u201D)\u548C\u9644\u52A0\u7684\u6B66\u5668",
+    "author": "Prakash",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/0e88094edb524ebaba214f162a602c81.jpg",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T04:33:23.6780190Z",
+    "versions": [
+      {
+        "uuid": "d8d662403bd7467cb7ded014417efe89",
+        "gameversion": "0.22.x",
+        "modVersion": "0.0.1",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.1-game0.22.x-20260214043320-276f5b84/0.22.%2B.UnitMod._0.0.1.zip"
+      }
+    ]
   }
 ]
