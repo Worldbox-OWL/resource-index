@@ -3074,5 +3074,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1-game0.22.x-20260214052303-0391c519/0.22.%2B.MagicWeapons_1.1.zip"
       }
     ]
+  },
+  {
+    "mod": "\u7269\u79CD\u751F\u6210\u7387\u6A21\u7EC4AnimalSpawnRate",
+    "introduce": "\u53EF\u4EE5\u63A7\u5236\u5404\u5730\u5757\u751F\u6210\u7269\u79CD\u7684\u201C\u81EA\u7136\u751F\u6210\u7387\u201D\u3001\u201C\u81EA\u7136\u751F\u6210\u4E0A\u9650\u201D\u548C\u201C\u6BCF\u6B21\u751F\u6210\u6570\u91CF\u201D\uFF0C\u5177\u4F53\u67E5\u770B\u6B64\u6A21\u7EC4\u7684\u201C\u6A21\u7EC4\u8BBE\u7F6E\u201D",
+    "author": "NpMaster",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/6908f1d6f65a417887581c0a75d20c7c.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T16:41:26.7179481Z",
+    "versions": [
+      {
+        "uuid": "f9417352979148d8b21847b06896ba06",
+        "gameversion": "0.22.x",
+        "modVersion": "beta",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/vbeta-game0.22.x-20260214164123-56e27fdb/0.22.%2B.AnimalSpawnRate_beta.NeoMod.zip"
+      }
+    ]
   }
 ]
