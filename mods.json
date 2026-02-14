@@ -2620,5 +2620,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.22.x-20260214042618-cba513bc/0.22.%2B.Segmentation_1.0.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u82F1\u96C4\u8054\u76DF\u88C5\u5907World of Legends",
+    "introduce": "\u52A0\u5165\u4E86\u8BB8\u591A\u82F1\u96C4\u8054\u76DF\u7684\u88C5\u5907",
+    "author": "D10g0",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/a4d2f02d5947403b989e946aaae9b663.jpg",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u539F\u8457\u884D\u751F"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T04:31:10.8902151Z",
+    "versions": [
+      {
+        "uuid": "1d89c21721114f72b45f582346b673e4",
+        "gameversion": "0.22.x",
+        "modVersion": "0.0.1",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.1-game0.22.x-20260214043106-fd7b4428/0.22.%2B.World.of.Legends_0.0.1.zip"
+      }
+    ]
   }
 ]
