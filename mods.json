@@ -2942,5 +2942,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.22.x-20260214051231-0c881fbb/0.22.%2B.ScorchMod_1.0.NeoMod.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6307\u6325\u5B98",
+    "introduce": "\u2460\u4F5C\u7528\uFF1A\u6307\u6325\u5B98\u53EF\u4EE5\u8C03\u7528 \u672C\u7269\u79CD\u5168\u4F53\u751F\u7269\uFF08\u975E\u667A\u6167\u79CD\u65CF\uFF09/\u5168\u56FD\u58EB\u5175\uFF08\u667A\u6167\u79CD\u65CF\u3001\u672A\u5F00\u542F\u201C\u5168\u6C11\u7686\u5175\u201D\uFF09/\u5168\u4F53\u56FD\u6C11\uFF08\u667A\u6167\u79CD\u65CF\u3001\u5DF2\u5F00\u542F\u201C\u5168\u6C11\u7686\u5175\u201D\uFF09 \u6765\u8FDB\u884C\u8FDB\u653B\r\n\u2461\u4EA7\u751F\u65B9\u5F0F\uFF1A\u4EB2\u624B\u6DFB\u52A0 \u6216\u8005\r\n\u5BF9\u4E8E\u975E\u667A\u6167\u79CD\u65CF\uFF0C\u7269\u79CD\u6570\u91CF\u8FBE\u5230500\u5373\u4F1A\u968F\u673A\u4EA7\u751F\u4E00\u540D\u201C\u6307\u6325\u5B98\u201D\r\n\u5BF9\u4E8E\u667A\u6167\u79CD\u65CF\uFF0C\u4E00\u4E2A\u738B\u56FD\u5185\u4EBA\u53E3\u8FBE\u5230500\u5373\u53EF\u8BA9\u56FD\u738B\u53D8\u4E3A\u4E00\u540D\u201C\u6307\u6325\u5B98\u201D\uFF0C\u6216\u8005\u81EA\u884C\u8BDE\u751F/\u9057\u4F20\r\n\u5728\u201C\u6A21\u7EC4\u8BBE\u7F6E\u201D\u4E2D\u53EF\u4EE5\u8C03\u6574\u76F8\u5173\u53C2\u6570\uFF0C\u5982\u201C\u6570\u91CF\u6761\u4EF6\u201D\u3001\u201C\u8C03\u52A8\u6570\u91CF\u201D\u3001\u201C\u8BDE\u751F\u7387\u201D\u7B49\r\n\r\n\u5DF2\u77E5\u95EE\u9898\uFF1A\r\n\u4E0D\u80FD\u7528\u6765\u8C03\u7528\u8FDB\u653B\u540C\u79CD\u65CF\u751F\u7269",
+    "author": "456Kingo8",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/7d5d5db06f1a47eea88235bb0e16fdd0.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T05:13:41.4244032Z",
+    "versions": [
+      {
+        "uuid": "46d48770d9e64517ba87f5f7bf4579a0",
+        "gameversion": "0.22.x",
+        "modVersion": "0.0.3",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.3-game0.22.x-20260214051337-afaa2e75/0.22.%2B._0.0.3.NeoMod.zip"
+      }
+    ]
   }
 ]
