@@ -2898,5 +2898,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0.0-game0.22.x-20260214051021-cab4ce71/0.22.%2B._1.0.0.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6D77\u6218\u6A21\u7EC4OPNavalBattle",
+    "introduce": "\u2460\u5C06\u6E14\u8239\u3001\u5546\u8239\u3001\u8FD0\u8F93\u8239\u7684\u7279\u8D28\u8BBE\u4E3A\u53EF\u7F16\u8F91\r\n\u2461\u4E3A\u8FD0\u8F93\u8239\u6DFB\u52A0\u706B\u70AE\uFF0C\u4E3A\u5546\u8239\u6DFB\u52A0\u5FEB\u901F\u706B\u70AE(\u653B\u51FB\u6548\u679C\u4E0E\u7279\u8D28\u65E0\u5173\uFF0C\u53EA\u662F\u76F4\u89C2\u8868\u8FBE\u6A21\u7EC4\u5DF2\u6B63\u5E38\u8FD0\u884C)",
+    "author": "Agriche",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/9ae88bdea65d41508140bfa2bbbbbd98.png",
+    "tag": [
+      "\u4F53\u9A8C\u4F18\u5316",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T05:11:27.1347903Z",
+    "versions": [
+      {
+        "uuid": "ff2a6a3d0a1941258d021554b1f90e16",
+        "gameversion": "0.22.x",
+        "modVersion": "0.1.1",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.1-game0.22.x-20260214051122-a4b442e3/0.22.%2B.OPNavalBattle_0.1.1.zip"
+      }
+    ]
   }
 ]
