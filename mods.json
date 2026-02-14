@@ -3031,5 +3031,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.0.7-game0.22.x-20260214052058-78990632/0.22.%2B.GodofWarBox._2.0.7.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5929\u707E\u5F3A\u5316",
+    "introduce": "\u5F3A\u5316\u5B62\u5B50\u3001\u80BF\u7624\u3001\u5357\u74DC\u3001\u6838\u5FC3\u56DB\u4E2A\u5730\u6BEF\uFF0C\u8BA9\u5176\u53EF\u4EE5\u5728\u5BF9\u5E94\u5730\u6BEF\u4E0A\u521B\u5EFA\u5BF9\u5E94\u5EFA\u7B51\uFF0C\u4E5F\u8BA9\u5BF9\u5E94\u751F\u7269\u51FA\u73B0\u7684\u66F4\u591A\u66F4\u5FEB",
+    "author": "456Kingo8",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/c41e27475333447ab6b066942d4bbd8f.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T05:22:06.4392004Z",
+    "versions": [
+      {
+        "uuid": "874fdc50817d430eba1b8e07c88c417b",
+        "gameversion": "0.22.x",
+        "modVersion": "0.1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.0-game0.22.x-20260214052202-38e8cb91/0.22.%2B.0.1.0.zip"
+      }
+    ]
   }
 ]
