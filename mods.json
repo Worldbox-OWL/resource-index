@@ -2650,5 +2650,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.1-game0.21.x-20260214043114-a5c83a9d/0.22.%2B.World.of.Legends_0.0.1.zip"
       }
     ]
+  },
+  {
+    "mod": "\u533B\u8005\u7279\u8D28Doctor",
+    "introduce": "\u6DFB\u52A0\u4E86\u201C\u666E\u901A\u533B\u8005\u201D\u548C\u201C\u590D\u751F\u533B\u8005\u201D\u4E24\u4E2A\u7279\u8D28\u3002\u666E\u901A\u533B\u8005\u53EF\u4EE5\u6CBB\u6108\u5468\u56F4\u6709\u201C\u761F\u75AB\u201D\u3001\u201C\u80BF\u7624\u201D\u3001\u201C\u4E27\u5C38\u5316\u201D\u3001\u201C\u5B62\u5B50\u201D\u548C\u201C\u8BC5\u5492\u201D\uFF1B\u590D\u751F\u533B\u8005\u9664\u4E86\u4E0A\u8FF0\u529F\u80FD\u5916\u8FD8\u53EF\u4EE5\u5C06\u4E27\u5C38\u3001\u80BF\u7624\u751F\u7269\u3001\u5B62\u5B50\u751F\u7269\u53D8\u56DE\u539F\u751F\u7269\u5F62\u6001",
+    "author": "Krummple",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/5b759078af5b4d9faceecc80970b3c61.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u4F53\u9A8C\u4F18\u5316",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T04:32:18.8227658Z",
+    "versions": [
+      {
+        "uuid": "fe96ed0d5d734bf6a6324540140d4545",
+        "gameversion": "0.22.x",
+        "modVersion": "1.1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0-game0.22.x-20260214043216-214e849c/0.22.%2B.Doctor_1.1.0.zip"
+      }
+    ]
   }
 ]
