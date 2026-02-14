@@ -3096,5 +3096,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/vbeta-game0.22.x-20260214164123-56e27fdb/0.22.%2B.AnimalSpawnRate_beta.NeoMod.zip"
       }
     ]
+  },
+  {
+    "mod": "\u707E\u5384\u5165\u4FB5InvasionsMod",
+    "introduce": "\u2460\u968F\u7740\u6587\u660E\u751F\u7269\u7684\u589E\u52A0\uFF0C\u5165\u4FB5\u4E8B\u4EF6\u7684\u751F\u7269\u4E0A\u9650\u4F1A\u9010\u6B65\u63D0\u5347\uFF0C\u4F8B\u5982\u53EF\u80FD\u4F1A\u51FA\u73B0\u4E00\u6B21\u60275\u5343\u6076\u9B54\u5165\u4FB5\r\n\u2461\u53EF\u63D0\u5347\u7684\u4E8B\u4EF6\u751F\u7269\u5305\u62EC\u6076\u9B54\u3001\u5BD2\u51B0\u6076\u9B54\u3001\u9F99\u3001\u6838\u5FC3\u673A\u5668\u4EBA\u3001UFO\r\n\u2462\u4E3A\u5BD2\u51B0\u6076\u9B54\u6DFB\u52A0\u4E86\u53EF\u4EE5\u65BD\u52A0\u51B0\u51BB\u7684\u8FD1\u6218\u6B66\u5668",
+    "author": "Agriche",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/dde0e70f0f8f49d68b5cc143bc86fd02.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T16:42:19.5602082Z",
+    "versions": [
+      {
+        "uuid": "856e9c3612c841c09b588d5efc7c812d",
+        "gameversion": "0.22.x",
+        "modVersion": "0.0.2",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.2-game0.22.x-20260214164216-ca86e42e/0.22.%2B.InvasionsMod_0.0.2.zip"
+      }
+    ]
   }
 ]
