@@ -3009,5 +3009,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.2-game0.22.x-20260214051655-73d65625/0.22.7%2B.TerraBox._0.0.2.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6218\u795E\u76D2GodofWarBox",
+    "introduce": "\u7075\u611F\u6765\u6E90\u4E8E\u6E38\u620F\u300A\u6218\u795E\u300B\uFF0C\u6DFB\u52A0\u4E86\u6765\u81EA\u5317\u6B27\u795E\u8BDD\u7684\u201C\u4F17\u795E\u4E4B\u7236\u201D\u5965\u4E01\u3001\u201C\u96F7\u795E\u201D\u6258\u5C14\u3001\u201C\u5149\u660E\u4E4B\u795E\u201D\u5DF4\u5FB7\u5C14\u3001\u201C\u5B88\u62A4\u4E4B\u795E\u201D\u6D77\u5C14\u8FBE\u59C6\u3001\u201C\u6218\u795E\u201D\u594E\u6258\u65AF\u3001\u201C\u5C18\u4E16\u5DE8\u87D2\u201D\u8036\u68A6\u52A0\u5F97\u3001\u201C\u6218\u795E\u4E4B\u5B50\u201D\u963F\u7279\u67D4\u65AF\u3001\u201C\u7231\u4E0E\u7F8E\u7684\u5973\u795E\u201D\u8299\u857E\u96C5",
+    "author": "AESIR",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/acdc12e083ff468dbbee3f149962ce15.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u72EC\u7279\u751F\u7269"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-14T05:21:02.6403955Z",
+    "versions": [
+      {
+        "uuid": "b906dad7016e4f399d19477d15561f76",
+        "gameversion": "0.22.x",
+        "modVersion": "2.0.7",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.0.7-game0.22.x-20260214052058-78990632/0.22.%2B.GodofWarBox._2.0.7.zip"
+      }
+    ]
   }
 ]
