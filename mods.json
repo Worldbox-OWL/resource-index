@@ -712,36 +712,6 @@
     ]
   },
   {
-    "mod": "\u7279\u8D28\u6210\u5C31\u5168\u89E3\u9501",
-    "introduce": "\u89E3\u9501\u6240\u6709\u7279\u8D28\u548C\u6210\u5C31",
-    "author": "\u4E00\u7C73\u0026\u7384",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251209/efb903218c0e4762b6c6a6b0861bdb72.png",
-    "tag": [
-      "\u8F85\u52A9\u6A21\u7EC4",
-      "\u5FC5\u5907"
-    ],
-    "index": null,
-    "updatedAt": null,
-    "versions": [
-      {
-        "uuid": "11803017de2d4613918934e2f023e9b4",
-        "gameversion": "0.21.x",
-        "modVersion": "1.0.0",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.21.x-20251209083157-42c1a587/0.21.%2B.1.0.0.zip"
-      },
-      {
-        "uuid": "14c70b7281f54ca2b3f079ca88804f67",
-        "gameversion": "0.22.x",
-        "modVersion": "1.0.1",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.1-game0.22.x-20251209083202-8ec6e750/0.22.%2B._1.0.1.zip"
-      }
-    ]
-  },
-  {
     "mod": "Dej\u6A21\u7EC4CollectionMod",
     "introduce": "\u2460\u7B80\u6613\u5B9A\u5236\u7279\u8D28\u7CFB\u7EDF\u2014CRPG\u3001\u53EF\u5B9A\u5236\u7279\u8D28\u83B7\u53D6\u65B9\u5F0F\u2014\u82F1\u96C4\u5934\u8854\uFF08Heroic Titles\uFF09\n\u2461\u6307\u5B9A\u8054\u76DF\u7684\u6743\u529B\uFF0C\u6307\u5B9A\u9996\u90FD\u3001\u79FB\u4EA4\u57CE\u5E02\uFF08\u5272\u5730\uFF09\u3001\u79FB\u6C11\u7684\u6743\u529B\uFF0C\u8D44\u6E90/\u6587\u660E\u77E5\u8BC6/\u751F\u7269\u5FC3\u60C5\u81EA\u5B9A\u4E49\n\u2462\u53EF\u4EE5\u63A7\u5236\u57CE\u5E02/\u6587\u660E\u7684\u5EFA\u7ACB\u3001\u6269\u5F20\u3001\u6D88\u5931\uFF0C\u81EA\u5B9A\u4E49\u88C5\u5907\u7684\u540D\u79F0\u3001\u8BCD\u6761\n\u2463\u53EF\u4EE5\u66F4\u6539\u4EFB\u610F\u5C5E\u6027\u7684\u4E0A\u9650\uFF08\u7B49\u7EA7\u3001\u8840\u91CF\u7B49\uFF09\uFF0C\u53EF\u4EE5\u751F\u6210/\u79FB\u9664\u4EFB\u610F\u751F\u7269\uFF08\u53EF\u9009\u5E74\u9F84\uFF09\uFF0C\u53EF\u4EE5\u81EA\u5B9A\u4E49\u5927\u90E8\u5206\u6570\u636E\n\u2464\u57CE\u5E02\u751F\u6210\u6218\u8239\u3001\u5E1D\u56FD\u601D\u7EF4\u3001\u738B\u56FD\u9009\u4E3E\u3001\u8FC7\u6EE4\u78C1\u94C1\u3001\u7981\u6B62\u4FEE\u8DEF\u7B49\u81EA\u5B9A\u4E49\u9009\u9879\n\u2465\u65B0\u589E24\u79CD\u7FA4\u7CFB\u548C54\u79CD\u65B0\u751F\u7269(\u751F\u7269\u5F97\u81EA\u7136\u751F\u6210\u54E6)",
     "author": "Dej",
@@ -3138,6 +3108,44 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0.5-game0.51.x-20260215050403-eedb0943/0.51.%2B.GodTools_1.1.0.5.zip"
+      }
+    ]
+  },
+  {
+    "mod": "\u7279\u8D28\u6210\u5C31\u5168\u89E3\u9501",
+    "introduce": "\u89E3\u9501\u6240\u6709\u7279\u8D28\u548C\u6210\u5C31",
+    "author": "\u4E00\u7C73\u0026\u7384",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251209/efb903218c0e4762b6c6a6b0861bdb72.png",
+    "tag": [
+      "\u8F85\u52A9\u6A21\u7EC4",
+      "\u5FC5\u5907"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-15T07:49:48.4990731Z",
+    "versions": [
+      {
+        "uuid": "11803017de2d4613918934e2f023e9b4",
+        "gameversion": "0.21.x",
+        "modVersion": "1.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.21.x-20251209083157-42c1a587/0.21.%2B.1.0.0.zip"
+      },
+      {
+        "uuid": "14c70b7281f54ca2b3f079ca88804f67",
+        "gameversion": "0.22.x",
+        "modVersion": "1.0.1",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.1-game0.22.x-20251209083202-8ec6e750/0.22.%2B._1.0.1.zip"
+      },
+      {
+        "uuid": "2919795328c242e49590039cc5b27a80",
+        "gameversion": "0.14.x",
+        "modVersion": "0.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.0-game0.14.x-20260215074945-ba391a09/0.14.%2B.unlock_all.zip"
       }
     ]
   }
