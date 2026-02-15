@@ -724,14 +724,6 @@
     "updatedAt": null,
     "versions": [
       {
-        "uuid": "5a9fcdec844c473e8e7b982726d2c386",
-        "gameversion": "0.14.2",
-        "modVersion": "0.0.0",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.0-game0.14.2-20251209083153-df836a5a/0.14.2.zip"
-      },
-      {
         "uuid": "11803017de2d4613918934e2f023e9b4",
         "gameversion": "0.21.x",
         "modVersion": "1.0.0",
