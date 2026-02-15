@@ -4441,7 +4441,7 @@
       "\u591A\u7248\u672C"
     ],
     "index": null,
-    "updatedAt": "2026-02-15T05:32:23.9194212Z",
+    "updatedAt": "2026-02-15T05:32:31.1798379Z",
     "versions": [
       {
         "uuid": "bcdd4ad6761b45e889a5999a36da1b99",
@@ -4450,6 +4450,14 @@
         "size": "18x18",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v18x18-game0.22.x-20260215053219-d3b8ae8e/_18x18.DHoang2.zip"
+      },
+      {
+        "uuid": "3a0ec5d628ee4937af4128f13a993a2b",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "18x9(\u4E2D\u90E8)",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v18x9%28%E4%B8%AD%E9%83%A8%29-game0.22.x-20260215053227-fd78a06d/_18x9.DHoang2.zip"
       }
     ]
   }
