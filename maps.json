@@ -4430,5 +4430,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9%28%E9%99%86%E5%9C%B0%E6%89%A9%E5%B1%95%29-game0.22.x-20260214163916-a6cc9f82/_9x9.CultistCorpse.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6D77\u8D3C\u738B\u5730\u56FEDemo",
+    "introduce": "",
+    "author": "DHoang2",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260215/feaaebbf018e47c0ba2c56948afb2135.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-15T05:32:23.9194212Z",
+    "versions": [
+      {
+        "uuid": "bcdd4ad6761b45e889a5999a36da1b99",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "18x18",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v18x18-game0.22.x-20260215053219-d3b8ae8e/_18x18.DHoang2.zip"
+      }
+    ]
   }
 ]
