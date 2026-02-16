@@ -3243,5 +3243,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.1-game0.14.x-20260216102404-163e7008/0.14.%2B._0.0.1.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6D4B\u8BD5",
+    "introduce": "\u6D4B\u8BD5",
+    "author": "1111",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/45b6c7f7988948908ea470cd089f7c56.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u529F\u80FD\u6269\u5C55",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-16T16:40:41.0949521Z",
+    "versions": [
+      {
+        "uuid": "b02c3c4797bb4d87abc5bfc2ebd968e6",
+        "gameversion": "0.50.6",
+        "modVersion": "1.2",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2-game0.50.6-20260216164036-28c56e8a/default.zip"
+      }
+    ]
   }
 ]
