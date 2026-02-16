@@ -3160,7 +3160,7 @@
       "\u72EC\u7279\u751F\u7269"
     ],
     "index": null,
-    "updatedAt": "2026-02-16T08:39:02.0945627Z",
+    "updatedAt": "2026-02-16T08:39:07.9764047Z",
     "versions": [
       {
         "uuid": "39900a6a7a354de283b445dd628b711a",
@@ -3169,6 +3169,14 @@
         "size": null,
         "variant": "\u6838\u5FC3\u672C\u4F53",
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.5.6-game0.22.x-20260216083857-af05ede6/0.22.%2B.CW-Core_1.1.5.6.zip"
+      },
+      {
+        "uuid": "943708167bf2497496b82e11c3b5bea3",
+        "gameversion": "0.22.x",
+        "modVersion": "1.1.4",
+        "size": null,
+        "variant": "\u9644\u5C5E\uFF1A\u5947\u5E7B\u751F\u7269",
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.4-game0.22.x-20260216083905-e508a77c/0.22.%2B.FanstasyCreature_1.1.4.zip"
       }
     ]
   }
