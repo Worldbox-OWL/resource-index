@@ -4808,5 +4808,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x10-game0.12.x-20260216161901-5faef8fa/_12x10.Arga.zip"
       }
     ]
+  },
+  {
+    "mod": "\u4E9A\u5E73\u5B81\u534A\u5C9B",
+    "introduce": "",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/4d8f1e5c893e4fbfbce189a3ed9f2848.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u5C40\u90E8",
+      "\u591A\u5C9B\u5C7F"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-16T16:21:26.2183506Z",
+    "versions": [
+      {
+        "uuid": "4f1fce380d74431ca96b7e71268e6d19",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "12x13",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x13-game0.14.x-20260216162123-b6d854fd/2.0_12x13.boki.zip"
+      }
+    ]
   }
 ]
