@@ -4460,5 +4460,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v18x9%28%E4%B8%AD%E9%83%A8%29-game0.22.x-20260215053227-fd78a06d/_18x9.DHoang2.zip"
       }
     ]
+  },
+  {
+    "mod": "\u76D8\u53E4\u6CDB\u5927\u9646\u6838\u5FC3",
+    "introduce": "",
+    "author": "Yoyo",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/4fefa4232e9e445fb182da8674a8e072.png",
+    "tag": [
+      "\u4E16\u754C\u5730\u56FE",
+      "\u672A\u6765\u63A8\u6F14"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-16T15:49:44.8661058Z",
+    "versions": [
+      {
+        "uuid": "263cd8fb2b5b4438a6df8c34e78a2909",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "13x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x9-game0.50.x-20260216154942-d95fbdc1/_13x9.Yoyo.zip"
+      }
+    ]
   }
 ]
