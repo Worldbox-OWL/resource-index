@@ -4564,7 +4564,7 @@
       "\u591A\u7248\u672C"
     ],
     "index": null,
-    "updatedAt": "2026-02-16T16:02:16.1361831Z",
+    "updatedAt": "2026-02-16T16:02:20.8935525Z",
     "versions": [
       {
         "uuid": "7034d845954c40f699bcee13707a6892",
@@ -4573,6 +4573,14 @@
         "size": "11x9",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v11x9-game0.14.x-20260216160211-99caf4ad/_11x9.boki.zip"
+      },
+      {
+        "uuid": "96364c6679bb430bbd5b3be2fdbd1205",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "15x13",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v15x13-game0.14.x-20260216160217-981279df/_15x13.boki.zip"
       }
     ]
   }
