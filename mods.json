@@ -3243,5 +3243,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.1-game0.14.x-20260216102404-163e7008/0.14.%2B._0.0.1.zip"
       }
     ]
+  },
+  {
+    "mod": "\u53BB\u7729\u6655\u72B6\u6001AntiStun",
+    "introduce": "\u5F53\u751F\u7269\u5904\u4E8E\u7729\u6655\u65F6\u76F4\u63A5\u8DF3\u8FC7\u6B64\u72B6\u6001",
+    "author": "RayTracerX",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260222/f9124fad0eb04132aa6735c004923b16.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-22T16:46:02.7981910Z",
+    "versions": [
+      {
+        "uuid": "2021175c19fe42af8ac381b9f41be57e",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260222164559-9a736700/0.51.%2B.AntiStun_1.0.0.zip"
+      }
+    ]
   }
 ]
