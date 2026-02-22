@@ -3264,5 +3264,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260222164559-9a736700/0.51.%2B.AntiStun_1.0.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u65D7\u5E1C\u76D2FlagBox",
+    "introduce": "\u4E3A\u5BB6\u5EAD/\u6C0F\u65CF/\u56FD\u5BB6/\u6587\u5316/\u8BED\u8A00\u6DFB\u52A0221\u4E2A\u56FE\u6807\u3002\u4E3A\u56FD\u5BB6\u5355\u72EC\u6DFB\u52A056\u4E2A\u80CC\u666F\u548C30\u4E2A\u6587\u5B57\u56FE\u6807(\u9700\u5728\u6A21\u7EC4\u8BBE\u7F6E\u4E2D\u542F\u7528)",
+    "author": "Agriche",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260222/f9216951e2f8448ca0a8eaadb16f67ff.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-22T16:51:02.6714431Z",
+    "versions": [
+      {
+        "uuid": "78d5e890476547b5b5611201bffba501",
+        "gameversion": "0.51.x",
+        "modVersion": "0.1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.0-game0.51.x-20260222165058-a3134ba0/0.51.%2B.FlagBox_0.1.0.zip"
+      }
+    ]
   }
 ]
