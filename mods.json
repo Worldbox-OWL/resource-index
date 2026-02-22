@@ -3275,7 +3275,7 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
-    "updatedAt": "2026-02-22T16:51:02.6714431Z",
+    "updatedAt": "2026-02-22T16:51:09.2815620Z",
     "versions": [
       {
         "uuid": "78d5e890476547b5b5611201bffba501",
@@ -3284,6 +3284,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.0-game0.51.x-20260222165058-a3134ba0/0.51.%2B.FlagBox_0.1.0.zip"
+      },
+      {
+        "uuid": "e8ab3f43f5bd4dacb564ed6b37c09091",
+        "gameversion": "0.22.x",
+        "modVersion": "0.0.8",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.8-game0.22.x-20260222165106-b30d1814/0.22.%2B.FlagBox_0.0.8.zip"
       }
     ]
   }
