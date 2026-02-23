@@ -5393,5 +5393,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.14.x-20260223024848-87a2bc5f/_9x9.z6ir.zip"
       }
     ]
+  },
+  {
+    "mod": "\u897F\u4F2F\u5229\u4E9A",
+    "introduce": "",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/88eb9359edb64019bbf99a2a30a0a044.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u5C40\u90E8"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-23T02:49:27.9063372Z",
+    "versions": [
+      {
+        "uuid": "edfd0dca0c8a4a34a7f444d9eab796ee",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "25x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v25x9-game0.22.x-20260223024925-9372bbf5/_25x9.boki.zip"
+      }
+    ]
   }
 ]
