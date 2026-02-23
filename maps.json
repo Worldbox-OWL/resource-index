@@ -5239,7 +5239,7 @@
       "\u591A\u7248\u672C"
     ],
     "index": null,
-    "updatedAt": "2026-02-23T02:43:45.5668952Z",
+    "updatedAt": "2026-02-23T02:43:51.4947008Z",
     "versions": [
       {
         "uuid": "a77c77e2a82049ddaeeaeb1789894703",
@@ -5248,6 +5248,14 @@
         "size": "4x11",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v4x11-game0.12.x-20260223024342-3ab137c2/_4x11.zip"
+      },
+      {
+        "uuid": "685ba20d7bb44cfb9e5a0a615d68fb54",
+        "gameversion": "0.12.x",
+        "modVersion": null,
+        "size": "7x16",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v7x16-game0.12.x-20260223024348-0f7ac4fd/_7x16.zip"
       }
     ]
   }
