@@ -3897,37 +3897,6 @@
     ]
   },
   {
-    "mod": "\u83F2\u5F8B\u5BBE\u7FA4\u5C9B",
-    "introduce": "",
-    "author": "hantu",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260131/c8c44f65d29f48b6a6e36b8ba304e393.png",
-    "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u7248\u672C"
-    ],
-    "index": null,
-    "updatedAt": null,
-    "versions": [
-      {
-        "uuid": "bd624448c6064678ba9760b98784bb8e",
-        "gameversion": "0.14.x",
-        "modVersion": null,
-        "size": "15x21",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v15x21-game0.14.x-20260131104837-d2466a21/_15x21.hantu.zip"
-      },
-      {
-        "uuid": "8fa62eacd2ff4ad483ae21a0beddc0e2",
-        "gameversion": "0.14.x",
-        "modVersion": null,
-        "size": "22x48",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v22x48-game0.14.x-20260131104842-e9a10ad0/_22x48.hantu.zip"
-      }
-    ]
-  },
-  {
     "mod": "\u82B1\u7CD6",
     "introduce": "",
     "author": "Whedabra",
@@ -5209,6 +5178,45 @@
         "size": "12x16",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x16-game0.14.x-20260223024040-87a2908d/_12x16.zip"
+      }
+    ]
+  },
+  {
+    "mod": "\u83F2\u5F8B\u5BBE\u7FA4\u5C9B",
+    "introduce": "",
+    "author": "hantu",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/5a1a11011ac749fab6b46a79e5f4a4f9.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u5C40\u90E8",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-23T02:42:21.2266151Z",
+    "versions": [
+      {
+        "uuid": "bd624448c6064678ba9760b98784bb8e",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "15x21",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v15x21-game0.14.x-20260131104837-d2466a21/_15x21.hantu.zip"
+      },
+      {
+        "uuid": "8fa62eacd2ff4ad483ae21a0beddc0e2",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "22x48",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v22x48-game0.14.x-20260131104842-e9a10ad0/_22x48.hantu.zip"
+      },
+      {
+        "uuid": "dfa1622c9f134d5aa1e04a6622ee89ef",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "15x21",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v15x21-game0.22.x-20260223024218-5c5719dd/_15x21.hantu.zip"
       }
     ]
   }
