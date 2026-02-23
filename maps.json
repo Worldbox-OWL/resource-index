@@ -5522,5 +5522,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v26x12-game0.14.x-20260223032906-18c808ce/_26x12.boki.zip"
       }
     ]
+  },
+  {
+    "mod": "\u4E2D\u6B27",
+    "introduce": "",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/18b5464644fb4d06b555617a8936599c.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u5C40\u90E8"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-23T03:30:36.1141079Z",
+    "versions": [
+      {
+        "uuid": "07830d8e58ae4d128353ad90291c1772",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "22x17",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v22x17-game0.22.x-20260223033032-38e7e6c7/_22x17.boki.zip"
+      }
+    ]
   }
 ]
