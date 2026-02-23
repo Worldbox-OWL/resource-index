@@ -5348,5 +5348,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.22.x-20260223024654-254aa4a3/_9x9.z6ir.zip"
       }
     ]
+  },
+  {
+    "mod": "\u65E5\u672C\u7248\u56FE",
+    "introduce": "",
+    "author": "\u305C\u308D\u3061\u3083\u3093\u306D\u308B,Pokefound",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/670c9bfcc2cd44289ef613f4841e84df.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u5C40\u90E8",
+      "\u591A\u5C9B\u5C7F"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-23T02:47:58.2000007Z",
+    "versions": [
+      {
+        "uuid": "a417eb3784b14a4a895d16a82e84c1cc",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "16x15",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x15-game0.22.x-20260223024755-64ed12cf/_16x15.Pokefound.zip"
+      }
+    ]
   }
 ]
