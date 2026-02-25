@@ -5744,5 +5744,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x15-game0.14.x-20260225172312-164b834d/_20x15.AmericanToad.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6C83\u514B\u65AF\u5C9BVox",
+    "introduce": "",
+    "author": "Mr.Calamitous",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/16c4b63bb285481b80950da36b1b2453.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u591A\u5C9B\u5C7F"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-25T17:33:15.6188072Z",
+    "versions": [
+      {
+        "uuid": "a47330f1fb97458c87c34af23f0dc145",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "20x23",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x23-game0.22.x-20260225173311-3bafc8bb/Vox_20x23.Mr.Calamitous.zip"
+      }
+    ]
   }
 ]
