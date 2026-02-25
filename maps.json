@@ -5354,14 +5354,6 @@
     "updatedAt": "2026-02-23T02:57:42.2157380Z",
     "versions": [
       {
-        "uuid": "3e6d6640d555495f82b6b6c467c81f9e",
-        "gameversion": "0.14.x",
-        "modVersion": null,
-        "size": "17x12",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v17x12-game0.14.x-20260223024611-7ae00dbc/%2B._17x12.zip"
-      },
-      {
         "uuid": "f0eab9fef0c94ad8a1a7e255eb685ffb",
         "gameversion": "0.22.x",
         "modVersion": null,
