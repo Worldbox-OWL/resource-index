@@ -5638,5 +5638,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v30x16-game0.50.x-20260225164544-ec8ceac3/Terrelus_30x16.wrathmons.zip"
       }
     ]
+  },
+  {
+    "mod": "\u8FDC\u53E4\u5723\u5730\uFF1A\u5947\u5E7BAncient Sanctum",
+    "introduce": "",
+    "author": "HenryWasTaken",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/899aab3c9a1149b8a57ee6d5c6968882.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u591A\u5C9B\u5C7F"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-25T16:48:08.2128573Z",
+    "versions": [
+      {
+        "uuid": "d6d95edfad074a0795c520bba281192e",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "7x7",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v7x7-game0.22.x-20260225164804-d4a2663c/Ancient.Sanctum_7x7.HenryWasTaken.zip"
+      }
+    ]
   }
 ]
