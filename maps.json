@@ -5599,14 +5599,6 @@
     "updatedAt": "2026-02-25T16:33:48.1487656Z",
     "versions": [
       {
-        "uuid": "758eef58fafe4769a1a67627ff64b6bb",
-        "gameversion": "0.22.x",
-        "modVersion": null,
-        "size": "8x16",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x16-game0.22.x-20251212165622-14785e60/_8x16.Ingwe.Ingweron.zip"
-      },
-      {
         "uuid": "1f94ecb4839b4713a59c36be9a91ff2e",
         "gameversion": "0.14.x",
         "modVersion": null,
