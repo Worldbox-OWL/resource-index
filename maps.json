@@ -5766,5 +5766,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x23-game0.22.x-20260225173311-3bafc8bb/Vox_20x23.Mr.Calamitous.zip"
       }
     ]
+  },
+  {
+    "mod": "\u745E\u6C83\u5170\u767BRiverlands",
+    "introduce": "",
+    "author": "Mr.Calamitous",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/040b38c7f24d4c8c896e98f4d47da92a.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u591A\u5C9B\u5C7F",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-25T17:35:22.4321798Z",
+    "versions": [
+      {
+        "uuid": "81f2416ecc8f478a88e98cb622b5b70f",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "9x13",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x13-game0.22.x-20260225173518-12578380/Riverlands_9x13.Mr.Calamitous.zip"
+      }
+    ]
   }
 ]
