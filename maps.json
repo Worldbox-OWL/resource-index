@@ -1851,28 +1851,6 @@
     ]
   },
   {
-    "mod": "\u653E\u9010\u4E4B\u5883",
-    "introduce": "",
-    "author": "AmericanToad",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/d309f57eb47e444186930ce77b19ad9d.png",
-    "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u5927\u9646\u5730\u56FE"
-    ],
-    "index": null,
-    "updatedAt": null,
-    "versions": [
-      {
-        "uuid": "067ff31cb18d44d195593136c3311d9e",
-        "gameversion": "0.14.x",
-        "modVersion": null,
-        "size": "12x9",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x9-game0.14.x-20251219093828-5d2684e2/_12x9.AmericanToad.zip"
-      }
-    ]
-  },
-  {
     "mod": "\u52A0\u5C3C\u533F\u79D1Ganinick",
     "introduce": "",
     "author": "ChickenMaster",
@@ -5734,6 +5712,36 @@
         "size": "27x17",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v27x17-game0.22.x-20260225172234-f291d694/_27x17.boki.zip"
+      }
+    ]
+  },
+  {
+    "mod": "\u653E\u9010\u4E4B\u5883",
+    "introduce": "",
+    "author": "AmericanToad",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/d309f57eb47e444186930ce77b19ad9d.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u5927\u9646\u5730\u56FE"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-25T17:23:15.1450732Z",
+    "versions": [
+      {
+        "uuid": "067ff31cb18d44d195593136c3311d9e",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "12x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x9-game0.14.x-20251219093828-5d2684e2/_12x9.AmericanToad.zip"
+      },
+      {
+        "uuid": "2c8ff65580324bcf95a4276388517f4d",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "20x15",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x15-game0.14.x-20260225172312-164b834d/_20x15.AmericanToad.zip"
       }
     ]
   }
