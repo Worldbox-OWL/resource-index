@@ -5713,5 +5713,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x27-game0.22.x-20260225172126-707aa6fa/Narnia_20x27.NightmareLith.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5DF4\u5C14\u5E72\u548C\u5C0F\u4E9A\u7EC6\u4E9A",
+    "introduce": "",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/0656ba72fa0440ca99582d0873849532.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u5C40\u90E8",
+      "\u591A\u5C9B\u5C7F"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-25T17:22:38.6840639Z",
+    "versions": [
+      {
+        "uuid": "687a3e07e09c4e64b72ea6e7de08d6ce",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "27x17",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v27x17-game0.22.x-20260225172234-f291d694/_27x17.boki.zip"
+      }
+    ]
   }
 ]
