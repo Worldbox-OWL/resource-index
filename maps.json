@@ -5582,5 +5582,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v17x12-game0.12.x-20260225153953-6794a04f/%2B._17x12.zip"
       }
     ]
+  },
+  {
+    "mod": "\u91CC\u68EE\u5821\u5730\u56FEListenbourg",
+    "introduce": "\u7F51\u53CB\u4E3A\u5632\u8BBD\u7F8E\u56FD\u4EBA\u5730\u7406\u77E5\u8BC6\u7684\u532E\u4E4F\uFF0C\u800C\u51ED\u7A7A\u521B\u9020\u7684\u65B0\u56FD\u5BB6",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/b777959428014a4c83610beccdb2b2a2.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u9B54\u6539",
+      "\u5C40\u90E8"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-25T15:43:41.3726626Z",
+    "versions": [
+      {
+        "uuid": "13ad6f8446ed4455b3dd56addb302086",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "9x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.14.x-20260225154338-b366e760/Listenbourg_9x9.boki.zip"
+      }
+    ]
   }
 ]
