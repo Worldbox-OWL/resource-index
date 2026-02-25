@@ -3318,5 +3318,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.2.0-game0.51.x-20260223021318-830260bb/0.51.%2B.MoBox._0.2.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u8239\u70AE\u5E73\u8861BoatRebalance",
+    "introduce": "\u2460\u8239\u70AE\u8C03\u6574\uFF1A\u8D38\u6613\u8239\u5B50\u5F39\u5747\u6539\u4E3A\u7BAD\uFF1B\u5404\u8FD0\u8F93\u8239\u70AE\u79D2\u6740\u5E73\u8861\uFF0C\u5982\uFF1A\u7B49\u79BB\u5B50\u5355\u53D1\u4F24\u5BB3\u9AD8\u3001\u70AE\u5F39\u4E00\u6B21\u53CC\u53D1\u3001\u96EA\u7403\u4E00\u6B21\u4E09\u53D1\r\n\u2461\u8239\u4EF7\u63D0\u5347\uFF1A\u8D38\u6613\u823910\u6728\u77F3\u548C100\u91D1\u3001\u8FD0\u8F93\u8239100\u6728\u77F3\u548C600\u91D1",
+    "author": "G4X",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/8b960ac4345b4d049d0557778af7980e.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-25T12:26:08.0773002Z",
+    "versions": [
+      {
+        "uuid": "6a3d00e23cc64516b2da3612bb6fdd15",
+        "gameversion": "0.51.x",
+        "modVersion": "0.1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.0-game0.51.x-20260225122604-a68be0e3/0.51.%2B.BoatRebalance_0.1.0.zip"
+      }
+    ]
   }
 ]
