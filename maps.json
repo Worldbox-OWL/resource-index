@@ -5615,5 +5615,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x16-game0.10.x-20260225163527-0c10967b/_8x16.Ingwe.Ingweron.zip"
       }
     ]
+  },
+  {
+    "mod": "\u7279\u745E\u9C81\u65AFTerrelus",
+    "introduce": "",
+    "author": "wrathmons",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/f83542d2651a4c8c94c936fc5db28178.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u591A\u5C9B\u5C7F",
+      "\u7CBE\u54C1\u5730\u56FE"
+    ],
+    "index": null,
+    "updatedAt": "2026-02-25T16:45:49.2380751Z",
+    "versions": [
+      {
+        "uuid": "fba1f8aad1f644a3af95a865a9fb1476",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "30x16",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v30x16-game0.50.x-20260225164544-ec8ceac3/Terrelus_30x16.wrathmons.zip"
+      }
+    ]
   }
 ]
