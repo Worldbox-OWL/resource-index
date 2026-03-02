@@ -5859,5 +5859,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x14%28%E4%BB%85%E8%8B%8F%29-game0.12.x-20260302161103-9263a710/_19x14.Styderr.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5965\u5308\u5E1D\u56FD\u7248\u56FE1914",
+    "introduce": "",
+    "author": "(\u672A\u77E5)",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260302/bf33163a88bd4508bf7ce5cf9dc0f7bd.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u5C40\u90E8"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-02T16:12:35.1074992Z",
+    "versions": [
+      {
+        "uuid": "4547507960634f0baac1a6608c99f643",
+        "gameversion": "0.12.x",
+        "modVersion": null,
+        "size": "14x10",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14x10-game0.12.x-20260302161231-3163fb86/1914_14x10.zip"
+      }
+    ]
   }
 ]
