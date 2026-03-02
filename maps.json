@@ -5806,5 +5806,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x6-game0.50.x-20260302160557-d0f4cdfe/_9x6.Ale.zip"
       }
     ]
+  },
+  {
+    "mod": "\u4E16\u754C\u5730\u56FE(\u74E6\u683C\u7EB3VII\u6295\u5F71)",
+    "introduce": "",
+    "author": "Ale\u2153",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260302/6db6370babaf45f8981eb7fcf95fe15a.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u4E16\u754C\u5730\u56FE"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-02T16:08:30.1789211Z",
+    "versions": [
+      {
+        "uuid": "b0dfcfe4d0254cb7907743f728ca07b5",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "13x10",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x10-game0.22.x-20260302160825-1cdf9bb0/VII._13x10.Ale.zip"
+      }
+    ]
   }
 ]
