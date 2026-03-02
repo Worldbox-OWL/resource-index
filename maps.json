@@ -125,28 +125,6 @@
     ]
   },
   {
-    "mod": "\u4E16\u754C\u5730\u56FE(\u7F57\u5BBE\u900A\u6295\u5F71)",
-    "introduce": "",
-    "author": "Ale\u2153",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/066fe0f39dec4317a622d0c392928a76.png",
-    "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE"
-    ],
-    "index": null,
-    "updatedAt": null,
-    "versions": [
-      {
-        "uuid": "c247555799f94521b89f5ebfd25fce13",
-        "gameversion": "0.22.x",
-        "modVersion": null,
-        "size": "13x10",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x10-game0.22.x-20251204084954-23aeb431/_13x10.Ale.zip"
-      }
-    ]
-  },
-  {
     "mod": "\u6B63\u65B9\u4E16\u754C\u5730\u56FE(\u76AE\u5C14\u65AF\u6295\u5F71)",
     "introduce": "",
     "author": "Ovo\u03BCa",
@@ -5795,6 +5773,36 @@
         "size": "18x26",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v18x26-game0.22.x-20260225173527-5c1841c6/Riverlands_18x26.Mr.Calamitous.zip"
+      }
+    ]
+  },
+  {
+    "mod": "\u4E16\u754C\u5730\u56FE(\u7F57\u5BBE\u900A\u6295\u5F71)",
+    "introduce": "",
+    "author": "Ale\u2153",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/066fe0f39dec4317a622d0c392928a76.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u4E16\u754C\u5730\u56FE"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-02T16:06:00.7892576Z",
+    "versions": [
+      {
+        "uuid": "c247555799f94521b89f5ebfd25fce13",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "13x10",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x10-game0.22.x-20251204084954-23aeb431/_13x10.Ale.zip"
+      },
+      {
+        "uuid": "10bc7ffdbb4c45b98d864f921fadad77",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "9x6",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x6-game0.50.x-20260302160557-d0f4cdfe/_9x6.Ale.zip"
       }
     ]
   }
