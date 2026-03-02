@@ -5828,5 +5828,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x10-game0.22.x-20260302160825-1cdf9bb0/VII._13x10.Ale.zip"
       }
     ]
+  },
+  {
+    "mod": "\u534E\u6C99\u82CF\u8054",
+    "introduce": "",
+    "author": "Styderr",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260302/56774290e4cc47a7b931d5d39d6cbc55.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u5C40\u90E8",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-02T16:11:00.9540278Z",
+    "versions": [
+      {
+        "uuid": "3bfe960c3cff4a45b8e6c6c8c0d81a2b",
+        "gameversion": "0.12.x",
+        "modVersion": null,
+        "size": "20x14",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x14-game0.12.x-20260302161056-061e409a/_20x14.Styderr.zip"
+      }
+    ]
   }
 ]
