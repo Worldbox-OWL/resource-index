@@ -5920,14 +5920,6 @@
     "updatedAt": "2026-03-03T13:58:15.1713379Z",
     "versions": [
       {
-        "uuid": "7678eaa34957498b8894ed9656c3a2f1",
-        "gameversion": "0.50.x",
-        "modVersion": null,
-        "size": "20x13(\u7329\u7EA2)",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x13%28%E7%8C%A9%E7%BA%A2%29-game0.50.x-20260302161642-fba7eec8/_20x13.Kideuz.zip"
-      },
-      {
         "uuid": "912fef88c4f64bafa0df7e3ef124f132",
         "gameversion": "0.50.x",
         "modVersion": null,
