@@ -5995,7 +5995,7 @@
       "\u591A\u7248\u672C"
     ],
     "index": null,
-    "updatedAt": "2026-03-04T09:13:07.5928190Z",
+    "updatedAt": "2026-03-04T09:13:14.2593446Z",
     "versions": [
       {
         "uuid": "1c2c86b791ed41aea5d689cad842674f",
@@ -6004,6 +6004,14 @@
         "size": "12x12",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x12-game0.22.x-20260304091303-dde1d74e/_12x12.Mr.Slime.zip"
+      },
+      {
+        "uuid": "1825d2ed03884f5881fa0f947af04db3",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "30x30",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v30x30-game0.22.x-20260304091311-b7ed071b/_30x30.Mr.Slime.zip"
       }
     ]
   }
