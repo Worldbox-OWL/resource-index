@@ -6009,7 +6009,7 @@
       "\u591A\u7248\u672C"
     ],
     "index": null,
-    "updatedAt": "2026-03-04T09:19:09.2573678Z",
+    "updatedAt": "2026-03-04T09:19:42.1522293Z",
     "versions": [
       {
         "uuid": "67290bd873ee45aaac679896954f1102",
@@ -6026,6 +6026,14 @@
         "size": "20x13(\u7EFF\u8335)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x13%28%E7%BB%BF%E8%8C%B5%29-game0.50.x-20260304091905-f9282041/_20x13.Kideuz.zip"
+      },
+      {
+        "uuid": "dad786a0a85e48848a136ee6b285c875",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "20x13(\u7329\u7EA2)",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x13%28%E7%8C%A9%E7%BA%A2%29-game0.50.x-20260304091939-ec4778a0/_20x13.Kideuz.zip"
       }
     ]
   }
