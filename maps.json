@@ -6014,5 +6014,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v30x30-game0.22.x-20260304091311-b7ed071b/_30x30.Mr.Slime.zip"
       }
     ]
+  },
+  {
+    "mod": "\u963F\u51E1\u8FBE\uFF1A\u6700\u540E\u7684\u6C14\u5B97Avatar",
+    "introduce": "",
+    "author": "Mr.Slime",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260304/26615cd08cf24a809afacc4a88b2dc36.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u591A\u5C9B\u5C7F"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-04T09:15:10.3969454Z",
+    "versions": [
+      {
+        "uuid": "4ae71e29f03f446e9f2eaebc21522791",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "30x22",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v30x22-game0.22.x-20260304091506-4ffc2ac8/_30x22.Mr.Slime.zip"
+      }
+    ]
   }
 ]
