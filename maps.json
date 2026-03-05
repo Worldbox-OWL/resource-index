@@ -6356,5 +6356,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x7-game0.22.x-20260305142951-9a14b577/_8x7.boki.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5854\u5229\u4E9A(\u91CD\u7F6E)",
+    "introduce": "",
+    "author": "Toad",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/b001fde3a90f4a22af9f9b0dbfc37d1d.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u5927\u578B\u9646\u5730"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-05T14:31:20.2286720Z",
+    "versions": [
+      {
+        "uuid": "bb214d37065c41489d673cb7fe9ab891",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "13x7",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x7-game0.14.x-20260305143116-c3ccaca1/_13x7.Toad.zip"
+      }
+    ]
   }
 ]
