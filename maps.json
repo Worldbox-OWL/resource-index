@@ -6272,5 +6272,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v10x12%28%E6%96%B0%29-game0.14.x-20260305142411-1c7c9792/GTA5._10x12.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5DEB\u5E083\uFF1A\u65AF\u51EF\u5229\u5FB7\u4E3B\u5C9B",
+    "introduce": "",
+    "author": "(\u672A\u77E5)",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/f8995775f9f54918a6f8b383df155c99.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u5927\u578B\u9646\u5730"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-05T14:25:40.4440139Z",
+    "versions": [
+      {
+        "uuid": "a6aae944cede4abca44f6289df2ce4f1",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "8x9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x9-game0.14.x-20260305142536-470d7ed5/3._8x9.zip"
+      }
+    ]
   }
 ]
