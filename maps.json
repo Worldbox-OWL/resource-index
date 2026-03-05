@@ -6220,5 +6220,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v7x7-game0.9.x-20260305142144-8584df0e/2._7x7.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5251\u58EBKENSHI",
+    "introduce": "",
+    "author": "\u706F\u6CE1",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/6bf4c15669ec40cd8d567650244dfee4.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u5927\u578B\u9646\u5730"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-05T14:22:51.9015459Z",
+    "versions": [
+      {
+        "uuid": "2b34f1ecf1b94949bc064594c6db9ffc",
+        "gameversion": "0.12.x",
+        "modVersion": null,
+        "size": "8x8",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x8-game0.12.x-20260305142246-f55439d1/Kenshi_8x8.zip"
+      }
+    ]
   }
 ]
