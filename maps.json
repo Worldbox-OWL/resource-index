@@ -6028,14 +6028,6 @@
     "updatedAt": "2026-03-05T13:02:14.4474737Z",
     "versions": [
       {
-        "uuid": "732522dea4ca4c239928bd4638db337e",
-        "gameversion": "boki\u4EBA",
-        "modVersion": null,
-        "size": "15x7",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v15x7-gameboki%E4%BA%BA-20260223023039-ee624410/_15x7.boki.zip"
-      },
-      {
         "uuid": "d7a3dbce9d4b4ab0844b342a9c4cf8f6",
         "gameversion": "0.14.x",
         "modVersion": null,
