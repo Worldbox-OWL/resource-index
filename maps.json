@@ -6168,5 +6168,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9-game0.22.x-20260305141826-75a24fef/_9x9.ESO.Skyrim.zip"
       }
     ]
+  },
+  {
+    "mod": "\u9A91\u9A6C\u4E0E\u780D\u6740\uFF1A\u5361\u62C9\u8FEA\u4E9A\u5927\u9646",
+    "introduce": "",
+    "author": "\u706F\u6CE1",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/ca90aef489734c72aadfe140d69e7e9e.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u5927\u578B\u9646\u5730",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-05T14:19:28.2189037Z",
+    "versions": [
+      {
+        "uuid": "570bc2aea9e0459ea84d1a69bc5aab4f",
+        "gameversion": "0.12.x",
+        "modVersion": null,
+        "size": "8x5",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x5-game0.12.x-20260305141924-0fbde2ae/_8x5.zip"
+      }
+    ]
   }
 ]
