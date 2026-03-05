@@ -6253,7 +6253,7 @@
       "\u5927\u578B\u9646\u5730"
     ],
     "index": null,
-    "updatedAt": "2026-03-05T14:24:07.9741491Z",
+    "updatedAt": "2026-03-05T14:24:16.0436057Z",
     "versions": [
       {
         "uuid": "6aeab70841f5484791056d2bbef53edc",
@@ -6262,6 +6262,14 @@
         "size": "7x10(\u65E7)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v7x10%28%E6%97%A7%29-game0.12.x-20260305142403-e11f0895/GTA5_._7x10.zip"
+      },
+      {
+        "uuid": "6e9ecef736224e30b3dd87a75947a1dd",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "10x12(\u65B0)",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v10x12%28%E6%96%B0%29-game0.14.x-20260305142411-1c7c9792/GTA5._10x12.zip"
       }
     ]
   }
