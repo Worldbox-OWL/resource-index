@@ -6036,5 +6036,29 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v15x7-game0.14.x-20260305130208-bafbe127/_15x7.boki.zip"
       }
     ]
+  },
+  {
+    "mod": "\u4E94\u5EA6\u7A7A\u95F42.0",
+    "introduce": "",
+    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/a851e68b05454c8f896de46b33252360.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u7ACB\u4F53\u6A21\u62DF",
+      "\u591A\u5C9B\u5C7F",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-05T13:06:41.8672998Z",
+    "versions": [
+      {
+        "uuid": "35c2b452fd524a8eb77fd633f9db9aa5",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "12x7(\u5E95)",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x7%28%E5%BA%95%29-game0.22.x-20260305130637-7f8d54e5/2.0_12x7.zip"
+      }
+    ]
   }
 ]
