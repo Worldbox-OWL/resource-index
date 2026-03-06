@@ -6,6 +6,7 @@
     "preview": null,
     "tag": [],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "7db57acbf59441158947da1b63363e08",
@@ -24,6 +25,7 @@
     "preview": null,
     "tag": [],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "0e480ab0e09b4a2299564bb901e3d642",
@@ -42,6 +44,7 @@
     "preview": null,
     "tag": [],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "ed570094624e403cb05f26161b85cdc6",
@@ -60,6 +63,7 @@
     "preview": null,
     "tag": [],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "f579e3f300d74352be77f99c37174a84",
@@ -78,6 +82,7 @@
     "preview": null,
     "tag": [],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "6b6019977c30447c8112b1a7c272a9ff",
@@ -96,6 +101,7 @@
     "preview": null,
     "tag": [],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "139f7db73a794509a9551eb3b1ee1bc7",
@@ -114,6 +120,7 @@
     "preview": null,
     "tag": [],
     "index": null,
+    "updatedAt": null,
     "versions": [
       {
         "uuid": "e594afcfc6974b0b958710417112c9cc",
@@ -122,6 +129,25 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/ncms1.7.0-vncms1.7.0-game0.14.3-20251212132752/ncms1.7.0.zip"
+      }
+    ]
+  },
+  {
+    "mod": "\u6A21\u7EC4\u88C5\u8F7D\u5668Neo Mod Loader_1.0.11.0(\u9002\u7528\u4E8E0.22. )",
+    "introduce": "",
+    "author": "-",
+    "preview": null,
+    "tag": [],
+    "index": null,
+    "updatedAt": "2026-03-06T14:11:18.2448498Z",
+    "versions": [
+      {
+        "uuid": "cf4f8116031549489c114333239c2710",
+        "gameversion": "0.22.7",
+        "modVersion": "1.0.11.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.0.11.0-game0.22.7-20260306141108-239031a7/Neo.Mod.Loader_1.0.11.0.0.22.zip"
       }
     ]
   }
