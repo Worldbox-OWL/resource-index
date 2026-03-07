@@ -6378,5 +6378,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x7-game0.14.x-20260305143116-c3ccaca1/_13x7.Toad.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6C40\u6F9C\u8C37Tiraval",
+    "introduce": "",
+    "author": "Kideuz",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260307/e00aadc2a4584130b6d528dd867ed357.png",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u5927\u578B\u9646\u5730",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-07T03:05:09.9860914Z",
+    "versions": [
+      {
+        "uuid": "f0967569978140eda4b2409c3e406e57",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "13x8",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x8-game0.50.x-20260307030506-3eb806e4/_13x8.Kideuz.zip"
+      }
+    ]
   }
 ]
