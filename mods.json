@@ -3415,5 +3415,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4.82-game0.51.x-20260307030844-f930fdc0/0.51.%2B._0.4.82.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5EFA\u7B51\u9632\u7834\u574F",
+    "introduce": "\u5728\u4E16\u754C\u6CD5\u5219\u7B2C\u4E00\u7C7B\u201C\u548C\u8C10\u201D\u4E2D\u6DFB\u52A0\u201C\u5EFA\u7B51\u9632\u7834\u574F\u201D-\u542F\u7528\u540E\u9664\u7BAD\u5854\u5916\uFF0C\u6240\u6709\u7684\u667A\u6167\u751F\u7269\u5EFA\u7B51\u90FD\u65E0\u6CD5\u88AB\u6467\u6BC1\u3002\u5728\u6A21\u7EC4\u8BBE\u7F6E\u4E2D\u53EF\u5C06\u5176\u8BBE\u7F6E\u4E3A\u65B0\u5730\u56FE\u9ED8\u8BA4\u542F\u7528",
+    "author": "\u957F\u660E\u706B",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260308/0c8cb3605b3a4b18b768ee59c215ed99.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-08T12:44:17.6022925Z",
+    "versions": [
+      {
+        "uuid": "7540d676ab874e99a1e6a406f660959a",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260308124414-815c7654/0.51.%2B._1.0.0.zip"
+      }
+    ]
   }
 ]
