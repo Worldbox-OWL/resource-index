@@ -3447,7 +3447,7 @@
       "\u4FEE\u70BC\u4F53\u7CFB"
     ],
     "index": null,
-    "updatedAt": "2026-03-12T11:27:13.3444426Z",
+    "updatedAt": "2026-03-12T11:27:18.5955393Z",
     "versions": [
       {
         "uuid": "8d972456a598487280b34f32d686f68d",
@@ -3456,6 +3456,14 @@
         "size": null,
         "variant": "\u672C\u4F53",
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.43-game0.51.x-20260312112704-0732124f/0.51.%2B.HolyChevalier_1.43.zip"
+      },
+      {
+        "uuid": "7699322a6ced45ee9532b5159270dfc1",
+        "gameversion": "0.51.x",
+        "modVersion": "2.21",
+        "size": null,
+        "variant": "\u9644\u5C5E\uFF1A\u4E0A\u5E1D\u8D50\u798F",
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.21-game0.51.x-20260312112715-ef4b6ceb/0.51.%2B._2.21.zip"
       }
     ]
   }
