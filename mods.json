@@ -3466,5 +3466,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E9%98%BF%E5%87%A1%E8%BE%BE%E7%9B%92%E5%AE%97AvatarBoxbender-v1.3.1-game0.51.x-20260313053851/0.51.%2B.AvatarBoxbender_1.3.1.zip"
       }
     ]
+  },
+  {
+    "mod": "\u706B\u4E0E\u51B0FireAndIce",
+    "introduce": "\u2460\u4E3A\u6076\u9B54\u6DFB\u52A03\u79CD\u6B66\u5668\uFF0C\u51B0\u9B54\u6DFB\u52A04\u79CD\u6B66\u5668(\u5251\u77DB\u9524\u65A7)\r\n\u2461\u539F\u7248\u706B\u7130\u5251\u4EF7\u503C0\u219285(\u5927\u4E8E\u7CBE\u91D170)",
+    "author": "Avb",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260313/95a948104c374ba79385a7ad719a9e96.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "bug\u4FEE\u590D",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-13T13:42:34.1130368Z",
+    "versions": [
+      {
+        "uuid": "ceca41000e6f45cfb45520bfc99ffad8",
+        "gameversion": "0.22.x",
+        "modVersion": "0.5",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.5-game0.22.x-20260313134218-aabe3692/0.22.%2B.FireAndIce_0.5.zip"
+      }
+    ]
   }
 ]
