@@ -3489,5 +3489,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.5-game0.22.x-20260313134218-aabe3692/0.22.%2B.FireAndIce_0.5.zip"
       }
     ]
+  },
+  {
+    "mod": "\u9009\u80B2\u9057\u4F20SelectiveBreeding",
+    "introduce": "\u9664\u4E86\u201C\u5723\u75D5\u201D\uFF0C\u5176\u4ED6\u6240\u6709\u7279\u8D28\u90FD\u5FC5\u7136\u9057\u4F20\u7ED9\u4E0B\u4E00\u4EE3",
+    "author": "Triickstr#0420",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260313/330905e03b114ba1aa578f9b89c0de5a.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-13T13:43:19.4529466Z",
+    "versions": [
+      {
+        "uuid": "caf552f25d8642eb8def2c1f5a0d27e1",
+        "gameversion": "0.22.x",
+        "modVersion": "2.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.0.0-game0.22.x-20260313134309-14e6338b/0.22.%2B.SelectiveBreeding_2.0.0.zip"
+      }
+    ]
   }
 ]
