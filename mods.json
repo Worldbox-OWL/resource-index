@@ -3510,5 +3510,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.0.0-game0.22.x-20260313134309-14e6338b/0.22.%2B.SelectiveBreeding_2.0.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u9A91\u58EB\u9053Knight",
+    "introduce": "\u2460\u5C5E\u6027\u4ECB\u7ECD(\u6DFB\u52A0\u5728\u751F\u7269\u9762\u677F\u4E2D)\uFF1A\r\n\u0022\u751F\u547D\u4E4B\u529B\u0022:\u9A91\u58EB\u7ECF\u9A8C\u503C\uFF0C\u6839\u636E\u5929\u8D4B\u6216\u8005\u4FEE\u70BC\u63D0\u5347\r\n\u2461\u4F53\u7CFB(\u5728\u7279\u8D28\u9762\u677F\u4E2D\u53EF\u89C1)\uFF1A\r\n\u9A91\u58EB\u9053\u4F53\u7CFB\uFF1A\u4F8D\u4ECE\u3001\u6668\u661F\u9A91\u58EB\u3001\u66E6\u5149\u9A91\u58EB\u3001\u70C8\u9633\u9A91\u58EB\u3001\u7A79\u8F89\u9A91\u58EB\u3001\u6C38\u8000\u9A91\u58EB\r\n\u9A91\u58EB\u5929\u8D4B\u4F53\u7CFB\uFF1A\u4E0B\u2022\u751F\u547D\u79CD\u5B50\u3001\u4E2D\u2022\u751F\u547D\u79CD\u5B50\u3001\u4E0A\u2022\u751F\u547D\u79CD\u5B50\u3001\u4F20\u8BF4\u2022\u751F\u547D\u79CD\u5B50\r\n\u2462\u5176\u4ED6\uFF1A\r\n\u751F\u547D\u7981\u8109\uFF1A100%\u9057\u4F20\uFF0C\u4E0D\u53EF\u4FEE\u70BC\u9A91\u58EB\u9053\r\n\u9A91\u58EB\u9988\u8D60\uFF1A\u53EF\u8F6C\u751F\u4E3A\u5DEB\u672F\u79D8\u5178\u4E2D\u7684S\u7EA7\u5929\u8D4B\u5DEB\u5E08\r\n\u5E74\u9F84\u5927\u4E8E\u5BFF\u547D\u540E\u6BCF\u5E7420%\u6982\u7387\u83B7\u5F97\u5B89\u4EAB\u665A\u5E74(\u6BCF\u5E74\u751F\u547D\u4E4B\u529B-5\uFF0C\u5373\u65E0\u6CD5\u518D\u664B\u5347)\uFF0C\u540C\u65F6\u5C06\u5404\u7269\u79CD\u5BFF\u547D\u6309\u9A91\u58EB\u9053\u5883\u754C\u91CD\u65B0\u786E\u5B9A",
+    "author": "\u5341\u6708\u516C\u5B50",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260313/8c0a0e435315425db438a73a94b0ae39.png",
+    "tag": [
+      "\u4FEE\u70BC\u4F53\u7CFB"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-13T13:44:33.9808610Z",
+    "versions": [
+      {
+        "uuid": "b046345c88d7414a80e507fc38304c43",
+        "gameversion": "0.22.x",
+        "modVersion": "0.0.3",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.3-game0.22.x-20260313134431-164d47bf/0.22.%2B.Knight_0.0.3.zip"
+      }
+    ]
   }
 ]
