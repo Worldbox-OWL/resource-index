@@ -6426,7 +6426,7 @@
       "\u591A\u7248\u672C"
     ],
     "index": null,
-    "updatedAt": "2026-03-16T07:32:47.0565644Z",
+    "updatedAt": "2026-03-16T07:32:52.1992739Z",
     "versions": [
       {
         "uuid": "2fcb2d0422cf4179b271bb2a6f568d7f",
@@ -6435,6 +6435,14 @@
         "size": "13x10(\u884C\u653F)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x10%28%E8%A1%8C%E6%94%BF%29-game0.50.x-20260316073243-0b2e772d/_13x10.zip"
+      },
+      {
+        "uuid": "bc306e0b5f2c4ed09d261f660cfb1761",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "13x10(\u5E95\u56FE)",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x10%28%E5%BA%95%E5%9B%BE%29-game0.50.x-20260316073249-e9d40c7a/_13x10.zip"
       }
     ]
   }
