@@ -3575,5 +3575,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E9%98%BF%E5%87%A1%E8%BE%BE%E7%9B%92%E5%AE%97AvatarBoxbender-v1.3.2-game0.51.x-20260318072742/0.51.%2B.AvatarBoxbender_1.3.2.zip"
       }
     ]
+  },
+  {
+    "mod": "\u7981\u6B62\u8239\u653B\u51FB\u5E73\u6C11",
+    "introduce": "\u9632\u6B62\u8239\u53EA\u5728\u6D77\u5CB8\u7EBF\u5927\u8086\u7834\u574F\u5EFA\u7B51\u3001\u4F24\u5BB3\u5E73\u6C11",
+    "author": "WinRAR",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260318/5e0009402ffd4ec9972abacfa9fe8a6d.png",
+    "tag": [
+      "bug\u4FEE\u590D",
+      "\u4F53\u9A8C\u4F18\u5316",
+      "\u5FC5\u5907"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-18T08:52:06.1023247Z",
+    "versions": [
+      {
+        "uuid": "5b5ecf33dba94e32a7c3825201017788",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.2",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.2-game0.51.x-20260318085202-abd0f425/0.51.%2B._1.0.2.zip"
+      }
+    ]
   }
 ]
