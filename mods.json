@@ -3621,5 +3621,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.6-game0.51.x-20260318151038-84b15de4/0.51.%2B._0.1.6.zip"
       }
     ]
+  },
+  {
+    "mod": "\u79FB\u9664\u8D44\u6E90\u4E0A\u9650NoResCap",
+    "introduce": "\u8BA9\u5927\u5385\u3001\u4ED3\u5E93\u3001\u98CE\u8F66\u5185\u7684\u5355\u7C7B\u7269\u8D44\u90FD\u53EF\u5BB9\u7EB36\u4EBF\u4E2A",
+    "author": "WinRAR",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260322/37730834b8674e4e8da8cf8d27adbff4.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-22T16:16:56.9578712Z",
+    "versions": [
+      {
+        "uuid": "a31087c0348549d1981973240bf14e56",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260322161654-bac6efcb/0.51.%2B.NoResCap_1.0.0.zip"
+      }
+    ]
   }
 ]
