@@ -3664,5 +3664,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260322161743-40155fec/0.51.%2B.BuildingStyles_1.0.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u524A\u5F31\u706B\u4F24NerfFireDamage",
+    "introduce": "\u706B\u7130\u4F24\u5BB3\u7531\u6700\u5927\u751F\u547D\u503C10%\u524A\u81F31%\uFF0C\u5BF9\u5EFA\u7B51\u4F24\u5BB3\u753125%\u524A\u81F35%",
+    "author": "RayTracerX",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260325/2463d771e4dd493ab4270924ec83c730.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-25T16:39:32.9037696Z",
+    "versions": [
+      {
+        "uuid": "8628a58c4d174d618b7debfa35165a02",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260325163927-0a4401e1/0.51.%2B.NerfFireDamage_1.0.0.zip"
+      }
+    ]
   }
 ]
