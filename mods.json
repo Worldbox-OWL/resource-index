@@ -3727,5 +3727,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.51.x-20260329174702-60881898/0.51.%2B.BetterZoom_1.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u57CE\u5E02\u9886\u571F\u9650\u5236CityLimiter",
+    "introduce": "\u7528\u4E8E\u9650\u5236\u6240\u6709\u57CE\u5E02\u7684\u6700\u5927\u9886\u571F\uFF0C\u9ED8\u8BA4\u4E3A5%(50\u533A\u5757\u9886\u571F)\uFF0C\u6A21\u7EC4\u8BBE\u7F6E\u5185\u533A\u95F4\u53EF\u900910~1500",
+    "author": "WinRAR",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260329/4f3c03b131574d4aadc103ee810d1c57.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-29T17:48:12.2489966Z",
+    "versions": [
+      {
+        "uuid": "caaea9a4e8294f039527feacd3d3dc70",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260329174808-9aa614a7/0.51.%2B.CityLimiter_1.0.0.zip"
+      }
+    ]
   }
 ]
