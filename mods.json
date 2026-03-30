@@ -3780,5 +3780,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E7%AE%80%E6%98%93%E4%BC%98%E5%8C%96%E6%A8%A1%E7%BB%84Optime-v0.4.0beta-game0.51.x-20260329175143/0.51.%2B.Optime_0.4.0beta.zip"
       }
     ]
+  },
+  {
+    "mod": "\u89D2\u8272\u53F2\u4E66ActorHistory",
+    "introduce": "\u2460\u89D2\u8272\u53F2\u4E66\uFF1A\u6536\u85CF\u5355\u4F4D\u540E\u5F00\u59CB\u8BB0\u5F55\u6B64\u89D2\u8272\u7684\u751F\u5E73\uFF0C\u53EF\u5728\u5355\u4F4D\u9762\u677F\u53F3\u4FA7\u6807\u7B7E\u4E2D\u67E5\u770B\uFF0C\u542B\u664B\u5347\u3001\u7275\u7ECA\u3001\u5916\u4EA4\u3001\u5FC3\u60C5\u3001\u88C5\u5907\u3001\u7279\u8D28\u7B49\u5185\u5BB9\r\n\u2461\u53F2\u4E66\u76EE\u5F55\uFF1A\u5728\u521D\u59CB\u680F\u6DFB\u52A0\u4E86\u6309\u94AE\u4EE5\u4FBF\u5FEB\u901F\u7FFB\u770B\u5728\u4E16\u53CA\u5DF2\u6545\u6536\u85CF\u5355\u4F4D\u7684\u53F2\u4E66",
+    "author": "\u661F\u66DC\u5403\u4E0D\u9971",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260330/d34d654545764f21a08556922dfb51b0.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "updatedAt": "2026-03-30T01:20:56.3086925Z",
+    "versions": [
+      {
+        "uuid": "670598d6c7ab4d928e96464b9ce26ee7",
+        "gameversion": "0.51.x",
+        "modVersion": "1.8.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.8.0-game0.51.x-20260330012052-9bf25183/0.51.%2B.ActorHistory_1.8.0.zip"
+      }
+    ]
   }
 ]
