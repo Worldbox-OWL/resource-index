@@ -3320,29 +3320,6 @@
     ]
   },
   {
-    "mod": "\u7981\u6B62\u8239\u653B\u51FB\u5E73\u6C11",
-    "introduce": "\u9632\u6B62\u8239\u53EA\u5728\u6D77\u5CB8\u7EBF\u5927\u8086\u7834\u574F\u5EFA\u7B51\u3001\u4F24\u5BB3\u5E73\u6C11",
-    "author": "WinRAR",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260318/5e0009402ffd4ec9972abacfa9fe8a6d.png",
-    "tag": [
-      "bug\u4FEE\u590D",
-      "\u4F53\u9A8C\u4F18\u5316",
-      "\u5FC5\u5907"
-    ],
-    "index": null,
-    "updatedAt": "2026-03-18T08:52:06.1023247Z",
-    "versions": [
-      {
-        "uuid": "5b5ecf33dba94e32a7c3825201017788",
-        "gameversion": "0.51.x",
-        "modVersion": "1.0.2",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.2-game0.51.x-20260318085202-abd0f425/0.51.%2B._1.0.2.zip"
-      }
-    ]
-  },
-  {
     "mod": "\u79FB\u9664\u8D44\u6E90\u4E0A\u9650NoResCap",
     "introduce": "\u8BA9\u5927\u5385\u3001\u4ED3\u5E93\u3001\u98CE\u8F66\u5185\u7684\u5355\u7C7B\u7269\u8D44\u90FD\u53EF\u5BB9\u7EB36\u4EBF\u4E2A",
     "author": "WinRAR",
@@ -3846,6 +3823,29 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/Avb%E8%B6%85%E7%BA%A7%E7%89%B9%E8%B4%A8%E5%8C%85-v2.71-game0.51.x-20260405170005/0.51.%2BAvb._2.71.zip"
+      }
+    ]
+  },
+  {
+    "mod": "\u7981\u6B62\u8239\u653B\u51FB\u5E73\u6C11",
+    "introduce": "\u9632\u6B62\u8239\u53EA\u5728\u6D77\u5CB8\u7EBF\u5927\u8086\u7834\u574F\u5EFA\u7B51\u3001\u4F24\u5BB3\u5E73\u6C11",
+    "author": "WinRAR",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260318/5e0009402ffd4ec9972abacfa9fe8a6d.png",
+    "tag": [
+      "bug\u4FEE\u590D",
+      "\u4F53\u9A8C\u4F18\u5316",
+      "\u5FC5\u5907"
+    ],
+    "index": null,
+    "updatedAt": "2026-04-05T17:00:30.2914461Z",
+    "versions": [
+      {
+        "uuid": "5b5ecf33dba94e32a7c3825201017788",
+        "gameversion": "0.51.x",
+        "modVersion": "1.1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E7%A6%81%E6%AD%A2%E8%88%B9%E6%94%BB%E5%87%BB%E5%B9%B3%E6%B0%91-v1.1.0-game0.51.x-20260405170027/0.51.%2B.BoatFix_1.1.0.zip"
       }
     ]
   }
