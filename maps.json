@@ -6516,29 +6516,6 @@
     ]
   },
   {
-    "mod": "\u5308\u6C49\u8FBD\u539F",
-    "introduce": "",
-    "author": "\u8D8A\u5357\u5154",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260329/0a5667884056443cbf3cf7674c942d0f.png",
-    "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
-    ],
-    "index": null,
-    "updatedAt": "2026-03-29T17:53:19.7028299Z",
-    "versions": [
-      {
-        "uuid": "82daae96bb324b39b0a9ac3375f4498c",
-        "gameversion": "0.22.x",
-        "modVersion": null,
-        "size": "19x19",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x19-game0.22.x-20260329175315-10d4faf6/_19x19.zip"
-      }
-    ]
-  },
-  {
     "mod": "\u4E1C\u4E9A\u5B63\u98CE\u6838\u5FC3\u533A",
     "introduce": "",
     "author": "tau_rine",
@@ -6558,6 +6535,37 @@
         "size": "30x30",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v30x30-game0.50.x-20260405170451-0646cf67/_30x30.tau_rine.zip"
+      }
+    ]
+  },
+  {
+    "mod": "\u5308\u6C49\u8FBD\u539F",
+    "introduce": "",
+    "author": "\u8D8A\u5357\u5154",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260405/89da0dfa81d04741a060a575d77bef96.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u5C40\u90E8",
+      "\u534E\u590F"
+    ],
+    "index": null,
+    "updatedAt": "2026-04-05T17:06:16.5079879Z",
+    "versions": [
+      {
+        "uuid": "82daae96bb324b39b0a9ac3375f4498c",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "19x19",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x19-game0.22.x-20260329175315-10d4faf6/_19x19.zip"
+      },
+      {
+        "uuid": "5d436fa7a5a4450483cf8727403d1696",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "19x19",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x19-game0.14.x-20260405170612-46e0fcfb/_19x19.zip"
       }
     ]
   }
