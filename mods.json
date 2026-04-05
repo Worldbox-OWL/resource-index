@@ -3837,15 +3837,15 @@
       "\u539F\u751F\u8C03\u6574"
     ],
     "index": null,
-    "updatedAt": "2026-04-05T16:57:29.1531369Z",
+    "updatedAt": "2026-04-05T16:59:16.7722391Z",
     "versions": [
       {
         "uuid": "a5a4569e78cc42b0871123f71549862a",
         "gameversion": "0.51.x",
-        "modVersion": "1.15",
+        "modVersion": "1.0",
         "size": null,
         "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/Avb%E7%9A%84%E6%89%A9%E5%B1%95%E5%86%9B%E6%A2%B0%E5%BA%93-v1.15-game0.51.x-20260405165725/0.51.%2BAvb._1.15.zip"
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/Avb%E7%9A%84%E6%89%A9%E5%B1%95%E5%86%9B%E6%A2%B0%E5%BA%93-v1.0-game0.51.x-20260405165912/0.51.%2BAvb._1.15.zip"
       }
     ]
   }
