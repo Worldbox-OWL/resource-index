@@ -6552,14 +6552,6 @@
     "updatedAt": "2026-04-05T17:06:16.5079879Z",
     "versions": [
       {
-        "uuid": "82daae96bb324b39b0a9ac3375f4498c",
-        "gameversion": "0.22.x",
-        "modVersion": null,
-        "size": "19x19",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x19-game0.22.x-20260329175315-10d4faf6/_19x19.zip"
-      },
-      {
         "uuid": "5d436fa7a5a4450483cf8727403d1696",
         "gameversion": "0.14.x",
         "modVersion": null,
