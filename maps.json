@@ -6590,5 +6590,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x8-game0.22.x-20260405170715-d33b9a5e/_8x8.G.zip"
       }
     ]
+  },
+  {
+    "mod": "\u7AD6\u7248\u65E5\u672C",
+    "introduce": "",
+    "author": "tau_rine",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260407/9d0449c9bc45467a810caf8b059ee068.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u5C40\u90E8",
+      "\u591A\u5C9B\u5C7F"
+    ],
+    "index": null,
+    "updatedAt": "2026-04-07T17:42:26.8503615Z",
+    "versions": [
+      {
+        "uuid": "5a5bdbb6cd7c4e16bba35e27e7d11dde",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "8x20",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x20-game0.50.x-20260407174223-b99a96eb/_8x20.tau_rine.zip"
+      }
+    ]
   }
 ]
