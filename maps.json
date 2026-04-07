@@ -6636,5 +6636,28 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x8-game0.22.x-20260407174329-d1d8ec6f/_8x8.steamhawk.zip"
       }
     ]
+  },
+  {
+    "mod": "\u62DF\u771F\u4F0A\u6BD4\u5229\u4E9A",
+    "introduce": "",
+    "author": "\u534A\u68A6\u534A\u9192",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260407/b46a42ab215742e3b2205457c15d8899.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u5C40\u90E8",
+      "\u7CBE\u54C1\u5730\u56FE"
+    ],
+    "index": null,
+    "updatedAt": "2026-04-07T17:44:26.2056271Z",
+    "versions": [
+      {
+        "uuid": "a6c88d6bb15e4c84b0b4d85e6d9c03ce",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "12x10",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x10-game0.50.x-20260407174422-dca1642a/_12x10.zip"
+      }
+    ]
   }
 ]
