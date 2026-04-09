@@ -2982,28 +2982,6 @@
     ]
   },
   {
-    "mod": "\u8239\u70AE\u5E73\u8861BoatRebalance",
-    "introduce": "\u2460\u8239\u70AE\u8C03\u6574\uFF1A\u8D38\u6613\u8239\u5B50\u5F39\u5747\u6539\u4E3A\u7BAD\uFF1B\u5404\u8FD0\u8F93\u8239\u70AE\u79D2\u6740\u5E73\u8861\uFF0C\u5982\uFF1A\u7B49\u79BB\u5B50\u5355\u53D1\u4F24\u5BB3\u9AD8\u3001\u70AE\u5F39\u4E00\u6B21\u53CC\u53D1\u3001\u96EA\u7403\u4E00\u6B21\u4E09\u53D1\r\n\u2461\u8239\u4EF7\u63D0\u5347\uFF1A\u8D38\u6613\u823910\u6728\u77F3\u548C100\u91D1\u3001\u8FD0\u8F93\u8239100\u6728\u77F3\u548C600\u91D1",
-    "author": "G4X",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/8b960ac4345b4d049d0557778af7980e.png",
-    "tag": [
-      "\u539F\u751F\u8C03\u6574",
-      "\u4F53\u9A8C\u4F18\u5316"
-    ],
-    "index": null,
-    "updatedAt": "2026-02-25T12:26:08.0773002Z",
-    "versions": [
-      {
-        "uuid": "6a3d00e23cc64516b2da3612bb6fdd15",
-        "gameversion": "0.51.x",
-        "modVersion": "0.1.0",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.0-game0.51.x-20260225122604-a68be0e3/0.51.%2B.BoatRebalance_0.1.0.zip"
-      }
-    ]
-  },
-  {
     "mod": "\u6C99\u76D2\u5DE5\u5177\u7BB1Sandbox",
     "introduce": "\u2460\u5355\u4F4D\u5F52\u5C5E\uFF1A\u5F3A\u5236\u5355\u4F4D\u5165\u57CE\u3001\u5F3A\u5236\u5355\u4F4D\u8BED\u8A00\u3001\u5F3A\u5236\u5355\u4F4D\u6587\u660E\u3001\u5F3A\u5236\u5355\u4F4D\u5B97\u6559\u3001\u5F3A\u5236\u5355\u4F4D\u804C\u4E1A\u3001\u5F3A\u5236\u5355\u4F4D\u5DE5\u4F5C\n\u2461\u7981\u7528\u7279\u8D28\uFF1A\u7981\u7528\u6C0F\u65CF\u7279\u8D28\u3001\u7981\u7528\u8BED\u8A00\u7279\u8D28\u3001\u7981\u7528\u6587\u660E\u7279\u8D28\u3001\u7981\u7528\u5B97\u6559\u7279\u8D28\n\u2462\u6570\u503C\u7F16\u8F91\uFF1A\u5728\u4E9A\u79CD\u7684\u57FA\u56E0\u7F16\u8F91\u4E2D\u53EF\u4EE5\u9009\u62E9\u5C5E\u6027(\u6682\u4E0D\u652F\u6301\u9B54\u529B)\uFF0C\u7136\u540E\u5728\u4E0B\u65B9\u8F93\u5165\u6846\u8FDB\u884C\u6570\u503C\u4FEE\u6539\uFF1B\u5728\u57CE\u5E02\u7269\u8D44\u680F\u53F3\u4FA7\u52A0\u53F7\u53EF\u4EE5\u9009\u62E9\u7269\u8D44\u7136\u540E\u5728\u8F93\u5165\u6846\u4E2D\u8FDB\u884C\u4FEE\u6539\n\u2463\u5176\u4ED6\uFF1A\u7B5B\u9009\u78C1\u94C1\u3001\u653E\u7F6E\u5EFA\u7B51\u3001\u5F3A\u5236\u5B8C\u6210\u8C0B\u5212\u3001\u5B9A\u70B9\u751F\u6210\u57CE\u5E02\u3001\u9A7B\u624E\u751F\u6210\u57CE\u5E02\u3001\u57CE\u5E02\u6240\u5C5E\u56FD\u5BB6\n\u2464\u6A21\u7EC4\u8BBE\u7F6E\uFF1A\u5EFA\u7B51\u7269\u5730\u5757\u68C0\u67E5-\u7981\u7528\u540E\uFF0C\u6240\u6709\u5EFA\u7B51\u7269\u653E\u7F6E\u4E0D\u518D\u53D7\u5730\u5757\u5F71\u54CD\uFF1B\u5355\u4F4D\u5F52\u5C5E\u4E2D\u7684\u5404\u79CD\u68C0\u67E5\u673A\u5236",
     "author": "kenoli, ApexLite",
@@ -3877,6 +3855,28 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E4%BA%BA%E5%8F%A3%E7%AE%A1%E6%8E%A7PopControl-v0.0.3-game0.51.x-20260409065750/0.51.%2B.PopControl_0.0.3.zip"
+      }
+    ]
+  },
+  {
+    "mod": "\u8239\u70AE\u5E73\u8861BoatRebalance",
+    "introduce": "\u2460\u8239\u70AE\u8C03\u6574\uFF1A\u8D38\u6613\u8239\u5B50\u5F39\u5747\u6539\u4E3A\u7BAD\uFF1B\u5404\u8FD0\u8F93\u8239\u70AE\u79D2\u6740\u5E73\u8861\uFF0C\u5982\uFF1A\u7B49\u79BB\u5B50\u5355\u53D1\u4F24\u5BB3\u9AD8\u3001\u70AE\u5F39\u4E00\u6B21\u53CC\u53D1\u3001\u96EA\u7403\u4E00\u6B21\u4E09\u53D1\r\n\u2461\u8239\u4EF7\u63D0\u5347\uFF1A\u8D38\u6613\u823910\u6728\u77F3\u548C100\u91D1\u3001\u8FD0\u8F93\u8239100\u6728\u77F3\u548C600\u91D1",
+    "author": "G4X",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/8b960ac4345b4d049d0557778af7980e.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "updatedAt": "2026-04-09T06:59:38.2135164Z",
+    "versions": [
+      {
+        "uuid": "6a3d00e23cc64516b2da3612bb6fdd15",
+        "gameversion": "0.51.x",
+        "modVersion": "1.2.3",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E8%88%B9%E7%82%AE%E5%B9%B3%E8%A1%A1BoatRebalance-v1.2.3-game0.51.x-20260409065934/0.51.%2B.BoatRebalance_1.2.3.zip"
       }
     ]
   }
