@@ -3879,5 +3879,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E8%88%B9%E7%82%AE%E5%B9%B3%E8%A1%A1BoatRebalance-v1.2.3-game0.51.x-20260409065934/0.51.%2B.BoatRebalance_1.2.3.zip"
       }
     ]
+  },
+  {
+    "mod": "\u63A7\u5236\u751F\u7269\u9F99ControlDragon",
+    "introduce": "\u9009\u4E2D\u9F99\u65F6\u6309Ctrl\u002B\u9F20\u6807\u5DE6\u952E\u5373\u53EF\u63A7\u5236\u3002WASD\u79FB\u52A8\u3001\u7A7A\u683C\u5207\u6362\u884C\u8D70\u98DE\u884C\u3001\u9F20\u6807\u5DE6\u952E\u55B7\u706B\u3001\u9F20\u6807\u53F3\u952E\u4FEF\u51B2\u3001Esc\u9000\u51FA",
+    "author": "\u5EB7\u5EB7",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260409/7e0d5dd4c74c4450a548d9830028d120.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "updatedAt": "2026-04-09T07:00:35.7218269Z",
+    "versions": [
+      {
+        "uuid": "4dc2aff41c4645c6adf4be8831c0bd9a",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260409070032-d47430f8/0.51.%2B.ControlDragon_1.0.0.zip"
+      }
+    ]
   }
 ]
