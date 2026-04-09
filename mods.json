@@ -3901,5 +3901,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260409070032-d47430f8/0.51.%2B.ControlDragon_1.0.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u72B6\u6001\u9009\u62E9\u5668StatusPicker",
+    "introduce": "\u5728\u5355\u4F4D\u9762\u677F\u5DE6\u4FA7\u6DFB\u52A0\u201C\u72B6\u6001\u201D\u6309\u94AE\uFF0C\u8FDB\u5165\u7A97\u53E3\uFF0C\u4E0A\u65B9\u53EF\u9009\u6301\u7EED\u65F6\u95F4\u3001\u4E0B\u65B9 \u5DE6\u952E\u6DFB\u52A0/\u53F3\u952E\u79FB\u9664 \u72B6\u6001",
+    "author": "\u661F\u671B\u6CE1\u6CE1",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260409/4b2f6cd7dfe3421f9a98b04bd9389089.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "updatedAt": "2026-04-09T07:01:30.2849525Z",
+    "versions": [
+      {
+        "uuid": "8624043b2ff64622a257d7d4728c554f",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260409070125-1478df82/0.51.%2B.StatusPicker_1.0.0.zip"
+      }
+    ]
   }
 ]
