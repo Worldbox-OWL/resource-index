@@ -6633,7 +6633,7 @@
       "\u591A\u7248\u672C"
     ],
     "index": null,
-    "updatedAt": "2026-04-26T17:12:59.2711819Z",
+    "updatedAt": "2026-04-26T17:13:09.1360252Z",
     "versions": [
       {
         "uuid": "6703c809489443e0baacc5577731022b",
@@ -6682,6 +6682,14 @@
         "size": "66x27",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v66x27-game0.14.x-20260426171254-c2e14e38/4.0._66x27.zip"
+      },
+      {
+        "uuid": "3b72547d5c44413f9024d2c2d82acf76",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "88x36",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v88x36-game0.14.x-20260426171303-fe6d8e85/4.0._88x36.zip"
       }
     ]
   }
