@@ -6692,5 +6692,29 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v88x36-game0.14.x-20260426171303-fe6d8e85/4.0._88x36.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6DF7\u4E71\u7684\u4E16\u754C",
+    "introduce": "",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260426/538c5c22c2b34111a47c021886098b40.png",
+    "tag": [
+      "\u9B54\u6539",
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u4E16\u754C\u5730\u56FE",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "updatedAt": "2026-04-26T17:14:36.5278025Z",
+    "versions": [
+      {
+        "uuid": "e3c900ad32a047f48f647dcf218af4ff",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "20x8",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x8-game0.22.x-20260426171433-5e60c1b0/_20x8.boki.zip"
+      }
+    ]
   }
 ]
