@@ -180,45 +180,6 @@
     ]
   },
   {
-    "mod": "\u4E16\u754C\u5730\u56FE(\u7C73\u52D2\u5706\u67F1)",
-    "introduce": "",
-    "author": "boki\u4EBA",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/5da97a4623df48398956ecf8434ed882.png",
-    "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE",
-      "\u591A\u7248\u672C"
-    ],
-    "index": null,
-    "updatedAt": null,
-    "versions": [
-      {
-        "uuid": "47286583d0f34e6eb4deff889b2cb50e",
-        "gameversion": "0.14.x",
-        "modVersion": null,
-        "size": "13x6",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x6-game0.14.x-20251204085855-70823a46/_13x6.boki.zip"
-      },
-      {
-        "uuid": "4a7d7160f7a54914b5d9c114d6235fe6",
-        "gameversion": "0.14.x",
-        "modVersion": null,
-        "size": "20x8",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x8-game0.14.x-20251204085859-fde53f81/_20x8.boki.zip"
-      },
-      {
-        "uuid": "1cc9d9456c004f10b329f92bc7e75e3d",
-        "gameversion": "0.22.x",
-        "modVersion": null,
-        "size": "33x16",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v33x16-game0.22.x-20251204085903-1b69be02/_33x16.boki.zip"
-      }
-    ]
-  },
-  {
     "mod": "\u7075\u51C0\u4E0E\u8352\u68EE\u4E16\u754C",
     "introduce": "",
     "author": "Hedgehog",
@@ -6666,6 +6627,53 @@
         "size": "100x60",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v100x60-game0.14.x-20260426165848-3961162f/_100x60.boki.zip"
+      }
+    ]
+  },
+  {
+    "mod": "\u4E16\u754C\u5730\u56FE(\u7C73\u52D2\u5706\u67F1)",
+    "introduce": "",
+    "author": "boki\u4EBA",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/5da97a4623df48398956ecf8434ed882.png",
+    "tag": [
+      "\u73B0\u5B9E\u4E16\u754C",
+      "\u4E16\u754C\u5730\u56FE",
+      "\u591A\u7248\u672C"
+    ],
+    "index": null,
+    "updatedAt": "2026-04-26T17:10:54.7599792Z",
+    "versions": [
+      {
+        "uuid": "47286583d0f34e6eb4deff889b2cb50e",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "13x6",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x6-game0.14.x-20251204085855-70823a46/_13x6.boki.zip"
+      },
+      {
+        "uuid": "4a7d7160f7a54914b5d9c114d6235fe6",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "20x8",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x8-game0.14.x-20251204085859-fde53f81/_20x8.boki.zip"
+      },
+      {
+        "uuid": "1cc9d9456c004f10b329f92bc7e75e3d",
+        "gameversion": "0.22.x",
+        "modVersion": null,
+        "size": "33x16",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v33x16-game0.22.x-20251204085903-1b69be02/_33x16.boki.zip"
+      },
+      {
+        "uuid": "f7eaf7421fa94748b2893932e9b9efab",
+        "gameversion": "0.14.x",
+        "modVersion": null,
+        "size": "80x33",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v80x33-game0.14.x-20260426171042-0f3b2d0f/_80x33.boki.zip"
       }
     ]
   }
