@@ -4020,5 +4020,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.51.x-20260508180256-178c5b4b/0.51.%2B.Parasite_1.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u6E32\u67D3\u4FEE\u590DRenderFix",
+    "introduce": "\u63A5\u7BA1\u7F29\u7565\u56FE\u6E32\u67D3\uFF0C\u8D44\u6E90\u7F3A\u5931\u6216\u5F02\u5E38\u5D29\u6E83\u65F6\u8FD4\u56DE\u900F\u660E\u56FE\u6807\u800C\u975E\u5361\u4F4F\r\n\u63A5\u7BA1\u5355\u4F4D\u548C\u5EFA\u7B51\u6E32\u67D3\uFF0C\u76F8\u5173\u8D44\u6E90\u7A7A\u65F6\u4E3B\u52A8\u5237\u65B0\u800C\u975E\u76F4\u63A5\u65E0\u6CD5\u663E\u793A\r\n\u8865\u5145\u91CE\u751F\u9635\u8425\u7684\u76F8\u5173\u95EE\u9898\u515C\u5E95\u3001\u7F29\u7565\u56FE\u76F8\u5173\u62A5\u9519\u65E5\u5FD7\u53BB\u91CD",
+    "author": "dwwite",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260508/fc4d4c6523f64f71941dbc74f88fa2cb.png",
+    "tag": [
+      "\u4F53\u9A8C\u4F18\u5316",
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "updatedAt": "2026-05-08T18:04:02.3396600Z",
+    "versions": [
+      {
+        "uuid": "6ecb4690b9d14d068756b6cad435eb78",
+        "gameversion": "0.51.x",
+        "modVersion": "1.2.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.0-game0.51.x-20260508180358-7d4e8705/0.51.%2B.RenderFix_1.2.0.zip"
+      }
+    ]
   }
 ]
