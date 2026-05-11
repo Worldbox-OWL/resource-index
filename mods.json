@@ -4085,5 +4085,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.0.1-game0.51.x-20260511174305-a47d737b/0.51.%2B.Infestation_0.0.1.zip"
       }
     ]
+  },
+  {
+    "mod": "\u65E7\u5386\u517C\u5BB9\u4FEE\u590DOldAgeFix",
+    "introduce": "\u73B0\u7248\u672C\u5F03\u7528\u4E86\u65E7\u7248\u672C\u7684\u5E74\u6708\u65F6\u95F4\uFF0C\u8F6C\u4E3A\u7EDF\u4E00\u4E3A\u4E16\u754C\u65F6\u95F4\u4E14\u65E0\u515C\u5E95\u673A\u5236\uFF0C\u5BFC\u81F4\u5347\u4E0A\u6765\u7684\u65E7\u5B58\u6863\u8BA1\u65F6\u7D2F\u52A0(\u53EF\u80FD\u7FFB\u500D)\uFF0C\u4F7F\u5F97\u5355\u4F4D\u77AC\u95F4\u8001\u6B7B\u3002\u6B64\u6A21\u7EC4\u4E3A\u6B64\u8FDB\u884C\u515C\u5E95\uFF0C\u4F7F\u8BA1\u65F6\u81F3\u591A\u591A\u4E00\u5E74",
+    "author": "gmblahaj",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260511/67dd9997726d49b4ba8de6df3858b967.png",
+    "tag": [
+      "bug\u4FEE\u590D",
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "updatedAt": "2026-05-11T18:46:10.5994823Z",
+    "versions": [
+      {
+        "uuid": "9da52786ad964f10a316a04129b33f92",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260511184603-0ad40d7b/0.51.%2B.OldAgeFix_1.0.0.zip"
+      }
+    ]
   }
 ]
