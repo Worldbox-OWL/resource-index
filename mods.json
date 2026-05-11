@@ -4042,5 +4042,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.0-game0.51.x-20260508180358-7d4e8705/0.51.%2B.RenderFix_1.2.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5FAA\u73AF\u4E16\u754CLoopBox",
+    "introduce": "\u5728\u8BE6\u7EC6\u5730\u56FE\u60C5\u51B5\u4E0B\u5BF9\u5730\u56FE\u8FB9\u7F18\u8FDB\u884C\u62FC\u63A5\uFF0C\u5DF2\u77E5(\u7FA4\u7CFB\u3001\u706B\u7130\u3001\u5EB7\u5A01\u751F\u547D\u6E38\u620F)\u6269\u6563\u53EF\u8DE8\u8D8A\u8FB9\u754C\u3001\u5355\u4F4D(\u79FB\u52A8\u3001\u89C6\u91CE\u3001\u5BFB\u654C)\u4E0D\u4F1A\u8DE8\u8D8A",
+    "author": "Core4777",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260511/caefeebc3b4445b193e4220064e7c495.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "updatedAt": "2026-05-11T17:28:46.8056719Z",
+    "versions": [
+      {
+        "uuid": "bec44290beab4c90a10bb03aa0725bd6",
+        "gameversion": "0.51.x",
+        "modVersion": "0.1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.0-game0.51.x-20260511172840-7e8e8ecd/0.51.%2B.LoopBox_0.1.0.zip"
+      }
+    ]
   }
 ]
