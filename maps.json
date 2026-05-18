@@ -6858,5 +6858,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v10x9-game0.50.x-20260508180619-d1c736f6/_10x9.zip"
       }
     ]
+  },
+  {
+    "mod": "\u4F0A\u9ECE\u51C0\u571FElysium",
+    "introduce": "",
+    "author": "Gregorianek",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260518/4d02a631520f4427bc858d1e58ab7dcc.jpg",
+    "tag": [
+      "\u67B6\u7A7A\u5E7B\u60F3",
+      "\u7ACB\u4F53\u6A21\u62DF"
+    ],
+    "index": null,
+    "updatedAt": "2026-05-18T18:43:49.5902967Z",
+    "versions": [
+      {
+        "uuid": "c22041c071c340e9b8f2c6dd11fdbb2d",
+        "gameversion": "0.50.x",
+        "modVersion": null,
+        "size": "16x11",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x11-game0.50.x-20260518184345-21afe705/_16x11.Gregorianek.zip"
+      }
+    ]
   }
 ]
