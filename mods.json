@@ -4139,7 +4139,7 @@
       "\u72EC\u7279\u751F\u7269"
     ],
     "index": null,
-    "updatedAt": "2026-05-18T18:52:33.9984041Z",
+    "updatedAt": "2026-05-18T18:52:42.7889446Z",
     "versions": [
       {
         "uuid": "31c242351c3c445cb77429c9179865ea",
@@ -4148,6 +4148,14 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0-game0.22.x-20260518185228-c81e2239/0.22.7%2B.PantheonGodsMod._1.1.0.zip"
+      },
+      {
+        "uuid": "ffaa0cb338ed45d787daa4006e1109b0",
+        "gameversion": "0.51.x",
+        "modVersion": "1.3.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.0-game0.51.x-20260518185237-4fd1d0cf/0.51.%2B.PantheonsGod._1.3.0.zip"
       }
     ]
   }
