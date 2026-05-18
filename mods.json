@@ -4057,36 +4057,6 @@
     ]
   },
   {
-    "mod": "\u6218\u795E\u76D2GodofWarBox",
-    "introduce": "\u7075\u611F\u6765\u6E90\u4E8E\u6E38\u620F\u300A\u6218\u795E\u300B\uFF0C\u6DFB\u52A0\u4E86\u6765\u81EA\u5317\u6B27\u795E\u8BDD\u7684\u201C\u4F17\u795E\u4E4B\u7236\u201D\u5965\u4E01\u3001\u201C\u96F7\u795E\u201D\u6258\u5C14\u3001\u201C\u5149\u660E\u4E4B\u795E\u201D\u5DF4\u5FB7\u5C14\u3001\u201C\u5B88\u62A4\u4E4B\u795E\u201D\u6D77\u5C14\u8FBE\u59C6\u3001\u201C\u6218\u795E\u201D\u594E\u6258\u65AF\u3001\u201C\u5C18\u4E16\u5DE8\u87D2\u201D\u8036\u68A6\u52A0\u5F97\u3001\u201C\u6218\u795E\u4E4B\u5B50\u201D\u963F\u7279\u67D4\u65AF\u3001\u201C\u7231\u4E0E\u7F8E\u7684\u5973\u795E\u201D\u8299\u857E\u96C5",
-    "author": "AESIR",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/acdc12e083ff468dbbee3f149962ce15.png",
-    "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u72EC\u7279\u751F\u7269"
-    ],
-    "index": null,
-    "updatedAt": "2026-05-11T18:46:58.8089374Z",
-    "versions": [
-      {
-        "uuid": "b906dad7016e4f399d19477d15561f76",
-        "gameversion": "0.22.x",
-        "modVersion": "2.0.7",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.0.7-game0.22.x-20260214052058-78990632/0.22.%2B.GodofWarBox._2.0.7.zip"
-      },
-      {
-        "uuid": "cc53c270d2db4768a0583628aab732b5",
-        "gameversion": "0.51.x",
-        "modVersion": "3.1.0",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%88%98%E7%A5%9E%E7%9B%92GodofWarBox-v3.1.0-game0.51.x-20260511184653/0.51.%2B.GOWB_3.1.0.zip"
-      }
-    ]
-  },
-  {
     "mod": "\u5FAA\u73AF\u4E16\u754CLoopBox",
     "introduce": "\u5728\u8BE6\u7EC6\u5730\u56FE\u60C5\u51B5\u4E0B\u5BF9\u5730\u56FE\u8FB9\u7F18\u8FDB\u884C\u62FC\u63A5\uFF0C\u5DF2\u77E5(\u7FA4\u7CFB\u3001\u706B\u7130\u3001\u5EB7\u5A01\u751F\u547D\u6E38\u620F)\u6269\u6563\u53EF\u8DE8\u8D8A\u8FB9\u754C\u3001\u5355\u4F4D(\u79FB\u52A8\u3001\u89C6\u91CE\u3001\u5BFB\u654C)\u4E0D\u4F1A\u8DE8\u8D8A",
     "author": "Core4777",
@@ -4105,6 +4075,36 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%BE%AA%E7%8E%AF%E4%B8%96%E7%95%8CLoopBox-v0.1.5-game0.51.x-20260518184533/0.51.%2B.LoopBox_0.1.5.zip"
+      }
+    ]
+  },
+  {
+    "mod": "\u6218\u795E\u76D2GodofWarBox",
+    "introduce": "\u7075\u611F\u6765\u6E90\u4E8E\u6E38\u620F\u300A\u6218\u795E\u300B\uFF0C\u6DFB\u52A0\u4E86\u6765\u81EA\u5317\u6B27\u795E\u8BDD\u7684\u201C\u4F17\u795E\u4E4B\u7236\u201D\u5965\u4E01\u3001\u201C\u96F7\u795E\u201D\u6258\u5C14\u3001\u201C\u5149\u660E\u4E4B\u795E\u201D\u5DF4\u5FB7\u5C14\u3001\u201C\u5B88\u62A4\u4E4B\u795E\u201D\u6D77\u5C14\u8FBE\u59C6\u3001\u201C\u6218\u795E\u201D\u594E\u6258\u65AF\u3001\u201C\u5C18\u4E16\u5DE8\u87D2\u201D\u8036\u68A6\u52A0\u5F97\u3001\u201C\u6218\u795E\u4E4B\u5B50\u201D\u963F\u7279\u67D4\u65AF\u3001\u201C\u7231\u4E0E\u7F8E\u7684\u5973\u795E\u201D\u8299\u857E\u96C5",
+    "author": "AESIR",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/acdc12e083ff468dbbee3f149962ce15.png",
+    "tag": [
+      "\u539F\u8457\u884D\u751F",
+      "\u72EC\u7279\u751F\u7269"
+    ],
+    "index": null,
+    "updatedAt": "2026-05-18T18:46:24.9809433Z",
+    "versions": [
+      {
+        "uuid": "b906dad7016e4f399d19477d15561f76",
+        "gameversion": "0.22.x",
+        "modVersion": "2.0.7",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.0.7-game0.22.x-20260214052058-78990632/0.22.%2B.GodofWarBox._2.0.7.zip"
+      },
+      {
+        "uuid": "cc53c270d2db4768a0583628aab732b5",
+        "gameversion": "0.51.x",
+        "modVersion": "3.3.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E6%88%98%E7%A5%9E%E7%9B%92GodofWarBox-v3.3.0-game0.51.x-20260518184621/0.51.%2B.GOWB_3.3.0.zip"
       }
     ]
   }
