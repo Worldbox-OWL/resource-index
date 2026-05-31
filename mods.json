@@ -4246,5 +4246,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.6.2-game0.51.x-20260529151735-c80a032a/0.51.%2B.Guigu_1.0.6.2.zip"
       }
     ]
+  },
+  {
+    "mod": "\u5360\u9886\u4F18\u5316CapturePlus",
+    "introduce": "\u5728\u6A21\u7EC4\u8BBE\u7F6E\u4E2D\u6DFB\u52A0\u7269\u79CD\u548C\u6587\u5316\u7684\u5360\u9886\u5224\u65AD\uFF0C\u53EF\u9009\u53CB\u597D\u7269\u79CD/\u540C\u7269\u79CD/\u540C\u4E9A\u79CD/\u7981\u6B62\u5360\u9886(\u5B8C\u5168\u5173\u95ED\u5360\u9886\u9700\u628A\u6587\u5316\u5224\u65AD\u4E5F\u5173\u95ED)",
+    "author": "\u534A\u68A6\u534A\u9192",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260531/2be04c9f74a34e199b9e4a10e9322680.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "updatedAt": "2026-05-31T18:24:36.0865205Z",
+    "versions": [
+      {
+        "uuid": "93606b2c63cf4fea88dc35cad61d5525",
+        "gameversion": "0.51.x",
+        "modVersion": "0.1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.0-game0.51.x-20260531182433-2c55e3e7/0.51.%2B.CapturePlus_0.1.0.zip"
+      }
+    ]
   }
 ]
