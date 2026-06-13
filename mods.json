@@ -4311,5 +4311,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%AF%84%E7%94%9F%E4%BE%B5%E6%9F%93Infestation-v0.0.21-game0.51.x-20260613160224/0.51.%2B.Infestation_0.0.21.zip"
       }
     ]
+  },
+  {
+    "mod": "\u9AD8\u5C71\u5C4F\u969CMountainBarrier",
+    "introduce": "\u5728\u4E16\u754C\u6CD5\u5219\u7B2C\u56DB\u7C7B\u201C\u5355\u4F4D\u201D\u4E2D\u6DFB\u52A0\u201C\u9AD8\u5C71\u5C4F\u969C\u201D-\u542F\u7528\u5C04\u51FB\u4E0D\u80FD\u8DE8\u8D8A\u9AD8\u5C71\u548C\u96EA\u5CF0\u3002\u6CD5\u5219\u53F3\u952E\u53EF\u8FDB\u5165\u6A21\u7EC4\u8BBE\u7F6E\uFF0C\u53EF\u4EE5\u8BBE\u7F6E\u5899\u4F53\u963B\u6321\u3001\u4E18\u9675\u589E\u9AD8\u3001\u5EFA\u7B51\u53D7\u963B",
+    "author": "\u534A\u68A6\u534A\u9192",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260613/4a578f4ec5cd4a07a248db9a0a3fb0ef.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "updatedAt": "2026-06-13T16:04:44.5036844Z",
+    "versions": [
+      {
+        "uuid": "253f998d74c14443aa678301debfecdd",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260613160441-7411fef5/0.51.%2B.MountainBarrier_1.0.0.zip"
+      }
+    ]
   }
 ]
