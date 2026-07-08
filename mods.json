@@ -4349,14 +4349,6 @@
     "updatedAt": "2026-07-08T23:49:16.1749696Z",
     "versions": [
       {
-        "uuid": "aeb7473970384c38922bb2f4a2027610",
-        "gameversion": "0.51.\u002B",
-        "modVersion": "1.1.0",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0-game0.51.%2B-20260708234849-91cf374f/0.51.%2B.FunBoost_1.1.0.zip"
-      },
-      {
         "uuid": "85764923ea384095a7c65fa87801662d",
         "gameversion": "0.51.x",
         "modVersion": "1.1.0",
