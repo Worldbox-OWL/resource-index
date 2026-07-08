@@ -4284,28 +4284,6 @@
     ]
   },
   {
-    "mod": "\u9AD8\u5C71\u5C4F\u969CMountainBarrier",
-    "introduce": "\u5728\u4E16\u754C\u6CD5\u5219\u7B2C\u56DB\u7C7B\u201C\u5355\u4F4D\u201D\u4E2D\u6DFB\u52A0\u201C\u9AD8\u5C71\u5C4F\u969C\u201D-\u542F\u7528\u5C04\u51FB\u4E0D\u80FD\u8DE8\u8D8A\u9AD8\u5C71\u548C\u96EA\u5CF0\u3002\u6CD5\u5219\u53F3\u952E\u53EF\u8FDB\u5165\u6A21\u7EC4\u8BBE\u7F6E\uFF0C\u53EF\u4EE5\u8BBE\u7F6E\u5899\u4F53\u963B\u6321\u3001\u4E18\u9675\u589E\u9AD8\u3001\u5EFA\u7B51\u53D7\u963B",
-    "author": "\u534A\u68A6\u534A\u9192",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260613/4a578f4ec5cd4a07a248db9a0a3fb0ef.png",
-    "tag": [
-      "\u539F\u751F\u8C03\u6574",
-      "\u4F53\u9A8C\u4F18\u5316"
-    ],
-    "index": null,
-    "updatedAt": "2026-06-13T16:04:44.5036844Z",
-    "versions": [
-      {
-        "uuid": "253f998d74c14443aa678301debfecdd",
-        "gameversion": "0.51.x",
-        "modVersion": "1.0.0",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260613160441-7411fef5/0.51.%2B.MountainBarrier_1.0.0.zip"
-      }
-    ]
-  },
-  {
     "mod": "\u4E0A\u5E1D\u6A21\u5F0F\u7FFB\u8BD1",
     "introduce": "\u2460\u5185\u5BB9\u7FFB\u8BD1\uFF1A\u4E3A\u53F3\u4E0A\u89D2\u7684\u8C03\u8BD5\u6309\u94AE\u548C\u4E0A\u5E1D\u6A21\u5F0F\u7A97\u53E3\u8FDB\u884C\u6C49\u5316\u7FFB\u8BD1\u3001\u6DFB\u52A0\u60AC\u505C\u63D0\u793A\u3002\u90E8\u5206\u6309\u94AE\u5E26\u6709\u4F20\u8BF4\u548C\u53F2\u8BD7\u8272\u5F69\u6807\u6CE8\u7684*\u53F7\u8868\u793A\u5E38\u7528\uFF0C\u90E8\u5206\u60AC\u505C\u63D0\u793A\u5185\u5BB9\u4E5F\u6709\u5BF9\u5E94\u989C\u8272\u6807\u6CE8\uFF0C\u5982(\u6D45\u7EFF\u8272\u4EE3\u8868\u539F\u7248\u7684\u81EA\u5E26\u529F\u80FD)\n\u2462\u529F\u80FD\u8865\u5145\uFF1A\u53F3\u4E0A\u89D2\u8C03\u8BD5\u6309\u94AE\u53F3\u952E\u8FDB\u5165\u6A21\u7EC4\u8BBE\u7F6E\uFF0C\u9ED8\u8BA4\u900F\u660E\u53EF\u70B9\u51FB\uFF1B\u6DFB\u52A0\u4E86\u8C03\u8BD5\u6309\u94AE\u663E\u793A\u3001\u81EA\u5B9A\u7F29\u7565\u4E0B\u9650\u3001\u5B8C\u6574\u6C99\u6F0F\u7B49\u6A21\u7EC4\u8BBE\u7F6E",
     "author": "\u7D20\u548C\u665F\u777F\u5BD2\u6D77,\u534A\u68A6\u534A\u9192",
@@ -4332,6 +4310,28 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E4%B8%8A%E5%B8%9D%E6%A8%A1%E5%BC%8F%E7%BF%BB%E8%AF%91-v1.2.0-game0.51.x-20260615173227/0.51.%2B._1.2.0.zip"
+      }
+    ]
+  },
+  {
+    "mod": "\u9AD8\u5C71\u5C4F\u969CMountainBarrier",
+    "introduce": "\u5728\u4E16\u754C\u6CD5\u5219\u7B2C\u56DB\u7C7B\u201C\u5355\u4F4D\u201D\u4E2D\u6DFB\u52A0\u201C\u9AD8\u5C71\u5C4F\u969C\u201D-\u542F\u7528\u5C04\u51FB\u4E0D\u80FD\u8DE8\u8D8A\u9AD8\u5C71\u548C\u96EA\u5CF0\u3002\u6CD5\u5219\u53F3\u952E\u53EF\u8FDB\u5165\u6A21\u7EC4\u8BBE\u7F6E\uFF0C\u53EF\u4EE5\u8BBE\u7F6E\u5899\u4F53\u963B\u6321\u3001\u4E18\u9675\u589E\u9AD8\u3001\u5EFA\u7B51\u53D7\u963B",
+    "author": "\u534A\u68A6\u534A\u9192",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260613/4a578f4ec5cd4a07a248db9a0a3fb0ef.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u4F53\u9A8C\u4F18\u5316"
+    ],
+    "index": null,
+    "updatedAt": "2026-07-08T23:47:08.4669111Z",
+    "versions": [
+      {
+        "uuid": "253f998d74c14443aa678301debfecdd",
+        "gameversion": "0.51.x",
+        "modVersion": "1.1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E9%AB%98%E5%B1%B1%E5%B1%8F%E9%9A%9CMountainBarrier-v1.1.0-game0.51.x-20260708234705/0.51.%2B.MountainBarrier_1.1.0.zip"
       }
     ]
   }
