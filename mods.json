@@ -4357,5 +4357,26 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%BE%AA%E7%8E%AF%E4%B8%96%E7%95%8CLoopBox-v0.2.0-game0.51.x-20260708235237/0.51.%2B.LoopBox_0.2.0.zip"
       }
     ]
+  },
+  {
+    "mod": "\u65E0\u754C\u4E4B\u6839\u6CD5\u5219\u5FAE\u8C03",
+    "introduce": "\u9632\u6B62\u65E0\u754C\u4E4B\u6839\u6CD5\u5219\u5F00\u542F\u540E\u6811\u6269\u6563\u5230\u7530\uFF0C\u6C99\u5730\u4E0A\u7684\u6811\u6269\u6563\u5230\u5176\u4ED6\u5730\u5757\u7684\u60C5\u51B5",
+    "author": "zak.cs",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260708/bcd193d9f49044b5a3aa7d85f0363954.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "updatedAt": "2026-07-08T23:53:49.5464514Z",
+    "versions": [
+      {
+        "uuid": "5c5076f1b00e41e5829afc001605655d",
+        "gameversion": "0.51.x",
+        "modVersion": "0.1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.0-game0.51.x-20260708235346-3c58c1c1/0.51.%2B._0.1.0.zip"
+      }
+    ]
   }
 ]
