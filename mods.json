@@ -832,29 +832,6 @@
     ]
   },
   {
-    "mod": "\u5BA3\u6218\u4FDD\u62A4BeatBack",
-    "introduce": "\u201C\u5168\u6C11\u7686\u5175\u201D\u6CD5\u5219\u672A\u5F00\u542F\u72B6\u6001\u4E0B\uFF0C\u5F53\u9632\u5B88\u65B9\u6EE1\u8DB3\u4EE5\u4E0B\u6761\u4EF6\u4E4B\u4E00\uFF0C\u5373\u53EF\u5355\u72EC\u89E6\u53D1\u5168\u6C11\u7686\u5175\r\n1.\u8FDB\u653B\u65B9\u56FD\u5BB6\u6570\u91CF\u2265\u9632\u5B88\u65B9\u56FD\u5BB6\u6570\u91CF\u002B2\r\n2.\u8FDB\u653B\u65B9\u58EB\u5175\u6570\u91CF\u22652\u500D\u7684\u9632\u5B88\u65B9\r\n3.\u8FDB\u653B\u65B9\u4EBA\u53E3\u6570\u91CF\u22653\u500D\u7684\u9632\u5B88\u65B9",
-    "author": "\u661F\u66DC",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251210/1c3d184766f043e5ae5dbf71f0275363.png",
-    "tag": [
-      "\u529F\u80FD\u6269\u5C55",
-      "\u4F53\u9A8C\u4F18\u5316",
-      "\u539F\u751F\u8C03\u6574"
-    ],
-    "index": null,
-    "updatedAt": null,
-    "versions": [
-      {
-        "uuid": "40bf473f459b4653ac4ee6dcf69e32ed",
-        "gameversion": "0.22.x",
-        "modVersion": "1.0.3",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.3-game0.22.x-20251210170801-ba655c44/0.22.7%2B.BeatBack_1.0.3.zip"
-      }
-    ]
-  },
-  {
     "mod": "\u968F\u673A\u5730\u56FE\u751F\u6210\u6A21\u7EC4MapSizes",
     "introduce": "\u2460\u53F3\u4E0A\u89D2\u4F1A\u591A\u51FA\u4E00\u4E2AMapSizes\u7684\u6309\u94AE\uFF0C\u70B9\u51FB\u540E\u4F1A\u591A\u51FA\u4E00\u4E2A\u9762\u677F\uFF0C\u53EF\u4EE5\u9009\u62E9\u968F\u673A\u751F\u6210\u7684\u4E00\u4E9B\u7EC6\u8282\r\n\u2461\u7C7B\u578B\u5173\u952E\u8BCD\uFF1Acontinent(\u5927\u9646)\u3001box_world(\u76D2\u4E2D\u4E16\u754C)\u3001island(\u5C9B\u5C7F)\u3001boring_plains(\u65E0\u804A\u5E73\u539F)\u3001donut(\u751C\u751C\u5708)\u3001toast(\u9762\u5305\u7247)\u3001pancake(\u70ED\u9999\u997C)\u3001dormant_volcano(\u6B7B\u706B\u5C71)\u3001cheese(\u5E72\u916A)\u3001bad_apple(\u574F\u82F9\u679C)\u3001anthill(\u8681\u7A74)\u3001chaos_pearl(\u6DF7\u6C8C\u4E4B\u73E0)\u3001chaos_lasagna(\u6DF7\u6C8C\u5343\u5C42\u9762)\u3001checkerboard(\u68CB\u76D8)\u3001cubicles(\u9694\u95F4)\u3001empty(\u7A7A\u767D)\r\n\u26A0\u6B64\u6A21\u7EC4\u751F\u6210\u5730\u56FE\u65F6\u53EF\u80FD\u4F1A\u5361\u987F\u7247\u523B\uFF0C\u4E0D\u7528\u7740\u6025",
     "author": "Cody",
@@ -4407,6 +4384,37 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260727042509-784181ea/0.51.%2B.EditableTraits_1.0.0.zip"
+      }
+    ]
+  },
+  {
+    "mod": "\u5BA3\u6218\u4FDD\u62A4BeatBack",
+    "introduce": "\u201C\u5168\u6C11\u7686\u5175\u201D\u6CD5\u5219\u672A\u5F00\u542F\u72B6\u6001\u4E0B\uFF0C\u5F53\u9632\u5B88\u65B9\u6EE1\u8DB3\u4EE5\u4E0B\u6761\u4EF6\u4E4B\u4E00\uFF0C\u5373\u53EF\u5355\u72EC\u89E6\u53D1\u5168\u6C11\u7686\u5175\r\n1.\u8FDB\u653B\u65B9\u56FD\u5BB6\u6570\u91CF\u2265\u9632\u5B88\u65B9\u56FD\u5BB6\u6570\u91CF\u002B2\r\n2.\u8FDB\u653B\u65B9\u58EB\u5175\u6570\u91CF\u22652\u500D\u7684\u9632\u5B88\u65B9\r\n3.\u8FDB\u653B\u65B9\u4EBA\u53E3\u6570\u91CF\u22653\u500D\u7684\u9632\u5B88\u65B9",
+    "author": "\u661F\u66DC",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251210/1c3d184766f043e5ae5dbf71f0275363.png",
+    "tag": [
+      "\u529F\u80FD\u6269\u5C55",
+      "\u4F53\u9A8C\u4F18\u5316",
+      "\u539F\u751F\u8C03\u6574"
+    ],
+    "index": null,
+    "updatedAt": "2026-07-27T04:25:44.3883146Z",
+    "versions": [
+      {
+        "uuid": "40bf473f459b4653ac4ee6dcf69e32ed",
+        "gameversion": "0.22.x",
+        "modVersion": "1.0.3",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.3-game0.22.x-20251210170801-ba655c44/0.22.7%2B.BeatBack_1.0.3.zip"
+      },
+      {
+        "uuid": "d16d392ceebf4da4aff98d61d10a2361",
+        "gameversion": "0.51.x",
+        "modVersion": "1.1.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0-game0.51.x-20260727042541-9c345be1/0.51.%2B.WarProtection_1.1.0.zip"
       }
     ]
   }
