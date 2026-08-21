@@ -4452,7 +4452,7 @@
       "必备"
     ],
     "index": null,
-    "updatedAt": "2026-08-21T09:02:18.879300+00:00",
+    "updatedAt": "2026-08-21T10:08:26.743338+00:00",
     "versions": [
       {
         "uuid": "07473b2a594f453d87657b957d0318de",
@@ -4460,7 +4460,7 @@
         "modVersion": "1.1.1",
         "size": null,
         "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.1-game0.51.x-20260821090215-f358ae3d/0.51.%2B.Supower_1.1.1.zip"
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.1-game0.51.x-20260821100824-a3f120b7/0.51.%2B.Supower_1.1.1.zip"
       }
     ]
   }
