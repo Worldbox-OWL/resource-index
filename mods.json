@@ -4468,19 +4468,26 @@
     "mod": "建筑蓝图Blueprint",
     "introduce": "通过保存蓝图框选一定区域，保存区域内文明建筑；在蓝图库选择具体模板；使用粘贴蓝图持续在图上放置\r\n⚠注：蓝图库数据存于模组文件夹内，删除只能回收站找回，如有需要自行备份(可通过蓝图库右上角打开文件夹)",
     "author": "星曜吃不饱",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260822/06c7e379242f4009aa5c78e8f2322706.png",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260822/039db59efbc64ba2a7e7e41d16e2bf31.png",
     "tag": [
       "功能扩展",
       "原生调整"
     ],
     "index": null,
-    "updatedAt": "2026-08-22T09:01:40.035216+00:00",
+    "updatedAt": "2026-08-22T09:02:22.222239+00:00",
     "versions": [
       {
         "uuid": "9b5a04dc666a42b88196e0f58d48e309",
         "gameversion": "0.22.x",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.0-game0.22.x-20260822090136-c44af4c5/0.22.%2B.Blueprint_1.2.0.zip",
+        "modVersion": "1.2.0"
+      },
+      {
+        "uuid": "f48c209643da48d0b8d14785f54af939",
+        "gameversion": "0.22.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.0-game0.22.x-20260822090219-7260a7e9/0.22.%2B.Blueprint_1.2.0.zip",
         "modVersion": "1.2.0"
       }
     ]
