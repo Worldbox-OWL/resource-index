@@ -4518,5 +4518,26 @@
         "modVersion": "1.1.0"
       }
     ]
+  },
+  {
+    "mod": "禁止近亲结婚KinshipNoIncest",
+    "introduce": "老马小时候家庭重组导致父亲和女儿在一起了，所以此模组禁止近亲结婚，近亲评判(默认直系和叔伯堂表不行)可在模组设置中修改",
+    "author": "Mathias",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260822/aa4d740f2b714b6f98051209f845eafa.png",
+    "tag": [
+      "原生调整",
+      "体验优化"
+    ],
+    "index": null,
+    "updatedAt": "2026-08-22T09:04:54.614447+00:00",
+    "versions": [
+      {
+        "uuid": "b5c2301bc4734ef2ade419271f741f9d",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260822090451-716a57ee/0.51.%2B.KinshipNoIncest_1.0.0.zip",
+        "modVersion": "1.0.0"
+      }
+    ]
   }
 ]
