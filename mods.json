@@ -4498,5 +4498,25 @@
         "modVersion": "1.2.0"
       }
     ]
+  },
+  {
+    "mod": "文化语言传播法则",
+    "introduce": "世界法则中文明类添加文化/语言/宗教传播三个法则(可右键打开模组设置)，默认开启(可模组设置内修改)表示原版默认，关闭才表示禁止文化/语言/宗教传播\r\n注：新生儿默认跟随城市文化语言宗教不属于传播，也就是说保留地域特色",
+    "author": "KloopRe",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260822/0190dab55a3b4899af2b7e019d367575.png",
+    "tag": [
+      "原生调整"
+    ],
+    "index": null,
+    "updatedAt": "2026-08-22T09:03:59.193232+00:00",
+    "versions": [
+      {
+        "uuid": "2dce62d3a2c94367b2bbb3c7f41bbeaa",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0-game0.51.x-20260822090355-8f09521e/0.51.%2B._1.1.0.zip",
+        "modVersion": "1.1.0"
+      }
+    ]
   }
 ]
