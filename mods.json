@@ -2303,30 +2303,6 @@
     ]
   },
   {
-    "mod": "空星漫漫模组Kmod",
-    "introduce": "①新文明种族：罗马人，西欧式风格；阿拉伯人，平顶式风格且有额外建筑“集市”提升黄金收益；斯拉夫人，尖顶式风格\r\n②新文明知识“板甲”，用于制作板甲\r\n③新效果“破甲”：防御直接清零5s(破甲弩为10s)\r\n④骑兵已实装，机动性更强且可以发动范围伤害“冲锋”技能(且各族骑兵类型不同，可自己观察)\r\n骑兵受矛锤伤害翻倍且冲锋时会受到轻微反伤\r\n⑤投石车工坊及对应知识、弩车工坊及对应知识已实装\r\n⑥国力强化功能：\r\n根据国王、领主的属性来为国力提供加成\r\n领主或军团长的指挥属性会加强军队士兵\r\n国王的组织属性影响首都税收；领主的组织影响城市税收\r\n(其他说明可在对应模组文件夹翻看)",
-    "author": "空星漫漫",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/8b8fc45d2d12486d96beba87b40f9da8.png",
-    "tag": [
-      "原生调整",
-      "功能扩展",
-      "体验优化",
-      "独特生物"
-    ],
-    "index": null,
-    "updatedAt": null,
-    "versions": [
-      {
-        "uuid": "ba545afa2e354eb4a3312359ce7bb2c0",
-        "gameversion": "0.22.x",
-        "modVersion": "0.2.0beta",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.2.0beta-game0.22.x-20260214044351-aac6ce1a/0.22.7%2B.Kmod_0.2.0beta.zip"
-      }
-    ]
-  },
-  {
     "mod": "单位属性编辑UnitTrainer",
     "introduce": "让一些单位属性可以直接编辑，暂只支持：外交、指挥、组织、智力",
     "author": "Vincent",
@@ -4537,6 +4513,37 @@
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-20260822090451-716a57ee/0.51.%2B.KinshipNoIncest_1.0.0.zip",
         "modVersion": "1.0.0"
+      }
+    ]
+  },
+  {
+    "mod": "空星漫漫模组Kmod",
+    "introduce": "①新文明种族：罗马人，西欧式风格；阿拉伯人，平顶式风格且有额外建筑“集市”提升黄金收益；斯拉夫人，尖顶式风格\r\n②新文明知识“板甲”，用于制作板甲\r\n③新效果“破甲”：防御直接清零5s(破甲弩为10s)\r\n④骑兵已实装，机动性更强且可以发动范围伤害“冲锋”技能(且各族骑兵类型不同，可自己观察)\r\n骑兵受矛锤伤害翻倍且冲锋时会受到轻微反伤\r\n⑤投石车工坊及对应知识、弩车工坊及对应知识已实装\r\n⑥国力强化功能：\r\n根据国王、领主的属性来为国力提供加成\r\n领主或军团长的指挥属性会加强军队士兵\r\n国王的组织属性影响首都税收；领主的组织影响城市税收\r\n(其他说明可在对应模组文件夹翻看)",
+    "author": "空星漫漫",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260214/8b8fc45d2d12486d96beba87b40f9da8.png",
+    "tag": [
+      "原生调整",
+      "功能扩展",
+      "体验优化",
+      "独特生物"
+    ],
+    "index": null,
+    "updatedAt": "2026-08-22T15:47:15.802641+00:00",
+    "versions": [
+      {
+        "uuid": "ba545afa2e354eb4a3312359ce7bb2c0",
+        "gameversion": "0.22.x",
+        "modVersion": "0.2.0beta",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.2.0beta-game0.22.x-20260214044351-aac6ce1a/0.22.7%2B.Kmod_0.2.0beta.zip"
+      },
+      {
+        "uuid": "f04e1cc7cf3a4aa19fa212930889e342",
+        "gameversion": "0.51.+",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.0-game0.51.%2B-20260822154712-79f9152e/0.51.%2B.Kmod_0.3.0.zip",
+        "modVersion": "0.3.0"
       }
     ]
   }
