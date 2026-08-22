@@ -4537,13 +4537,6 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.2.0beta-game0.22.x-20260214044351-aac6ce1a/0.22.7%2B.Kmod_0.2.0beta.zip"
-      },
-      {
-        "uuid": "f04e1cc7cf3a4aa19fa212930889e342",
-        "gameversion": "0.51.+",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.0-game0.51.%2B-20260822154712-79f9152e/0.51.%2B.Kmod_0.3.0.zip",
-        "modVersion": "0.3.0"
       }
     ]
   }
