@@ -4528,7 +4528,7 @@
       "独特生物"
     ],
     "index": null,
-    "updatedAt": "2026-08-22T15:47:15.802641+00:00",
+    "updatedAt": "2026-08-22T15:47:54.769971+00:00",
     "versions": [
       {
         "uuid": "ba545afa2e354eb4a3312359ce7bb2c0",
@@ -4537,6 +4537,13 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.2.0beta-game0.22.x-20260214044351-aac6ce1a/0.22.7%2B.Kmod_0.2.0beta.zip"
+      },
+      {
+        "uuid": "e6b44c8893fa41fc89cb7664b849d4cd",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.0-game0.51.x-20260822154751-39d91a74/0.51.%2B.Kmod_0.3.0.zip",
+        "modVersion": "0.3.0"
       }
     ]
   }
