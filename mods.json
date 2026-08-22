@@ -4474,7 +4474,7 @@
       "原生调整"
     ],
     "index": null,
-    "updatedAt": "2026-08-22T09:02:22.222239+00:00",
+    "updatedAt": "2026-08-22T09:02:27.148876+00:00",
     "versions": [
       {
         "uuid": "9b5a04dc666a42b88196e0f58d48e309",
@@ -4488,6 +4488,13 @@
         "gameversion": "0.22.x",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.0-game0.22.x-20260822090219-7260a7e9/0.22.%2B.Blueprint_1.2.0.zip",
+        "modVersion": "1.2.0"
+      },
+      {
+        "uuid": "111cd3cc319641c3ac4d5eb7e0e22508",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.0-game0.51.x-20260822090224-3b68503b/0.51.%2B.Blueprint_1.2.0.zip",
         "modVersion": "1.2.0"
       }
     ]
