@@ -4490,6 +4490,27 @@
     ]
   },
   {
+    "mod": "Avb的扩展军械库",
+    "introduce": "①特殊装备：添加全套“黄金”、“冰霜”武器装备；添加“龙鳞”装备、添加“烈焰”武器；添加全新“弩”类别\n②其他：添加了“弩爱好者”文化特质，精灵默认获得；放置冰魔火魔可能含对应武器；在模组设置中允许制造后需搭配超级特质包的文化特质“特殊设计”/“黄金狂热”才能制造",
+    "author": "Avb",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260327/c39103216ae34d229b5da00a02d15bb2.png",
+    "tag": [
+      "原生调整"
+    ],
+    "index": null,
+    "updatedAt": "2026-08-26T07:49:00.933569+00:00",
+    "versions": [
+      {
+        "uuid": "a5a4569e78cc42b0871123f71549862a",
+        "gameversion": "0.51.x",
+        "modVersion": "1.82",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.82-game0.51.x-20260826074857-3a2d2e39/0.51.%2BAvb._1.82.zip"
+      }
+    ]
+  },
+  {
     "mod": "Avb超级特质包",
     "introduce": "①特质拓展：添加了170+特质，绝大部分在生物特质中，亚种、文化、宗教、氏族、王国均有提供少量特质。本模组提供超级、糟糕、血液、变身、材质(文化)、稳定(王国)六类，大部分位于原版分类中\n②模组设置：诞生特质(部分特质可以在出生或遗传)、仅遗传特质(部分特质可以遗传)、成年特质(成年后会出现的少部分的特质)、蜕变限制(生物只能蜕变一次)、禁止骷髅(单位将不会召唤骷髅)、适应条件(亚种中的适应特质是生物在对应群系定居的必要条件)、随机传送(传送到随机地点，如果禁用生物只能传送回家)\n(模组列表中找到此模组然后点击右侧齿轮可见模组设置)",
     "author": "Avb",
@@ -4498,7 +4519,7 @@
       "原生调整"
     ],
     "index": null,
-    "updatedAt": "2026-08-26T07:48:32.498593+00:00",
+    "updatedAt": "2026-08-26T07:49:31.326038+00:00",
     "versions": [
       {
         "uuid": "849a28e745b94b3cbfa33997165b04f4",
@@ -4519,31 +4540,10 @@
       {
         "uuid": "018838ebabe141d3b76f1c69a24ce5d3",
         "gameversion": "0.51.x",
-        "modVersion": "2.79",
+        "modVersion": "2.91",
         "size": null,
         "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.79-game0.51.x-20260826074828-6ca46937/0.51.%2BAvb._2.91.zip"
-      }
-    ]
-  },
-  {
-    "mod": "Avb的扩展军械库",
-    "introduce": "①特殊装备：添加全套“黄金”、“冰霜”武器装备；添加“龙鳞”装备、添加“烈焰”武器；添加全新“弩”类别\n②其他：添加了“弩爱好者”文化特质，精灵默认获得；放置冰魔火魔可能含对应武器；在模组设置中允许制造后需搭配超级特质包的文化特质“特殊设计”/“黄金狂热”才能制造",
-    "author": "Avb",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260327/c39103216ae34d229b5da00a02d15bb2.png",
-    "tag": [
-      "原生调整"
-    ],
-    "index": null,
-    "updatedAt": "2026-08-26T07:49:00.933569+00:00",
-    "versions": [
-      {
-        "uuid": "a5a4569e78cc42b0871123f71549862a",
-        "gameversion": "0.51.x",
-        "modVersion": "1.82",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.82-game0.51.x-20260826074857-3a2d2e39/0.51.%2BAvb._1.82.zip"
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.91-game0.51.x-20260826074928-cbf86494/0.51.%2BAvb._2.91.zip"
       }
     ]
   }
