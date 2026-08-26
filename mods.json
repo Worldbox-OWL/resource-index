@@ -4519,7 +4519,7 @@
       "原生调整"
     ],
     "index": null,
-    "updatedAt": "2026-08-26T07:48:23.450883+00:00",
+    "updatedAt": "2026-08-26T07:48:32.498593+00:00",
     "versions": [
       {
         "uuid": "849a28e745b94b3cbfa33997165b04f4",
@@ -4543,7 +4543,7 @@
         "modVersion": "2.79",
         "size": null,
         "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.79-game0.51.x-20260826074820-4c9e6f18/0.51.%2BAvb._2.91.zip"
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.79-game0.51.x-20260826074828-6ca46937/0.51.%2BAvb._2.91.zip"
       }
     ]
   }
