@@ -4113,43 +4113,6 @@
     ]
   },
   {
-    "mod": "Avb超级特质包",
-    "introduce": "①特质拓展：添加了170+特质，绝大部分在生物特质中，亚种、文化、宗教、氏族、王国均有提供少量特质。本模组提供超级、糟糕、血液、变身、材质(文化)、稳定(王国)六类，大部分位于原版分类中\n②模组设置：诞生特质(部分特质可以在出生或遗传)、仅遗传特质(部分特质可以遗传)、成年特质(成年后会出现的少部分的特质)、蜕变限制(生物只能蜕变一次)、禁止骷髅(单位将不会召唤骷髅)、适应条件(亚种中的适应特质是生物在对应群系定居的必要条件)、随机传送(传送到随机地点，如果禁用生物只能传送回家)\n(模组列表中找到此模组然后点击右侧齿轮可见模组设置)",
-    "author": "Avb",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251208/7239cb84b96a4e548eb6eb0e12cb007c.png",
-    "tag": [
-      "原生调整"
-    ],
-    "index": null,
-    "updatedAt": null,
-    "versions": [
-      {
-        "uuid": "849a28e745b94b3cbfa33997165b04f4",
-        "gameversion": "0.22.x",
-        "modVersion": "1.9",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.9-game0.22.x-20251208094711-e38fd4ba/0.22.%2BAvb.s._1.9.zip"
-      },
-      {
-        "uuid": "bf05e7b8eb9c4dc38d7696b6a80e85f9",
-        "gameversion": "0.50.x",
-        "modVersion": "2.11",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.11-game0.50.x-20251208094719-bbe0bbda/0.50.6%2BAvb._2.11.zip"
-      },
-      {
-        "uuid": "018838ebabe141d3b76f1c69a24ce5d3",
-        "gameversion": "0.51.x",
-        "modVersion": "2.79",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/Avb%E8%B6%85%E7%BA%A7%E7%89%B9%E8%B4%A8%E5%8C%85-v2.79-game0.51.x-20260613160151/0.51.%2BAvb._2.79.zip"
-      }
-    ]
-  },
-  {
     "mod": "寄生侵染Infestation",
     "introduce": "①寄生虫：每只寄生虫死亡生成寄生残留物，其中50%概率激活\n源育虫-和平但主动靠近未感染的单位。每次感染成功会吸收对方一定体重(单次最高700kg)，可消耗对应kg生成其他寄生虫\n嗣卵虫(80kg)-攻击时80%概率感染对方，自身死亡(感染核心特质)；\n星寄虫(150kg)-攻击时必定感染对方(寄生起源特质)；\n速播虫(140kg)-攻击时40%概率感染对方(寄生侵染特质)；\n②寄生与进化：受感染带有10%单次伤害，其死亡向周围两格传播感染并转变成宿主；\n当寄生宿主击杀数≥体重的10%时激活腐坏(4%单次伤害)，其死亡后生成小型(60%)/中型(20%)生物质并生成宿主残留物\n小型/中型会靠近融合，参与融合的小型总数达到四即可生成大型生物质；三个宿主残留物融合生成不纯\n大型生物质会自发进化，25秒期间无法移动，结束时生成原始体\n原始体具备较高战力可以通过击杀可以升级适应能力(0/10/25/50/100)，第5级且击杀数≥体重的10%时进化为适应体\n③其他：具备多疑特质的单位会主动攻击源育虫；原版肿瘤怪物死亡时有15%概率生成源育虫；\n深渊核心-寄生残留物和附近宿主残留物融合生成初始深渊核心，经50-70年进化为低阶核心，再经80-120年进化为高阶核心；低阶核心寄生土地并产生小型繁殖体(生产感染宿主)，高阶核心感染能力更强并可以产生中型繁殖体(生产宿主和寄生虫)",
     "author": "Politano23",
@@ -4544,6 +4507,43 @@
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.0-game0.51.x-20260822154751-39d91a74/0.51.%2B.Kmod_0.3.0.zip",
         "modVersion": "0.3.0"
+      }
+    ]
+  },
+  {
+    "mod": "Avb超级特质包",
+    "introduce": "①特质拓展：添加了170+特质，绝大部分在生物特质中，亚种、文化、宗教、氏族、王国均有提供少量特质。本模组提供超级、糟糕、血液、变身、材质(文化)、稳定(王国)六类，大部分位于原版分类中\n②模组设置：诞生特质(部分特质可以在出生或遗传)、仅遗传特质(部分特质可以遗传)、成年特质(成年后会出现的少部分的特质)、蜕变限制(生物只能蜕变一次)、禁止骷髅(单位将不会召唤骷髅)、适应条件(亚种中的适应特质是生物在对应群系定居的必要条件)、随机传送(传送到随机地点，如果禁用生物只能传送回家)\n(模组列表中找到此模组然后点击右侧齿轮可见模组设置)",
+    "author": "Avb",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251208/7239cb84b96a4e548eb6eb0e12cb007c.png",
+    "tag": [
+      "原生调整"
+    ],
+    "index": null,
+    "updatedAt": "2026-08-26T07:48:23.450883+00:00",
+    "versions": [
+      {
+        "uuid": "849a28e745b94b3cbfa33997165b04f4",
+        "gameversion": "0.22.x",
+        "modVersion": "1.9",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.9-game0.22.x-20251208094711-e38fd4ba/0.22.%2BAvb.s._1.9.zip"
+      },
+      {
+        "uuid": "bf05e7b8eb9c4dc38d7696b6a80e85f9",
+        "gameversion": "0.50.x",
+        "modVersion": "2.11",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.11-game0.50.x-20251208094719-bbe0bbda/0.50.6%2BAvb._2.11.zip"
+      },
+      {
+        "uuid": "018838ebabe141d3b76f1c69a24ce5d3",
+        "gameversion": "0.51.x",
+        "modVersion": "2.79",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.79-game0.51.x-20260826074820-4c9e6f18/0.51.%2BAvb._2.91.zip"
       }
     ]
   }
