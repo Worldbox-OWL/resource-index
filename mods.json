@@ -4307,30 +4307,6 @@
     ]
   },
   {
-    "mod": "天工技艺Supower",
-    "introduce": "①王国操作：指定宣战、指定和平、脱离战争、全图行政(可选物种)、自然世界、吞并王国、分割国家、移交城市、王国物种转换、王国回防、驻扎边境、王国动员、王国快速征兵\r\n②城市操作：指派建城、吞并城市、回防、动员、城市分割（上下）、城市分割（左右）、城市快速征兵、城市物种转换、放置文明建筑、升级城市建筑、设为首都\r\n③单位操作：生成单位(所有生物)、指定身份(可选神明、将军、氏族长等)、状态选择器(可选军队城市王国)、移除单位、单位传送、指定爱人、指定挚友、指定生育、指定攻击目标\r\n④模组设置：单分类模式、无视征兵上限(仅对快速征兵权能)、快速移动(动员回防驻扎等添加兴奋状态)、宗教神明补丁(允许设置神明)、神创宗教(宗教创立者视为初代神明)",
-    "author": "半梦半醒",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260818/ace2c9ddf81146b9abaa7100e43521f0.png",
-    "tag": [
-      "辅助模组",
-      "功能扩展",
-      "体验优化",
-      "必备"
-    ],
-    "index": null,
-    "updatedAt": "2026-08-21T10:08:26.743338+00:00",
-    "versions": [
-      {
-        "uuid": "07473b2a594f453d87657b957d0318de",
-        "gameversion": "0.51.x",
-        "modVersion": "1.1.1",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.1-game0.51.x-20260821100824-a3f120b7/0.51.%2B.Supower_1.1.1.zip"
-      }
-    ]
-  },
-  {
     "mod": "建筑蓝图Blueprint",
     "introduce": "通过保存蓝图框选一定区域，保存区域内文明建筑；在蓝图库选择具体模板；使用粘贴蓝图持续在图上放置\r\n⚠注：蓝图库数据存于模组文件夹内，删除只能回收站找回，如有需要自行备份(可通过蓝图库右上角打开文件夹)",
     "author": "星曜吃不饱",
@@ -4544,6 +4520,30 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.7-game0.51.x-20260826075142-b054cdd7/0.51.%2BAvb._1.7.zip"
+      }
+    ]
+  },
+  {
+    "mod": "天工技艺Supower",
+    "introduce": "①王国操作：指定宣战、指定和平、脱离战争、全图行政(可选物种)、自然世界、吞并王国、分割国家、移交城市、王国物种转换、王国回防、驻扎边境、王国动员、王国快速征兵\r\n②城市操作：指派建城、吞并城市、回防、动员、城市分割（上下）、城市分割（左右）、城市快速征兵、城市物种转换、放置文明建筑、升级城市建筑、设为首都\r\n③单位操作：生成单位(所有生物)、指定身份(可选神明、将军、氏族长等)、状态选择器(可选军队城市王国)、移除单位、单位传送、指定爱人、指定挚友、指定生育、指定攻击目标\r\n④模组设置：单分类模式、无视征兵上限(仅对快速征兵权能)、快速移动(动员回防驻扎等添加兴奋状态)、宗教神明补丁(允许设置神明)、神创宗教(宗教创立者视为初代神明)",
+    "author": "半梦半醒",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260818/ace2c9ddf81146b9abaa7100e43521f0.png",
+    "tag": [
+      "辅助模组",
+      "功能扩展",
+      "体验优化",
+      "必备"
+    ],
+    "index": null,
+    "updatedAt": "2026-08-29T06:10:04.478952+00:00",
+    "versions": [
+      {
+        "uuid": "07473b2a594f453d87657b957d0318de",
+        "gameversion": "0.51.x",
+        "modVersion": "1.1.2",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.2-game0.51.x-20260829061000-284bd9bc/0.51.%2B.Supower_1.1.2.zip"
       }
     ]
   }
