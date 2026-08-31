@@ -4546,5 +4546,25 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.2-game0.51.x-20260829061000-284bd9bc/0.51.%2B.Supower_1.1.2.zip"
       }
     ]
+  },
+  {
+    "mod": "古典经济学",
+    "introduce": "宏观经济学\r\n\r\n全种族（含恶魔/外星人）财富采集：GDP / 人均 / 基尼系数 / CPI，按王国拆分\r\n经济周期：繁荣 → 衰退 → 萧条 → 复苏，泡沫破裂、饥荒、货币供给与通胀\r\n地理贸易：A* 真实路径成本（绕山跨海）、海路惩罚、生物群系比较优势、贸易净额排名\r\n劳动分工工资、银行信贷与违约传染、灾害经济冲击、遗产继承 / 伤害追凶分配\r\n社会动荡：叛乱 → 起义 → 革命，战争掠夺与王位继承监测\r\n玩家扮演 · 中央银行家\r\n\r\n大地图悬停国家按 G（设置页可改键）：认领国家 / 打开内阁\r\n王室金库：认领拨款 + 每期税负（居民税 + 仓库税），政策/法令/建筑/外交全部真实扣费\r\n6 个持续政策 × 三档槽位制、一次性法令（救济/庆典）、原版建筑放置（房屋/兵营/瞭望塔/水井等 10 种，点击地图建造）\r\n政绩记录 + 本国 GDP 趋势图（近 40 期）\r\n外交：宣战 / 求和（军力差赎金）/ 结盟 / 赠礼 / 双边贸易协定——RulerBox 式两级页面（列表 → 详情：三层旗章 + 国家数据）\r\n国法体系 · 法典\r\n\r\n全王国（AI 各国）法律 28 条 × 5 档 + 国策 16 条 × 3 档，每年按国情自动演变（财政/基尼/战争/人口/灾害 + 6 种国性）\r\n互斥法组合、升档付费降档免费；效果真实挂接 10 个引擎（生产/贸易/物价/基尼/动荡/消费/灾害/建筑费/工资/军力）\r\n法典加成落到国民特质（教育之国/武备之国等，幸福/伤害/护甲/生育可见加成）；法典写入存档\r\n法典页实时聚合效果总览 + 档位语义名（如 贸易自由：无贸易保护 → 闭关锁国）",
+    "author": "Jake",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260831/4606e081e3864ffdb5dd8d6589e5b2e7.png",
+    "tag": [
+      "功能扩展"
+    ],
+    "index": null,
+    "updatedAt": "2026-08-31T14:02:58.192040+00:00",
+    "versions": [
+      {
+        "uuid": "bdbee3b775de41699183449b8a56c82c",
+        "gameversion": "0.51.2",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.1-game0.51.2-20260831140255-140c2da1/ClassicalEconomics-1.2.1fix.zip",
+        "modVersion": "1.2.1"
+      }
+    ]
   }
 ]
