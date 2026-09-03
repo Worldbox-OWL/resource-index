@@ -893,12 +893,11 @@
   },
   {
     "mod": "请勿触碰全解锁",
-    "introduce": "“请勿触碰”类特质允许添加/移除\r\n变更特质时会自动移除“圣痕”",
+    "introduce": "“请勿触碰”类特质允许添加/移除\n变更特质时会自动移除“圣痕”",
     "author": "康康",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/9ef23bcacf174ad5b9f0e8373c996615.png",
     "tag": [
       "辅助模组",
-      "必备",
       "体验优化"
     ],
     "index": null,
