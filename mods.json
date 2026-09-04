@@ -4593,5 +4593,27 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.7-game0.51.x-20260904125525-4ec3b40d/0.51.%2B.Biology_1.0.7.zip"
       }
     ]
+  },
+  {
+    "mod": "\u4E0A\u5E1D\u7684\u7559\u58F0\u673AGodsGramophone",
+    "introduce": "\u2460\u80CC\u666F\u97F3\u4E50\uFF1A\u5206\u548C\u5E73\u548C\u6218\u4E89\u7684\u9636\u6BB5\u97F3\u4E50\uFF0C\u53EF\u5728\u97F3\u4E50\u680F\u5185\u7684\u64AD\u653E\u5668\u91CC\u8FDB\u884C\u4FEE\u6539\u3001\u6DFB\u52A0\u97F3\u4E50\u91CC\u9009\u62E9\u6587\u4EF6\u3001\u4E0A\u4E0B\u6682\u505C\u7B49\r\n\u2461\u6218\u4E89\u64AD\u62A5\uFF1A\u51FB\u6740/\u8FDB\u653B/\u591C\u88AD/\u706D\u4EA1\u5747\u6709\u7279\u5B9A\u63D0\u793A\u8BCD\u663E\u793A\u5728\u4E0A\u65B9",
+    "author": "\u4FE1\u4EF0\u8299\u8299\u306E\u535A\u58EB",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260904/1137d2c74bd64a72894ec82b61d9d2b0.png",
+    "tag": [
+      "\u539F\u751F\u8C03\u6574",
+      "\u529F\u80FD\u6269\u5C55"
+    ],
+    "index": null,
+    "updatedAt": "2026-09-04T12:57:58.8372442Z",
+    "versions": [
+      {
+        "uuid": "9f9c9efe429045f588d44ca5107df0a0",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.5",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.5-game0.51.x-20260904125640-b3004033/0.51.%2B.GodsGramophone_1.0.5.zip"
+      }
+    ]
   }
 ]
