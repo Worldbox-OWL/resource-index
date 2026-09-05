@@ -1,14 +1,14 @@
 [
   {
-    "mod": "\u83AB\u6CF0\u62C9\u5E7B\u60F3\u4E16\u754CMorterra",
+    "mod": "莫泰拉幻想世界Morterra",
     "introduce": "",
     "author": "Mr.Calamitous",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251202/b8f768ad36a1496b82d48b1bc03bb70e.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "类世界地图",
+      "多岛屿",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -40,14 +40,14 @@
     ]
   },
   {
-    "mod": "\u57C3\u7F57\u74E6\u5927\u9646Erove",
+    "mod": "埃罗瓦大陆Erove",
     "introduce": "",
     "author": "Instructed",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/a510e68e327a443796540ddffb979ebc.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u591A\u5C9B\u5C7F",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "架空幻想",
+      "多岛屿",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -56,22 +56,22 @@
         "uuid": "5ef0e2040ce246edbe3a0157b525af81",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "9x9(\u51B0\u5C71)",
+        "size": "9x9(冰山)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9%28%E5%86%B0%E5%B1%B1%29-game0.22.x-20251204083917-6f3a0265/_9x9.Instructed.zip"
       }
     ]
   },
   {
-    "mod": "\u706F\u7B3C\u4E16\u754C\u5730\u56FE",
-    "introduce": "\u57C3\u514B\u7279IV\u6295\u5F71\u3002\u26A0\u7531\u4E8E\u4F7F\u7528\u4E860.50\u7248\u672C\u7684\u96EA\u5CF0\uFF0C\u65E7\u7248\u672C\u52A0\u8F7D\u53EF\u80FD\u4F1A\u51FA\u73B0\u5927\u7247\u6CE5\u571F",
-    "author": "YoyotheAlmighty,\u534A\u68A6\u534A\u9192",
+    "mod": "灯笼世界地图",
+    "introduce": "埃克特IV投影。⚠由于使用了0.50版本的雪峰，旧版本加载可能会出现大片泥土",
+    "author": "YoyotheAlmighty,半梦半醒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/eff488b35fcb4182acf1a30c7bee3a54.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "世界地图",
+      "精品地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -88,21 +88,21 @@
         "uuid": "2cac06fd135148578869492a7ade84c6",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "19x10(\u65E0\u96EA\u65B0\u7248)",
+        "size": "19x10(无雪新版)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x10%28%E6%97%A0%E9%9B%AA%E6%96%B0%E7%89%88%29-game0.50.x-20260103011431-b895456f/IV._19x10.Yoyo.zip"
       }
     ]
   },
   {
-    "mod": "\u4FEE\u666E\u8BFA\u65AF",
+    "mod": "修普诺斯",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/d05e0e25027a41deb0e5988a53474ca3.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "精品地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -126,14 +126,14 @@
     ]
   },
   {
-    "mod": "\u6B63\u65B9\u4E16\u754C\u5730\u56FE(\u76AE\u5C14\u65AF\u6295\u5F71)",
+    "mod": "正方世界地图(皮尔斯投影)",
     "introduce": "",
-    "author": "Ovo\u03BCa",
+    "author": "Ovoμa",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/31eb1ae30d8d4b859d32f5cc4e3877a6.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "世界地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -157,14 +157,14 @@
     ]
   },
   {
-    "mod": "\u5C0F\u5DE7\u4E16\u754C\u5730\u56FE",
+    "mod": "小巧世界地图",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/88ed1297b5cc4a76a60c19ea0b90e19e.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE",
-      "\u9B54\u6539"
+      "现实世界",
+      "世界地图",
+      "魔改"
     ],
     "index": null,
     "updatedAt": null,
@@ -180,14 +180,14 @@
     ]
   },
   {
-    "mod": "\u7075\u51C0\u4E0E\u8352\u68EE\u4E16\u754C",
+    "mod": "灵净与荒森世界",
     "introduce": "",
     "author": "Hedgehog",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/cb2a980c866243dcaa2004c7e06f4e78.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F"
+      "架空幻想",
+      "类世界地图",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -203,14 +203,14 @@
     ]
   },
   {
-    "mod": "\u5B89\u672C\u7EB3\u5C14\uFF1A\u54C8\u5170\u4E16\u754C",
+    "mod": "安本纳尔：哈兰世界",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/a29a2a336aba4ae9a16830377ba129fe.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F"
+      "架空幻想",
+      "类世界地图",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -226,14 +226,14 @@
     ]
   },
   {
-    "mod": "\u7279\u5C14\u6D1B\u65AF\u4E16\u754CTellurus",
+    "mod": "特尔洛斯世界Tellurus",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/e38f0ede702c46d1a05960aeafb23088.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F"
+      "架空幻想",
+      "类世界地图",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -249,15 +249,15 @@
     ]
   },
   {
-    "mod": "\u5317\u87F9\u6D32",
+    "mod": "北蟹洲",
     "introduce": "",
     "author": "Kideuz",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/07c66cb1ceb14658b95d4a379d8f086f.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u5927\u578B\u9646\u5730",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "类世界地图",
+      "大型陆地",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -281,13 +281,13 @@
     ]
   },
   {
-    "mod": "\u4E16\u754C\u5730\u56FE\uFF1A\u73AF\u592A\u5E73\u6D0B(\u58A8\u5361\u6258\u6295\u5F71)",
+    "mod": "世界地图：环太平洋(墨卡托投影)",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/192bb88356b04e8c9ff9b74a8e77e216.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE"
+      "现实世界",
+      "世界地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -303,13 +303,13 @@
     ]
   },
   {
-    "mod": "\u4E16\u754C\u5730\u56FE(\u58A8\u5361\u6258\u6295\u5F71)",
+    "mod": "世界地图(墨卡托投影)",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/b574029df98b4f64816823b144c957e4.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE"
+      "现实世界",
+      "世界地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -325,15 +325,15 @@
     ]
   },
   {
-    "mod": "\u51B0\u4E0E\u706B\u4E4B\u6B4C\u4E16\u754C",
+    "mod": "冰与火之歌世界",
     "introduce": "",
     "author": "polvo1",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/1f087b79511740c9af626b981110598e.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "原著衍生",
+      "类世界地图",
+      "多岛屿",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -349,13 +349,13 @@
     ]
   },
   {
-    "mod": "\u4E16\u754C\u76D2\u5B50\u661F\u7403",
+    "mod": "世界盒子星球",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/2dd52c57b2d342e5819e60ca766b1388.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u661F\u7CFB\u6A21\u62DF"
+      "原著衍生",
+      "星系模拟"
     ],
     "index": null,
     "updatedAt": null,
@@ -371,12 +371,12 @@
     ]
   },
   {
-    "mod": "\u65E0\u5E8F\u7A7A\u95F4",
+    "mod": "无序空间",
     "introduce": "",
     "author": "Parsec",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/e96d47d8709b42b6953da43708c3f4cb.png",
     "tag": [
-      "\u661F\u7CFB\u6A21\u62DF"
+      "星系模拟"
     ],
     "index": null,
     "updatedAt": null,
@@ -392,12 +392,12 @@
     ]
   },
   {
-    "mod": "\u7A7F\u68AD\u4E94\u661F",
+    "mod": "穿梭五星",
     "introduce": "",
     "author": "Constructor",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/ca3bcb7aa0de405a8e82cd0d53253b64.png",
     "tag": [
-      "\u661F\u7CFB\u6A21\u62DF"
+      "星系模拟"
     ],
     "index": null,
     "updatedAt": null,
@@ -413,12 +413,12 @@
     ]
   },
   {
-    "mod": "\u5341\u4E8C\u661F\u754C",
+    "mod": "十二星界",
     "introduce": "",
     "author": "MarKI",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/fad35be2bd344133993b683bbffc6fb1.png",
     "tag": [
-      "\u661F\u7CFB\u6A21\u62DF"
+      "星系模拟"
     ],
     "index": null,
     "updatedAt": null,
@@ -434,12 +434,12 @@
     ]
   },
   {
-    "mod": "\u661F\u7403\u5927\u6218",
+    "mod": "星球大战",
     "introduce": "",
-    "author": "\u706F\u6CE1",
+    "author": "灯泡",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/caf032876a0b41458fcde2266c3653e8.png",
     "tag": [
-      "\u661F\u7CFB\u6A21\u62DF"
+      "星系模拟"
     ],
     "index": null,
     "updatedAt": null,
@@ -455,14 +455,14 @@
     ]
   },
   {
-    "mod": "\u963F\u51E1\u8FBE\uFF1A\u6F58\u591A\u62C9\u661F\u7403",
+    "mod": "阿凡达：潘多拉星球",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/5086dbef3cd8471b9294ceacfb1ca952.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F"
+      "原著衍生",
+      "类世界地图",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -478,12 +478,12 @@
     ]
   },
   {
-    "mod": "\u661F\u7CFB\u8F68\u8FF9",
+    "mod": "星系轨迹",
     "introduce": "",
     "author": "Gregorianek",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/95a4d9eddea64b99914e56126dc85ace.png",
     "tag": [
-      "\u661F\u7CFB\u6A21\u62DF"
+      "星系模拟"
     ],
     "index": null,
     "updatedAt": null,
@@ -492,19 +492,19 @@
         "uuid": "374aa39aac254d5a9010f8e7927aef0c",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "9x9(\u51B0\u5C71)",
+        "size": "9x9(冰山)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9%28%E5%86%B0%E5%B1%B1%29-game0.22.x-20251204171433-b99c75fa/_9x9.Gregorianek.zip"
       }
     ]
   },
   {
-    "mod": "\u5B87\u5B99\u6811\u2161",
+    "mod": "宇宙树Ⅱ",
     "introduce": "",
     "author": "Kropolis",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/eb8173651d984fcbb1f9781caad8aa30.png",
     "tag": [
-      "\u661F\u7CFB\u6A21\u62DF"
+      "星系模拟"
     ],
     "index": null,
     "updatedAt": null,
@@ -513,20 +513,20 @@
         "uuid": "882a70bf9ee942d2851afd53874c42cd",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "9x9(\u51B0\u5C71)",
+        "size": "9x9(冰山)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9%28%E5%86%B0%E5%B1%B1%29-game0.50.x-20251204171528-478f70f9/_9x9.Kropolis.zip"
       }
     ]
   },
   {
-    "mod": "\u51B2\u7A81\u822A\u5411",
+    "mod": "冲突航向",
     "introduce": "",
     "author": "Avb",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/9e87a9e68dc84f5ca79c1df164e0488f.png",
     "tag": [
-      "\u661F\u7CFB\u6A21\u62DF",
-      "\u89C4\u6574\u5730\u56FE"
+      "星系模拟",
+      "规整地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -535,22 +535,22 @@
         "uuid": "619c88f0500f4b40ae5311eeb0d8a18c",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "9x9(\u51B0\u5C71)",
+        "size": "9x9(冰山)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9%28%E5%86%B0%E5%B1%B1%29-game0.50.x-20251204171631-a9f4ac02/_9x9.AvoidingBoredom.zip"
       }
     ]
   },
   {
-    "mod": "\u4E0A\u53E4\u4E16\u7EAA\u7CFB\u5217",
+    "mod": "上古世纪系列",
     "introduce": "",
     "author": "Kotowski",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/3c7196a2d5aa43a0b6299102236f0713.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "类世界地图",
+      "多岛屿",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -559,7 +559,7 @@
         "uuid": "9cc96446b00642a8aa15d44105bede74",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "20x20(\u5168\u8C8C)",
+        "size": "20x20(全貌)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x20%28%E5%85%A8%E8%B2%8C%29-game0.22.x-20251211171251-78e22148/_20x20.Kotowski.zip"
       },
@@ -567,7 +567,7 @@
         "uuid": "a3c821f898d048599b99a66a86cf42e7",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "14x14(\u5168\u8C8C)",
+        "size": "14x14(全貌)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14x14%28%E5%85%A8%E8%B2%8C%29-game0.22.x-20251211171257-822b26b1/_14x14.Kotowski.zip"
       },
@@ -575,7 +575,7 @@
         "uuid": "18bb4383b2784e2080d234c3abbc348a",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "20x11(\u4E1C\u897F)",
+        "size": "20x11(东西)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x11%28%E4%B8%9C%E8%A5%BF%29-game0.22.x-20251211171303-07aa1079/_20x11.Kotowski.zip"
       },
@@ -583,22 +583,22 @@
         "uuid": "5715a44121ba41299483de7944734758",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "10x10(\u4E0A)",
+        "size": "10x10(上)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v10x10%28%E4%B8%8A%29-game0.22.x-20251211171309-93014d90/_10x10.Kotowski.zip"
       }
     ]
   },
   {
-    "mod": "\u851A\u5929\u5947\u57DF\u56FE",
+    "mod": "蔚天奇域图",
     "introduce": "",
-    "author": "\u5927\u851A\u5929",
+    "author": "大蔚天",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/7944b26f95f243a8aaf478bc9e829494.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u7248\u672C",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "架空幻想",
+      "类世界地图",
+      "多版本",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -615,23 +615,23 @@
         "uuid": "af7261f5357143eda5ba254252e5ea04",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "10x8(\u4E16\u754C\u6811)",
+        "size": "10x8(世界树)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v10x8%28%E4%B8%96%E7%95%8C%E6%A0%91%29-game0.14.x-20251211174719-d30beb0e/_10x8.zip"
       }
     ]
   },
   {
-    "mod": "\u5DE8\u9F99\u5782\u66AE\uFF1A\u5927\u68B5\u4E4B\u6B87",
+    "mod": "巨龙垂暮：大梵之殇",
     "introduce": "",
-    "author": "\u5927\u851A\u5929",
+    "author": "大蔚天",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/83a20211f71945e5908617cb247d80fc.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u5927\u578B\u9646\u5730",
-      "\u884C\u653F\u533A\u5212",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "类世界地图",
+      "大型陆地",
+      "行政区划",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -648,7 +648,7 @@
         "uuid": "b29d3549a81d418c885e983ce4b63fca",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "21x11(\u5357)",
+        "size": "21x11(南)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v21x11%28%E5%8D%97%29-game0.22.x-20251211174915-3be07a66/-._21x11.zip"
       },
@@ -656,20 +656,20 @@
         "uuid": "fdaf1a6820344649badc657fb8c49561",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "30x20(\u884C\u653F)",
+        "size": "30x20(行政)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v30x20%28%E8%A1%8C%E6%94%BF%29-game0.22.x-20251211175804-7c0c2d36/_30x20.zip"
       }
     ]
   },
   {
-    "mod": "\u851A\u5929\u8D85\u5927\u6B96\u6C11\u56FE",
+    "mod": "蔚天超大殖民图",
     "introduce": "",
-    "author": "\u5927\u851A\u5929",
+    "author": "大蔚天",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/8dabffca29194ab393868cec7197c2a1.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE"
+      "架空幻想",
+      "类世界地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -685,15 +685,15 @@
     ]
   },
   {
-    "mod": "\u53CC\u751F\u4E4B\u571F",
+    "mod": "双生之土",
     "introduce": "",
-    "author": "\u5927\u851A\u5929",
+    "author": "大蔚天",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/5054f17636e44472811cef27a3f82d91.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u884C\u653F\u533A\u5212"
+      "架空幻想",
+      "类世界地图",
+      "精品地图",
+      "行政区划"
     ],
     "index": null,
     "updatedAt": null,
@@ -702,7 +702,7 @@
         "uuid": "f9fbb69014654423a8638029523405d2",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "30x20(\u5E95\u56FE)",
+        "size": "30x20(底图)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v30x20%28%E5%BA%95%E5%9B%BE%29-game0.22.x-20251211175324-0c47e47c/_30x20.zip"
       },
@@ -710,22 +710,22 @@
         "uuid": "e5d7533f375b456f8ca112e9863416a7",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "30x20(\u884C\u653F)",
+        "size": "30x20(行政)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v30x20%28%E8%A1%8C%E6%94%BF%29-game0.22.x-20251211175338-5949da47/_30x20.zip"
       }
     ]
   },
   {
-    "mod": "\u83AB\u5F97",
+    "mod": "莫得",
     "introduce": "",
-    "author": "\u6D1B\u5FB7\u6797",
+    "author": "洛德林",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/cba2416be4e94760b4785637934d9806.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "架空幻想",
+      "类世界地图",
+      "多岛屿",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -741,14 +741,14 @@
     ]
   },
   {
-    "mod": "\u767D\u4EE4\u6D77\u5CE1\uFF1A\u695A\u79D1\u5947VS\u963F\u62C9\u65AF\u52A0",
+    "mod": "白令海峡：楚科奇VS阿拉斯加",
     "introduce": "",
-    "author": "\u6D1B\u5FB7\u6797",
+    "author": "洛德林",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/d61eb0eebd12437a8fad94273f47fd1a.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u6D77\u5CE1"
+      "现实世界",
+      "局部",
+      "海峡"
     ],
     "index": null,
     "updatedAt": null,
@@ -764,14 +764,14 @@
     ]
   },
   {
-    "mod": "\u82F1\u5409\u5229\u6D77\u5CE1",
+    "mod": "英吉利海峡",
     "introduce": "",
-    "author": "\u6D1B\u5FB7\u6797",
+    "author": "洛德林",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/c7295c7ff46c46619d89985fe85dc1ee.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u6D77\u5CE1"
+      "现实世界",
+      "局部",
+      "海峡"
     ],
     "index": null,
     "updatedAt": null,
@@ -787,13 +787,13 @@
     ]
   },
   {
-    "mod": "\u5927\u851A\u5E1D\u56FD",
+    "mod": "大蔚帝国",
     "introduce": "",
-    "author": "\u5927\u851A\u5929",
+    "author": "大蔚天",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/836e527588684bc69a97605a045aab5e.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "架空幻想",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -809,14 +809,14 @@
     ]
   },
   {
-    "mod": "\u9A6C\u5C14\u7EF4\u7EB3\u65AF\u7FA4\u5C9B",
-    "introduce": "\u9A6C\u5C9B\uFF0C\u4EA6\u79F0\u798F\u514B\u5170\u7FA4\u5C9B",
-    "author": "\u706F\u6CE1",
+    "mod": "马尔维纳斯群岛",
+    "introduce": "马岛，亦称福克兰群岛",
+    "author": "灯泡",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/7aa4faf4c8f8444485a3d0b018636b1d.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -832,14 +832,14 @@
     ]
   },
   {
-    "mod": "\u98D3\u5149\u5FD7\uFF1A\u67D4\u5239\u5927\u9646",
+    "mod": "飓光志：柔刹大陆",
     "introduce": "",
     "author": "ray.rat",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/9bba2ff31b674acf95c350eb45bf3a20.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "原著衍生",
+      "类世界地图",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -855,15 +855,15 @@
     ]
   },
   {
-    "mod": "\u82F1\u96C4\u8054\u76DF(LOL)\uFF1A\u7B26\u6587\u5927\u9646",
+    "mod": "英雄联盟(LOL)：符文大陆",
     "introduce": "",
-    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "author": "盲目吃鱼之神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/4ff38407e45a4d63a99d1d7c97b7ed89.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "类世界地图",
+      "多岛屿",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -880,23 +880,23 @@
         "uuid": "8f7210b44ba04ceaae846a4aa3ab4eda",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "14x7(\u7834\u788E\u7EAA\u5143)",
+        "size": "14x7(破碎纪元)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14x7%28%E7%A0%B4%E7%A2%8E%E7%BA%AA%E5%85%83%29-game0.22.x-20251211182750-adb047d8/LOL.-._14x7.zip"
       }
     ]
   },
   {
-    "mod": "\u6697\u9ED1\u7834\u574F\u795E\uFF1A\u5E87\u62A4\u4E4B\u5730",
+    "mod": "暗黑破坏神：庇护之地",
     "introduce": "",
-    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "author": "盲目吃鱼之神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/51890a3fe3e94f9aab90031dd539765c.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u5927\u578B\u9646\u5730",
-      "\u6D77\u5CE1",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "类世界地图",
+      "大型陆地",
+      "海峡",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -905,7 +905,7 @@
         "uuid": "85027adb64124b429c928876e0080df8",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "28x18(\u65E0\u8272)",
+        "size": "28x18(无色)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v28x18%28%E6%97%A0%E8%89%B2%29-game0.22.x-20251211183520-11d36aac/_28x18.zip"
       },
@@ -913,20 +913,20 @@
         "uuid": "5971d4b2e3a443d0b6c41d7ebdcdf78a",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "14x9(\u4E0A\u8272)",
+        "size": "14x9(上色)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14x9%28%E4%B8%8A%E8%89%B2%29-game0.50.x-20251211183528-93e13074/_14x9.zip"
       }
     ]
   },
   {
-    "mod": "\u9B41\u62D4\uFF1A\u5143\u6CF1\u5883\u754C",
+    "mod": "魁拔：元泱境界",
     "introduce": "",
-    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "author": "盲目吃鱼之神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/5ed55c71ce4747b8ab9ef4f1a4cca25f.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7C7B\u4E16\u754C\u5730\u56FE"
+      "原著衍生",
+      "类世界地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -942,13 +942,13 @@
     ]
   },
   {
-    "mod": "\u535A\u5FB7\u4E4B\u95E8\u90E8\u5206\u5730\u56FE",
+    "mod": "博德之门部分地图",
     "introduce": "",
-    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "author": "盲目吃鱼之神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251211/bf19966aa77a4fad96a5b34f9663efae.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7ACB\u4F53\u6A21\u62DF"
+      "原著衍生",
+      "立体模拟"
     ],
     "index": null,
     "updatedAt": null,
@@ -964,13 +964,13 @@
     ]
   },
   {
-    "mod": "\u5927\u51F6\u57DF",
+    "mod": "大凶域",
     "introduce": "",
-    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "author": "盲目吃鱼之神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251212/ec531b27e25a4e159873bdacbbaa5789.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7ACB\u4F53\u6A21\u62DF"
+      "架空幻想",
+      "立体模拟"
     ],
     "index": null,
     "updatedAt": null,
@@ -986,13 +986,13 @@
     ]
   },
   {
-    "mod": "\u5927\u8352\u57DF",
+    "mod": "大荒域",
     "introduce": "",
-    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "author": "盲目吃鱼之神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251212/9da4a7ad0e5b4c9bb0da2a664926a6fd.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7ACB\u4F53\u6A21\u62DF"
+      "架空幻想",
+      "立体模拟"
     ],
     "index": null,
     "updatedAt": null,
@@ -1008,13 +1008,13 @@
     ]
   },
   {
-    "mod": "\u4E5D\u754C\u4E4B\u6811",
+    "mod": "九界之树",
     "introduce": "",
-    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "author": "盲目吃鱼之神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251212/b4be942931014cb699eceab620cef991.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7ACB\u4F53\u6A21\u62DF"
+      "架空幻想",
+      "立体模拟"
     ],
     "index": null,
     "updatedAt": null,
@@ -1030,14 +1030,14 @@
     ]
   },
   {
-    "mod": "\u4E16\u754C\u76D2\u5B50",
+    "mod": "世界盒子",
     "introduce": "",
-    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "author": "盲目吃鱼之神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251212/1547830a139a46c99d2dec0682733fda.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u7ACB\u4F53\u6A21\u62DF"
+      "架空幻想",
+      "精品地图",
+      "立体模拟"
     ],
     "index": null,
     "updatedAt": null,
@@ -1053,14 +1053,14 @@
     ]
   },
   {
-    "mod": "\u65B0\u4E09\u754C",
+    "mod": "新三界",
     "introduce": "",
-    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "author": "盲目吃鱼之神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251212/d7f3a4a782d44c2b8eb1e1c777722b27.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7ACB\u4F53\u6A21\u62DF",
-      "\u9B54\u6539"
+      "架空幻想",
+      "立体模拟",
+      "魔改"
     ],
     "index": null,
     "updatedAt": null,
@@ -1076,14 +1076,14 @@
     ]
   },
   {
-    "mod": "\u51B0\u4E0E\u706B\u4E4B\u6B4C2.0",
+    "mod": "冰与火之歌2.0",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251212/2ca9a6b0179747138e3f22af16af8c34.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "精品地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -1100,21 +1100,21 @@
         "uuid": "af5f08e45183412fb7a225d5efffd3c4",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "7x15(\u7EF4\u65AF\u7279\u6D1B)",
+        "size": "7x15(维斯特洛)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v7x15%28%E7%BB%B4%E6%96%AF%E7%89%B9%E6%B4%9B%29-game0.14.x-20251212055146-698530d0/_7x15.Ingwe.Ingweron.zip"
       }
     ]
   },
   {
-    "mod": "\u65E5\u6708\u53CC\u5B50\u5927\u9646\u7CFB\u5217",
+    "mod": "日月双子大陆系列",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251212/a75eb41b74024737826a7d1c4f563867.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "精品地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -1123,7 +1123,7 @@
         "uuid": "e8a94ec55cfc4ffe802bdc13ea560b0d",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "10x18(\u5168)",
+        "size": "10x18(全)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v10x18%28%E5%85%A8%29-game0.14.x-20251212055452-1e6983d3/_10x18.Ingwe.Ingweron.zip"
       },
@@ -1131,7 +1131,7 @@
         "uuid": "62e24a8610754b98890a13054491521e",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "7x18(\u6708)",
+        "size": "7x18(月)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v7x18%28%E6%9C%88%29-game0.14.x-20251212055502-26f1e3a3/_7x18.Ingwe.Ingweron.zip"
       },
@@ -1139,7 +1139,7 @@
         "uuid": "3819925f8043458a9eaa1f706b1d6c32",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "10x19(\u65E5\u4E4B\u5317)",
+        "size": "10x19(日之北)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v10x19%28%E6%97%A5%E4%B9%8B%E5%8C%97%29-game0.14.x-20251212055514-7e6aecba/_10x19.Ingwe.Ingweron.zip"
       },
@@ -1147,7 +1147,7 @@
         "uuid": "d447918e655d4d79870aaadbbc1fc1ff",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "16x11(\u65E5\u4E4B\u5357)",
+        "size": "16x11(日之南)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x11%28%E6%97%A5%E4%B9%8B%E5%8D%97%29-game0.14.x-20251212055524-223cf197/_16x11.Ingwe.Ingweron.zip"
       },
@@ -1155,19 +1155,19 @@
         "uuid": "841ba215314c482094324e40437be1ee",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "16x16(\u65E5\u4E4B\u4E2D)",
+        "size": "16x16(日之中)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x16%28%E6%97%A5%E4%B9%8B%E4%B8%AD%29-game0.14.x-20251212055537-9524644e/_16x16.Ingwe.Ingweron.zip"
       }
     ]
   },
   {
-    "mod": "\u9F99\u4E0E\u5730\u4E0B\u57CE\uFF1A\u88AB\u9057\u5FD8\u7684\u56FD\u5EA6",
+    "mod": "龙与地下城：被遗忘的国度",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251212/ca5bc40f9e094456b42cd4ca3cd5caa1.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F"
+      "原著衍生"
     ],
     "index": null,
     "updatedAt": null,
@@ -1183,13 +1183,13 @@
     ]
   },
   {
-    "mod": "\u4E2D\u53E4\u6218\u9524\u4E16\u754C\u90E8\u5206",
+    "mod": "中古战锤世界部分",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251212/08053433823345788e38ce87196036cd.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "原著衍生",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -1205,13 +1205,13 @@
     ]
   },
   {
-    "mod": "\u94A2\u94C1\u96C4\u5FC3\u2163\uFF1A\u9A6C\u56FD\u6221\u4E71\u53F2\u4E16\u754C\u89C2",
+    "mod": "钢铁雄心Ⅳ：马国戡乱史世界观",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251212/80f424c19a074a06a19d2e264cd6bfb6.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7C7B\u4E16\u754C\u5730\u56FE"
+      "原著衍生",
+      "类世界地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -1227,15 +1227,15 @@
     ]
   },
   {
-    "mod": "\u76D8\u53E4\u6CDB\u5927\u9646",
+    "mod": "盘古泛大陆",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251212/0bfd3bb5cd814846bbabc38f0a0f419a.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE",
-      "\u672A\u6765\u63A8\u6F14",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "世界地图",
+      "未来推演",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -1244,7 +1244,7 @@
         "uuid": "91150b7a34234fd3aa86975bb64a017b",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "13x10(\u65B0\u7FA4\u7CFB)",
+        "size": "13x10(新群系)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x10%28%E6%96%B0%E7%BE%A4%E7%B3%BB%29-game0.22.x-20251212170520-b7384486/_13x10.Ingwe.Ingweron.zip"
       },
@@ -1252,22 +1252,22 @@
         "uuid": "07fb691461664bfdb3fd95d581b8cb94",
         "gameversion": "0.13.x",
         "modVersion": null,
-        "size": "13x10(\u65E7)",
+        "size": "13x10(旧)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x10%28%E6%97%A7%29-game0.13.x-20251212170526-d69a19aa/_13x10.Ingwe.Ingweron.zip"
       }
     ]
   },
   {
-    "mod": "\u57FA\u6C99\u5C14\u5927\u9646",
+    "mod": "基沙尔大陆",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251212/6b71b040d1a84877982d6d7a63971cc3.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u5927\u578B\u9646\u5730",
-      "\u591A\u5C9B\u5C7F"
+      "架空幻想",
+      "类世界地图",
+      "大型陆地",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -1283,14 +1283,14 @@
     ]
   },
   {
-    "mod": "\u7384\u754C",
+    "mod": "玄界",
     "introduce": "",
-    "author": "\u8C46\u5305",
+    "author": "豆包",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/39c3bcfb48624b8fade6ddcf78ae0c0e.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "精品地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -1307,19 +1307,19 @@
         "uuid": "f8fd90f6b2d14e5aadc106cd24ecd0d6",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "12x12(\u65E7)",
+        "size": "12x12(旧)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x12%28%E6%97%A7%29-game0.14.x-20251219084908-68f4c66a/_12x12.zip"
       }
     ]
   },
   {
-    "mod": "\u8861\u57DF",
+    "mod": "衡域",
     "introduce": "",
-    "author": "\u8C46\u5305",
+    "author": "豆包",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/cbee38e9827b46e9b3af84008df18981.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3"
+      "架空幻想"
     ],
     "index": null,
     "updatedAt": null,
@@ -1335,13 +1335,13 @@
     ]
   },
   {
-    "mod": "\u8FDC\u81EC\u5730",
+    "mod": "远臬地",
     "introduce": "",
-    "author": "\u8C46\u5305",
+    "author": "豆包",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/a152b4d680514e23bd3fc7eba2f2f1c7.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u5927\u578B\u9646\u5730"
+      "架空幻想",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": null,
@@ -1357,12 +1357,12 @@
     ]
   },
   {
-    "mod": "\u94C9\u5927\u9646",
+    "mod": "铉大陆",
     "introduce": "",
-    "author": "\u8C46\u5305",
+    "author": "豆包",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/e83bd88a43c845eebaa791ed70d569e9.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3"
+      "架空幻想"
     ],
     "index": null,
     "updatedAt": null,
@@ -1378,12 +1378,12 @@
     ]
   },
   {
-    "mod": "\u6708\u5F71\u5927\u9646(\u65B0\u7FA4\u7CFB)",
+    "mod": "月影大陆(新群系)",
     "introduce": "",
-    "author": "\u8C46\u5305",
+    "author": "豆包",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/d410a1996a1543e89579554ec0ff3ebf.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3"
+      "架空幻想"
     ],
     "index": null,
     "updatedAt": null,
@@ -1399,12 +1399,12 @@
     ]
   },
   {
-    "mod": "\u8FDC\u53E4\u5927\u9646",
+    "mod": "远古大陆",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/71240ff01f24420191f8a76ff816b820.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3"
+      "架空幻想"
     ],
     "index": null,
     "updatedAt": null,
@@ -1420,13 +1420,13 @@
     ]
   },
   {
-    "mod": "\u65AF\u63D0\u4E9A\u5927\u9646",
+    "mod": "斯提亚大陆",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/e5a3917a45474e87bbe8fceb7860971b.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u5927\u578B\u9646\u5730"
+      "架空幻想",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": null,
@@ -1442,14 +1442,14 @@
     ]
   },
   {
-    "mod": "\u57C3\u5F8B\u897F\u6602\u7CFB\u5217",
+    "mod": "埃律西昂系列",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/b1f0999112454e6dad5058f3b25e535b.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "精品地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -1458,7 +1458,7 @@
         "uuid": "a8b6fe11e09c45a9817e587ba0daf362",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "16x16(\u65E7)",
+        "size": "16x16(旧)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x16%28%E6%97%A7%29-game0.14.x-20251219091006-71808cb5/-16x16-boki.zip"
       },
@@ -1466,7 +1466,7 @@
         "uuid": "853350536b6542bda82d60a26bc60bd4",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "12x9(\u65B0)",
+        "size": "12x9(新)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x9%28%E6%96%B0%29-game0.22.x-20251219091013-3a119d61/2.0_12x9.boki.zip"
       },
@@ -1474,21 +1474,21 @@
         "uuid": "79c0c6757a7d4568836584c07da24371",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "20x16(\u65B0)",
+        "size": "20x16(新)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x16%28%E6%96%B0%29-game0.22.x-20251219091019-0d2df14d/2.0.20x16.boki.zip"
       }
     ]
   },
   {
-    "mod": "\u9B54\u6212\uFF1A\u4E2D\u571F",
+    "mod": "魔戒：中土",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/78a330e9616f400ba1992ea7980c3bf3.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "精品地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -1497,7 +1497,7 @@
         "uuid": "1f6e1e13c78b42fd8066c6539d21d2ea",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "20x12(\u65E7)",
+        "size": "20x12(旧)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x12%28%E6%97%A7%29-game0.22.x-20251219091221-94b988e0/_20x12.boki.zip"
       },
@@ -1505,7 +1505,7 @@
         "uuid": "e896ff32672b424dbda2797ffae71efa",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "15x9(\u65B0)",
+        "size": "15x9(新)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v15x9%28%E6%96%B0%29-game0.22.x-20251219091226-21b7f11d/_15x9.boki.zip"
       },
@@ -1513,20 +1513,20 @@
         "uuid": "8ad5aaa5e905465a8ea5fdf5d6385b44",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "20x12(\u65B0)",
+        "size": "20x12(新)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x12%28%E6%96%B0%29-game0.22.x-20251219091232-f64c2c7c/_20x12.boki.zip"
       }
     ]
   },
   {
-    "mod": "\u539F\u795E\uFF1A\u63D0\u74E6\u7279\u5927\u9646",
+    "mod": "原神：提瓦特大陆",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/26e4b2ce7ead49cc9d08cb8828a954a0.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -1550,15 +1550,15 @@
     ]
   },
   {
-    "mod": "\u5FC3\u810F\u5C9B",
+    "mod": "心脏岛",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/c81e5e230d1946bf809f5645d1d3fb94.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u5927\u578B\u9646\u5730",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "类世界地图",
+      "大型陆地",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -1582,13 +1582,13 @@
     ]
   },
   {
-    "mod": "\u9B54\u6212\uFF1A\u6797\u987F",
+    "mod": "魔戒：林顿",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/9c801b916a494653a1817b2d495cd33d.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730"
+      "原著衍生",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": null,
@@ -1604,13 +1604,13 @@
     ]
   },
   {
-    "mod": "\u82F1\u96C4\u4F20\u8BF44\u5730\u56FE",
+    "mod": "英雄传说4地图",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/7ceaa3bb2774484c923649449152a0ec.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u6D77\u5CE1"
+      "原著衍生",
+      "海峡"
     ],
     "index": null,
     "updatedAt": null,
@@ -1626,13 +1626,13 @@
     ]
   },
   {
-    "mod": "DNF\uFF1A\u5929\u754C",
+    "mod": "DNF：天界",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/6b1902906bb54a6cba2749d6e6d6ec60.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u591A\u5C9B\u5C7F"
+      "原著衍生",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -1648,13 +1648,13 @@
     ]
   },
   {
-    "mod": "DNF\uFF1A\u795E\u754C",
+    "mod": "DNF：神界",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/2161fbd953954196b3a1282608cc96aa.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -1678,15 +1678,15 @@
     ]
   },
   {
-    "mod": "DNF\uFF1A\u9B54\u754C",
+    "mod": "DNF：魔界",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/c213cabe33a24f7b93e1f1a0db3f4df3.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u5927\u578B\u9646\u5730",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "精品地图",
+      "大型陆地",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -1710,15 +1710,15 @@
     ]
   },
   {
-    "mod": "\u65B9\u5854\u82CF\u65AF",
+    "mod": "方塔苏斯",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/5e2a668a38aa4e87a7f8da248760aa8b.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u5927\u578B\u9646\u5730",
-      "\u591A\u7248\u672C",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "架空幻想",
+      "大型陆地",
+      "多版本",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -1742,14 +1742,14 @@
     ]
   },
   {
-    "mod": "\u65B9\u7891\u904D\u5E03\u4E4B\u5730",
+    "mod": "方碑遍布之地",
     "introduce": "",
     "author": "Gregorianek",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/67b3f41ea16942118ccf92f5e3059e18.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u6D77\u5CE1"
+      "架空幻想",
+      "精品地图",
+      "海峡"
     ],
     "index": null,
     "updatedAt": null,
@@ -1765,13 +1765,13 @@
     ]
   },
   {
-    "mod": "\u67CF\u8FEA\u5C14\u5E7B\u60F3\u5927\u9646",
+    "mod": "柏迪尔幻想大陆",
     "introduce": "",
     "author": "AtomicSpud",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/9f3e45b79f994a818ccc567dcd5f0c85.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u5927\u578B\u9646\u5730"
+      "架空幻想",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": null,
@@ -1787,13 +1787,13 @@
     ]
   },
   {
-    "mod": "\u52AA\u5854\u59C6\u5927\u9646",
+    "mod": "努塔姆大陆",
     "introduce": "",
     "author": "AtomicSpud",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/2d8cb950e19742a7b6af32eceb2df76d.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u5927\u578B\u9646\u5730"
+      "架空幻想",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": null,
@@ -1809,13 +1809,13 @@
     ]
   },
   {
-    "mod": "\u52A0\u5C3C\u533F\u79D1Ganinick",
+    "mod": "加尼匿科Ganinick",
     "introduce": "",
     "author": "ChickenMaster",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/c01aef855d76431e940c4f5ea23c0783.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u591A\u5C9B\u5C7F"
+      "架空幻想",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -1831,14 +1831,14 @@
     ]
   },
   {
-    "mod": "\u6D77\u8D3C\u738B\uFF1A\u524D\u534A\u7A0B\u9B54\u6539",
+    "mod": "海贼王：前半程魔改",
     "introduce": "",
     "author": "Ridgey",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/4f8fe11abaa24e2e8408d5c45f80834d.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u591A\u5C9B\u5C7F",
-      "\u9B54\u6539"
+      "原著衍生",
+      "多岛屿",
+      "魔改"
     ],
     "index": null,
     "updatedAt": null,
@@ -1854,13 +1854,13 @@
     ]
   },
   {
-    "mod": "\u4E0A\u53E4\u5377\u8F74\u2164\uFF1A\u5929\u9645\u7701",
+    "mod": "上古卷轴Ⅴ：天际省",
     "introduce": "",
     "author": "z6ir",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/b2e353572edd463ca6404577e83df44c.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730"
+      "原著衍生",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": null,
@@ -1876,14 +1876,14 @@
     ]
   },
   {
-    "mod": "\u4E0A\u53E4\u5377\u8F74-\u6CF0\u59C6\u745E\u5C14",
+    "mod": "上古卷轴-泰姆瑞尔",
     "introduce": "",
     "author": "vempin",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/0b4bda2bf72f446ea80b11ab054695c0.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F"
+      "原著衍生",
+      "类世界地图",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -1899,14 +1899,14 @@
     ]
   },
   {
-    "mod": "\u5BFB\u9F99\u4F20\u8BF4\uFF1A\u9F99\u4F51\u4E4B\u90A6",
+    "mod": "寻龙传说：龙佑之邦",
     "introduce": "",
     "author": "Mr.Slime",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/561dc59568d943dea3cd44ce88a7463b.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "大型陆地",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -1930,15 +1930,15 @@
     ]
   },
   {
-    "mod": "\u4E03\u91CD\u5929\uFF1A\u963F\u62C9\u8D1D\u65AF",
+    "mod": "七重天：阿拉贝斯",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/40abf903bec64852ab8719d1c4e61935.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u5927\u578B\u9646\u5730",
-      "\u591A\u7248\u672C",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "架空幻想",
+      "大型陆地",
+      "多版本",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -1962,12 +1962,12 @@
     ]
   },
   {
-    "mod": "\u8FDB\u51FB\u7684\u5DE8\u4EBA\uFF1A\u5E15\u62C9\u8FEA\u5C9B",
+    "mod": "进击的巨人：帕拉迪岛",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/55e62a25458c402599830f8bc561fe80.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F"
+      "原著衍生"
     ],
     "index": null,
     "updatedAt": null,
@@ -1983,15 +1983,15 @@
     ]
   },
   {
-    "mod": "\u4E2D\u53E4\u6218\u9524\uFF1A\u5965\u82CF\u5B89",
+    "mod": "中古战锤：奥苏安",
     "introduce": "",
-    "author": "\u706F\u6CE1",
+    "author": "灯泡",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/6d6cdc5b05134d6ea9bec4a8d58bee33.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u591A\u7248\u672C",
-      "\u591A\u5C9B\u5C7F"
+      "原著衍生",
+      "精品地图",
+      "多版本",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -2015,14 +2015,14 @@
     ]
   },
   {
-    "mod": "MC\uFF1A\u5947\u89C2\u4E4B\u65C5",
-    "introduce": "\u6765\u81EAMinecraft(\u6211\u7684\u4E16\u754C)\u7684\u60F3\u8C61\u529B",
+    "mod": "MC：奇观之旅",
+    "introduce": "来自Minecraft(我的世界)的想象力",
     "author": "cbrothers3d",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/94f0dbb9c0eb49e5945e642fc74b7e7e.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u7ACB\u4F53\u6A21\u62DF"
+      "原著衍生",
+      "精品地图",
+      "立体模拟"
     ],
     "index": null,
     "updatedAt": null,
@@ -2038,14 +2038,14 @@
     ]
   },
   {
-    "mod": "\u65E7\u4E16\u754C\uFF08\u6B27\u4E9A\u975E\u6FB3\uFF09",
+    "mod": "旧世界（欧亚非澳）",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/55a9cbb07ebd457cbd59bea1d53e54f9.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "大洲地图",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -2061,13 +2061,13 @@
     ]
   },
   {
-    "mod": "\u4E16\u754C\u5730\u56FE(\u5730\u7403)",
+    "mod": "世界地图(地球)",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/15fbfcb737014c5cbaf9c651d6109949.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE"
+      "现实世界",
+      "世界地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2083,13 +2083,13 @@
     ]
   },
   {
-    "mod": "\u6B27\u6D32\u5F71\u54CD\u5708",
+    "mod": "欧洲影响圈",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/91e5d7d37c154aeb8857a53470199d3b.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE"
+      "现实世界",
+      "大洲地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2105,13 +2105,13 @@
     ]
   },
   {
-    "mod": "\u7ECF\u5178\u6B27\u9646",
+    "mod": "经典欧陆",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/f6f37f2687f54b66a8dc152d297b4d73.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE"
+      "现实世界",
+      "大洲地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2127,14 +2127,14 @@
     ]
   },
   {
-    "mod": "\u5317\u7F8E\u6D32\u5730\u56FE",
+    "mod": "北美洲地图",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/27a95b919b9b4f4cb829546170aaf2d6.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "大洲地图",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -2150,14 +2150,14 @@
     ]
   },
   {
-    "mod": "\u5357\u7F8E\u6D32\u5730\u56FE",
+    "mod": "南美洲地图",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/3e7f9119556742f29aa0131051b37ace.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "大洲地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -2166,7 +2166,7 @@
         "uuid": "c20c914728114ac7b9f994352ce01dd5",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "11x15(\u65E7)",
+        "size": "11x15(旧)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v11x15%28%E6%97%A7%29-game0.14.x-20251222130027-05c61a20/_11x15.boki.zip"
       },
@@ -2174,21 +2174,21 @@
         "uuid": "b50cf1ce765843a5b0e1cea4ed229fb7",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "8x13(\u65B0)",
+        "size": "8x13(新)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x13%28%E6%96%B0%29-game0.14.x-20251222130032-b889ce25/_8x13.boki.zip"
       }
     ]
   },
   {
-    "mod": "\u5927\u6D0B\u6D32\u002B\u4E1C\u4E9A",
+    "mod": "大洋洲+东亚",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/847f5bcb72a94bd5949e54b36bc957a1.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "大洲地图",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -2197,20 +2197,20 @@
         "uuid": "787c0502f5594061984f5cef6514fce5",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "14\u00D714",
+        "size": "14×14",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14%C3%9714-game0.14.x-20251222112520-d46c49ea/%2B._14x14.Ingwe.Ingweron.zip"
       }
     ]
   },
   {
-    "mod": "\u5317\u534A\u7403\uFF1A\u73AF\u592A\u5E73\u6D0B",
+    "mod": "北半球：环太平洋",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/8152b3599d1540baa127464ed3576f80.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE"
+      "现实世界",
+      "大洲地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2226,13 +2226,13 @@
     ]
   },
   {
-    "mod": "\u4E9A\u6B27\u975E\u5927\u9646",
+    "mod": "亚欧非大陆",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/58d8206947e94324a76d5fa12799753a.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE"
+      "现实世界",
+      "大洲地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2248,13 +2248,13 @@
     ]
   },
   {
-    "mod": "\u5317\u5927\u897F\u6D0B",
+    "mod": "北大西洋",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/46ed1393cff9416db1c7ca352580e9a1.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE"
+      "现实世界",
+      "大洲地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2270,13 +2270,13 @@
     ]
   },
   {
-    "mod": "\u7F8E\u6D32\u677F\u5757",
+    "mod": "美洲板块",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/cc3737e8dbdd4f7fab85c381fe900c87.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE"
+      "现实世界",
+      "大洲地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2292,13 +2292,13 @@
     ]
   },
   {
-    "mod": "\u4E9A\u6D32\u5730\u56FE",
+    "mod": "亚洲地图",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/93ac9a0fe952432ba250066d3bbe1d1b.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE"
+      "现实世界",
+      "大洲地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2314,14 +2314,14 @@
     ]
   },
   {
-    "mod": "\u6B27\u6D32\uFF1A\u5965\u5FB7\u8D5B",
+    "mod": "欧洲：奥德赛",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/0cf93ffad5a749a3a842821c9c7366f7.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "大洲地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -2345,14 +2345,14 @@
     ]
   },
   {
-    "mod": "\u5317\u7F8E\u6D32",
+    "mod": "北美洲",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/6f8e61e99f0b461c8b55a4e7cd37d41e.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "大洲地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -2361,7 +2361,7 @@
         "uuid": "ef06cfdc861c46908a4db91ee8e98cdc",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "16x10(\u6709\u6CB3)",
+        "size": "16x10(有河)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x10%28%E6%9C%89%E6%B2%B3%29-game0.14.x-20251222131413-b22ca06f/_16x10.Ingwe.Ingweron.zip"
       },
@@ -2369,20 +2369,20 @@
         "uuid": "78a856cf1b59441188e6234a4217e400",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "16x10(\u65E0\u6CB3)",
+        "size": "16x10(无河)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x10%28%E6%97%A0%E6%B2%B3%29-game0.14.x-20251222131419-96500711/16x10.Ingwe.Ingweron.zip"
       }
     ]
   },
   {
-    "mod": "\u5357\u7F8E\u6D32",
+    "mod": "南美洲",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/bda414b6872048da8a435f268e38249b.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE"
+      "现实世界",
+      "大洲地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2398,14 +2398,14 @@
     ]
   },
   {
-    "mod": "\u6B27\u6D32\u53F2\u8BD7",
+    "mod": "欧洲史诗",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/20bf7b3e9f3147c89de46a26eb315d49.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "大洲地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -2422,7 +2422,7 @@
         "uuid": "26e29803b5314d14bcb8b49e4f103a38",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "19x13(\u542B\u4E1C\u6B27)",
+        "size": "19x13(含东欧)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x13%28%E5%90%AB%E4%B8%9C%E6%AC%A7%29-game0.14.x-20251222132348-33b26070/_19x13.zip"
       },
@@ -2430,20 +2430,20 @@
         "uuid": "4c18d21cdeeb4c27892e429dd32fa584",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "11x7(\u5B8C\u6574)",
+        "size": "11x7(完整)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v11x7%28%E5%AE%8C%E6%95%B4%29-game0.14.x-20251222132529-dd08d67f/_11x7.zip"
       }
     ]
   },
   {
-    "mod": "\u5C0F\u578B\u6B27\u6D32",
+    "mod": "小型欧洲",
     "introduce": "",
     "author": "z6ir",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/2301e13df3f2440fb0303cb351c3f4b1.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE"
+      "现实世界",
+      "大洲地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2459,14 +2459,14 @@
     ]
   },
   {
-    "mod": "\u6B27\u4E9A\u975E\uFF1A\u53E4\u4EE3\u6218\u4E89",
+    "mod": "欧亚非：古代战争",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/6694c0f231df49ee9b476d42c9feab3a.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "大洲地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -2498,13 +2498,13 @@
     ]
   },
   {
-    "mod": "\u65E0\u96EA\u5357\u6781\u6D32",
+    "mod": "无雪南极洲",
     "introduce": "",
     "author": "Mountain Boy",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/26df7d57d2f64e858ede1ef0cc620355.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE"
+      "现实世界",
+      "大洲地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2520,14 +2520,14 @@
     ]
   },
   {
-    "mod": "\u5927\u6D0B\u6D32",
+    "mod": "大洋洲",
     "introduce": "",
-    "author": "\u8D8A\u5357\u5154",
+    "author": "越南兔",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/753adc1772ea4bb692bd531202970313.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "大洲地图",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -2543,13 +2543,13 @@
     ]
   },
   {
-    "mod": "\u87BA\u65CB\u7EB9\u8DEF",
+    "mod": "螺旋纹路",
     "introduce": "",
     "author": "Gregorianek",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251223/862b427d7af346389aef6b6e8dec101f.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "架空幻想",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2565,13 +2565,13 @@
     ]
   },
   {
-    "mod": "\u4E0A\u53E4\u5377\u8F74\uFF1A\u843D\u9524\u7701",
+    "mod": "上古卷轴：落锤省",
     "introduce": "",
     "author": "ZR25,ohno1052",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251223/15ad99be0b4c49d6b2a322cb7f7ad2c8.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730"
+      "原著衍生",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": null,
@@ -2587,15 +2587,15 @@
     ]
   },
   {
-    "mod": "\u9B54\u517D\u4E16\u754C\uFF1A\u827E\u6CFD\u62C9\u65AFAzeroth",
+    "mod": "魔兽世界：艾泽拉斯Azeroth",
     "introduce": "",
     "author": "Vanillafolda",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260103/bd73cd27e8694950a8926aa89f696bce.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "类世界地图",
+      "多岛屿",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -2612,7 +2612,7 @@
         "uuid": "6de66d31c5a845518e453662462476de",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "8x14(\u4E1C\u90E8)",
+        "size": "8x14(东部)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x14%28%E4%B8%9C%E9%83%A8%29-game0.50.x-20260105103417-c367f485/_8x14.Vanillafolda.zip"
       },
@@ -2620,7 +2620,7 @@
         "uuid": "f756b190119341929059c286af0d9687",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "8x13(\u897F\u90E8)",
+        "size": "8x13(西部)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x13%28%E8%A5%BF%E9%83%A8%29-game0.50.x-20260105103423-e0e01d9d/_8x13.Vanillafolda.zip"
       },
@@ -2628,21 +2628,21 @@
         "uuid": "e4a57df886ad469dbe30303865cb1012",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "18x14(\u707E\u53D8\u540E)",
+        "size": "18x14(灾变后)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v18x14%28%E7%81%BE%E5%8F%98%E5%90%8E%29-game0.50.x-20260105103429-0bc9e56a/_18x14.Vanillafolda.zip"
       }
     ]
   },
   {
-    "mod": "\u7279\u62C9\u6D1B\u5C14\u53F2\u8BD7Terralore",
+    "mod": "特拉洛尔史诗Terralore",
     "introduce": "",
     "author": "Favro",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260103/b4b35d88909345419a06a69efd7007ac.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F"
+      "架空幻想",
+      "类世界地图",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -2658,15 +2658,15 @@
     ]
   },
   {
-    "mod": "\u4E1C\u65B9Project\uFF1AROA\u5E7B\u60F3\u4E61\u5730\u56FE",
+    "mod": "东方Project：ROA幻想乡地图",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260108/b122adce8e694cd9a2c2fd74ca0997e6.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u7248\u672C",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "原著衍生",
+      "类世界地图",
+      "多版本",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2690,15 +2690,15 @@
     ]
   },
   {
-    "mod": "\u5965\u79D8\u5929\u5883",
+    "mod": "奥秘天境",
     "introduce": "",
     "author": "Mr.Slime",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260108/97bed59f5a7d4b6684a6e9384706adbf.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u5927\u578B\u9646\u5730",
-      "\u6D77\u5CE1",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "大型陆地",
+      "海峡",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -2722,14 +2722,14 @@
     ]
   },
   {
-    "mod": "\u963F\u5C14\u5361\u6CFD\u4E4B\u773C",
+    "mod": "阿尔卡泽之眼",
     "introduce": "",
     "author": "Mr.Calamitous",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260108/cf5c779c4bf447ea848c0b4f48fe7057.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u591A\u5C9B\u5C7F",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "多岛屿",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -2753,12 +2753,12 @@
     ]
   },
   {
-    "mod": "\u4E09\u65E5\u51CC\u7A7A",
+    "mod": "三日凌空",
     "introduce": "",
     "author": "Kropolis",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260108/fec2e8171cef434fb8b1f009f04fb000.png",
     "tag": [
-      "\u661F\u7CFB\u6A21\u62DF"
+      "星系模拟"
     ],
     "index": null,
     "updatedAt": null,
@@ -2774,13 +2774,13 @@
     ]
   },
   {
-    "mod": "\u4E0A\u53E4\u5377\u8F745\uFF1A\u590F\u66AE\u5C9B",
+    "mod": "上古卷轴5：夏暮岛",
     "introduce": "",
-    "author": "(\u672A\u77E5)",
+    "author": "(未知)",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260108/5e5c6f47fbd14088bfda040541893f54.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730"
+      "原著衍生",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": null,
@@ -2796,14 +2796,14 @@
     ]
   },
   {
-    "mod": "\u6CF0\u5C14\u8FBE\u91CC\u5B89Teldarian",
+    "mod": "泰尔达里安Teldarian",
     "introduce": "",
     "author": "MarKI",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260108/aaf9a5a4db0c43f38c9bb4e562fda269.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u5927\u578B\u9646\u5730",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "大型陆地",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -2827,17 +2827,17 @@
     ]
   },
   {
-    "mod": "\u591C\u88AD\u54B8\u9633\uFF08\u653B\u57CE\u6218)",
+    "mod": "夜袭咸阳（攻城战)",
     "introduce": "",
     "author": "Doc. Merc",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260108/5f2b002a516d4483a05e2177b86c0483.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u884C\u653F\u533A\u5212",
-      "\u5C40\u90E8",
-      "\u534E\u590F",
-      "\u57CE\u5E02\u89C4\u5212",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "现实世界",
+      "行政区划",
+      "局部",
+      "华夏",
+      "城市规划",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2853,12 +2853,12 @@
     ]
   },
   {
-    "mod": "\u8FDB\u51FB\u7684\u5DE8\u4EBA-\u5E15\u62C9\u8FEA\u5C9BParadis",
+    "mod": "进击的巨人-帕拉迪岛Paradis",
     "introduce": "",
-    "author": "(\u672A\u77E5)",
+    "author": "(未知)",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260110/3b584d6177e54c4aa4e63ed189a9c30b.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F"
+      "原著衍生"
     ],
     "index": null,
     "updatedAt": null,
@@ -2874,15 +2874,15 @@
     ]
   },
   {
-    "mod": "\u6D6E\u840D\u53CC\u9646Ramifica\u00E7\u00E3o Flasco",
+    "mod": "浮萍双陆Ramificação Flasco",
     "introduce": "",
     "author": "Kideuz",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260113/97434f4c8fe24192bb0b1b26e509ef2e.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "类世界地图",
+      "多岛屿",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -2906,15 +2906,15 @@
     ]
   },
   {
-    "mod": "\u6D77\u5CE1\u521B\u610FCreativity",
+    "mod": "海峡创意Creativity",
     "introduce": "",
     "author": "Gregorianek",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260125/407f40d073d04020823cf6d2864274eb.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7ACB\u4F53\u6A21\u62DF",
-      "\u591A\u5C9B\u5C7F",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "架空幻想",
+      "立体模拟",
+      "多岛屿",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -2930,12 +2930,12 @@
     ]
   },
   {
-    "mod": "\u4E24\u4EEA\u751F\u56DB\u8C61",
+    "mod": "两仪生四象",
     "introduce": "",
     "author": "Emess",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/986c1d9205d24fea8df6fad95f3dd31c.png",
     "tag": [
-      "\u753B\u4F5C"
+      "画作"
     ],
     "index": null,
     "updatedAt": null,
@@ -2951,12 +2951,12 @@
     ]
   },
   {
-    "mod": "\u5BFB\u5E38\u7684\u6D77\u9F9F",
+    "mod": "寻常的海龟",
     "introduce": "",
-    "author": "(\u672A\u77E5)",
+    "author": "(未知)",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/8cb404e678724740b938e6d782dca375.png",
     "tag": [
-      "\u753B\u4F5C"
+      "画作"
     ],
     "index": null,
     "updatedAt": null,
@@ -2972,12 +2972,12 @@
     ]
   },
   {
-    "mod": "\u6676\u9F99",
+    "mod": "晶龙",
     "introduce": "",
     "author": "Katastrophic",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/14825e0833344bb78a8d6ec017e20954.png",
     "tag": [
-      "\u753B\u4F5C"
+      "画作"
     ],
     "index": null,
     "updatedAt": null,
@@ -2993,15 +2993,15 @@
     ]
   },
   {
-    "mod": "\u8D64\u8000\u65E7\u4E16\u754C",
+    "mod": "赤耀旧世界",
     "introduce": "",
-    "author": "\u534A\u68A6\u534A\u9192",
+    "author": "半梦半醒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/7b9c03d3e24e4a7eb929bf7c502af461.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "现实世界",
+      "大洲地图",
+      "多岛屿",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -3017,14 +3017,14 @@
     ]
   },
   {
-    "mod": "\u706F\u6CE1\u306E\u6D77\u4E0A\u57FA\u5730",
+    "mod": "灯泡の海上基地",
     "introduce": "",
-    "author": "\u706F\u6CE1",
+    "author": "灯泡",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/d14ed0712e884d64ad1a4ec9c391bdd6.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u753B\u4F5C",
-      "\u6D77\u5CE1"
+      "架空幻想",
+      "画作",
+      "海峡"
     ],
     "index": null,
     "updatedAt": null,
@@ -3040,14 +3040,14 @@
     ]
   },
   {
-    "mod": "\u5730\u4E2D\u6D77",
+    "mod": "地中海",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/f455b0d243764954853a944f7c79b513.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -3071,13 +3071,13 @@
     ]
   },
   {
-    "mod": "\u53E4\u6587\u660E\u7EB7\u4E89\u5730",
+    "mod": "古文明纷争地",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/e12c7c9bbee74cbbb420c93009901a67.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": null,
@@ -3093,14 +3093,14 @@
     ]
   },
   {
-    "mod": "\u9A6C\u8FBE\u52A0\u65AF\u52A0",
-    "introduce": "\u975E\u6D32\u7B2C\u4E00\u5927\u3001\u4E16\u754C\u7B2C\u56DB\u5927\u5C9B",
-    "author": "boki\u4EBA",
+    "mod": "马达加斯加",
+    "introduce": "非洲第一大、世界第四大岛",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/53ab982939604badbeb422c23d886b8e.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -3124,14 +3124,14 @@
     ]
   },
   {
-    "mod": "\u52A0\u52D2\u6BD4\u6D77",
+    "mod": "加勒比海",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/0fabde13dd6a468a86dca9766d97731b.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -3147,13 +3147,13 @@
     ]
   },
   {
-    "mod": "\u6FB3\u5927\u5229\u4E9A",
+    "mod": "澳大利亚",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/27e293f667954422b0eea21ef07a80cf.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": null,
@@ -3169,14 +3169,14 @@
     ]
   },
   {
-    "mod": "\u65B0\u897F\u5170",
+    "mod": "新西兰",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/0aa245a38ac64c89aedb02993cdb532d.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -3192,14 +3192,14 @@
     ]
   },
   {
-    "mod": "\u53E4\u5DF4\u5C9B",
-    "introduce": "\u52A0\u52D2\u6BD4\u6D77\u7B2C\u4E00\u5927\u5C9B\u5C7F",
+    "mod": "古巴岛",
+    "introduce": "加勒比海第一大岛屿",
     "author": "hantu",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/424716ace9694dcf940559a075fd6e99.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -3215,13 +3215,13 @@
     ]
   },
   {
-    "mod": "\u6D77\u5730\u5C9B",
-    "introduce": "\u52A0\u52D2\u6BD4\u6D77\u7B2C\u4E8C\u5927\u5C9B\u5C7F",
+    "mod": "海地岛",
+    "introduce": "加勒比海第二大岛屿",
     "author": "hantu",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/fa42d2b0ecae443a8188491c6c46cd36.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": null,
@@ -3237,13 +3237,13 @@
     ]
   },
   {
-    "mod": "\u6492\u54C8\u62C9\u6C99\u6F20",
+    "mod": "撒哈拉沙漠",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/536b172e889c4bd186cd439146024475.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": null,
@@ -3259,14 +3259,14 @@
     ]
   },
   {
-    "mod": "\u7B80\u6D01\u4E1C\u4E9A",
+    "mod": "简洁东亚",
     "introduce": "",
-    "author": "\u8D8A\u5357\u5154",
+    "author": "越南兔",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/9450fa90eba149028103f0047281997f.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": null,
@@ -3282,14 +3282,14 @@
     ]
   },
   {
-    "mod": "\u4E1C\u4E9A\u5730\u7F18",
+    "mod": "东亚地缘",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/55527caf67e148cdba7e4d275d992bf2.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": null,
@@ -3305,15 +3305,15 @@
     ]
   },
   {
-    "mod": "\u534E\u590F\u2163(\u4E1C\u4E9A)",
+    "mod": "华夏Ⅳ(东亚)",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/daf0d9e5f5304f42b3052ac63394d899.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "华夏",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -3338,23 +3338,23 @@
         "uuid": "138aeecf70e148ba9394a9e58978a35d",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "20x22(\u542B\u4E1C\u5357\u4E9A)",
+        "size": "20x22(含东南亚)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x22%28%E5%90%AB%E4%B8%9C%E5%8D%97%E4%BA%9A%29-game0.22.x-20260126090426-603cfddd/_20x22.zip"
       }
     ]
   },
   {
-    "mod": "\u4E1C\u4E9A\u5168\u56FE",
+    "mod": "东亚全图",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/c6f1c05a02554a198ae1832d75aee564.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F",
-      "\u591A\u7248\u672C",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "现实世界",
+      "局部",
+      "华夏",
+      "多版本",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -3386,15 +3386,15 @@
     ]
   },
   {
-    "mod": "\u6E05\u671D\u7248\u56FE",
+    "mod": "清朝版图",
     "introduce": "",
-    "author": "\u534A\u68A6\u534A\u9192",
+    "author": "半梦半醒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/801ee90d0110449699ae4ec055b8a80a.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "华夏",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -3418,15 +3418,15 @@
     ]
   },
   {
-    "mod": "\u534E\u590F\u2162(\u4E2D\u56FD)",
+    "mod": "华夏Ⅲ(中国)",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/611b4b426cd04ca1ae400a74d3296a7c.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "华夏",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -3435,7 +3435,7 @@
         "uuid": "592bc1029f8f4d02b698546bdd9d59b0",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "11x9(\u65E7)",
+        "size": "11x9(旧)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v11x9%28%E6%97%A7%29-game0.14.x-20260126085906-6cd895ec/_11x9.zip"
       },
@@ -3443,7 +3443,7 @@
         "uuid": "826961958559445397ced4deeeab5906",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "16x12(\u65B0)",
+        "size": "16x12(新)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v16x12%28%E6%96%B0%29-game0.14.x-20260126085912-43828c9a/_16x12.zip"
       },
@@ -3451,21 +3451,21 @@
         "uuid": "c6494bd993334a2b9b7259106a620293",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "27x20(\u65B0)",
+        "size": "27x20(新)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v27x20%28%E6%96%B0%29-game0.14.x-20260126085915-9b0f852e/A._27x20.zip"
       }
     ]
   },
   {
-    "mod": "\u6C49\u002B\u9752\u85CF\u91CD\u7F6E",
+    "mod": "汉+青藏重置",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/83b5f40962df4dcb9f124509a55843de.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": null,
@@ -3481,14 +3481,14 @@
     ]
   },
   {
-    "mod": "\u5C0F\u5DE7\u4E2D\u539F",
+    "mod": "小巧中原",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/1a5c6201ca1d4dbea4294f94feb70eef.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": null,
@@ -3504,14 +3504,14 @@
     ]
   },
   {
-    "mod": "\u5C0F\u4E1C\u4E9A",
+    "mod": "小东亚",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/09b13e93cf064670b6cf97d602114718.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": null,
@@ -3527,14 +3527,14 @@
     ]
   },
   {
-    "mod": "\u534E\u590F-\u96F6",
+    "mod": "华夏-零",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/52bbe0d469b64ee2b7088935c9b2679c.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": null,
@@ -3550,15 +3550,15 @@
     ]
   },
   {
-    "mod": "\u4E5D\u5DDE\u5927\u5730",
+    "mod": "九州大地",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/8054ed47aed340c59a3cdd340459338b.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "华夏",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -3567,7 +3567,7 @@
         "uuid": "7a0361065df24f06ba02ef2feb6c1fc7",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "8x8(\u65E7)",
+        "size": "8x8(旧)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x8%28%E6%97%A7%29-game0.14.x-20260126091603-36f43f04/_8x8.boki.zip"
       },
@@ -3575,21 +3575,21 @@
         "uuid": "67d94d910da84c86a8c783de41bd6378",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "8x10(\u65B0)",
+        "size": "8x10(新)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v8x10%28%E6%96%B0%29-game0.14.x-20260126091607-319d87bd/_8x10.boki.zip"
       }
     ]
   },
   {
-    "mod": "\u79E6\u6C49\u7248\u56FE",
+    "mod": "秦汉版图",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/59e5c0cc24c14a699b6fe5b895ce11e0.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": null,
@@ -3605,14 +3605,14 @@
     ]
   },
   {
-    "mod": "\u534E\u590F\u4E2D\u539F",
+    "mod": "华夏中原",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/f814112f30cd467485d782032c9ab5d9.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": null,
@@ -3628,15 +3628,15 @@
     ]
   },
   {
-    "mod": "\u534E\u590F\u4E4B\u6E90",
+    "mod": "华夏之源",
     "introduce": "",
-    "author": "\u8D8A\u5357\u5154",
+    "author": "越南兔",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/d33d8948cc8e45f4a6d224cec703b2f3.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "华夏",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -3660,14 +3660,14 @@
     ]
   },
   {
-    "mod": "\u5927\u4E1C\u5317",
+    "mod": "大东北",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/48e9473b02ad4fd397ce2b8c17211811.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": null,
@@ -3683,14 +3683,14 @@
     ]
   },
   {
-    "mod": "\u5927\u897F\u5317",
+    "mod": "大西北",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/24c876f066174ebfb07793b815221640.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": null,
@@ -3706,13 +3706,13 @@
     ]
   },
   {
-    "mod": "\u82B1\u7CD6",
+    "mod": "花糖",
     "introduce": "",
     "author": "Whedabra",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260131/6dae8aaa97c149ca8a35f70a133ba02b.png",
     "tag": [
-      "\u753B\u4F5C",
-      "\u89C4\u6574\u5730\u56FE"
+      "画作",
+      "规整地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -3728,14 +3728,14 @@
     ]
   },
   {
-    "mod": "\u5E73\u8861\u5DE5\u7A0B\uFF1A\u5E0C\u671B",
+    "mod": "平衡工程：希望",
     "introduce": "",
     "author": "AvoidingBoredom",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260131/e9404ebe25e347119324edc3b4d16e45.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u89C4\u6574\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "规整地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -3759,12 +3759,12 @@
     ]
   },
   {
-    "mod": "\u592A\u9633\u516B\u65B9\u76D8",
+    "mod": "太阳八方盘",
     "introduce": "",
     "author": "dingus",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260131/399412c5c2c54bf6b37708c8bdc153b9.png",
     "tag": [
-      "\u89C4\u6574\u5730\u56FE"
+      "规整地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -3780,12 +3780,12 @@
     ]
   },
   {
-    "mod": "\u6587\u660E\u7684\u821E\u53F0",
+    "mod": "文明的舞台",
     "introduce": "",
     "author": "5Fair",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260131/12fec02f5fe44c9c80c0b522d879f3f6.png",
     "tag": [
-      "\u89C4\u6574\u5730\u56FE"
+      "规整地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -3801,12 +3801,12 @@
     ]
   },
   {
-    "mod": "\u5BF9\u79F0\u65B9\u5757\u9886\u57DF",
+    "mod": "对称方块领域",
     "introduce": "",
     "author": "Parker_rules",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260131/b2084dddc6d94418b1d84470459b785f.png",
     "tag": [
-      "\u89C4\u6574\u5730\u56FE"
+      "规整地图"
     ],
     "index": null,
     "updatedAt": null,
@@ -3822,14 +3822,14 @@
     ]
   },
   {
-    "mod": "\u6D1B\u7F8E\u7279\u5927\u9646Romate",
+    "mod": "洛美特大陆Romate",
     "introduce": "",
     "author": "the pope",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260204/209baf8552c84448abc3482332460f19.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u5927\u578B\u9646\u5730",
-      "\u591A\u5C9B\u5C7F"
+      "架空幻想",
+      "大型陆地",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": null,
@@ -3845,12 +3845,12 @@
     ]
   },
   {
-    "mod": "\u8D64\u77B3\u4FB5\u5165Oculus",
+    "mod": "赤瞳侵入Oculus",
     "introduce": "",
     "author": "Gregorianek",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260204/240f63c7fd2b4ce6b98f9108eb2f29c1.png",
     "tag": [
-      "\u753B\u4F5C"
+      "画作"
     ],
     "index": null,
     "updatedAt": null,
@@ -3866,14 +3866,14 @@
     ]
   },
   {
-    "mod": "\u57CE\u5821\u9886\u5730",
+    "mod": "城堡领地",
     "introduce": "",
     "author": "Darkness",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/2bf69283851c414db6531ba283712382.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u57CE\u5E02\u89C4\u5212",
-      "\u753B\u4F5C"
+      "架空幻想",
+      "城市规划",
+      "画作"
     ],
     "index": null,
     "updatedAt": null,
@@ -3889,15 +3889,15 @@
     ]
   },
   {
-    "mod": "\u9668\u843D\u7684\u6CF0\u5766",
+    "mod": "陨落的泰坦",
     "introduce": "",
     "author": "Mr.Calamitous",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/da94d4ad3ec140198ffb60f5a396cfa2.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u753B\u4F5C",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "画作",
+      "精品地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -3929,16 +3929,16 @@
     ]
   },
   {
-    "mod": "\u7D2B\u7981\u57CE",
+    "mod": "紫禁城",
     "introduce": "",
-    "author": "Q\u8363\u5E86Q",
+    "author": "Q荣庆Q",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/047d365e62c047de815ea140a21c505d.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u534E\u590F",
-      "\u5C40\u90E8",
-      "\u9B54\u6539",
-      "\u57CE\u5E02\u89C4\u5212"
+      "现实世界",
+      "华夏",
+      "局部",
+      "魔改",
+      "城市规划"
     ],
     "index": null,
     "updatedAt": null,
@@ -3954,16 +3954,16 @@
     ]
   },
   {
-    "mod": "\u795E\u90FD\u6D1B\u9633",
+    "mod": "神都洛阳",
     "introduce": "",
     "author": "Hu_ger",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/49fac153ddae4b80b06e3c8eb5b4cd28.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u534E\u590F",
-      "\u5C40\u90E8",
-      "\u9B54\u6539",
-      "\u57CE\u5E02\u89C4\u5212"
+      "现实世界",
+      "华夏",
+      "局部",
+      "魔改",
+      "城市规划"
     ],
     "index": null,
     "updatedAt": null,
@@ -3979,15 +3979,15 @@
     ]
   },
   {
-    "mod": "\u6D77\u9646\u98A0\u5012\u7684\u4E16\u754C",
+    "mod": "海陆颠倒的世界",
     "introduce": "",
     "author": "Mr.Slime",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/6b6a095def0d4964af61b8a7c371bcfc.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE",
-      "\u9B54\u6539",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "世界地图",
+      "魔改",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -4019,14 +4019,14 @@
     ]
   },
   {
-    "mod": "\u6FB3\u5927\u5229\u4E9A\uFF0C\u4F46\u662F\u7F57\u9A6C",
+    "mod": "澳大利亚，但是罗马",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/52554938c76545c697ec2988bfdf9ba6.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u9B54\u6539",
-      "\u5C40\u90E8"
+      "现实世界",
+      "魔改",
+      "局部"
     ],
     "index": null,
     "updatedAt": null,
@@ -4042,15 +4042,15 @@
     ]
   },
   {
-    "mod": "\u5730\u4E2D\u6D77\u4F46\u662F\u65B0\u7F57",
+    "mod": "地中海但是新罗",
     "introduce": "",
-    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "author": "盲目吃鱼之神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/05a900ab5fc1400e92e3ad69cc1acaab.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u9B54\u6539",
-      "\u5C40\u90E8",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "魔改",
+      "局部",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -4074,15 +4074,15 @@
     ]
   },
   {
-    "mod": "\u6DF7\u4E71\u7684\u6B27\u6D32\uFF1A\u5E9F\u571F",
+    "mod": "混乱的欧洲：废土",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/fe1961d6506c480595c967e818ce60ee.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u9B54\u6539",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "大洲地图",
+      "魔改",
+      "多版本"
     ],
     "index": null,
     "updatedAt": null,
@@ -4099,22 +4099,22 @@
         "uuid": "3bd72a6ba6854f178069e33512fff713",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "19x15(\u53BB\u5CA9\u6D46\u6D77)",
+        "size": "19x15(去岩浆海)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x15%28%E5%8E%BB%E5%B2%A9%E6%B5%86%E6%B5%B7%29-game0.14.x-20260207103352-1d4e97c8/_19x15.boki.zip"
       }
     ]
   },
   {
-    "mod": "\u6DF7\u4E71\u7684\u975E\u6D32\u533A",
+    "mod": "混乱的非洲区",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/8aec5341668747a0acf427510b7b1e0a.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u5C40\u90E8",
-      "\u9B54\u6539"
+      "现实世界",
+      "大洲地图",
+      "局部",
+      "魔改"
     ],
     "index": null,
     "updatedAt": null,
@@ -4130,14 +4130,14 @@
     ]
   },
   {
-    "mod": "\u6DF7\u4E71\u7684\u5317\u7F8E",
+    "mod": "混乱的北美",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/50fae4380dff494a9dc07e457716a18d.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u9B54\u6539"
+      "现实世界",
+      "大洲地图",
+      "魔改"
     ],
     "index": null,
     "updatedAt": null,
@@ -4153,15 +4153,15 @@
     ]
   },
   {
-    "mod": "\u6DF7\u4E71\u7684\u4E9A\u6D32",
+    "mod": "混乱的亚洲",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260207/a696d0f6bf5a4e92bd0d2e9cd7165fba.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u9B54\u6539",
-      "\u5C40\u90E8"
+      "现实世界",
+      "大洲地图",
+      "魔改",
+      "局部"
     ],
     "index": null,
     "updatedAt": null,
@@ -4177,16 +4177,16 @@
     ]
   },
   {
-    "mod": "\u5760\u68A6\u4E4B\u4E3B",
+    "mod": "坠梦之主",
     "introduce": "",
     "author": "CultistCorpse",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/95c63eab7d134c3f9f8185ddc7defcf0.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F",
-      "\u753B\u4F5C",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "精品地图",
+      "多岛屿",
+      "画作",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-02-14T16:39:20.5676417Z",
@@ -4203,20 +4203,20 @@
         "uuid": "128562fbab8d4f03b82d501ca6bcd757",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "9x9(\u9646\u5730\u6269\u5C55)",
+        "size": "9x9(陆地扩展)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v9x9%28%E9%99%86%E5%9C%B0%E6%89%A9%E5%B1%95%29-game0.22.x-20260214163916-a6cc9f82/_9x9.CultistCorpse.zip"
       }
     ]
   },
   {
-    "mod": "\u6D77\u8D3C\u738B\u5730\u56FEDemo",
+    "mod": "海贼王地图Demo",
     "introduce": "",
     "author": "DHoang2",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260215/feaaebbf018e47c0ba2c56948afb2135.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-02-15T05:32:31.1798379Z",
@@ -4233,21 +4233,21 @@
         "uuid": "3a0ec5d628ee4937af4128f13a993a2b",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "18x9(\u4E2D\u90E8)",
+        "size": "18x9(中部)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v18x9%28%E4%B8%AD%E9%83%A8%29-game0.22.x-20260215053227-fd78a06d/_18x9.DHoang2.zip"
       }
     ]
   },
   {
-    "mod": "\u76D8\u53E4\u6CDB\u5927\u9646\u6838\u5FC3",
+    "mod": "盘古泛大陆核心",
     "introduce": "",
     "author": "Yoyo",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/4fefa4232e9e445fb182da8674a8e072.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE",
-      "\u672A\u6765\u63A8\u6F14"
+      "现实世界",
+      "世界地图",
+      "未来推演"
     ],
     "index": null,
     "updatedAt": "2026-02-16T15:49:44.8661058Z",
@@ -4263,14 +4263,14 @@
     ]
   },
   {
-    "mod": "\u5927\u4E0D\u5217\u98A0\u7FA4\u5C9B",
+    "mod": "大不列颠群岛",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/fbceef3b74a64472b3dd961473ca9415.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-16T15:57:12.4847968Z",
@@ -4286,14 +4286,14 @@
     ]
   },
   {
-    "mod": "\u4E0D\u5217\u98A0\u4E4B\u738B",
+    "mod": "不列颠之王",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/b64b3287ae4d4d88903be0a966fa8c74.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-16T15:57:55.2499531Z",
@@ -4309,14 +4309,14 @@
     ]
   },
   {
-    "mod": "\u4E0D\u5217\u98A0\u7FA4\u5C9B",
+    "mod": "不列颠群岛",
     "introduce": "",
     "author": "z6ir",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/d3ea103c00be4ba89accc4ba678e578a.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-16T15:58:41.3058970Z",
@@ -4332,15 +4332,15 @@
     ]
   },
   {
-    "mod": "\u7231\u7434\u6D77",
+    "mod": "爱琴海",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/029884a385924e88b0ebb77e996ba137.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "多岛屿",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-02-16T16:02:20.8935525Z",
@@ -4364,14 +4364,14 @@
     ]
   },
   {
-    "mod": "\u7231\u7434\u6D77\u4E4B\u738B",
+    "mod": "爱琴海之王",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/1cdf7589c16b4ce79ab0f5bbd7930e0a.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-16T16:03:02.1864732Z",
@@ -4387,14 +4387,14 @@
     ]
   },
   {
-    "mod": "\u5E0C\u814A",
+    "mod": "希腊",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/354748bd2912469f9885d103612a7f65.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-16T16:03:46.5578628Z",
@@ -4410,14 +4410,14 @@
     ]
   },
   {
-    "mod": "\u7B80\u7EA6\u7231\u7434\u6D77",
+    "mod": "简约爱琴海",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/3c00bedf1e2a46218e1501c34b688d56.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-16T16:04:25.6022896Z",
@@ -4433,13 +4433,13 @@
     ]
   },
   {
-    "mod": "\u4FC4\u7F57\u65AF\u5927\u90E8\u5206\u533A\u57DF",
+    "mod": "俄罗斯大部分区域",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/28b3132daffd4d1d998d8942dccce3e1.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-16T16:13:15.5034868Z",
@@ -4455,13 +4455,13 @@
     ]
   },
   {
-    "mod": "\u4FC4\u7F57\u65AF\u5E1D\u56FD",
+    "mod": "俄罗斯帝国",
     "introduce": "",
-    "author": "\u706F\u6CE1",
+    "author": "灯泡",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/4aae369b6d3f4d9081940327e61bdb75.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-16T16:13:48.5310834Z",
@@ -4477,14 +4477,14 @@
     ]
   },
   {
-    "mod": "\u5730\u4E2D\u6D77\u7F57\u9A6C",
+    "mod": "地中海罗马",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/b1d09ef4d3674119bfe6eb7181db673b.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-16T16:15:43.6307825Z",
@@ -4500,14 +4500,14 @@
     ]
   },
   {
-    "mod": "\u7F57\u9A6C\u5E1D\u56FD",
+    "mod": "罗马帝国",
     "introduce": "",
-    "author": "\u706F\u6CE1",
+    "author": "灯泡",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/2d42a8e7a94e4138b71e6e31436069c6.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-16T16:16:15.9069570Z",
@@ -4523,13 +4523,13 @@
     ]
   },
   {
-    "mod": "\u5308\u7259\u5229\u5927\u8349\u539F",
+    "mod": "匈牙利大草原",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/cdd9b38a08d84cb19c648860702150f0.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-16T16:17:06.8294574Z",
@@ -4545,13 +4545,13 @@
     ]
   },
   {
-    "mod": "\u5308\u7259\u5229\u738B\u56FD",
+    "mod": "匈牙利王国",
     "introduce": "",
     "author": "Arga",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/27db1cbca3c846a1a6e54815ca82dfc5.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-16T16:18:10.8467415Z",
@@ -4567,13 +4567,13 @@
     ]
   },
   {
-    "mod": "\u5965\u5308\u5E1D\u56FD",
+    "mod": "奥匈帝国",
     "introduce": "",
     "author": "Arga",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/611e7549e55c4c83913f701e912e209d.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-16T16:19:04.6018901Z",
@@ -4589,14 +4589,14 @@
     ]
   },
   {
-    "mod": "\u4E9A\u5E73\u5B81\u534A\u5C9B",
+    "mod": "亚平宁半岛",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/4d8f1e5c893e4fbfbce189a3ed9f2848.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-16T16:21:26.2183506Z",
@@ -4612,13 +4612,13 @@
     ]
   },
   {
-    "mod": "\u6CE2\u6CB3\u5E73\u539F",
+    "mod": "波河平原",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/235298872ec84b16babea1fdd00a9c6c.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-16T16:22:13.3833546Z",
@@ -4634,13 +4634,13 @@
     ]
   },
   {
-    "mod": "\u9AD8\u5362\u5730\u533A",
+    "mod": "高卢地区",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/9c30d73cfc184708a81420a877e2e820.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-16T16:22:58.4902130Z",
@@ -4656,14 +4656,14 @@
     ]
   },
   {
-    "mod": "\u7F8E\u6B27\u5370\u5927\u73AF\u5E26\u0026\u6CDB\u5317\u5927\u897F\u6D0B",
+    "mod": "美欧印大环带&泛北大西洋",
     "introduce": "",
-    "author": "\u5996\u5A9A\u725B\u9752G\u6912",
+    "author": "妖媚牛青G椒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260222/9dfce8c2095c4a5598e94410418d9685.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "大洲地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-02-22T16:54:32.4004460Z",
@@ -4672,7 +4672,7 @@
         "uuid": "9d89a2a633a144ed9f2d40219572caeb",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "22x9(\u5168)",
+        "size": "22x9(全)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v22x9%28%E5%85%A8%29-game0.22.x-20260222165421-32e6b668/_22x9.G.zip"
       },
@@ -4680,21 +4680,21 @@
         "uuid": "0df10bbe2aab44b489d62ce37e217fb5",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "19x9(\u53BB\u5370\u5EA6)",
+        "size": "19x9(去印度)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x9%28%E5%8E%BB%E5%8D%B0%E5%BA%A6%29-game0.22.x-20260222165429-cce07c6f/_19x9.G.zip"
       }
     ]
   },
   {
-    "mod": "\u4FEF\u77B0\u4E9A\u7F8E\u975E",
+    "mod": "俯瞰亚美非",
     "introduce": "",
-    "author": "\u534A\u68A6\u534A\u9192",
+    "author": "半梦半醒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260222/b6e1c3847c53479e9536550c8ca56649.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "大洲地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-02-22T16:56:59.1408458Z",
@@ -4703,7 +4703,7 @@
         "uuid": "16ef40ec9b8348a3adc9caae72aea736",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "19x20(\u5168)",
+        "size": "19x20(全)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x20%28%E5%85%A8%29-game0.50.x-20260222165644-7c6c7a40/_19x20.zip"
       },
@@ -4711,7 +4711,7 @@
         "uuid": "5ba44614af064f8a8f48200235976d82",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "14x16(\u6B27\u4E9A\u7F8E)",
+        "size": "14x16(欧亚美)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v14x16%28%E6%AC%A7%E4%BA%9A%E7%BE%8E%29-game0.50.x-20260222165650-ba6b4908/_14x16.zip"
       },
@@ -4719,20 +4719,20 @@
         "uuid": "6fadc776d4f74d65b02badc69625a917",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "13x10(\u4EC5\u4E9A\u6D32)",
+        "size": "13x10(仅亚洲)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x10%28%E4%BB%85%E4%BA%9A%E6%B4%B2%29-game0.50.x-20260222165656-cddad31c/_13x10.zip"
       }
     ]
   },
   {
-    "mod": "\u5C0F\u4E9A\u7EC6\u4E9A",
+    "mod": "小亚细亚",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/c45e31cf70c0476d902c06512ee0e03a.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:31:38.8710121Z",
@@ -4748,13 +4748,13 @@
     ]
   },
   {
-    "mod": "\u571F\u8033\u5176Turkey",
+    "mod": "土耳其Turkey",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/4d2a93fdf8af47598df91301c3769a05.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:32:19.6299051Z",
@@ -4770,13 +4770,13 @@
     ]
   },
   {
-    "mod": "\u963F\u62C9\u4F2F\u4E4B\u738B",
+    "mod": "阿拉伯之王",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/86cbf059f43943d2946be7e206e850f9.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:33:09.5704883Z",
@@ -4792,13 +4792,13 @@
     ]
   },
   {
-    "mod": "\u4E2D\u4E1C",
+    "mod": "中东",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/0391f6cda3a142cdb8a208e8c8f98f74.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:33:49.6099388Z",
@@ -4814,13 +4814,13 @@
     ]
   },
   {
-    "mod": "\u5370\u5EA6",
+    "mod": "印度",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/b6ce7774285246ebae51449f26242a33.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:35:24.6178926Z",
@@ -4836,13 +4836,13 @@
     ]
   },
   {
-    "mod": "\u5357\u4E9A",
+    "mod": "南亚",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/6996d76cb7a34c719f4b8e5bdbd9bd55.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:36:29.6203725Z",
@@ -4858,13 +4858,13 @@
     ]
   },
   {
-    "mod": "\u5370\u5EA6\u7248\u56FE",
+    "mod": "印度版图",
     "introduce": "",
-    "author": "\u706F\u6CE1",
+    "author": "灯泡",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/27cd7063b46d4b5c9100ca67b87f2bdc.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:37:14.2874192Z",
@@ -4880,13 +4880,13 @@
     ]
   },
   {
-    "mod": "\u4E2D\u5357\u534A\u5C9B",
+    "mod": "中南半岛",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/6ce384cbdc8e4ffeb5877eb278437484.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:38:24.6578783Z",
@@ -4902,14 +4902,14 @@
     ]
   },
   {
-    "mod": "\u4E1C\u5357\u4E9A",
+    "mod": "东南亚",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/da5637bdfcbf4347ae6c31099489adce.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:39:21.7215413Z",
@@ -4925,14 +4925,14 @@
     ]
   },
   {
-    "mod": "\u83F2\u5F8B\u5BBE",
+    "mod": "菲律宾",
     "introduce": "",
-    "author": "(\u672A\u77E5)",
+    "author": "(未知)",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/c340956a50a44200ba4ef3fd513e1cde.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:40:44.9449609Z",
@@ -4948,14 +4948,14 @@
     ]
   },
   {
-    "mod": "\u83F2\u5F8B\u5BBE\u7FA4\u5C9B",
+    "mod": "菲律宾群岛",
     "introduce": "",
     "author": "hantu",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/5a1a11011ac749fab6b46a79e5f4a4f9.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:42:26.5202250Z",
@@ -4995,14 +4995,14 @@
     ]
   },
   {
-    "mod": "\u5BF9\u9A6C\u5C9B",
+    "mod": "对马岛",
     "introduce": "",
-    "author": "\u706F\u6CE1",
+    "author": "灯泡",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/326a8cb21888434c8527dd5a1e22c4cf.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:43:51.4947008Z",
@@ -5026,13 +5026,13 @@
     ]
   },
   {
-    "mod": "\u671D\u9C9C",
+    "mod": "朝鲜",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/9ca69ebf7c6041c79665dbbd3d7e35b1.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:44:33.9192786Z",
@@ -5048,13 +5048,13 @@
     ]
   },
   {
-    "mod": "\u671D\u9C9C\u534A\u5C9B",
+    "mod": "朝鲜半岛",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/b592450984604366a796344d3a2078c3.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:45:09.3089592Z",
@@ -5070,14 +5070,14 @@
     ]
   },
   {
-    "mod": "\u65E5\u672C\u6D77\u6CBF\u5CB8",
+    "mod": "日本海沿岸",
     "introduce": "",
     "author": "z6ir",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/b472566cb4824262b0d4a9034ac00efc.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:46:57.5708413Z",
@@ -5093,14 +5093,14 @@
     ]
   },
   {
-    "mod": "\u65E5\u672C\u7248\u56FE",
+    "mod": "日本版图",
     "introduce": "",
-    "author": "\u305C\u308D\u3061\u3083\u3093\u306D\u308B,Pokefound",
+    "author": "ぜろちゃんねる,Pokefound",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/670c9bfcc2cd44289ef613f4841e84df.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:47:58.2000007Z",
@@ -5116,13 +5116,13 @@
     ]
   },
   {
-    "mod": "\u8D1D\u5C14\u52A0\u6E56\u7554",
+    "mod": "贝尔加湖畔",
     "introduce": "",
     "author": "z6ir",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/4d9e979243784ec5819f542a3b9443f7.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:48:51.6125559Z",
@@ -5138,13 +5138,13 @@
     ]
   },
   {
-    "mod": "\u897F\u4F2F\u5229\u4E9A",
+    "mod": "西伯利亚",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/88eb9359edb64019bbf99a2a30a0a044.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:49:27.9063372Z",
@@ -5160,15 +5160,15 @@
     ]
   },
   {
-    "mod": "\u65E5\u672C\u7FA4\u5C9B\u0026\u671D\u9C9C\u534A\u5C9B",
+    "mod": "日本群岛&朝鲜半岛",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/27cb20bd33de44fb9047fdb650dd74ea.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "多岛屿",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-02-23T02:57:42.2157380Z",
@@ -5185,7 +5185,7 @@
         "uuid": "3fbca92df94d4c0d8ecb0a6d87b61313",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "27x27(\u65E5\u533A)",
+        "size": "27x27(日区)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v27x27%28%E6%97%A5%E5%8C%BA%29-game0.22.x-20260223025733-289a104c/_27x27.boki.zip"
       },
@@ -5193,21 +5193,21 @@
         "uuid": "d30e7d1a1a12460aa87264896c178cd9",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "27x27(\u4EC5\u65E5)",
+        "size": "27x27(仅日)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v27x27%28%E4%BB%85%E6%97%A5%29-game0.22.x-20260223025739-5a2a8c6f/_27x27.boki.zip"
       }
     ]
   },
   {
-    "mod": "\u975E\u6D32\u5730\u56FE",
+    "mod": "非洲地图",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/ce9879c43f2741ec97d608cbaa6ac9df.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "大洲地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-02-23T03:24:38.2979536Z",
@@ -5216,7 +5216,7 @@
         "uuid": "7068a0b1ace7471987ba8cfdeac6867d",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "12x14(\u65E7)",
+        "size": "12x14(旧)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x14%28%E6%97%A7%29-game0.14.x-20251222130201-bd615aa1/_12x14.boki.zip"
       },
@@ -5224,7 +5224,7 @@
         "uuid": "b30df50cded949dd98df6a61a4e46039",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "12x13(\u65B0)",
+        "size": "12x13(新)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x13%28%E6%96%B0%29-game0.14.x-20251222130207-8cf5aaf0/_12x13.boki.zip"
       },
@@ -5239,14 +5239,14 @@
     ]
   },
   {
-    "mod": "\u4E0D\u5217\u98A0\u738B\u5EA7(\u82F1\u56FD)",
+    "mod": "不列颠王座(英国)",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/7ee9c1dc92cd408d99755db32f9cda59.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-23T03:27:04.5266236Z",
@@ -5262,13 +5262,13 @@
     ]
   },
   {
-    "mod": "\u62DC\u5360\u5EAD2.0",
+    "mod": "拜占庭2.0",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/8828eda5e6f54965a8bb3b1819f34289.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T03:27:47.5786042Z",
@@ -5284,13 +5284,13 @@
     ]
   },
   {
-    "mod": "\u4F0A\u6BD4\u5229\u4E9A\u534A\u5C9B",
+    "mod": "伊比利亚半岛",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260216/e8365b030dcf41d78c4fdfcc2a7d5c64.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T03:28:15.7590695Z",
@@ -5314,13 +5314,13 @@
     ]
   },
   {
-    "mod": "\u963F\u62C9\u4F2F\u4E16\u754C",
+    "mod": "阿拉伯世界",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/f0423808272840d1aca80dc69567d794.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T03:29:08.6664720Z",
@@ -5336,13 +5336,13 @@
     ]
   },
   {
-    "mod": "\u4E2D\u6B27",
+    "mod": "中欧",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/18b5464644fb4d06b555617a8936599c.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T03:30:36.1141079Z",
@@ -5358,13 +5358,13 @@
     ]
   },
   {
-    "mod": "\u52D8\u5BDF\u52A0\u534A\u5C9B",
+    "mod": "勘察加半岛",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/11ac9e05370c43c8936b150e1b492d31.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-23T03:31:31.6732068Z",
@@ -5380,14 +5380,14 @@
     ]
   },
   {
-    "mod": "\u65E5\u672C\u002B\u671D\u9C9C\u534A\u5C9B",
+    "mod": "日本+朝鲜半岛",
     "introduce": "",
-    "author": "(\u672A\u77E5)",
+    "author": "(未知)",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/bc12d10e49524123a7bceb1c804e7ed4.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-25T15:39:57.4611545Z",
@@ -5403,14 +5403,14 @@
     ]
   },
   {
-    "mod": "\u91CC\u68EE\u5821\u5730\u56FEListenbourg",
-    "introduce": "\u7F51\u53CB\u4E3A\u5632\u8BBD\u7F8E\u56FD\u4EBA\u5730\u7406\u77E5\u8BC6\u7684\u532E\u4E4F\uFF0C\u800C\u51ED\u7A7A\u521B\u9020\u7684\u65B0\u56FD\u5BB6",
-    "author": "boki\u4EBA",
+    "mod": "里森堡地图Listenbourg",
+    "introduce": "网友为嘲讽美国人地理知识的匮乏，而凭空创造的新国家",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/b777959428014a4c83610beccdb2b2a2.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u9B54\u6539",
-      "\u5C40\u90E8"
+      "现实世界",
+      "魔改",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-02-25T15:43:41.3726626Z",
@@ -5426,15 +5426,15 @@
     ]
   },
   {
-    "mod": "\u9B54\u517D\u4E16\u754C\uFF1A\u4E1C\u90E8\u5E1D\u56FD",
+    "mod": "魔兽世界：东部帝国",
     "introduce": "",
-    "author": "Ingw\u00EB Ingweron",
+    "author": "Ingwë Ingweron",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251212/208b7f37e86d4fc284a5d40c36892e2e.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u591A\u5C9B\u5C7F",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "多岛屿",
+      "精品地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-02-25T16:35:30.7733073Z",
@@ -5458,15 +5458,15 @@
     ]
   },
   {
-    "mod": "\u7279\u745E\u9C81\u65AFTerrelus",
+    "mod": "特瑞鲁斯Terrelus",
     "introduce": "",
     "author": "wrathmons",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/f83542d2651a4c8c94c936fc5db28178.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7C7B\u4E16\u754C\u5730\u56FE",
-      "\u591A\u5C9B\u5C7F",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "架空幻想",
+      "类世界地图",
+      "多岛屿",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": "2026-02-25T16:45:49.2380751Z",
@@ -5482,14 +5482,14 @@
     ]
   },
   {
-    "mod": "\u8FDC\u53E4\u5723\u5730\uFF1A\u5947\u5E7BAncient Sanctum",
+    "mod": "远古圣地：奇幻Ancient Sanctum",
     "introduce": "",
     "author": "HenryWasTaken",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/899aab3c9a1149b8a57ee6d5c6968882.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u5927\u578B\u9646\u5730",
-      "\u591A\u5C9B\u5C7F"
+      "架空幻想",
+      "大型陆地",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-25T16:48:08.2128573Z",
@@ -5505,14 +5505,14 @@
     ]
   },
   {
-    "mod": "\u7EF4\u65AF\u7279\u6D1B\u4E0E\u6C38\u51AC\u4E4B\u5730",
+    "mod": "维斯特洛与永冬之地",
     "introduce": "",
-    "author": "\u59AE\u4E9E\u8C93",
+    "author": "妮亞貓",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/88194209266343e48363d6364f7c456e.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "原著衍生",
+      "大型陆地",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": "2026-02-25T17:18:39.1656749Z",
@@ -5528,15 +5528,15 @@
     ]
   },
   {
-    "mod": "\u7EB3\u5C3C\u4E9A\u4F20\u5947Narnia",
+    "mod": "纳尼亚传奇Narnia",
     "introduce": "",
     "author": "NightmareLith",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/b9f0d175d1074915b31e277c457adcbe.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "大型陆地",
+      "精品地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-02-25T17:21:29.6580864Z",
@@ -5560,14 +5560,14 @@
     ]
   },
   {
-    "mod": "\u5DF4\u5C14\u5E72\u548C\u5C0F\u4E9A\u7EC6\u4E9A",
+    "mod": "巴尔干和小亚细亚",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/0656ba72fa0440ca99582d0873849532.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-25T17:22:38.6840639Z",
@@ -5583,13 +5583,13 @@
     ]
   },
   {
-    "mod": "\u653E\u9010\u4E4B\u5883",
+    "mod": "放逐之境",
     "introduce": "",
     "author": "AmericanToad",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251219/d309f57eb47e444186930ce77b19ad9d.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u5927\u578B\u9646\u5730"
+      "架空幻想",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": "2026-02-25T17:23:15.1450732Z",
@@ -5613,13 +5613,13 @@
     ]
   },
   {
-    "mod": "\u6C83\u514B\u65AF\u5C9BVox",
+    "mod": "沃克斯岛Vox",
     "introduce": "",
     "author": "Mr.Calamitous",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/16c4b63bb285481b80950da36b1b2453.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u591A\u5C9B\u5C7F"
+      "架空幻想",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-02-25T17:33:15.6188072Z",
@@ -5635,14 +5635,14 @@
     ]
   },
   {
-    "mod": "\u745E\u6C83\u5170\u767BRiverlands",
+    "mod": "瑞沃兰登Riverlands",
     "introduce": "",
     "author": "Mr.Calamitous",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260225/040b38c7f24d4c8c896e98f4d47da92a.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u591A\u5C9B\u5C7F",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "多岛屿",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-02-25T17:35:30.8612705Z",
@@ -5666,13 +5666,13 @@
     ]
   },
   {
-    "mod": "\u4E16\u754C\u5730\u56FE(\u74E6\u683C\u7EB3VII\u6295\u5F71)",
+    "mod": "世界地图(瓦格纳VII投影)",
     "introduce": "",
-    "author": "Ale\u2153",
+    "author": "Ale⅓",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260302/6db6370babaf45f8981eb7fcf95fe15a.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE"
+      "现实世界",
+      "世界地图"
     ],
     "index": null,
     "updatedAt": "2026-03-02T16:08:30.1789211Z",
@@ -5688,14 +5688,14 @@
     ]
   },
   {
-    "mod": "\u534E\u6C99\u82CF\u8054",
+    "mod": "华沙苏联",
     "introduce": "",
     "author": "Styderr",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260302/56774290e4cc47a7b931d5d39d6cbc55.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-03-02T16:11:06.4742348Z",
@@ -5712,20 +5712,20 @@
         "uuid": "0766f3243863438797ece5873ad28248",
         "gameversion": "0.12.x",
         "modVersion": null,
-        "size": "19x14(\u4EC5\u82CF)",
+        "size": "19x14(仅苏)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v19x14%28%E4%BB%85%E8%8B%8F%29-game0.12.x-20260302161103-9263a710/_19x14.Styderr.zip"
       }
     ]
   },
   {
-    "mod": "\u5965\u5308\u5E1D\u56FD\u7248\u56FE1914",
+    "mod": "奥匈帝国版图1914",
     "introduce": "",
-    "author": "(\u672A\u77E5)",
+    "author": "(未知)",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260302/bf33163a88bd4508bf7ce5cf9dc0f7bd.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-03-02T16:12:35.1074992Z",
@@ -5741,13 +5741,13 @@
     ]
   },
   {
-    "mod": "\u5FB7\u610F\u5FD7\u5E1D\u56FD\u7248\u56FE",
+    "mod": "德意志帝国版图",
     "introduce": "",
     "author": "Styderr",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260302/28a5d0a802454cc4885ad72c56072e8c.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-03-02T16:13:35.5914851Z",
@@ -5763,15 +5763,15 @@
     ]
   },
   {
-    "mod": "\u79E6\u6C49\u5173\u4E2D",
+    "mod": "秦汉关中",
     "introduce": "",
-    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "author": "盲目吃鱼之神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260302/44cf7c58d31844699f54a873c329904c.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "华夏",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-03-02T16:14:44.6116067Z",
@@ -5795,14 +5795,14 @@
     ]
   },
   {
-    "mod": "\u4E16\u754C\u5730\u56FE(\u7F57\u5BBE\u900A\u6295\u5F71)",
+    "mod": "世界地图(罗宾逊投影)",
     "introduce": "",
-    "author": "Ale\u2153",
+    "author": "Ale⅓",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/066fe0f39dec4317a622d0c392928a76.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "世界地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-03-04T09:09:20.6915681Z",
@@ -5834,15 +5834,15 @@
     ]
   },
   {
-    "mod": "\u539F\u59CB\u6F29\u6DA1Primordial Storm",
+    "mod": "原始漩涡Primordial Storm",
     "introduce": "",
     "author": "Mr.Slime",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260304/d5f43f72ec5d4d47b0219a542d04b1ca.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u5927\u578B\u9646\u5730",
-      "\u591A\u5C9B\u5C7F",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "大型陆地",
+      "多岛屿",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-03-04T09:13:14.2593446Z",
@@ -5866,13 +5866,13 @@
     ]
   },
   {
-    "mod": "\u963F\u51E1\u8FBE\uFF1A\u6700\u540E\u7684\u6C14\u5B97Avatar",
+    "mod": "阿凡达：最后的气宗Avatar",
     "introduce": "",
     "author": "Mr.Slime",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260304/26615cd08cf24a809afacc4a88b2dc36.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u591A\u5C9B\u5C7F"
+      "原著衍生",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-03-04T09:15:10.3969454Z",
@@ -5888,15 +5888,15 @@
     ]
   },
   {
-    "mod": "\u788E\u661F\u6B8B\u6708ShatteredStar",
+    "mod": "碎星残月ShatteredStar",
     "introduce": "",
     "author": "Kideuz",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260303/d29b1ea0073346f284a33da321fab642.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u661F\u7CFB\u6A21\u62DF",
-      "\u591A\u5C9B\u5C7F",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "星系模拟",
+      "多岛屿",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-03-04T09:19:42.1522293Z",
@@ -5905,7 +5905,7 @@
         "uuid": "67290bd873ee45aaac679896954f1102",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "13x8(\u7EFF\u8335)",
+        "size": "13x8(绿茵)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x8%28%E7%BB%BF%E8%8C%B5%29-game0.50.x-20260303135812-e9bbdb80/_13x8.Kideuz.zip"
       },
@@ -5913,7 +5913,7 @@
         "uuid": "7293a58a1cee4b3e96e69e08b68158f7",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "20x13(\u7EFF\u8335)",
+        "size": "20x13(绿茵)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x13%28%E7%BB%BF%E8%8C%B5%29-game0.50.x-20260304091905-f9282041/_20x13.Kideuz.zip"
       },
@@ -5921,20 +5921,20 @@
         "uuid": "dad786a0a85e48848a136ee6b285c875",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "20x13(\u7329\u7EA2)",
+        "size": "20x13(猩红)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x13%28%E7%8C%A9%E7%BA%A2%29-game0.50.x-20260304091939-ec4778a0/_20x13.Kideuz.zip"
       }
     ]
   },
   {
-    "mod": "\u9AD8\u52A0\u7D22\u5730\u533A",
+    "mod": "高加索地区",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260223/ed0eeddfde0141c18105833ee8a48b9b.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-03-05T13:02:14.4474737Z",
@@ -5950,15 +5950,15 @@
     ]
   },
   {
-    "mod": "\u4E94\u5EA6\u7A7A\u95F42.0",
+    "mod": "五度空间2.0",
     "introduce": "",
-    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "author": "盲目吃鱼之神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/a851e68b05454c8f896de46b33252360.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7ACB\u4F53\u6A21\u62DF",
-      "\u591A\u5C9B\u5C7F",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "立体模拟",
+      "多岛屿",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-03-05T13:07:02.2516952Z",
@@ -5967,7 +5967,7 @@
         "uuid": "35c2b452fd524a8eb77fd633f9db9aa5",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "12x7(\u5E95)",
+        "size": "12x7(底)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v12x7%28%E5%BA%95%29-game0.22.x-20260305130637-7f8d54e5/2.0_12x7.zip"
       },
@@ -5975,7 +5975,7 @@
         "uuid": "3e724994cd8e4dcc8acacdbf1a201217",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "20x12(\u5E95)",
+        "size": "20x12(底)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x12%28%E5%BA%95%29-game0.22.x-20260305130645-a237800d/2.0_20x12.zip"
       },
@@ -5983,22 +5983,22 @@
         "uuid": "3735325f71f04aad8b279980757df665",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "20x17(\u5168)",
+        "size": "20x17(全)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v20x17%28%E5%85%A8%29-game0.22.x-20260305130659-d5b705af/2.0_20x17.zip.bak"
       }
     ]
   },
   {
-    "mod": "\u50CF\u7D20\u9B4F\u8700\u5434",
+    "mod": "像素魏蜀吴",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/f6cc13cd5cd24ababaff6e8221dc6530.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u539F\u8457\u884D\u751F",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "原著衍生",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": "2026-03-05T14:16:46.6760228Z",
@@ -6014,13 +6014,13 @@
     ]
   },
   {
-    "mod": "\u91D1\u521A\uFF1A\u9AB7\u9AC5\u5C9B",
+    "mod": "金刚：骷髅岛",
     "introduce": "",
-    "author": "\u706F\u6CE1",
+    "author": "灯泡",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/8dbdfe1c15c8465bb8a6b99f24e67aaf.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730"
+      "原著衍生",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": "2026-03-05T14:17:34.9825790Z",
@@ -6036,12 +6036,12 @@
     ]
   },
   {
-    "mod": "\u6559\u7236\uFF1A\u8054\u90A6\u8C03\u67E5\u5C40",
+    "mod": "教父：联邦调查局",
     "introduce": "",
     "author": "ESO Skyrim",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/35b790ee814a48eabcc1ac75a72a9f00.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F"
+      "原著衍生"
     ],
     "index": null,
     "updatedAt": "2026-03-05T14:18:30.2814499Z",
@@ -6057,14 +6057,14 @@
     ]
   },
   {
-    "mod": "\u9A91\u9A6C\u4E0E\u780D\u6740\uFF1A\u5361\u62C9\u8FEA\u4E9A\u5927\u9646",
+    "mod": "骑马与砍杀：卡拉迪亚大陆",
     "introduce": "",
-    "author": "\u706F\u6CE1",
+    "author": "灯泡",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/ca90aef489734c72aadfe140d69e7e9e.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "大型陆地",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-03-05T14:19:33.6389603Z",
@@ -6088,12 +6088,12 @@
     ]
   },
   {
-    "mod": "\u7EA2\u8B662\uFF1A\u957F\u5F81",
+    "mod": "红警2：长征",
     "introduce": "",
-    "author": "\u706F\u6CE1",
+    "author": "灯泡",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/6ce95b6e9ad548b6b90584634370a0d7.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F"
+      "原著衍生"
     ],
     "index": null,
     "updatedAt": "2026-03-05T14:21:49.2675100Z",
@@ -6109,13 +6109,13 @@
     ]
   },
   {
-    "mod": "\u5251\u58EBKENSHI",
+    "mod": "剑士KENSHI",
     "introduce": "",
-    "author": "\u706F\u6CE1",
+    "author": "灯泡",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/6bf4c15669ec40cd8d567650244dfee4.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730"
+      "原著衍生",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": "2026-03-05T14:22:51.9015459Z",
@@ -6131,13 +6131,13 @@
     ]
   },
   {
-    "mod": "GTA5\uFF1A\u6D1B\u5723\u90FD",
+    "mod": "GTA5：洛圣都",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/352f46512bde4352845bfcdd180cd080.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730"
+      "原著衍生",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": "2026-03-05T14:24:16.0436057Z",
@@ -6146,7 +6146,7 @@
         "uuid": "6aeab70841f5484791056d2bbef53edc",
         "gameversion": "0.12.x",
         "modVersion": null,
-        "size": "7x10(\u65E7)",
+        "size": "7x10(旧)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v7x10%28%E6%97%A7%29-game0.12.x-20260305142403-e11f0895/GTA5_._7x10.zip"
       },
@@ -6154,20 +6154,20 @@
         "uuid": "6e9ecef736224e30b3dd87a75947a1dd",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "10x12(\u65B0)",
+        "size": "10x12(新)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v10x12%28%E6%96%B0%29-game0.14.x-20260305142411-1c7c9792/GTA5._10x12.zip"
       }
     ]
   },
   {
-    "mod": "\u5DEB\u5E083\uFF1A\u65AF\u51EF\u5229\u5FB7\u4E3B\u5C9B",
+    "mod": "巫师3：斯凯利德主岛",
     "introduce": "",
-    "author": "(\u672A\u77E5)",
+    "author": "(未知)",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/f8995775f9f54918a6f8b383df155c99.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730"
+      "原著衍生",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": "2026-03-05T14:25:40.4440139Z",
@@ -6183,15 +6183,15 @@
     ]
   },
   {
-    "mod": "\u4E09\u56FD\u5FD714\u5730\u56FE",
+    "mod": "三国志14地图",
     "introduce": "",
-    "author": "\u68A6\u68AD,S\u2208",
+    "author": "梦梭,S∈",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/59dd783284f04e4687f7a5ac0e92f92e.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730",
-      "\u884C\u653F\u533A\u5212",
-      "\u591A\u7248\u672C"
+      "原著衍生",
+      "大型陆地",
+      "行政区划",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-03-05T14:28:39.2070574Z",
@@ -6216,20 +6216,20 @@
         "uuid": "62aa715d9ef443f9a58d99a5dfebd247",
         "gameversion": "0.22.x",
         "modVersion": null,
-        "size": "26x30(S\u2208\u884C\u653F)",
+        "size": "26x30(S∈行政)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v26x30%28S%E2%88%88%E8%A1%8C%E6%94%BF%29-game0.22.x-20260305142835-1d303522/14._26x30.S.zip"
       }
     ]
   },
   {
-    "mod": "\u738B\u56FD\u4FDD\u536B\u6218\u5730\u56FE",
+    "mod": "王国保卫战地图",
     "introduce": "",
-    "author": "0.boki\u4EBA",
+    "author": "0.boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/c7c488a93f5b4e02bacbce21e069c50e.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730"
+      "原著衍生",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": "2026-03-05T14:29:55.6390324Z",
@@ -6245,13 +6245,13 @@
     ]
   },
   {
-    "mod": "\u5854\u5229\u4E9A(\u91CD\u7F6E)",
+    "mod": "塔利亚(重置)",
     "introduce": "",
     "author": "Toad",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260305/b001fde3a90f4a22af9f9b0dbfc37d1d.png",
     "tag": [
-      "\u539F\u8457\u884D\u751F",
-      "\u5927\u578B\u9646\u5730"
+      "原著衍生",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": "2026-03-05T14:31:20.2286720Z",
@@ -6267,14 +6267,14 @@
     ]
   },
   {
-    "mod": "\u6C40\u6F9C\u8C37Tiraval",
+    "mod": "汀澜谷Tiraval",
     "introduce": "",
     "author": "Kideuz",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260307/e00aadc2a4584130b6d528dd867ed357.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u5927\u578B\u9646\u5730",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "大型陆地",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-03-07T03:05:15.7830036Z",
@@ -6298,16 +6298,16 @@
     ]
   },
   {
-    "mod": "\u4E9A\u6D32\u5E1D\u56FD\u4E89\u9738",
+    "mod": "亚洲帝国争霸",
     "introduce": "",
-    "author": "\u6881\u6D12,\u534A\u68A6\u534A\u9192",
+    "author": "梁洒,半梦半醒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260316/d65d7aa2a3244f8ab8c8436997080880.jpg",
     "tag": [
-      "\u884C\u653F\u533A\u5212",
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u9B54\u6539",
-      "\u591A\u7248\u672C"
+      "行政区划",
+      "现实世界",
+      "大洲地图",
+      "魔改",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-03-16T07:32:52.1992739Z",
@@ -6316,7 +6316,7 @@
         "uuid": "2fcb2d0422cf4179b271bb2a6f568d7f",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "13x10(\u884C\u653F)",
+        "size": "13x10(行政)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x10%28%E8%A1%8C%E6%94%BF%29-game0.50.x-20260316073243-0b2e772d/_13x10.zip"
       },
@@ -6324,21 +6324,21 @@
         "uuid": "bc306e0b5f2c4ed09d261f660cfb1761",
         "gameversion": "0.50.x",
         "modVersion": null,
-        "size": "13x10(\u5E95\u56FE)",
+        "size": "13x10(底图)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v13x10%28%E5%BA%95%E5%9B%BE%29-game0.50.x-20260316073249-e9d40c7a/_13x10.zip"
       }
     ]
   },
   {
-    "mod": "\u5C71\u6CB3\u4E07\u91CC",
+    "mod": "山河万里",
     "introduce": "",
-    "author": "\u534A\u68A6\u534A\u9192",
+    "author": "半梦半醒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260317/2aea3935cdc84ae6ba509bb6e76bbc07.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": "2026-03-17T12:11:43.4947302Z",
@@ -6354,14 +6354,14 @@
     ]
   },
   {
-    "mod": "\u5C71\u4E1C\u9752\u5C9B",
+    "mod": "山东青岛",
     "introduce": "",
-    "author": "\u534A\u68A6\u534A\u9192",
+    "author": "半梦半醒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260317/7633973a559346bdb819f8f1bb40c749.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": "2026-03-17T12:14:48.2048946Z",
@@ -6377,14 +6377,14 @@
     ]
   },
   {
-    "mod": "\u6D77\u8FB9\u5C71\u5D16",
+    "mod": "海边山崖",
     "introduce": "",
-    "author": "\u0413\u043B\u0435\u0431\u041D\u044F\u0447\u0438\u0442\u0430\u043A",
+    "author": "ГлебНячитак",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260318/08b367bf2b7349c196e13e8e1b24ba5a.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7ACB\u4F53\u6A21\u62DF",
-      "\u753B\u4F5C"
+      "架空幻想",
+      "立体模拟",
+      "画作"
     ],
     "index": null,
     "updatedAt": "2026-03-18T16:16:56.5691786Z",
@@ -6400,14 +6400,14 @@
     ]
   },
   {
-    "mod": "\u4E1C\u4E9A\u5B63\u98CE\u6838\u5FC3\u533A",
+    "mod": "东亚季风核心区",
     "introduce": "",
     "author": "tau_rine",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260405/bb88fb84a835407890d45f15f62b48cf.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": "2026-04-05T17:05:03.3294150Z",
@@ -6423,14 +6423,14 @@
     ]
   },
   {
-    "mod": "\u5308\u6C49\u8FBD\u539F",
+    "mod": "匈汉辽原",
     "introduce": "",
-    "author": "\u8D8A\u5357\u5154",
+    "author": "越南兔",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260405/89da0dfa81d04741a060a575d77bef96.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F"
+      "现实世界",
+      "局部",
+      "华夏"
     ],
     "index": null,
     "updatedAt": "2026-04-05T17:06:16.5079879Z",
@@ -6446,13 +6446,13 @@
     ]
   },
   {
-    "mod": "\u6B27\u975E\u5171\u540C\u4F53",
+    "mod": "欧非共同体",
     "introduce": "",
-    "author": "\u5996\u5A9A\u725B\u9752G\u6912",
+    "author": "妖媚牛青G椒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260405/0b89f73f475447008698e6458501a300.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE"
+      "现实世界",
+      "大洲地图"
     ],
     "index": null,
     "updatedAt": "2026-04-05T17:07:18.5873911Z",
@@ -6468,14 +6468,14 @@
     ]
   },
   {
-    "mod": "\u7AD6\u7248\u65E5\u672C",
+    "mod": "竖版日本",
     "introduce": "",
     "author": "tau_rine",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260407/9d0449c9bc45467a810caf8b059ee068.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-04-07T17:42:26.8503615Z",
@@ -6491,14 +6491,14 @@
     ]
   },
   {
-    "mod": "\u5730\u5E73\u8BF4\u4E16\u754C",
+    "mod": "地平说世界",
     "introduce": "",
     "author": "steamhawk",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260407/e4b9bc2344b14f4a997d9838c91be3ac.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE",
-      "\u9B54\u6539"
+      "现实世界",
+      "世界地图",
+      "魔改"
     ],
     "index": null,
     "updatedAt": "2026-04-07T17:43:32.5576170Z",
@@ -6514,14 +6514,14 @@
     ]
   },
   {
-    "mod": "\u62DF\u771F\u4F0A\u6BD4\u5229\u4E9A",
+    "mod": "拟真伊比利亚",
     "introduce": "",
-    "author": "\u534A\u68A6\u534A\u9192",
+    "author": "半梦半醒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260407/b46a42ab215742e3b2205457c15d8899.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u7CBE\u54C1\u5730\u56FE"
+      "现实世界",
+      "局部",
+      "精品地图"
     ],
     "index": null,
     "updatedAt": "2026-04-07T17:44:26.2056271Z",
@@ -6537,15 +6537,15 @@
     ]
   },
   {
-    "mod": "\u4E2D\u56FD",
+    "mod": "中国",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260126/7d2caadf594a4e38b70b25e2b67a1b94.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "华夏",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-04-26T16:59:03.8589448Z",
@@ -6577,14 +6577,14 @@
     ]
   },
   {
-    "mod": "\u4E16\u754C\u5730\u56FE(\u7C73\u52D2\u5706\u67F1)",
+    "mod": "世界地图(米勒圆柱)",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251204/5da97a4623df48398956ecf8434ed882.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "世界地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-04-26T17:10:54.7599792Z",
@@ -6624,14 +6624,14 @@
     ]
   },
   {
-    "mod": "\u4E16\u754C\u5730\u56FE4.0\u7CFB\u5217",
+    "mod": "世界地图4.0系列",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251222/f6b92e52f5f74159883d0429498fe18b.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "世界地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-04-26T17:13:09.1360252Z",
@@ -6672,7 +6672,7 @@
         "uuid": "cdb491b22a734bfea41c05a10ad78f2d",
         "gameversion": "0.14.x",
         "modVersion": null,
-        "size": "22x9(\u73AF\u592A\u5E73\u6D0B)",
+        "size": "22x9(环太平洋)",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v22x9%28%E7%8E%AF%E5%A4%AA%E5%B9%B3%E6%B4%8B%29-game0.14.x-20251222101559-147668b4/4.0._22x9.zip"
       },
@@ -6695,15 +6695,15 @@
     ]
   },
   {
-    "mod": "\u6DF7\u4E71\u7684\u4E16\u754C",
+    "mod": "混乱的世界",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260426/538c5c22c2b34111a47c021886098b40.png",
     "tag": [
-      "\u9B54\u6539",
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "魔改",
+      "现实世界",
+      "世界地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-04-26T17:14:48.9624586Z",
@@ -6727,14 +6727,14 @@
     ]
   },
   {
-    "mod": "\u4E1C\u4E9A\u6FB3\u6D32",
+    "mod": "东亚澳洲",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260502/45085b667bea407aa71e6c5d93773474.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-05-02T18:02:16.6866528Z",
@@ -6750,14 +6750,14 @@
     ]
   },
   {
-    "mod": "\u65E5\u672C\u672C\u90E8",
+    "mod": "日本本部",
     "introduce": "",
     "author": "tau_rine",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260502/34f3c571881449a58a8f702e14d82332.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-05-02T18:03:27.4030453Z",
@@ -6773,15 +6773,15 @@
     ]
   },
   {
-    "mod": "\u706F\u7B3C\u4E16\u754C\u5730\u56FE\uFF1A\u73AF\u592A\u5E73\u6D0B",
+    "mod": "灯笼世界地图：环太平洋",
     "introduce": "",
-    "author": "\u534A\u68A6\u534A\u9192",
+    "author": "半梦半醒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260504/fb51bacb394941c08b3da59da53cc9f7.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u4E16\u754C\u5730\u56FE",
-      "\u7CBE\u54C1\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "世界地图",
+      "精品地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-05-04T04:56:50.2096106Z",
@@ -6805,14 +6805,14 @@
     ]
   },
   {
-    "mod": "\u6CB9\u7ED8\u4E9A\u6D32",
+    "mod": "油绘亚洲",
     "introduce": "",
-    "author": "\u534A\u68A6\u534A\u9192",
+    "author": "半梦半醒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260502/3466fd57f3cc4de4ac768b7419e659b0.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "大洲地图",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-05-08T18:05:23.6811603Z",
@@ -6836,13 +6836,13 @@
     ]
   },
   {
-    "mod": "\u4F0A\u9ECE\u51C0\u571FElysium",
+    "mod": "伊黎净土Elysium",
     "introduce": "",
     "author": "Gregorianek",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260518/4d02a631520f4427bc858d1e58ab7dcc.jpg",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7ACB\u4F53\u6A21\u62DF"
+      "架空幻想",
+      "立体模拟"
     ],
     "index": null,
     "updatedAt": "2026-05-18T18:43:49.5902967Z",
@@ -6858,13 +6858,13 @@
     ]
   },
   {
-    "mod": "\u7F8E\u5229\u575A\u5468\u8FB9",
+    "mod": "美利坚周边",
     "introduce": "",
-    "author": "\u68A6\u68AD",
+    "author": "梦梭",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260518/808c49d1205a40d99afa4af430f4c7a6.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-05-18T18:44:38.0383057Z",
@@ -6880,14 +6880,14 @@
     ]
   },
   {
-    "mod": "\u5357\u65B9\u8352\u91CE",
+    "mod": "南方荒野",
     "introduce": "",
-    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "author": "盲目吃鱼之神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260601/7a88c3f452b54d6083d42361f305720a.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7ACB\u4F53\u6A21\u62DF",
-      "\u5927\u578B\u9646\u5730"
+      "架空幻想",
+      "立体模拟",
+      "大型陆地"
     ],
     "index": null,
     "updatedAt": "2026-06-01T18:32:27.2340487Z",
@@ -6903,13 +6903,13 @@
     ]
   },
   {
-    "mod": "\u897F\u6B27",
+    "mod": "西欧",
     "introduce": "",
-    "author": "boki\u4EBA",
+    "author": "boki人",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260606/fc5b88b576ee435db96797a0a5d6f745.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-06-06T18:17:28.4733701Z",
@@ -6925,13 +6925,13 @@
     ]
   },
   {
-    "mod": "\u6CE2\u591A\u9ECE\u5404\u5C9B",
-    "introduce": "\u7F8E\u56FD\u5728\u52A0\u52D2\u6BD4\u5730\u533A\u7684\u4E00\u4E2A\u81EA\u7531\u90A6",
+    "mod": "波多黎各岛",
+    "introduce": "美国在加勒比地区的一个自由邦",
     "author": "BrandNewHexagon",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260727/720cf7f61e81471486182b2fecad7553.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8"
+      "现实世界",
+      "局部"
     ],
     "index": null,
     "updatedAt": "2026-07-27T05:28:07.8558713Z",
@@ -6947,16 +6947,16 @@
     ]
   },
   {
-    "mod": "\u4E9A\u6D32\u6838\u5FC3",
+    "mod": "亚洲核心",
     "introduce": "",
-    "author": "\u534A\u68A6\u534A\u9192",
+    "author": "半梦半醒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260508/10fa4f9de98e49d79d1f9fa9649c88ef.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5C40\u90E8",
-      "\u534E\u590F",
-      "\u591A\u5C9B\u5C7F",
-      "\u591A\u7248\u672C"
+      "现实世界",
+      "局部",
+      "华夏",
+      "多岛屿",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-07-27T05:28:44.7743736Z",
@@ -6980,16 +6980,16 @@
     ]
   },
   {
-    "mod": "\u6FB3\u4E9A\u6838\u5FC3",
+    "mod": "澳亚核心",
     "introduce": "",
-    "author": "\u534A\u68A6\u534A\u9192",
+    "author": "半梦半醒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260727/59ac1cd97cae4d289cc90e403ce969e9.png",
     "tag": [
-      "\u73B0\u5B9E\u4E16\u754C",
-      "\u5927\u6D32\u5730\u56FE",
-      "\u534E\u590F",
-      "\u5C40\u90E8",
-      "\u591A\u5C9B\u5C7F"
+      "现实世界",
+      "大洲地图",
+      "华夏",
+      "局部",
+      "多岛屿"
     ],
     "index": null,
     "updatedAt": "2026-07-27T05:30:20.6077457Z",
@@ -7005,15 +7005,15 @@
     ]
   },
   {
-    "mod": "\u5E9F\u571F\u7EFF\u6D32",
+    "mod": "废土绿洲",
     "introduce": "",
-    "author": "\u76F2\u76EE\u5403\u9C7C\u4E4B\u795E",
+    "author": "盲目吃鱼之神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260727/2260764a11534b91a4a251c92d9c9fd9.png",
     "tag": [
-      "\u67B6\u7A7A\u5E7B\u60F3",
-      "\u7ACB\u4F53\u6A21\u62DF",
-      "\u5927\u578B\u9646\u5730",
-      "\u591A\u7248\u672C"
+      "架空幻想",
+      "立体模拟",
+      "大型陆地",
+      "多版本"
     ],
     "index": null,
     "updatedAt": "2026-07-27T05:31:36.5826438Z",
@@ -7033,6 +7033,28 @@
         "size": "22x16",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v22x16-game0.50.x-20260727053134-cef06bb8/_22x16.zip"
+      }
+    ]
+  },
+  {
+    "mod": "丝绸之路",
+    "introduce": "",
+    "author": "哀𡽜岸",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260905/7416e00b704f4254a912f608ec010aec.png",
+    "tag": [
+      "现实世界",
+      "局部",
+      "多版本"
+    ],
+    "index": null,
+    "updatedAt": "2026-09-05T07:23:35.218236+00:00",
+    "versions": [
+      {
+        "uuid": "44aa9b43ab2f4f338076deb2d27968bb",
+        "gameversion": "0.22.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v44x10-game0.22.x-20260905072332-8c54a050/_44x10.zip",
+        "size": "44x10"
       }
     ]
   }
