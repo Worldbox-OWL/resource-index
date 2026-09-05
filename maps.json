@@ -7057,5 +7057,26 @@
         "size": "44x10"
       }
     ]
+  },
+  {
+    "mod": "环地中海文明圈",
+    "introduce": "",
+    "author": "哀𡽜岸",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260905/a598d9ff549e429fbf1b10c642e829bb.jpg",
+    "tag": [
+      "现实世界",
+      "局部"
+    ],
+    "index": null,
+    "updatedAt": "2026-09-05T07:24:41.944531+00:00",
+    "versions": [
+      {
+        "uuid": "350f234f0a214a2ca6af8d20e63945a8",
+        "gameversion": "0.22.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v18x10-game0.22.x-20260905072438-5c95e562/_18x10.zip",
+        "size": "18x10"
+      }
+    ]
   }
 ]
