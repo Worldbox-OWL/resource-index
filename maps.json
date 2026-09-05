@@ -7090,7 +7090,7 @@
       "多版本"
     ],
     "index": null,
-    "updatedAt": "2026-09-05T07:27:35.501951+00:00",
+    "updatedAt": "2026-09-05T07:27:41.687898+00:00",
     "versions": [
       {
         "uuid": "ac3cdd9e71bb40fbaeb439727e5dc738",
@@ -7098,6 +7098,13 @@
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v30x15-game0.50.x-20260905072731-42bff2fb/_30x15.red_velvet4_u.zip",
         "size": "30x15"
+      },
+      {
+        "uuid": "b6e7d2fd93a94af298339841421c45a6",
+        "gameversion": "0.50.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v10x14%28%E8%A5%BF%29-game0.50.x-20260905072739-97f2bc33/_10x14.red_velvet4_u.zip",
+        "size": "10x14(西)"
       }
     ]
   }
