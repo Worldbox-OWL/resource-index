@@ -4210,22 +4210,6 @@
     "updatedAt": "2026-08-22T09:02:27.148876+00:00",
     "versions": [
       {
-        "uuid": "9b5a04dc666a42b88196e0f58d48e309",
-        "gameversion": "0.22.x",
-        "modVersion": "1.2.0",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.0-game0.22.x-20260822090136-c44af4c5/0.22.%2B.Blueprint_1.2.0.zip"
-      },
-      {
-        "uuid": "f48c209643da48d0b8d14785f54af939",
-        "gameversion": "0.22.x",
-        "modVersion": "1.2.0",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.0-game0.22.x-20260822090219-7260a7e9/0.22.%2B.Blueprint_1.2.0.zip"
-      },
-      {
         "uuid": "111cd3cc319641c3ac4d5eb7e0e22508",
         "gameversion": "0.51.x",
         "modVersion": "1.2.0",
