@@ -4198,28 +4198,6 @@
     ]
   },
   {
-    "mod": "建筑蓝图Blueprint",
-    "introduce": "通过保存蓝图框选一定区域，保存区域内文明建筑；在蓝图库选择具体模板；使用粘贴蓝图持续在图上放置\r\n⚠注：蓝图库数据存于模组文件夹内，删除只能回收站找回，如有需要自行备份(可通过蓝图库右上角打开文件夹)",
-    "author": "星曜吃不饱",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260822/039db59efbc64ba2a7e7e41d16e2bf31.png",
-    "tag": [
-      "功能扩展",
-      "原生调整"
-    ],
-    "index": null,
-    "updatedAt": "2026-08-22T09:02:27.148876+00:00",
-    "versions": [
-      {
-        "uuid": "111cd3cc319641c3ac4d5eb7e0e22508",
-        "gameversion": "0.51.x",
-        "modVersion": "1.2.0",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.0-game0.51.x-20260822090224-3b68503b/0.51.%2B.Blueprint_1.2.0.zip"
-      }
-    ]
-  },
-  {
     "mod": "文化语言传播法则",
     "introduce": "世界法则中文明类添加文化/语言/宗教传播三个法则(可右键打开模组设置)，默认开启(可模组设置内修改)表示原版默认，关闭才表示禁止文化/语言/宗教传播\r\n注：新生儿默认跟随城市文化语言宗教不属于传播，也就是说保留地域特色",
     "author": "KloopRe",
@@ -4619,6 +4597,35 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.4-game0.51.x-20260905071940-8e24d598/0.51.%2B.FunBoost_1.1.4.zip"
+      }
+    ]
+  },
+  {
+    "mod": "建筑蓝图Blueprint",
+    "introduce": "通过保存蓝图框选一定区域，保存区域内文明建筑；在蓝图库选择具体模板；使用粘贴蓝图持续在图上放置\r\n⚠注：蓝图库数据存于模组文件夹内，删除只能回收站找回，如有需要自行备份(可通过蓝图库右上角打开文件夹)",
+    "author": "星曜吃不饱",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260822/039db59efbc64ba2a7e7e41d16e2bf31.png",
+    "tag": [
+      "功能扩展",
+      "原生调整"
+    ],
+    "index": null,
+    "updatedAt": "2026-09-05T07:38:24.387828+00:00",
+    "versions": [
+      {
+        "uuid": "111cd3cc319641c3ac4d5eb7e0e22508",
+        "gameversion": "0.51.x",
+        "modVersion": "1.2.0",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.0-game0.51.x-20260822090224-3b68503b/0.51.%2B.Blueprint_1.2.0.zip"
+      },
+      {
+        "uuid": "347bb15616e0419e8f9b27ba1159bc74",
+        "gameversion": "0.22.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.0-game0.22.x-20260905073822-3702ee94/0.22.%2B.Blueprint_1.2.0.zip",
+        "modVersion": "1.2.0"
       }
     ]
   }
