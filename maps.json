@@ -7077,5 +7077,28 @@
         "size": "18x10"
       }
     ]
+  },
+  {
+    "mod": "芒迪四洲世界Mundi",
+    "introduce": "",
+    "author": "red_velvet4_u",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260905/ebf69ca30c1d4dc4a9c4c32d69956cff.jpg",
+    "tag": [
+      "架空幻想",
+      "类世界地图",
+      "多岛屿",
+      "多版本"
+    ],
+    "index": null,
+    "updatedAt": "2026-09-05T07:27:35.501951+00:00",
+    "versions": [
+      {
+        "uuid": "ac3cdd9e71bb40fbaeb439727e5dc738",
+        "gameversion": "0.50.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/map-resources/releases/download/v30x15-game0.50.x-20260905072731-42bff2fb/_30x15.red_velvet4_u.zip",
+        "size": "30x15"
+      }
+    ]
   }
 ]
