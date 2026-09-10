@@ -4617,15 +4617,15 @@
       "功能扩展"
     ],
     "index": null,
-    "updatedAt": "2026-09-09T16:42:51.504122+00:00",
+    "updatedAt": "2026-09-10T04:21:37.348736+00:00",
     "versions": [
       {
         "uuid": "bdbee3b775de41699183449b8a56c82c",
         "gameversion": "0.51.2",
-        "modVersion": "2.0.0",
+        "modVersion": "2.2.0",
         "size": null,
         "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.0.0-game0.51.2-20260909164246-3ae1c25a/ClassicalEconomics-2.0.0.zip"
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.2.0-game0.51.2-20260910042133-c5769f12/ClassicalEconomics-2.2.0.zip"
       }
     ]
   }
