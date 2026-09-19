@@ -4960,5 +4960,27 @@
         "modVersion": "1.2.7g"
       }
     ]
+  },
+  {
+    "mod": "诸天神座",
+    "introduce": "自定义世界观玩法扩展mod，可以自行创建和编辑属性、词条、道途、境界、天劫、种族配置与起源效果，多种系统自由组合，构建真正属于自己的诸天世界。",
+    "author": "星望泡泡",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260919/0654736444d94985b9be0593e4c67996.png",
+    "tag": [
+      "自定义，玩法扩展，大型"
+    ],
+    "index": null,
+    "updatedAt": 1789832278,
+    "versions": [
+      {
+        "uuid": "7b2c89636a5c415d85e987da68ace5ce",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.0-game0.51.x-20260919153758-32c91fb1/trimmed.zip",
+        "createdAt": 1789832278,
+        "size": null,
+        "modVersion": "0.1.0"
+      }
+    ]
   }
 ]
