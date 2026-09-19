@@ -4913,5 +4913,27 @@
         "createdAt": 1789014098
       }
     ]
+  },
+  {
+    "mod": "自定义修炼",
+    "introduce": "自定义创建修炼体系，特质等",
+    "author": "nekosaikou",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260919/e7d4b5302dda4df988e15fb84a080b57.png",
+    "tag": [
+      "修炼体系"
+    ],
+    "index": null,
+    "updatedAt": 1789811977,
+    "versions": [
+      {
+        "uuid": "491bb5e8a0b44472be7ecdd56e93b1d9",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.9.5.1-game0.51.x-20260919095937-6a491bac/trimmed.zip",
+        "createdAt": 1789811977,
+        "size": null,
+        "modVersion": "0.9.5.1"
+      }
+    ]
   }
 ]
