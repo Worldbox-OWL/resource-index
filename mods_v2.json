@@ -4935,5 +4935,30 @@
         "modVersion": "0.9.5.1"
       }
     ]
+  },
+  {
+    "mod": "古代战争/春秋3.0",
+    "introduce": "春秋新版 做了很多内容涵盖 族谱 军事优化 国家,官员 内有高度的自定义头衔和官员系统",
+    "author": "GoatDie",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260919/4b2973316ca44d42a483945c94f9c416.png",
+    "tag": [
+      "春秋",
+      "军事",
+      "政治",
+      "大型"
+    ],
+    "index": null,
+    "updatedAt": 1789814976,
+    "versions": [
+      {
+        "uuid": "afea65fbeb864b74a508053c476e1901",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.7g-game0.51.x-20260919104936-7f04d9d9/trimmed.zip",
+        "createdAt": 1789814976,
+        "size": null,
+        "modVersion": "1.2.7g"
+      }
+    ]
   }
 ]
