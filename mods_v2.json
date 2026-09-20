@@ -4221,29 +4221,6 @@
     ]
   },
   {
-    "mod": "循环世界LoopBox",
-    "introduce": "在详细地图情况下对地图边缘进行拼接，已知(群系、火焰、康威生命游戏)扩散可跨越边界、单位(移动、视野、寻敌)不会跨越",
-    "author": "Core4777",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260511/caefeebc3b4445b193e4220064e7c495.png",
-    "tag": [
-      "原生调整",
-      "功能扩展"
-    ],
-    "index": null,
-    "updatedAt": 1783554764,
-    "versions": [
-      {
-        "uuid": "bec44290beab4c90a10bb03aa0725bd6",
-        "gameversion": "0.51.x",
-        "modVersion": "0.2.0",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%BE%AA%E7%8E%AF%E4%B8%96%E7%95%8CLoopBox-v0.2.0-game0.51.x-20260708235237/0.51.%2B.LoopBox_0.2.0.zip",
-        "createdAt": 1783554764
-      }
-    ]
-  },
-  {
     "mod": "无界之根法则微调",
     "introduce": "防止无界之根法则开启后树扩散到田，沙地上的树扩散到其他地块的情况",
     "author": "zak.cs",
