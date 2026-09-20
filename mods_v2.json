@@ -5014,5 +5014,35 @@
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/27aad4e036a840f78f5a94ddb5cf107e.png"
       }
     ]
+  },
+  {
+    "mod": "主神空间·万界",
+    "introduce": "你是创世神本模组提供更加自由的可能性，你可以随意修改人物及特质属性数据，也可以打开轮回者诞生功能，把这当做一个体系，点击链接即可查看详细介绍：https://zak-netizen-tech.github.io/zhu-shen-kong-jian/",
+    "author": "扎克",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/bdc6ce51cb32433da836ccd4224e84e8.jpg",
+    "tag": [
+      "体系",
+      "工具"
+    ],
+    "index": null,
+    "updatedAt": 1789897473,
+    "versions": [
+      {
+        "uuid": "10cae095f6344ee6a1ac5722db05a517",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.73-game0.51.x-20260920094433-c1b3fd73/trimmed.zip",
+        "createdAt": 1789897473,
+        "size": null,
+        "modVersion": "1.73",
+        "tag": [
+          "体系",
+          "工具"
+        ],
+        "author": "扎克",
+        "introduce": "你是创世神本模组提供更加自由的可能性，你可以随意修改人物及特质属性数据，也可以打开轮回者诞生功能，把这当做一个体系，点击链接即可查看详细介绍：https://zak-netizen-tech.github.io/zhu-shen-kong-jian/",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/bdc6ce51cb32433da836ccd4224e84e8.jpg"
+      }
+    ]
   }
 ]
