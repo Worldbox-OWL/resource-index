@@ -4970,7 +4970,7 @@
       "独特生物"
     ],
     "index": null,
-    "updatedAt": 1789858218,
+    "updatedAt": 1789862906,
     "versions": [
       {
         "uuid": "747fba2182f0488bb738f209e35cd246",
@@ -4997,6 +4997,21 @@
         "author": "摸鱼、子初未午",
         "introduce": "大型修仙模组，内容包括宗门、炼丹、炼器、神兽、机缘、灵脉争夺，具有仙道、武道、神修、鬼修四条修炼体系",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260919/cbc2c7d4c30c46588eb5fff428e24e13.png"
+      },
+      {
+        "uuid": "647a00879ff44de29e09c35e91da5916",
+        "gameversion": "0.51.x",
+        "variant": "必装附属:气运编辑器",
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.18.3-game0.51.x-20260920000826-3325a43d/trimmed.zip",
+        "createdAt": 1789862906,
+        "size": null,
+        "modVersion": "1.18.3",
+        "tag": [
+          "功能扩展"
+        ],
+        "author": "guigu-community",
+        "introduce": "可以修改鬼谷修仙模组修士的先天气运和后天气运",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/27aad4e036a840f78f5a94ddb5cf107e.png"
       }
     ]
   }
