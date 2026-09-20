@@ -5021,5 +5021,28 @@
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/bdc6ce51cb32433da836ccd4224e84e8.jpg"
       }
     ]
+  },
+  {
+    "mod": "凡人修仙传",
+    "introduce": "练气（13层）到真仙已全部开发完成，并制作有宗门/灵脉/修仙坊市/灵石/剑修等玩法",
+    "author": "二两墨",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/81687b2eb36f4cea95e16e3421d2680a.jpg",
+    "tag": [],
+    "index": null,
+    "updatedAt": 1789934576,
+    "versions": [
+      {
+        "uuid": "95ea3344f32b4e0bb3444b668fa9a1de",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.33.0-game0.51.x-20260920200256-c45f9ae8/trimmed.zip",
+        "createdAt": 1789934576,
+        "size": null,
+        "modVersion": "0.33.0",
+        "author": "二两墨",
+        "introduce": "练气（13层）到真仙已全部开发完成，并制作有宗门/灵脉/修仙坊市/灵石/剑修等玩法",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/81687b2eb36f4cea95e16e3421d2680a.jpg"
+      }
+    ]
   }
 ]
