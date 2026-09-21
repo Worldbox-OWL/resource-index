@@ -5119,5 +5119,35 @@
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/8879005c3c694fe0882cd73472fb3b57.jpg"
       }
     ]
+  },
+  {
+    "mod": "咒术回战",
+    "introduce": "咒术回战同人版",
+    "author": "功夫茶",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/5c425c4556484684bfcd4791f0c94e84.jpg",
+    "tag": [
+      "体系",
+      "同人"
+    ],
+    "index": null,
+    "updatedAt": 1790005530,
+    "versions": [
+      {
+        "uuid": "1525ed96e0b74cca9830b3e735f64895",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1-game0.51.x-20260921154530-77eb93b7/trimmed.zip",
+        "createdAt": 1790005530,
+        "size": null,
+        "modVersion": "1.1",
+        "tag": [
+          "体系",
+          "同人"
+        ],
+        "author": "功夫茶",
+        "introduce": "咒术回战同人版",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/5c425c4556484684bfcd4791f0c94e84.jpg"
+      }
+    ]
   }
 ]
