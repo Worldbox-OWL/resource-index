@@ -5074,5 +5074,35 @@
         "supersedes": "07473b2a594f453d87657b957d0318de"
       }
     ]
+  },
+  {
+    "mod": "斩神录",
+    "introduce": "若黯夜终临，吾必立于万万人前，横刀向渊，血染天穹！",
+    "author": "枫绫",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/a511035281ba4c13bf60fd7e797d47a5.png",
+    "tag": [
+      "大型",
+      "体系"
+    ],
+    "index": null,
+    "updatedAt": 1790004653,
+    "versions": [
+      {
+        "uuid": "aff4939f891b47c48c60b444b8407f36",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.1-game0.51.x-20260921153053-8bbad5a5/trimmed.zip",
+        "createdAt": 1790004653,
+        "size": null,
+        "modVersion": "1.3.1",
+        "tag": [
+          "大型",
+          "体系"
+        ],
+        "author": "枫绫",
+        "introduce": "若黯夜终临，吾必立于万万人前，横刀向渊，血染天穹！",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/a511035281ba4c13bf60fd7e797d47a5.png"
+      }
+    ]
   }
 ]
