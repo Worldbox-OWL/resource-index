@@ -792,7 +792,7 @@
   },
   {
     "mod": "简单汉化模组修正",
-    "introduce": "一米大佬写完模组后借助deepseekv3为0.50版本翻译了新内容，后续更新为汉化\r\n⚠此模组仅为游戏内可翻译内容进行汉化，并不涉及名字和其他模组内容。每次小更新都会关闭游戏中的实验模式，请自行查看",
+    "introduce": "一米大佬写完模组后借助deepseekv3为0.50版本翻译了新内容，后续更新为汉化\n⚠此模组仅为游戏内可翻译内容进行汉化，并不涉及名字和其他模组内容。每次小更新都会关闭游戏中的实验模式，请自行查看",
     "author": "一米,半梦半醒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251210/75671d2498fe4c49ac61a9cf44d7e9e1.png",
     "tag": [
@@ -802,7 +802,7 @@
       "必备"
     ],
     "index": null,
-    "updatedAt": 1765705706,
+    "updatedAt": 1789990843,
     "versions": [
       {
         "uuid": "ef93e64413b04f19ac1d49c66b15a7b7",
@@ -811,7 +811,13 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.8-game0.50.x-20251210165305-36e84e56/0.50.%2B._1.0.8.zip",
-        "createdAt": 1765385588
+        "createdAt": 1765385588,
+        "tag": [
+          "原生调整",
+          "体验优化",
+          "Bug修复",
+          "必备"
+        ]
       },
       {
         "uuid": "1f0959fd0b6d490aa5456bc7d88e2cbd",
@@ -820,7 +826,11 @@
         "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.8-game0.51.x-20251214094821-32216d1b/0.51.%2B._1.0.8.zip",
-        "createdAt": 1765705706
+        "createdAt": 1765705706,
+        "tag": [
+          "原生调整",
+          "体验优化"
+        ]
       }
     ]
   },
