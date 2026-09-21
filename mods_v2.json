@@ -4791,30 +4791,6 @@
     ]
   },
   {
-    "mod": "趣玩增益FunBoost",
-    "introduce": "可右键纪元按钮或模组列表对应齿轮进入模组设置\n①玩法：优质睡眠(每段减10秒)、谋划倍率(加速谋划完成)、火焰控制(禁止蔓延、建筑/地形/单位着火)、城市扩张(加士兵，允许远程)、篝火农忙(篝火旁可小范围开垦农田)、减少单位视野(国王领主士兵民兵除外)、资源快速存储(原地提交而非定点投掷)、无害基因(去除亚种劣等、染色体有害基因)、家庭繁衍(组建家庭后立即繁衍)\n②趣味：装备永恒、绑定诅咒(无法更换)、船只斜行、强制控制(防止坚忍)、心灵社交(社交无需寻路)、财富继承(均分给子女)、旧雪兼容(适配旧版本覆雪方块)、幸福满溢(恒为满且记录翻倍)、耐力满溢、扩张主义(占领附带相邻区域)、王国开荒(殖民一次性创建两个城市)\n③基础：禁止群落特效/纪元更迭/瘟疫传播/废墟生成/废墟老鼠/顶峰积雪/粪便产生/屏幕抖动/道路退化/农田退化/四角棱/开屏窗口/侧边栏/动物迁移/偷窃/反应权能/窗口插图/铺路、快速调试(设置左上角龙和汉堡一步到位)",
-    "author": "半梦半醒",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260708/7edd442e10f7427b9e3c7d651f1e6407.png",
-    "tag": [
-      "原生调整",
-      "体验优化",
-      "必备"
-    ],
-    "index": null,
-    "updatedAt": 1788592785,
-    "versions": [
-      {
-        "uuid": "85764923ea384095a7c65fa87801662d",
-        "gameversion": "0.51.x",
-        "modVersion": "1.1.4",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.4-game0.51.x-20260905071940-8e24d598/0.51.%2B.FunBoost_1.1.4.zip",
-        "createdAt": 1788592785
-      }
-    ]
-  },
-  {
     "mod": "建筑蓝图Blueprint",
     "introduce": "通过保存蓝图框选一定区域，保存区域内文明建筑；在蓝图库选择具体模板；使用粘贴蓝图持续在图上放置\r\n⚠注：蓝图库数据存于模组文件夹内，删除只能回收站找回，如有需要自行备份(可通过蓝图库右上角打开文件夹)",
     "author": "星曜吃不饱",
@@ -5042,6 +5018,40 @@
         "author": "二两墨",
         "introduce": "练气（13层）到真仙已全部开发完成，并制作有宗门/灵脉/修仙坊市/灵石/剑修等玩法",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/81687b2eb36f4cea95e16e3421d2680a.jpg"
+      }
+    ]
+  },
+  {
+    "mod": "趣玩增益FunBoost",
+    "introduce": "可右键纪元按钮或模组列表对应齿轮进入模组设置\n①玩法：优质睡眠(每段减10秒)、谋划倍率(加速谋划完成)、火焰控制(禁止蔓延、建筑/地形/单位着火)、城市扩张(加士兵，允许远程)、篝火农忙(篝火旁可小范围开垦农田)、减少单位视野(国王领主士兵民兵除外)、资源快速存储(原地提交而非定点投掷)、无害基因(去除亚种劣等、染色体有害基因)、家庭繁衍(组建家庭后立即繁衍)\n②趣味：装备永恒、绑定诅咒(无法更换)、船只斜行、强制控制(防止坚忍)、心灵社交(社交无需寻路)、财富继承(均分给子女)、旧雪兼容(适配旧版本覆雪方块)、幸福满溢(恒为满且记录翻倍)、耐力满溢、扩张主义(占领附带相邻区域)、王国开荒(殖民一次性创建两个城市)\n③基础：禁止群落特效/纪元更迭/瘟疫传播/废墟生成/废墟老鼠/顶峰积雪/粪便产生/屏幕抖动/道路退化/农田退化/四角棱/开屏窗口/侧边栏/动物迁移/偷窃/反应权能/窗口插图/铺路、快速调试(设置左上角龙和汉堡一步到位)",
+    "author": "半梦半醒",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260708/7edd442e10f7427b9e3c7d651f1e6407.png",
+    "tag": [
+      "原生调整",
+      "体验优化",
+      "必备"
+    ],
+    "index": null,
+    "updatedAt": 1789990719,
+    "versions": [
+      {
+        "uuid": "85764923ea384095a7c65fa87801662d",
+        "gameversion": "0.51.x",
+        "modVersion": "1.1.4",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.4-game0.51.x-20260905071940-8e24d598/0.51.%2B.FunBoost_1.1.4.zip",
+        "createdAt": 1788592785
+      },
+      {
+        "uuid": "5e338c9dd1724d2ab2c3bbaae82600e9",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.5-game0.51.x-20260921113840-ddf8e79a/0.51.%2B.FunBoost_1.1.5.zip",
+        "createdAt": 1789990719,
+        "size": null,
+        "modVersion": "1.1.5",
+        "supersedes": "85764923ea384095a7c65fa87801662d"
       }
     ]
   }
