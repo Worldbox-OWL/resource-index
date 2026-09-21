@@ -4984,29 +4984,6 @@
     ]
   },
   {
-    "mod": "凡人修仙传",
-    "introduce": "练气（13层）到真仙已全部开发完成，并制作有宗门/灵脉/修仙坊市/灵石/剑修等玩法",
-    "author": "二两墨",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/81687b2eb36f4cea95e16e3421d2680a.jpg",
-    "tag": [],
-    "index": null,
-    "updatedAt": 1789934576,
-    "versions": [
-      {
-        "uuid": "95ea3344f32b4e0bb3444b668fa9a1de",
-        "gameversion": "0.51.x",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.33.0-game0.51.x-20260920200256-c45f9ae8/trimmed.zip",
-        "createdAt": 1789934576,
-        "size": null,
-        "modVersion": "0.33.0",
-        "author": "二两墨",
-        "introduce": "练气（13层）到真仙已全部开发完成，并制作有宗门/灵脉/修仙坊市/灵石/剑修等玩法",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/81687b2eb36f4cea95e16e3421d2680a.jpg"
-      }
-    ]
-  },
-  {
     "mod": "趣玩增益FunBoost",
     "introduce": "可右键纪元按钮或模组列表对应齿轮进入模组设置\n①玩法：优质睡眠(每段减10秒)、谋划倍率(加速谋划完成)、火焰控制(禁止蔓延、建筑/地形/单位着火)、城市扩张(加士兵，允许远程)、篝火农忙(篝火旁可小范围开垦农田)、减少单位视野(国王领主士兵民兵除外)、资源快速存储(原地提交而非定点投掷)、无害基因(去除亚种劣等、染色体有害基因)、家庭繁衍(组建家庭后立即繁衍)\n②趣味：装备永恒、绑定诅咒(无法更换)、船只斜行、强制控制(防止坚忍)、心灵社交(社交无需寻路)、财富继承(均分给子女)、旧雪兼容(适配旧版本覆雪方块)、幸福满溢(恒为满且记录翻倍)、耐力满溢、扩张主义(占领附带相邻区域)、王国开荒(殖民一次性创建两个城市)\n③基础：禁止群落特效/纪元更迭/瘟疫传播/废墟生成/废墟老鼠/顶峰积雪/粪便产生/屏幕抖动/道路退化/农田退化/四角棱/开屏窗口/侧边栏/动物迁移/偷窃/反应权能/窗口插图/铺路/子弹弹射/UI抖动/帧误差",
     "author": "半梦半醒",
@@ -5102,6 +5079,44 @@
         "author": "枫绫",
         "introduce": "若黯夜终临，吾必立于万万人前，横刀向渊，血染天穹！",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/a511035281ba4c13bf60fd7e797d47a5.png"
+      }
+    ]
+  },
+  {
+    "mod": "凡人修仙传",
+    "introduce": "练气（13层）到真仙已全部开发完成，并制作有宗门/灵脉/修仙坊市/灵石/剑修等玩法",
+    "author": "二两墨",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/81687b2eb36f4cea95e16e3421d2680a.jpg",
+    "tag": [],
+    "index": null,
+    "updatedAt": 1790005168,
+    "versions": [
+      {
+        "uuid": "95ea3344f32b4e0bb3444b668fa9a1de",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.33.0-game0.51.x-20260920200256-c45f9ae8/trimmed.zip",
+        "createdAt": 1789934576,
+        "size": null,
+        "modVersion": "0.33.0",
+        "author": "二两墨",
+        "introduce": "练气（13层）到真仙已全部开发完成，并制作有宗门/灵脉/修仙坊市/灵石/剑修等玩法",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/81687b2eb36f4cea95e16e3421d2680a.jpg"
+      },
+      {
+        "uuid": "787f97e9a1674c3a86fdbfc59d9c2fc8",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.41.3-game0.51.x-20260921153928-2426a72d/trimmed.zip",
+        "createdAt": 1790005168,
+        "size": null,
+        "modVersion": "0.41.3",
+        "tag": [
+          "修仙"
+        ],
+        "author": "二两墨",
+        "introduce": "从练气到真仙，仙路已备，新增炼虚与合体境界能力，望道友仙运昌隆",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/8879005c3c694fe0882cd73472fb3b57.jpg"
       }
     ]
   }
