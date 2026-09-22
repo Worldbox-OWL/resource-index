@@ -5111,9 +5111,12 @@
     "introduce": "练气（13层）到真仙已全部开发完成，并制作有宗门/灵脉/修仙坊市/灵石/剑修等玩法",
     "author": "二两墨",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/81687b2eb36f4cea95e16e3421d2680a.jpg",
-    "tag": [],
+    "tag": [
+      "同人",
+      "修仙"
+    ],
     "index": null,
-    "updatedAt": 1790081326,
+    "updatedAt": 1790087507,
     "versions": [
       {
         "uuid": "95ea3344f32b4e0bb3444b668fa9a1de",
