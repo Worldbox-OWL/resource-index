@@ -5061,44 +5061,6 @@
     ]
   },
   {
-    "mod": "生物学Biology",
-    "introduce": "①立绘与器官：在单位面板左侧添加生物学标签，进入可显示单位头像立绘及各器官分析；头像可更改发色肤色、立绘与右侧具体器官文字对应可强化弱化删除等(会更改对应功能和属性)、右侧黑面板无字部分可点击选择添加器官\r\n②已故收藏：在单位面板左侧添加对应标签，记录所有死亡的收藏单位，可以进行跨世界复活\r\n③模组设置：菜单缩放、面板宽度、器官磨损、启用动物器官等\r\n⚠已知修改“器官面板加宽倍数”会导致窗口显示出现问题，勿动",
-    "author": "信仰芙芙の博士",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260904/17c6f4787c2945889dfbb382c2a21467.png",
-    "tag": [
-      "功能扩展"
-    ],
-    "index": null,
-    "updatedAt": 1790059806,
-    "versions": [
-      {
-        "uuid": "15d967c4693b41d4950fc0866ad7dedd",
-        "gameversion": "0.51.x",
-        "modVersion": "1.0.7",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.7-game0.51.x-20260904125525-4ec3b40d/0.51.%2B.Biology_1.0.7.zip",
-        "createdAt": 1788526530
-      },
-      {
-        "uuid": "4ea63a22e64d4b9f99ae7e549f198ae0",
-        "gameversion": "0.51.x",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.1-game0.51.x-20260922065006-4fd7c20c/trimmed.zip",
-        "createdAt": 1790059806,
-        "size": null,
-        "modVersion": "1.1.1",
-        "tag": [
-          "生物改造",
-          "成人"
-        ],
-        "author": "信仰芙芙の博士",
-        "introduce": "①立绘与器官：在单位面板左侧添加生物学标签，进入可显示单位头像立绘及各器官分析；头像可更改发色肤色、立绘与右侧具体器官文字对应可强化弱化删除等(会更改对应功能和属性)、右侧黑面板无字部分可点击选择添加器官 ②已故收藏：在单位面板左侧添加对应标签，记录所有死亡的收藏单位，可以进行跨世界复活 ③模组设置：菜单缩放、面板宽度、器官磨损、启用动物器官等 ⚠已知修改“器官面板加宽倍数”会导致窗口显示出现问题，勿动",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/53989799c1f34f74bbf3cdf71c975b52.png"
-      }
-    ]
-  },
-  {
     "mod": "咒术回战",
     "introduce": "咒术回战同人版",
     "author": "功夫茶",
@@ -5194,6 +5156,60 @@
         "author": "二两墨",
         "introduce": "从练气到真仙，仙路已备，新增炼虚与合体境界能力，望道友仙运昌隆",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/706d69e10e864e8e9c4b228a01681976.jpg"
+      }
+    ]
+  },
+  {
+    "mod": "生物学Biology",
+    "introduce": "①立绘与器官：在单位面板左侧添加生物学标签，进入可显示单位头像立绘及各器官分析；头像可更改发色肤色、立绘与右侧具体器官文字对应可强化弱化删除等(会更改对应功能和属性)、右侧黑面板无字部分可点击选择添加器官\r\n②已故收藏：在单位面板左侧添加对应标签，记录所有死亡的收藏单位，可以进行跨世界复活\r\n③模组设置：菜单缩放、面板宽度、器官磨损、启用动物器官等\r\n⚠已知修改“器官面板加宽倍数”会导致窗口显示出现问题，勿动",
+    "author": "信仰芙芙の博士",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260904/17c6f4787c2945889dfbb382c2a21467.png",
+    "tag": [
+      "功能扩展"
+    ],
+    "index": null,
+    "updatedAt": 1790086581,
+    "versions": [
+      {
+        "uuid": "15d967c4693b41d4950fc0866ad7dedd",
+        "gameversion": "0.51.x",
+        "modVersion": "1.0.7",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.7-game0.51.x-20260904125525-4ec3b40d/0.51.%2B.Biology_1.0.7.zip",
+        "createdAt": 1788526530
+      },
+      {
+        "uuid": "4ea63a22e64d4b9f99ae7e549f198ae0",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.1-game0.51.x-20260922065006-4fd7c20c/trimmed.zip",
+        "createdAt": 1790059806,
+        "size": null,
+        "modVersion": "1.1.1",
+        "tag": [
+          "生物改造",
+          "成人"
+        ],
+        "author": "信仰芙芙の博士",
+        "introduce": "①立绘与器官：在单位面板左侧添加生物学标签，进入可显示单位头像立绘及各器官分析；头像可更改发色肤色、立绘与右侧具体器官文字对应可强化弱化删除等(会更改对应功能和属性)、右侧黑面板无字部分可点击选择添加器官 ②已故收藏：在单位面板左侧添加对应标签，记录所有死亡的收藏单位，可以进行跨世界复活 ③模组设置：菜单缩放、面板宽度、器官磨损、启用动物器官等 ⚠已知修改“器官面板加宽倍数”会导致窗口显示出现问题，勿动",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/53989799c1f34f74bbf3cdf71c975b52.png"
+      },
+      {
+        "uuid": "588fc6c3389944bab7ea3d348116c512",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.2-game0.51.x-20260922141621-fbea03ae/trimmed.zip",
+        "createdAt": 1790086581,
+        "size": null,
+        "modVersion": "1.1.2",
+        "tag": [
+          "生物改造",
+          "成人"
+        ],
+        "author": "信仰芙芙の博士",
+        "introduce": "①立绘与器官：在单位面板左侧添加生物学标签，进入可显示单位头像立绘及各器官分析；头像可更改发色肤色、立绘与右侧具体器官文字对应可强化弱化删除等(会更改对应功能和属性)、右侧黑面板无字部分可点击选择添加器官 ②已故收藏：在单位面板左侧添加对应标签，记录所有死亡的收藏单位，可以进行跨世界复活 ③模组设置：菜单缩放、面板宽度、器官磨损、启用动物器官等 ⚠已知修改“器官面板加宽倍数”会导致窗口显示出现问题，勿动",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/d757275f8df348ffa0f4faf86081fda7.png"
       }
     ]
   }
