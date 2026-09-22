@@ -5099,36 +5099,6 @@
     ]
   },
   {
-    "mod": "咒术回战",
-    "introduce": "咒术回战同人版",
-    "author": "功夫茶",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/5c425c4556484684bfcd4791f0c94e84.jpg",
-    "tag": [
-      "体系",
-      "同人"
-    ],
-    "index": null,
-    "updatedAt": 1790005530,
-    "versions": [
-      {
-        "uuid": "1525ed96e0b74cca9830b3e735f64895",
-        "gameversion": "0.51.x",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1-game0.51.x-20260921154530-77eb93b7/trimmed.zip",
-        "createdAt": 1790005530,
-        "size": null,
-        "modVersion": "1.1",
-        "tag": [
-          "体系",
-          "同人"
-        ],
-        "author": "功夫茶",
-        "introduce": "咒术回战同人版",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/5c425c4556484684bfcd4791f0c94e84.jpg"
-      }
-    ]
-  },
-  {
     "mod": "生物学Biology",
     "introduce": "①立绘与器官：在单位面板左侧添加生物学标签，进入可显示单位头像立绘及各器官分析；头像可更改发色肤色、立绘与右侧具体器官文字对应可强化弱化删除等(会更改对应功能和属性)、右侧黑面板无字部分可点击选择添加器官\r\n②已故收藏：在单位面板左侧添加对应标签，记录所有死亡的收藏单位，可以进行跨世界复活\r\n③模组设置：菜单缩放、面板宽度、器官磨损、启用动物器官等\r\n⚠已知修改“器官面板加宽倍数”会导致窗口显示出现问题，勿动",
     "author": "信仰芙芙の博士",
@@ -5163,6 +5133,52 @@
         "author": "信仰芙芙の博士",
         "introduce": "①立绘与器官：在单位面板左侧添加生物学标签，进入可显示单位头像立绘及各器官分析；头像可更改发色肤色、立绘与右侧具体器官文字对应可强化弱化删除等(会更改对应功能和属性)、右侧黑面板无字部分可点击选择添加器官 ②已故收藏：在单位面板左侧添加对应标签，记录所有死亡的收藏单位，可以进行跨世界复活 ③模组设置：菜单缩放、面板宽度、器官磨损、启用动物器官等 ⚠已知修改“器官面板加宽倍数”会导致窗口显示出现问题，勿动",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/53989799c1f34f74bbf3cdf71c975b52.png"
+      }
+    ]
+  },
+  {
+    "mod": "咒术回战",
+    "introduce": "咒术回战同人版",
+    "author": "功夫茶",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/5c425c4556484684bfcd4791f0c94e84.jpg",
+    "tag": [
+      "体系",
+      "同人"
+    ],
+    "index": null,
+    "updatedAt": 1790080089,
+    "versions": [
+      {
+        "uuid": "1525ed96e0b74cca9830b3e735f64895",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1-game0.51.x-20260921154530-77eb93b7/trimmed.zip",
+        "createdAt": 1790005530,
+        "size": null,
+        "modVersion": "1.1",
+        "tag": [
+          "体系",
+          "同人"
+        ],
+        "author": "功夫茶",
+        "introduce": "咒术回战同人版",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/5c425c4556484684bfcd4791f0c94e84.jpg"
+      },
+      {
+        "uuid": "60322a873edb4052a5aaa268e6091563",
+        "gameversion": "0.51.x",
+        "variant": "咒术回战（汉化）",
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1-game0.51.x-20260922122809-350cad4f/trimmed.zip",
+        "createdAt": 1790080089,
+        "size": null,
+        "modVersion": "1.1",
+        "tag": [
+          "体系",
+          "同人"
+        ],
+        "author": "功夫茶",
+        "introduce": "咒术回战同人版",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/97c322d9063340298afc6b621c09e2e8.jpg"
       }
     ]
   }
