@@ -1,96 +1,96 @@
 [
   {
-    "mod": "\u6A21\u7EC4\u88C5\u8F7D\u5668NeoModLoader_1.0.8.2(\u9002\u7528\u4E8E0.22. )",
+    "mod": "模组装载器NeoModLoader_1.0.8.2(适用于0.22. )",
     "introduce": "",
     "author": "-",
     "preview": null,
     "tag": [],
     "index": null,
-    "updatedAt": null,
+    "updatedAt": 1765098315,
     "versions": [
       {
         "uuid": "7db57acbf59441158947da1b63363e08",
         "gameversion": "0.22.0",
-        "modVersion": "1.0.8.2",
-        "size": null,
         "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.0.8.2-game0.22.6-20251204203826-ec83bfd5/NeoModLoader_1.0.8.2.0.22.zip"
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.0.8.2-game0.22.6-20251204203826-ec83bfd5/NeoModLoader_1.0.8.2.0.22.zip",
+        "size": null,
+        "modVersion": "1.0.8.2"
       }
     ]
   },
   {
-    "mod": "\u6A21\u7EC4\u88C5\u8F7D\u5668NeoModLoader_1.1.0.0beta3(\u9002\u7528\u4E8E0.50beta)",
+    "mod": "模组装载器NeoModLoader_1.1.0.0beta3(适用于0.50beta)",
     "introduce": "",
     "author": "-",
     "preview": null,
     "tag": [],
     "index": null,
-    "updatedAt": null,
+    "updatedAt": 1765098315,
     "versions": [
       {
         "uuid": "ed570094624e403cb05f26161b85cdc6",
         "gameversion": "0.50beta",
-        "modVersion": "1.1.0.0beta3",
-        "size": null,
         "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.1.0.0beta3-game0.50beta-20251204203845-99950b15/NeoModLoader_1.1.0.0beta3.0.50beta.zip"
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.1.0.0beta3-game0.50beta-20251204203845-99950b15/NeoModLoader_1.1.0.0beta3.0.50beta.zip",
+        "size": null,
+        "modVersion": "1.1.0.0beta3"
       }
     ]
   },
   {
-    "mod": "\u6A21\u7EC4\u88C5\u8F7D\u5668NeoModLoader_1.1.2.0(\u9002\u7528\u4E8E0.50.5 )",
+    "mod": "模组装载器NeoModLoader_1.1.2.0(适用于0.50.5 )",
     "introduce": "",
     "author": "-",
     "preview": null,
     "tag": [],
     "index": null,
-    "updatedAt": null,
+    "updatedAt": 1765098315,
     "versions": [
       {
         "uuid": "f579e3f300d74352be77f99c37174a84",
         "gameversion": "0.50.5",
-        "modVersion": "1.1.2.0",
-        "size": null,
         "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.1.2.0-game0.50.5-20251204203854-4707f0e3/NeoModLoader_1.1.2.0.0.50.5.zip"
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.1.2.0-game0.50.5-20251204203854-4707f0e3/NeoModLoader_1.1.2.0.0.50.5.zip",
+        "size": null,
+        "modVersion": "1.1.2.0"
       }
     ]
   },
   {
-    "mod": "\u6A21\u7EC4\u88C5\u8F7D\u5668NeoModLoader_1.1.3.0(\u9002\u7528\u4E8E0.50.6 )",
+    "mod": "模组装载器NeoModLoader_1.1.3.0(适用于0.50.6 )",
     "introduce": "",
     "author": "-",
     "preview": null,
     "tag": [],
     "index": null,
-    "updatedAt": null,
+    "updatedAt": 1765098315,
     "versions": [
       {
         "uuid": "6b6019977c30447c8112b1a7c272a9ff",
         "gameversion": "0.50.6",
-        "modVersion": "1.1.3.0",
-        "size": null,
         "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.1.3.0-game0.50.6-20251204203904-19d3420c/NeoModLoader_1.1.3.0.0.50.6.zip"
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.1.3.0-game0.50.6-20251204203904-19d3420c/NeoModLoader_1.1.3.0.0.50.6.zip",
+        "size": null,
+        "modVersion": "1.1.3.0"
       }
     ]
   },
   {
-    "mod": "\u6A21\u7EC4\u88C5\u8F7D\u5668NeoModLoader_1.2.0.1(\u9002\u7528\u4E8E0.51.\u002B)",
+    "mod": "模组装载器NeoModLoader_1.2.0.1(适用于0.51.+)",
     "introduce": "",
     "author": "-",
     "preview": null,
     "tag": [],
     "index": null,
-    "updatedAt": null,
+    "updatedAt": 1765098315,
     "versions": [
       {
         "uuid": "139f7db73a794509a9551eb3b1ee1bc7",
         "gameversion": "0.51.x",
-        "modVersion": "1.2.0.1",
-        "size": null,
         "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.2.0.1-game0.51.x-20251204203913-ce9ba98f/NeoModLoader_1.2.0.1.0.51.%2B.zip"
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.2.0.1-game0.51.x-20251204203913-ce9ba98f/NeoModLoader_1.2.0.1.0.51.%2B.zip",
+        "size": null,
+        "modVersion": "1.2.0.1"
       }
     ]
   },
@@ -101,34 +101,34 @@
     "preview": null,
     "tag": [],
     "index": null,
-    "updatedAt": null,
+    "updatedAt": 1765546082,
     "versions": [
       {
         "uuid": "e594afcfc6974b0b958710417112c9cc",
         "gameversion": "0.14.3",
-        "modVersion": "ncms1.7.0",
-        "size": null,
         "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/ncms1.7.0-vncms1.7.0-game0.14.3-20251212132752/ncms1.7.0.zip"
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/ncms1.7.0-vncms1.7.0-game0.14.3-20251212132752/ncms1.7.0.zip",
+        "size": null,
+        "modVersion": "ncms1.7.0"
       }
     ]
   },
   {
-    "mod": "\u6A21\u7EC4\u88C5\u8F7D\u5668NeoModLoader_1.0.11.0(\u9002\u7528\u4E8E0.22.7\uFF0B)",
+    "mod": "模组装载器NeoModLoader_1.0.11.0(适用于0.22.7＋)",
     "introduce": "",
     "author": "-",
     "preview": null,
     "tag": [],
     "index": null,
-    "updatedAt": "2026-03-06T14:14:07.1654710Z",
+    "updatedAt": 1772806447,
     "versions": [
       {
         "uuid": "bc3b67916531475ba2c4bfea0c454fb9",
         "gameversion": "0.22.7",
-        "modVersion": "1.0.11.0",
-        "size": null,
         "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.0.11.0-game0.22.7-20260306141356-327be9f8/NeoModLoader_1.0.11.0.0.22.7.zip"
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.0.11.0-game0.22.7-20260306141356-327be9f8/NeoModLoader_1.0.11.0.0.22.7.zip",
+        "size": null,
+        "modVersion": "1.0.11.0"
       }
     ]
   }
