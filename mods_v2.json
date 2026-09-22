@@ -5215,5 +5215,35 @@
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/d757275f8df348ffa0f4faf86081fda7.png"
       }
     ]
+  },
+  {
+    "mod": "我的模拟长生路",
+    "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！",
+    "author": "溪上翁, kinght",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/8bc67a9d5ecb4c1096922524f4784fca.png",
+    "tag": [
+      "修炼体系",
+      "原著衍生"
+    ],
+    "index": null,
+    "updatedAt": 1790088205,
+    "versions": [
+      {
+        "uuid": "5edfac4833494bc69fa0e06d59d447ef",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.9.1-game0.51.x-20260922144325-5b2d351a/trimmed.zip",
+        "createdAt": 1790088205,
+        "size": null,
+        "modVersion": "0.1.9.1",
+        "tag": [
+          "修炼体系",
+          "原著衍生"
+        ],
+        "author": "溪上翁, kinght",
+        "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/8bc67a9d5ecb4c1096922524f4784fca.png"
+      }
+    ]
   }
 ]
