@@ -5061,44 +5061,6 @@
     ]
   },
   {
-    "mod": "凡人修仙传",
-    "introduce": "练气（13层）到真仙已全部开发完成，并制作有宗门/灵脉/修仙坊市/灵石/剑修等玩法",
-    "author": "二两墨",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/81687b2eb36f4cea95e16e3421d2680a.jpg",
-    "tag": [],
-    "index": null,
-    "updatedAt": 1790005168,
-    "versions": [
-      {
-        "uuid": "95ea3344f32b4e0bb3444b668fa9a1de",
-        "gameversion": "0.51.x",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.33.0-game0.51.x-20260920200256-c45f9ae8/trimmed.zip",
-        "createdAt": 1789934576,
-        "size": null,
-        "modVersion": "0.33.0",
-        "author": "二两墨",
-        "introduce": "练气（13层）到真仙已全部开发完成，并制作有宗门/灵脉/修仙坊市/灵石/剑修等玩法",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/81687b2eb36f4cea95e16e3421d2680a.jpg"
-      },
-      {
-        "uuid": "787f97e9a1674c3a86fdbfc59d9c2fc8",
-        "gameversion": "0.51.x",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.41.3-game0.51.x-20260921153928-2426a72d/trimmed.zip",
-        "createdAt": 1790005168,
-        "size": null,
-        "modVersion": "0.41.3",
-        "tag": [
-          "修仙"
-        ],
-        "author": "二两墨",
-        "introduce": "从练气到真仙，仙路已备，新增炼虚与合体境界能力，望道友仙运昌隆",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/8879005c3c694fe0882cd73472fb3b57.jpg"
-      }
-    ]
-  },
-  {
     "mod": "生物学Biology",
     "introduce": "①立绘与器官：在单位面板左侧添加生物学标签，进入可显示单位头像立绘及各器官分析；头像可更改发色肤色、立绘与右侧具体器官文字对应可强化弱化删除等(会更改对应功能和属性)、右侧黑面板无字部分可点击选择添加器官\r\n②已故收藏：在单位面板左侧添加对应标签，记录所有死亡的收藏单位，可以进行跨世界复活\r\n③模组设置：菜单缩放、面板宽度、器官磨损、启用动物器官等\r\n⚠已知修改“器官面板加宽倍数”会导致窗口显示出现问题，勿动",
     "author": "信仰芙芙の博士",
@@ -5179,6 +5141,59 @@
         "author": "功夫茶",
         "introduce": "咒术回战同人版",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/97c322d9063340298afc6b621c09e2e8.jpg"
+      }
+    ]
+  },
+  {
+    "mod": "凡人修仙传",
+    "introduce": "练气（13层）到真仙已全部开发完成，并制作有宗门/灵脉/修仙坊市/灵石/剑修等玩法",
+    "author": "二两墨",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/81687b2eb36f4cea95e16e3421d2680a.jpg",
+    "tag": [],
+    "index": null,
+    "updatedAt": 1790081326,
+    "versions": [
+      {
+        "uuid": "95ea3344f32b4e0bb3444b668fa9a1de",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.33.0-game0.51.x-20260920200256-c45f9ae8/trimmed.zip",
+        "createdAt": 1789934576,
+        "size": null,
+        "modVersion": "0.33.0",
+        "author": "二两墨",
+        "introduce": "练气（13层）到真仙已全部开发完成，并制作有宗门/灵脉/修仙坊市/灵石/剑修等玩法",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/81687b2eb36f4cea95e16e3421d2680a.jpg"
+      },
+      {
+        "uuid": "787f97e9a1674c3a86fdbfc59d9c2fc8",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.41.3-game0.51.x-20260921153928-2426a72d/trimmed.zip",
+        "createdAt": 1790005168,
+        "size": null,
+        "modVersion": "0.41.3",
+        "tag": [
+          "修仙"
+        ],
+        "author": "二两墨",
+        "introduce": "从练气到真仙，仙路已备，新增炼虚与合体境界能力，望道友仙运昌隆",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/8879005c3c694fe0882cd73472fb3b57.jpg"
+      },
+      {
+        "uuid": "8a99f30d2d894a46bada1fe7a5144761",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.53.1-game0.51.x-20260922124846-f83d84d6/trimmed.zip",
+        "createdAt": 1790081326,
+        "size": null,
+        "modVersion": "0.53.1",
+        "tag": [
+          "修仙"
+        ],
+        "author": "二两墨",
+        "introduce": "从练气到真仙，仙路已备，新增炼虚与合体境界能力，望道友仙运昌隆",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/706d69e10e864e8e9c4b228a01681976.jpg"
       }
     ]
   }
