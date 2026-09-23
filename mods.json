@@ -4862,5 +4862,35 @@
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/8bc67a9d5ecb4c1096922524f4784fca.png"
       }
     ]
+  },
+  {
+    "mod": "天人武道",
+    "introduce": "以原版的基因染色体构建的适合世盒小人的神藏基因武道，后天神藏，先天合道，每个大境界都有具体的修炼内容，修炼有过程感，不再是单纯的攒经验，目前境界内容开放到大宗师",
+    "author": "摸鱼",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260923/c5ea6bc87c9f41fe8f86ed6f9ee517ac.jpg",
+    "tag": [
+      "武道",
+      "武德充沛"
+    ],
+    "index": null,
+    "updatedAt": 1790124352,
+    "versions": [
+      {
+        "uuid": "4a67626c900847b68f38c9aaad114516",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.7.1-game0.51.x-20260923004552-b3eca3bd/trimmed.zip",
+        "createdAt": 1790124352,
+        "size": null,
+        "modVersion": "1.0.7.1",
+        "tag": [
+          "武道",
+          "武德充沛"
+        ],
+        "author": "摸鱼",
+        "introduce": "以原版的基因染色体构建的适合世盒小人的神藏基因武道，后天神藏，先天合道，每个大境界都有具体的修炼内容，修炼有过程感，不再是单纯的攒经验，目前境界内容开放到大宗师",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260923/c5ea6bc87c9f41fe8f86ed6f9ee517ac.jpg"
+      }
+    ]
   }
 ]
