@@ -4693,7 +4693,7 @@
       "体系"
     ],
     "index": null,
-    "updatedAt": 1790004653,
+    "updatedAt": 1790123761,
     "versions": [
       {
         "uuid": "aff4939f891b47c48c60b444b8407f36",
@@ -4702,6 +4702,22 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.1-game0.51.x-20260921153053-8bbad5a5/trimmed.zip",
         "size": null,
         "modVersion": "1.3.1"
+      },
+      {
+        "uuid": "4b7c9ccefeca49ddabc9b139a53bc8d7",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.2-game0.51.x-20260923003601-1c77dbac/trimmed.zip",
+        "createdAt": 1790123761,
+        "size": null,
+        "modVersion": "1.3.2",
+        "tag": [
+          "大型",
+          "体系"
+        ],
+        "author": "枫绫",
+        "introduce": "1.3.2版本有三个彩蛋，每个彩蛋第一位找到的可以找枫绫领取10¥",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260923/e328bea418594c0b9fdba1901f7f8c26.png"
       }
     ]
   },
