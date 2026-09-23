@@ -5031,36 +5031,6 @@
     ]
   },
   {
-    "mod": "斩神录",
-    "introduce": "若黯夜终临，吾必立于万万人前，横刀向渊，血染天穹！",
-    "author": "枫绫",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/a511035281ba4c13bf60fd7e797d47a5.png",
-    "tag": [
-      "大型",
-      "体系"
-    ],
-    "index": null,
-    "updatedAt": 1790004653,
-    "versions": [
-      {
-        "uuid": "aff4939f891b47c48c60b444b8407f36",
-        "gameversion": "0.51.x",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.1-game0.51.x-20260921153053-8bbad5a5/trimmed.zip",
-        "createdAt": 1790004653,
-        "size": null,
-        "modVersion": "1.3.1",
-        "tag": [
-          "大型",
-          "体系"
-        ],
-        "author": "枫绫",
-        "introduce": "若黯夜终临，吾必立于万万人前，横刀向渊，血染天穹！",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/a511035281ba4c13bf60fd7e797d47a5.png"
-      }
-    ]
-  },
-  {
     "mod": "咒术回战",
     "introduce": "咒术回战同人版",
     "author": "功夫茶",
@@ -5243,6 +5213,52 @@
         "author": "溪上翁, kinght",
         "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/8bc67a9d5ecb4c1096922524f4784fca.png"
+      }
+    ]
+  },
+  {
+    "mod": "斩神录",
+    "introduce": "若黯夜终临，吾必立于万万人前，横刀向渊，血染天穹！",
+    "author": "枫绫",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/a511035281ba4c13bf60fd7e797d47a5.png",
+    "tag": [
+      "大型",
+      "体系"
+    ],
+    "index": null,
+    "updatedAt": 1790123761,
+    "versions": [
+      {
+        "uuid": "aff4939f891b47c48c60b444b8407f36",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.1-game0.51.x-20260921153053-8bbad5a5/trimmed.zip",
+        "createdAt": 1790004653,
+        "size": null,
+        "modVersion": "1.3.1",
+        "tag": [
+          "大型",
+          "体系"
+        ],
+        "author": "枫绫",
+        "introduce": "若黯夜终临，吾必立于万万人前，横刀向渊，血染天穹！",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260921/a511035281ba4c13bf60fd7e797d47a5.png"
+      },
+      {
+        "uuid": "4b7c9ccefeca49ddabc9b139a53bc8d7",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.2-game0.51.x-20260923003601-1c77dbac/trimmed.zip",
+        "createdAt": 1790123761,
+        "size": null,
+        "modVersion": "1.3.2",
+        "tag": [
+          "大型",
+          "体系"
+        ],
+        "author": "枫绫",
+        "introduce": "1.3.2版本有三个彩蛋，每个彩蛋第一位找到的可以找枫绫领取10¥",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260923/e328bea418594c0b9fdba1901f7f8c26.png"
       }
     ]
   }
