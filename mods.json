@@ -4709,7 +4709,7 @@
       "体系"
     ],
     "index": null,
-    "updatedAt": 1790123761,
+    "updatedAt": 1790274709,
     "versions": [
       {
         "uuid": "aff4939f891b47c48c60b444b8407f36",
@@ -4734,6 +4734,22 @@
         "author": "枫绫",
         "introduce": "1.3.2版本有三个彩蛋，每个彩蛋第一位找到的可以找枫绫领取10¥",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260923/e328bea418594c0b9fdba1901f7f8c26.png"
+      },
+      {
+        "uuid": "786e344bdde2438ca1e532c39379d663",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.3-game0.51.x-20260924183149-800340d8/trimmed.zip",
+        "createdAt": 1790274709,
+        "size": null,
+        "modVersion": "1.3.3",
+        "tag": [
+          "大型",
+          "体系"
+        ],
+        "author": "枫绫",
+        "introduce": "若黯夜终临，吾必立于万万人前，横刀向渊，血染天穹！",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260924/0e08c883dbcb4f798c00e1101108efc9.png"
       }
     ]
   },
