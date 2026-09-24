@@ -4972,5 +4972,35 @@
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260923/0e69b37321ff4bae8552a1bc5facd506.png"
       }
     ]
+  },
+  {
+    "mod": "天下名人传记",
+    "introduce": "为天下名人著书立传",
+    "author": "愉戏",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260924/fe03614cdfcb4bcaa03792b6ff85177b.png",
+    "tag": [
+      "历史",
+      "辅助mod"
+    ],
+    "index": null,
+    "updatedAt": 1790274730,
+    "versions": [
+      {
+        "uuid": "e4cdd200a5c8411e8f880308dc82013b",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.87.48-game0.51.x-20260924183210-32549f8e/trimmed.zip",
+        "createdAt": 1790274730,
+        "size": null,
+        "modVersion": "1.87.48",
+        "tag": [
+          "历史",
+          "辅助mod"
+        ],
+        "author": "愉戏",
+        "introduce": "为天下名人著书立传",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260924/fe03614cdfcb4bcaa03792b6ff85177b.png"
+      }
+    ]
   }
 ]
