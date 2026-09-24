@@ -4854,28 +4854,6 @@
     ]
   },
   {
-    "mod": "诸天神座",
-    "introduce": "自定义世界观玩法扩展mod，可以自行创建和编辑属性、词条、道途、境界、天劫、种族配置与起源效果，多种系统自由组合，构建真正属于自己的诸天世界。",
-    "author": "星望泡泡",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260919/0654736444d94985b9be0593e4c67996.png",
-    "tag": [
-      "自定义，玩法扩展，大型"
-    ],
-    "index": null,
-    "updatedAt": 1789832278,
-    "versions": [
-      {
-        "uuid": "7b2c89636a5c415d85e987da68ace5ce",
-        "gameversion": "0.51.x",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.0-game0.51.x-20260919153758-32c91fb1/trimmed.zip",
-        "createdAt": 1789832278,
-        "size": null,
-        "modVersion": "0.1.0"
-      }
-    ]
-  },
-  {
     "mod": "鬼谷修仙Guigu",
     "introduce": "①鬼谷修炼：\r\n仙道-仙启纪元下世间若无仙道功法，悟性≥40的单位有50%概率成功创建功法并开道。练气、筑基(御剑飞行、灵力护体)、结晶(灵技)、金丹(天地之力)、具灵(绝技)、元婴(尊号)、化神(需真意，获神通)、悟道(领域)、羽化(仙羽)、登仙(仙力、中期法则)、超脱(灵魂九阶)。除超脱外均分前中后期\r\n常规压制-低打高有百分比伤害减免，40%(同境越1)、80%(同境越2)、99%(越大境)、99.99%(越2大境)\r\n武道-世间若无武道功法，悟性≥20的单位有50%概率成功创建功法并开道。后天、先天、宗师(专精、护体罡气)、大宗师(绝技)、天人(天地之力)、陆地神仙(需意境)、极境(需极境功法或武道通神气运)\r\n意境-无、雏形、完整、真意。原版等级提升时均可能升级,领悟方向由功法类型决定；突破悟道后根据已有真意获领域(多真意时随机一条洐化)\r\n②仙武宗门(不触发帝道)：建国改立宗、境界提升立宗，相关概率需在模组设置中调整。宗主→太上长老(2席)→首席长老→序位长老(九席)→驻地长老(城主)→普通长老(9席)→亲传弟子→内门弟子(24席)→外门弟子。职务按境界/气运/天赋/年龄择优分配，每17年档期整轮重排，3年补缺；仙道每35年/武道每23年 从友好阵营招收12~36名外门弟子\r\n藏经阁-每19年收录宗门成员功法，同品级同品质每档最多5部。成为亲传或内门可立刻借阅功法；当成员推演失败时大概率可以成功借阅功法辅助破境\r\n师徒传功：宗主(每47年)/太上长老(每47年)/长老(每7年)向弟子传功",
     "author": "摸鱼, 子初未午",
@@ -5337,6 +5315,44 @@
         "author": "伊度氢",
         "introduce": "《诡秘之主—宿命之环》是一款以原著世界观为核心的WorldBox大型模组。模组包含22条成神途径、魔药与晋升仪式、非凡特性守恒、尊名与锚定、教会组织、封印物、神国、真神及旧日体系，并让非凡力量深入国家战争与世界演化。见证普通人在疯狂、污染和争夺中不断晋升，最终高举神座、角逐源质，成为旧日。",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260923/0e69b37321ff4bae8552a1bc5facd506.png"
+      }
+    ]
+  },
+  {
+    "mod": "诸天神座",
+    "introduce": "自定义世界观玩法扩展mod，可以自行创建和编辑属性、词条、道途、境界、天劫、种族配置与起源效果，多种系统自由组合，构建真正属于自己的诸天世界。",
+    "author": "星望泡泡",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260919/0654736444d94985b9be0593e4c67996.png",
+    "tag": [
+      "自定义，玩法扩展，大型"
+    ],
+    "index": null,
+    "updatedAt": 1790228962,
+    "versions": [
+      {
+        "uuid": "7b2c89636a5c415d85e987da68ace5ce",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.0-game0.51.x-20260919153758-32c91fb1/trimmed.zip",
+        "createdAt": 1789832278,
+        "size": null,
+        "modVersion": "0.1.0"
+      },
+      {
+        "uuid": "906821cc1235480c93b808b87ffde3c9",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.2.1-game0.51.x-20260924054922-89efc16e/trimmed.zip",
+        "createdAt": 1790228962,
+        "size": null,
+        "modVersion": "0.2.1",
+        "tag": [
+          "自定义",
+          "玩法扩展",
+          "大型"
+        ],
+        "author": "星望泡泡",
+        "introduce": "自定义世界观玩法扩展mod，可以自行创建和编辑属性、词条、道途、境界、天劫、种族配置，时间线操控与起源效果，多种系统自由组合，构建真正属于自己的诸天世界。"
       }
     ]
   }
