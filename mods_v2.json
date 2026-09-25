@@ -5435,5 +5435,33 @@
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260925/efb74981fce54964b5a4b776df1029c2.png"
       }
     ]
+  },
+  {
+    "mod": "魅魔模组0.13",
+    "introduce": "给小人的x行为增加了更多内容，加入了魅魔特质，可以“修炼”变强。",
+    "author": "扎克",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260925/1161391568ba4e4491515fd8711637ae.png",
+    "tag": [
+      "NSFW"
+    ],
+    "index": null,
+    "updatedAt": 1790345879,
+    "versions": [
+      {
+        "uuid": "c2282bd1c0de4c5893982e70271f3f61",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.13-game0.51.x-20260925141759-d5f3f37c/trimmed.zip",
+        "createdAt": 1790345879,
+        "size": null,
+        "modVersion": "0.13",
+        "tag": [
+          "NSFW"
+        ],
+        "author": "扎克",
+        "introduce": "给小人的x行为增加了更多内容，加入了魅魔特质，可以“修炼”变强。",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260925/1161391568ba4e4491515fd8711637ae.png"
+      }
+    ]
   }
 ]
