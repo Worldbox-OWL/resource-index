@@ -5111,36 +5111,6 @@
     ]
   },
   {
-    "mod": "我的模拟长生路",
-    "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！",
-    "author": "溪上翁, kinght",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/8bc67a9d5ecb4c1096922524f4784fca.png",
-    "tag": [
-      "修炼体系",
-      "原著衍生"
-    ],
-    "index": null,
-    "updatedAt": 1790088205,
-    "versions": [
-      {
-        "uuid": "5edfac4833494bc69fa0e06d59d447ef",
-        "gameversion": "0.51.x",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.9.1-game0.51.x-20260922144325-5b2d351a/trimmed.zip",
-        "createdAt": 1790088205,
-        "size": null,
-        "modVersion": "0.1.9.1",
-        "tag": [
-          "修炼体系",
-          "原著衍生"
-        ],
-        "author": "溪上翁, kinght",
-        "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/8bc67a9d5ecb4c1096922524f4784fca.png"
-      }
-    ]
-  },
-  {
     "mod": "天人武道",
     "introduce": "以原版的基因染色体构建的适合世盒小人的神藏基因武道，后天神藏，先天合道，每个大境界都有具体的修炼内容，修炼有过程感，不再是单纯的攒经验，目前境界内容开放到大宗师",
     "author": "摸鱼",
@@ -5416,6 +5386,53 @@
         "author": "伊度氢",
         "introduce": "《诡秘之主—宿命之环》是一款以原著世界观为核心的WorldBox大型模组。模组包含22条成神途径、魔药与晋升仪式、非凡特性守恒、尊名与锚定、教会组织、封印物、神国、真神及旧日体系，并让非凡力量深入国家战争与世界演化。见证普通人在疯狂、污染和争夺中不断晋升，最终高举神座、角逐源质，成为旧日。",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260925/a06b7354b8be4849a69a7579e0472f89.png"
+      }
+    ]
+  },
+  {
+    "mod": "我的模拟长生路",
+    "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！",
+    "author": "溪上翁, kinght",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/8bc67a9d5ecb4c1096922524f4784fca.png",
+    "tag": [
+      "修炼体系",
+      "原著衍生"
+    ],
+    "index": null,
+    "updatedAt": 1790329734,
+    "versions": [
+      {
+        "uuid": "5edfac4833494bc69fa0e06d59d447ef",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.9.1-game0.51.x-20260922144325-5b2d351a/trimmed.zip",
+        "createdAt": 1790088205,
+        "size": null,
+        "modVersion": "0.1.9.1",
+        "tag": [
+          "修炼体系",
+          "原著衍生"
+        ],
+        "author": "溪上翁, kinght",
+        "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/8bc67a9d5ecb4c1096922524f4784fca.png"
+      },
+      {
+        "uuid": "46c8536f5c16408387cffd5ded5a1395",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.2.0-game0.51.x-20260925094854-69bc1e87/trimmed.zip",
+        "createdAt": 1790329734,
+        "size": null,
+        "modVersion": "0.2.0",
+        "tag": [
+          "原著还原",
+          "修炼体系",
+          "世界演化"
+        ],
+        "author": "溪上翁, kinght",
+        "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260925/efb74981fce54964b5a4b776df1029c2.png"
       }
     ]
   }
