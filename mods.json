@@ -4709,7 +4709,7 @@
       "体系"
     ],
     "index": null,
-    "updatedAt": 1790274709,
+    "updatedAt": 1790385587,
     "versions": [
       {
         "uuid": "aff4939f891b47c48c60b444b8407f36",
@@ -4750,6 +4750,22 @@
         "author": "枫绫",
         "introduce": "若黯夜终临，吾必立于万万人前，横刀向渊，血染天穹！",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260924/0e08c883dbcb4f798c00e1101108efc9.png"
+      },
+      {
+        "uuid": "c1ea924a3e394affbcd8dff8744afc39",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.4.1-game0.51.x-20260926011947-7731b46f/trimmed.zip",
+        "createdAt": 1790385587,
+        "size": null,
+        "modVersion": "1.4.1",
+        "tag": [
+          "大型",
+          "体系"
+        ],
+        "author": "枫绫",
+        "introduce": "若黯夜终临，吾必立于万万人前，横刀向渊，血染天穹！",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260926/b20c5bd46e614266a828f3e0f78eee3f.png"
       }
     ]
   },
