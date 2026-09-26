@@ -5125,5 +5125,27 @@
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260926/601db0d592dc4c6aabfe05ebc4d6eabd.jpg"
       }
     ]
+  },
+  {
+    "mod": "生育限制",
+    "introduce": "限制每个单位一生的生育次数，以防出现修仙类mod的长寿种马出现",
+    "author": "愉戏",
+    "preview": null,
+    "tag": [],
+    "index": null,
+    "updatedAt": 1790429581,
+    "versions": [
+      {
+        "uuid": "b18ac87eaba049bf88ee0251bf82e437",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.0-game0.51.x-20260926133301-49576dbf/trimmed.zip",
+        "createdAt": 1790429581,
+        "size": null,
+        "modVersion": "1.2.0",
+        "author": "愉戏",
+        "introduce": "限制每个单位一生的生育次数，以防出现修仙类mod的长寿种马出现"
+      }
+    ]
   }
 ]
