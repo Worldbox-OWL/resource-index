@@ -5062,7 +5062,7 @@
       "NSFW"
     ],
     "index": null,
-    "updatedAt": 1790345879,
+    "updatedAt": 1790421230,
     "versions": [
       {
         "uuid": "c2282bd1c0de4c5893982e70271f3f61",
@@ -5078,6 +5078,21 @@
         "author": "扎克",
         "introduce": "给小人的x行为增加了更多内容，加入了魅魔特质，可以“修炼”变强。",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260925/1161391568ba4e4491515fd8711637ae.png"
+      },
+      {
+        "uuid": "aec1a64b231344c390b3cf9914c5007e",
+        "gameversion": "0.51.2",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.14-game0.51.2-20260926111350-83a74f78/trimmed.zip",
+        "createdAt": 1790421230,
+        "size": null,
+        "modVersion": "0.14",
+        "tag": [
+          "NSFW"
+        ],
+        "author": "扎克",
+        "introduce": "加入了魅魔，和一些小功能~",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260926/3251061b12194c1a9fe1e179e63b8d17.png"
       }
     ]
   },
