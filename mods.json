@@ -5080,5 +5080,35 @@
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260925/1161391568ba4e4491515fd8711637ae.png"
       }
     ]
+  },
+  {
+    "mod": "斗破苍穹（人生）",
+    "introduce": "斗气修炼，异火争锋，群雄逐鹿",
+    "author": "愉戏",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260926/601db0d592dc4c6aabfe05ebc4d6eabd.jpg",
+    "tag": [
+      "大型",
+      "修炼"
+    ],
+    "index": null,
+    "updatedAt": 1790393005,
+    "versions": [
+      {
+        "uuid": "271d052cd01d49e8b4091b3b488bcb01",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.55.4-game0.51.x-20260926032325-6da7ef19/trimmed.zip",
+        "createdAt": 1790393005,
+        "size": null,
+        "modVersion": "0.55.4",
+        "tag": [
+          "大型",
+          "修炼"
+        ],
+        "author": "愉戏",
+        "introduce": "斗气修炼，异火争锋，群雄逐鹿",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260926/601db0d592dc4c6aabfe05ebc4d6eabd.jpg"
+      }
+    ]
   }
 ]
