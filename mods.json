@@ -4853,7 +4853,7 @@
       "功能扩展"
     ],
     "index": null,
-    "updatedAt": 1790158946,
+    "updatedAt": 1790515493,
     "versions": [
       {
         "uuid": "4ea63a22e64d4b9f99ae7e549f198ae0",
@@ -4894,6 +4894,23 @@
         "author": "信仰芙芙の博士",
         "introduce": "①立绘与器官：在单位面板左侧添加生物学标签，进入可显示单位头像立绘及各器官分析；头像可更改发色肤色、立绘与右侧具体器官文字对应可强化弱化删除等(会更改对应功能和属性)、右侧黑面板无字部分可点击选择添加器官 ②已故收藏：在单位面板左侧添加对应标签，记录所有死亡的收藏单位，可以进行跨世界复活 ③模组设置：菜单缩放、面板宽度、器官磨损、启用动物器官等 ⚠已知修改“器官面板加宽倍数”会导致窗口显示出现问题，勿动",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260923/1d2a0597dac84974805ce7c99f3313ee.png"
+      },
+      {
+        "uuid": "ddeacac14f4a48fa90b547b8785954d6",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.4-game0.51.x-20260927132453-ab2358ae/trimmed.zip",
+        "createdAt": 1790515493,
+        "size": null,
+        "modVersion": "1.1.4",
+        "tag": [
+          "NSFW",
+          "AI",
+          "器官改造"
+        ],
+        "author": "信仰芙芙の博士",
+        "introduce": "①立绘与器官：在单位面板左侧添加生物学标签，进入可显示单位头像立绘及各器官分析；头像可更改发色肤色、立绘与右侧具体器官文字对应可强化弱化删除等(会更改对应功能和属性)、右侧黑面板无字部分可点击选择添加器官 ②已故收藏：在单位面板左侧添加对应标签，记录所有死亡的收藏单位，可以进行跨世界复活 ③模组设置：菜单缩放、面板宽度、器官磨损、启用动物器官等 ⚠已知修改“器官面板加宽倍数”会导致窗口显示出现问题，勿动",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260927/179c98a4ef8644e48ddc69533580ca79.png"
       }
     ]
   },
