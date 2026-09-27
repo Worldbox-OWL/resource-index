@@ -4640,7 +4640,7 @@
       "工具"
     ],
     "index": null,
-    "updatedAt": 1789897473,
+    "updatedAt": 1790520918,
     "versions": [
       {
         "uuid": "10cae095f6344ee6a1ac5722db05a517",
@@ -4649,6 +4649,22 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.73-game0.51.x-20260920094433-c1b3fd73/trimmed.zip",
         "size": null,
         "modVersion": "1.73"
+      },
+      {
+        "uuid": "f083af35548f4579aaf877a7891437c2",
+        "gameversion": "0.51.2",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.8-game0.51.2-20260927145518-e38ee24a/trimmed.zip",
+        "createdAt": 1790520918,
+        "size": null,
+        "modVersion": "1.8",
+        "tag": [
+          "体系",
+          "工具"
+        ],
+        "author": "扎克",
+        "introduce": "修改器和轮回者和一些有意思的小玩意儿，比如无限手套轮回眼死亡笔记等，详情请看链接：https://zak-netizen-tech.github.io/zhu-shen-kong-jian/",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260927/832cecc86d844977b3141a50b2265c9a.jpg"
       }
     ]
   },
