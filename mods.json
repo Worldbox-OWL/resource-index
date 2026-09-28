@@ -4725,7 +4725,7 @@
       "体系"
     ],
     "index": null,
-    "updatedAt": 1790385587,
+    "updatedAt": 1790559161,
     "versions": [
       {
         "uuid": "aff4939f891b47c48c60b444b8407f36",
@@ -4782,6 +4782,23 @@
         "author": "枫绫",
         "introduce": "若黯夜终临，吾必立于万万人前，横刀向渊，血染天穹！",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260926/b20c5bd46e614266a828f3e0f78eee3f.png"
+      },
+      {
+        "uuid": "abd5fd831a544ec1a9235ee9d06d31b9",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.4.5-game0.51.x-20260928013241-7f20be52/trimmed.zip",
+        "createdAt": 1790559161,
+        "size": null,
+        "modVersion": "1.4.5",
+        "tag": [
+          "大型",
+          "体系",
+          "斩神"
+        ],
+        "author": "枫绫",
+        "introduce": "修复了一些已知问题，更新游玩体验",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260928/e4b07c7719c94337a26118453610a6ee.png"
       }
     ]
   },
