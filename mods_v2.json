@@ -5414,7 +5414,7 @@
     ]
   },
   {
-    "mod": "魅魔模组0.13",
+    "mod": "魅魔模组",
     "introduce": "给小人的x行为增加了更多内容，加入了魅魔特质，可以“修炼”变强。",
     "author": "扎克",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260925/1161391568ba4e4491515fd8711637ae.png",
@@ -5422,7 +5422,7 @@
       "NSFW"
     ],
     "index": null,
-    "updatedAt": 1790520500,
+    "updatedAt": 1790566906,
     "versions": [
       {
         "uuid": "c2282bd1c0de4c5893982e70271f3f61",
