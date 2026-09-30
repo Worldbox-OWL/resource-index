@@ -5661,5 +5661,28 @@
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260928/b3042d563c2f46d38bf5fe7676f6c29a.png"
       }
     ]
+  },
+  {
+    "mod": "仙逆",
+    "introduce": "修仙类型",
+    "author": "康康",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260930/2d75f947c4a6492c9fe9903330b09cc1.png",
+    "tag": [],
+    "index": null,
+    "updatedAt": 1790780281,
+    "versions": [
+      {
+        "uuid": "ba4a89d346fb4485a67bc9455eb13b35",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4.2-game0.51.x-20260930145801-dc1979be/trimmed.zip",
+        "createdAt": 1790780281,
+        "size": null,
+        "modVersion": "0.4.2",
+        "author": "康康",
+        "introduce": "修仙类型",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260930/2d75f947c4a6492c9fe9903330b09cc1.png"
+      }
+    ]
   }
 ]
