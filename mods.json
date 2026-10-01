@@ -5269,5 +5269,33 @@
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260930/2d75f947c4a6492c9fe9903330b09cc1.png"
       }
     ]
+  },
+  {
+    "mod": "斗破人生",
+    "introduce": "斗破苍穹世界盒子版本",
+    "author": "愉戏",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/2925c8145c67413ea09fc9ad0211396c.jpg",
+    "tag": [
+      "修炼"
+    ],
+    "index": null,
+    "updatedAt": 1790868823,
+    "versions": [
+      {
+        "uuid": "087cf2cc5b89447da7b28e5acbe0cd24",
+        "gameversion": "0.51.2",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.69.0-game0.51.2-20261001153343-da34c829/trimmed.zip",
+        "createdAt": 1790868823,
+        "size": null,
+        "modVersion": "0.69.0",
+        "tag": [
+          "修炼"
+        ],
+        "author": "愉戏",
+        "introduce": "斗破苍穹世界盒子版本",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/2925c8145c67413ea09fc9ad0211396c.jpg"
+      }
+    ]
   }
 ]
