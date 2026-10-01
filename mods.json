@@ -5313,5 +5313,33 @@
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/2925c8145c67413ea09fc9ad0211396c.jpg"
       }
     ]
+  },
+  {
+    "mod": "王朝风云",
+    "introduce": "春秋的衍生作，功能机制内容介绍多到说不完，还在持续更新中，还你一份没玩过的春秋",
+    "author": "Mo&jake",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/394bb09d19414d5b887a1771b36f385d.png",
+    "tag": [
+      "春秋欧陆风云"
+    ],
+    "index": null,
+    "updatedAt": 1790869560,
+    "versions": [
+      {
+        "uuid": "2fa6ba0cf74544908cbad070263706c8",
+        "gameversion": "0.22.9",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.7-game0.22.9-20261001154600-cd9c9dde/trimmed.zip",
+        "createdAt": 1790869560,
+        "size": null,
+        "modVersion": "1.1.7",
+        "tag": [
+          "春秋欧陆风云"
+        ],
+        "author": "Mo&jake",
+        "introduce": "春秋的衍生作，功能机制内容介绍多到说不完，还在持续更新中，还你一份没玩过的春秋",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/394bb09d19414d5b887a1771b36f385d.png"
+      }
+    ]
   }
 ]
