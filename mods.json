@@ -5035,7 +5035,7 @@
       "世界演化"
     ],
     "index": null,
-    "updatedAt": 1790613383,
+    "updatedAt": 1790855541,
     "versions": [
       {
         "uuid": "d7be8eb3e1f9426f83f2b02847421905",
@@ -5087,6 +5087,23 @@
         "author": "伊度氢",
         "introduce": "《诡秘之主—宿命之环》是一款以原著世界观为核心的WorldBox大型模组。模组包含22条成神途径、魔药与晋升仪式、非凡特性守恒、尊名与锚定、教会组织、封印物、神国、真神及旧日体系，并让非凡力量深入国家战争与世界演化。见证普通人在疯狂、污染和争夺中不断晋升，最终高举神座、角逐源质，成为旧日。",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260928/b3042d563c2f46d38bf5fe7676f6c29a.png"
+      },
+      {
+        "uuid": "b5b38854774c45b195ddaf8061f1af20",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v3.9-game0.51.x-20261001115221-123f2318/trimmed.zip",
+        "createdAt": 1790855541,
+        "size": null,
+        "modVersion": "3.9",
+        "tag": [
+          "原著衍生",
+          "非凡晋升",
+          "世界演化"
+        ],
+        "author": "伊度氢",
+        "introduce": "《诡秘之主—宿命之环》是一款以原著世界观为核心的WorldBox大型模组。模组包含22条成神途径、魔药与晋升仪式、非凡特性守恒、尊名与锚定、教会组织、封印物、神国、真神及旧日体系，并让非凡力量深入国家战争与世界演化。见证普通人在疯狂、污染和争夺中不断晋升，最终高举神座、角逐源质，成为旧日。",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/e82262a8e0d74d8e878d4b0144329c7e.png"
       }
     ]
   },
