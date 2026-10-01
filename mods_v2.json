@@ -5428,52 +5428,6 @@
     ]
   },
   {
-    "mod": "主神空间·万界",
-    "introduce": "你是创世神本模组提供更加自由的可能性，你可以随意修改人物及特质属性数据，也可以打开轮回者诞生功能，把这当做一个体系，点击链接即可查看详细介绍：https://zak-netizen-tech.github.io/zhu-shen-kong-jian/",
-    "author": "扎克",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/bdc6ce51cb32433da836ccd4224e84e8.jpg",
-    "tag": [
-      "体系",
-      "工具"
-    ],
-    "index": null,
-    "updatedAt": 1790520918,
-    "versions": [
-      {
-        "uuid": "10cae095f6344ee6a1ac5722db05a517",
-        "gameversion": "0.51.x",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.73-game0.51.x-20260920094433-c1b3fd73/trimmed.zip",
-        "createdAt": 1789897473,
-        "size": null,
-        "modVersion": "1.73",
-        "tag": [
-          "体系",
-          "工具"
-        ],
-        "author": "扎克",
-        "introduce": "你是创世神本模组提供更加自由的可能性，你可以随意修改人物及特质属性数据，也可以打开轮回者诞生功能，把这当做一个体系，点击链接即可查看详细介绍：https://zak-netizen-tech.github.io/zhu-shen-kong-jian/",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/bdc6ce51cb32433da836ccd4224e84e8.jpg"
-      },
-      {
-        "uuid": "f083af35548f4579aaf877a7891437c2",
-        "gameversion": "0.51.2",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.8-game0.51.2-20260927145518-e38ee24a/trimmed.zip",
-        "createdAt": 1790520918,
-        "size": null,
-        "modVersion": "1.8",
-        "tag": [
-          "体系",
-          "工具"
-        ],
-        "author": "扎克",
-        "introduce": "修改器和轮回者和一些有意思的小玩意儿，比如无限手套轮回眼死亡笔记等，详情请看链接：https://zak-netizen-tech.github.io/zhu-shen-kong-jian/",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260927/832cecc86d844977b3141a50b2265c9a.jpg"
-      }
-    ]
-  },
-  {
     "mod": "斩神录",
     "introduce": "若黯夜终临，吾必立于万万人前，横刀向渊，血染天穹！",
     "author": "枫绫",
@@ -5699,6 +5653,68 @@
         "author": "愉戏",
         "introduce": "斗破苍穹世界盒子版本",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/2925c8145c67413ea09fc9ad0211396c.jpg"
+      }
+    ]
+  },
+  {
+    "mod": "主神空间·万界",
+    "introduce": "你是创世神本模组提供更加自由的可能性，你可以随意修改人物及特质属性数据，也可以打开轮回者诞生功能，把这当做一个体系，点击链接即可查看详细介绍：https://zak-netizen-tech.github.io/zhu-shen-kong-jian/",
+    "author": "扎克",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/bdc6ce51cb32433da836ccd4224e84e8.jpg",
+    "tag": [
+      "体系",
+      "工具"
+    ],
+    "index": null,
+    "updatedAt": 1790868956,
+    "versions": [
+      {
+        "uuid": "10cae095f6344ee6a1ac5722db05a517",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.73-game0.51.x-20260920094433-c1b3fd73/trimmed.zip",
+        "createdAt": 1789897473,
+        "size": null,
+        "modVersion": "1.73",
+        "tag": [
+          "体系",
+          "工具"
+        ],
+        "author": "扎克",
+        "introduce": "你是创世神本模组提供更加自由的可能性，你可以随意修改人物及特质属性数据，也可以打开轮回者诞生功能，把这当做一个体系，点击链接即可查看详细介绍：https://zak-netizen-tech.github.io/zhu-shen-kong-jian/",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/bdc6ce51cb32433da836ccd4224e84e8.jpg"
+      },
+      {
+        "uuid": "f083af35548f4579aaf877a7891437c2",
+        "gameversion": "0.51.2",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.8-game0.51.2-20260927145518-e38ee24a/trimmed.zip",
+        "createdAt": 1790520918,
+        "size": null,
+        "modVersion": "1.8",
+        "tag": [
+          "体系",
+          "工具"
+        ],
+        "author": "扎克",
+        "introduce": "修改器和轮回者和一些有意思的小玩意儿，比如无限手套轮回眼死亡笔记等，详情请看链接：https://zak-netizen-tech.github.io/zhu-shen-kong-jian/",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260927/832cecc86d844977b3141a50b2265c9a.jpg"
+      },
+      {
+        "uuid": "452eae56914d48c4b979257eb8e0da00",
+        "gameversion": "0.51.2",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.9-game0.51.2-20261001153556-80f6e3de/trimmed.zip",
+        "createdAt": 1790868956,
+        "size": null,
+        "modVersion": "1.9",
+        "tag": [
+          "工具",
+          "体系"
+        ],
+        "author": "扎克",
+        "introduce": "浅浅的还原了一下主神空间的功能",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/6b11f2f85228470aa314ab26a8bda11a.jpg"
       }
     ]
   }
