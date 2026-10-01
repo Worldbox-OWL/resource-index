@@ -5474,34 +5474,6 @@
     ]
   },
   {
-    "mod": "王朝风云",
-    "introduce": "春秋的衍生作，功能机制内容介绍多到说不完，还在持续更新中，还你一份没玩过的春秋",
-    "author": "Mo&jake",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260928/b2f9c9c14f404a1ca12e575b70445f3c.png",
-    "tag": [
-      "春秋欧陆风云"
-    ],
-    "index": null,
-    "updatedAt": 1790566969,
-    "versions": [
-      {
-        "uuid": "886350755b314077a6f3dddc1da461d5",
-        "gameversion": "0.22.9",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.5-game0.22.9-20260927161935-ab12b4da/trimmed.zip",
-        "createdAt": 1790525975,
-        "size": null,
-        "modVersion": "1.1.5",
-        "tag": [
-          "春秋欧陆风云"
-        ],
-        "author": "Mo&jake",
-        "introduce": "春秋的衍生作，功能机制内容介绍多到说不完，还在持续更新中，还你一份没玩过的春秋",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260927/0ae7b1e6ac6b4d5fbc26afbf35e0dbb0.png"
-      }
-    ]
-  },
-  {
     "mod": "斩神录",
     "introduce": "若黯夜终临，吾必立于万万人前，横刀向渊，血染天穹！",
     "author": "枫绫",
