@@ -4661,10 +4661,11 @@
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251203/0d0fbc48f7ad4e9f9f09ed1f3077d840.png",
     "tag": [
       "辅助模组",
-      "Bug修复"
+      "Bug修复",
+      "必备"
     ],
     "index": null,
-    "updatedAt": 1788527046,
+    "updatedAt": 1790927877,
     "versions": [
       {
         "uuid": "c96d983ad9e74fc1b6f043c57d274aff",
