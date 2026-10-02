@@ -482,7 +482,7 @@
     "tag": [
       "功能扩展",
       "性能破坏",
-      "硬编码汉化"
+      "原生调整"
     ],
     "index": null,
     "updatedAt": 1765271277,
@@ -505,7 +505,7 @@
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/ca3b65b7e5bd486b8122dfdb88cd0afc.png",
     "tag": [
       "辅助模组",
-      "硬编码汉化"
+      "原生调整"
     ],
     "index": null,
     "updatedAt": 1765652846,
@@ -546,7 +546,7 @@
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251209/407ecf4890b542bc899ca45759e709b8.png",
     "tag": [
       "功能扩展",
-      "硬编码汉化"
+      "原生调整"
     ],
     "index": null,
     "updatedAt": 1765271167,
@@ -857,7 +857,7 @@
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251210/d0515dd6ff364265a2e21dfc98d72dc2.png",
     "tag": [
       "功能扩展",
-      "硬编码汉化"
+      "原生调整"
     ],
     "index": null,
     "updatedAt": 1765386681,
@@ -889,7 +889,7 @@
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251210/597f0f35ef284f26ace1eb08da05a09f.png",
     "tag": [
       "功能扩展",
-      "硬编码汉化"
+      "原生调整"
     ],
     "index": null,
     "updatedAt": 1765653973,
@@ -984,8 +984,7 @@
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/e763e850a1144a2282a9385f9cb3d9fb.png",
     "tag": [
       "功能扩展",
-      "原生调整",
-      "硬编码汉化"
+      "原生调整"
     ],
     "index": null,
     "updatedAt": 1765646278,
@@ -1212,8 +1211,7 @@
     "tag": [
       "功能扩展",
       "原生调整",
-      "性能破坏",
-      "硬编码汉化"
+      "性能破坏"
     ],
     "index": null,
     "updatedAt": 1765648575,
@@ -5182,7 +5180,9 @@
     "introduce": "限制每个单位一生的生育次数，以防出现修仙类mod的长寿种马出现",
     "author": "愉戏",
     "preview": null,
-    "tag": [],
+    "tag": [
+      "原生调整"
+    ],
     "index": null,
     "updatedAt": 1790429581,
     "versions": [
@@ -5449,7 +5449,10 @@
     "introduce": "修仙类型",
     "author": "康康",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260930/2d75f947c4a6492c9fe9903330b09cc1.png",
-    "tag": [],
+    "tag": [
+      "大型模组",
+      "修炼体系"
+    ],
     "index": null,
     "updatedAt": 1790780281,
     "versions": [
