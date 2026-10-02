@@ -5347,34 +5347,6 @@
     ]
   },
   {
-    "mod": "王朝风云",
-    "introduce": "春秋的衍生作，功能机制内容介绍多到说不完，还在持续更新中，还你一份没玩过的春秋",
-    "author": "Mo&jake",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/394bb09d19414d5b887a1771b36f385d.png",
-    "tag": [
-      "大型模组"
-    ],
-    "index": null,
-    "updatedAt": 1790869560,
-    "versions": [
-      {
-        "uuid": "2fa6ba0cf74544908cbad070263706c8",
-        "gameversion": "0.22.9",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.7-game0.22.9-20261001154600-cd9c9dde/trimmed.zip",
-        "createdAt": 1790869560,
-        "size": null,
-        "modVersion": "1.1.7",
-        "tag": [
-          "大型模组"
-        ],
-        "author": "Mo&jake",
-        "introduce": "春秋的衍生作，功能机制内容介绍多到说不完，还在持续更新中，还你一份没玩过的春秋",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/394bb09d19414d5b887a1771b36f385d.png"
-      }
-    ]
-  },
-  {
     "mod": "九印:无印之海",
     "introduce": "太初有无印之海，没有时间、生死、记忆与契约，只有无限可能。第一个意识“原我”为了不融回海里，自问九题，在灵魂上刻下九道痕——胎、仪、约、夺、传、鸣、证、寄、器。九痕成印，世界由此有了出生、重复、契约、争夺、传承、共识、证明、共生与器物。原我随即崩解，刻痕碎成印种，散入众生。每个生命灵魂里都有九个协议槽，可承印、刻印、创印。九印既是文明的条件，也是钉住无印之海的封印。当封印衰败、裂口蔓延、海侵逼近，第十印“无印”便在暗处显兆——世界是回到可能性，还是落入更隐蔽的秩序，尚无人知晓",
     "author": "枫绫",
