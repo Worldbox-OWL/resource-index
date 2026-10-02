@@ -4117,10 +4117,12 @@
     "author": "kenoli, ApexLite",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251202/8954aba1585148369545f22d96896370.png",
     "tag": [
-      "辅助模组"
+      "辅助模组",
+      "功能扩展",
+      "必备"
     ],
     "index": null,
-    "updatedAt": 1781114752,
+    "updatedAt": 1790928648,
     "versions": [
       {
         "uuid": "c5bb9bc8f05e4cafa5f0e6124163893a",
