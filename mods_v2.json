@@ -5659,34 +5659,6 @@
     ]
   },
   {
-    "mod": "王朝风云",
-    "introduce": "春秋的衍生作，功能机制内容介绍多到说不完，还在持续更新中，还你一份没玩过的春秋",
-    "author": "Mo&jake",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/394bb09d19414d5b887a1771b36f385d.png",
-    "tag": [
-      "大型模组"
-    ],
-    "index": null,
-    "updatedAt": 1790869560,
-    "versions": [
-      {
-        "uuid": "2fa6ba0cf74544908cbad070263706c8",
-        "gameversion": "0.22.9",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.7-game0.22.9-20261001154600-cd9c9dde/trimmed.zip",
-        "createdAt": 1790869560,
-        "size": null,
-        "modVersion": "1.1.7",
-        "tag": [
-          "大型模组"
-        ],
-        "author": "Mo&jake",
-        "introduce": "春秋的衍生作，功能机制内容介绍多到说不完，还在持续更新中，还你一份没玩过的春秋",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/394bb09d19414d5b887a1771b36f385d.png"
-      }
-    ]
-  },
-  {
     "mod": "诸天神座",
     "introduce": "自定义世界观玩法扩展mod，可以自行创建和编辑属性、词条、道途、境界、天劫、种族配置与起源效果，多种系统自由组合，构建真正属于自己的诸天世界。",
     "author": "星望泡泡",
