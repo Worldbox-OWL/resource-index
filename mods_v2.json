@@ -3373,15 +3373,16 @@
   },
   {
     "mod": "中文名模组",
-    "introduce": "将生物、装备、城市、氏族、国家、语言、文明、亚种、信仰、联盟、战争、格言更改为中文\r\n\r\n模组正在重构中，此为先行版，问题包括但不限于：\r\n家庭命名未完成\r\n覆盖文明的命名学",
+    "introduce": "将生物、装备、城市、氏族、国家、语言、文明、亚种、信仰、联盟、战争、格言更改为中文\n\n模组正在重构中，此为先行版，问题包括但不限于：\n家庭命名未完成\n覆盖文明的命名学",
     "author": "一米",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251214/ec28d2a7267847d4b0562cb8c9175cf1.png",
     "tag": [
-      "功能扩展",
-      "辅助模组"
+      "中文命名",
+      "辅助模组",
+      "必备"
     ],
     "index": null,
-    "updatedAt": 1774936725,
+    "updatedAt": 1790928286,
     "versions": [
       {
         "uuid": "e5f4750e0ac44e3db31344f419cc4d97",
