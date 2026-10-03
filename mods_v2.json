@@ -5161,16 +5161,15 @@
     ]
   },
   {
-    "mod": "斗破苍穹（人生）",
-    "introduce": "斗气修炼，异火争锋，群雄逐鹿",
+    "mod": "斗破人生",
+    "introduce": "斗破苍穹世界盒子版本",
     "author": "愉戏",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260926/601db0d592dc4c6aabfe05ebc4d6eabd.jpg",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/2925c8145c67413ea09fc9ad0211396c.jpg",
     "tag": [
-      "修炼体系",
-      "大型模组"
+      "修炼体系"
     ],
     "index": null,
-    "updatedAt": 1790393005,
+    "updatedAt": 1790868823,
     "versions": [
       {
         "uuid": "271d052cd01d49e8b4091b3b488bcb01",
@@ -5187,6 +5186,21 @@
         "author": "愉戏",
         "introduce": "斗气修炼，异火争锋，群雄逐鹿",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260926/601db0d592dc4c6aabfe05ebc4d6eabd.jpg"
+      },
+      {
+        "uuid": "087cf2cc5b89447da7b28e5acbe0cd24",
+        "gameversion": "0.51.2",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.69.0-game0.51.2-20261001153343-da34c829/trimmed.zip",
+        "createdAt": 1790868823,
+        "size": null,
+        "modVersion": "0.69.0",
+        "tag": [
+          "修炼体系"
+        ],
+        "author": "愉戏",
+        "introduce": "斗破苍穹世界盒子版本",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/2925c8145c67413ea09fc9ad0211396c.jpg"
       }
     ]
   },
@@ -5565,34 +5579,6 @@
         "author": "伊度氢",
         "introduce": "《诡秘之主—宿命之环》是一款以原著世界观为核心的WorldBox大型模组。模组包含22条成神途径、魔药与晋升仪式、非凡特性守恒、尊名与锚定、教会组织、封印物、神国、真神及旧日体系，并让非凡力量深入国家战争与世界演化。见证普通人在疯狂、污染和争夺中不断晋升，最终高举神座、角逐源质，成为旧日。",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/e82262a8e0d74d8e878d4b0144329c7e.png"
-      }
-    ]
-  },
-  {
-    "mod": "斗破人生",
-    "introduce": "斗破苍穹世界盒子版本",
-    "author": "愉戏",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/2925c8145c67413ea09fc9ad0211396c.jpg",
-    "tag": [
-      "修炼体系"
-    ],
-    "index": null,
-    "updatedAt": 1790868823,
-    "versions": [
-      {
-        "uuid": "087cf2cc5b89447da7b28e5acbe0cd24",
-        "gameversion": "0.51.2",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.69.0-game0.51.2-20261001153343-da34c829/trimmed.zip",
-        "createdAt": 1790868823,
-        "size": null,
-        "modVersion": "0.69.0",
-        "tag": [
-          "修炼体系"
-        ],
-        "author": "愉戏",
-        "introduce": "斗破苍穹世界盒子版本",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/2925c8145c67413ea09fc9ad0211396c.jpg"
       }
     ]
   },
