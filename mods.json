@@ -4381,7 +4381,7 @@
       "Bug修复"
     ],
     "index": null,
-    "updatedAt": 1788527046,
+    "updatedAt": 1791140744,
     "versions": [
       {
         "uuid": "c96d983ad9e74fc1b6f043c57d274aff",
@@ -4406,6 +4406,23 @@
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E7%AE%80%E6%98%93%E4%BC%98%E5%8C%96%E6%A8%A1%E7%BB%84Optime-v0.5.0beta-game0.51.x-20260904130402/0.51.%2B.Optime_0.5.0beta.zip",
         "size": null,
         "modVersion": "0.5.0beta"
+      },
+      {
+        "uuid": "92f15244e14c4cbbbdd0a4b4c7678338",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.51.x-20261004190544-db259948/trimmed.zip",
+        "createdAt": 1791140744,
+        "size": null,
+        "modVersion": "1.0",
+        "tag": [
+          "功能扩展",
+          "辅助模组",
+          "原生调整"
+        ],
+        "author": "ApexLite",
+        "introduce": "将Optime内的“真正暂停”功能单独摘取出来。可以令暂停时射出的箭、炮弹、火球等抛射物也暂停",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261004/f71ca57f7fba4de1a41b14ed49e558f1.png"
       }
     ]
   },
