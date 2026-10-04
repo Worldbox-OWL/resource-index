@@ -4667,48 +4667,6 @@
     ]
   },
   {
-    "mod": "简易优化模组Optime",
-    "introduce": "在模组列表中找到此模组，然后点击模组设置即可看到以下内容\n①优化功能：大幅减少对应性能消耗。合并工作分配、简略图渲染加速、区块懒加载、地图图层节流、标签页节流、粒子特效节流、鼠标悬停修复、权能选择修复、历史显示修复\n②其他功能：\n真正的暂停-游戏暂停时冻结弹射物等移动物体\n禁用分析-离开游戏时不自动发送分析数据给开发者\n显示帧数-在屏幕左上角显示帧率计数器\n帧数上限-调整最大帧率限制\n隐藏欢迎窗口-隐藏每次进入游戏时弹出的窗口\n开发者模式-在右上角显示上帝模式按钮",
-    "author": "ApexLite",
-    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251203/0d0fbc48f7ad4e9f9f09ed1f3077d840.png",
-    "tag": [
-      "辅助模组",
-      "Bug修复",
-      "必备"
-    ],
-    "index": null,
-    "updatedAt": 1790927877,
-    "versions": [
-      {
-        "uuid": "c96d983ad9e74fc1b6f043c57d274aff",
-        "gameversion": "0.22.x",
-        "modVersion": "0.3.0beta",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.0beta-game0.22.x-20251203155840-5493508c/0.22.7%2B.Optime_0.3.0beta.NeoMod.zip",
-        "createdAt": 1765098313
-      },
-      {
-        "uuid": "ecbcaf9a3d93491fa3ab742eb04cf1d3",
-        "gameversion": "0.50.x",
-        "modVersion": "0.3.2pre",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.2pre-game0.50.x-20251203155844-bd971581/0.50.%2B.Optime_0.3.2-prerelease.zip",
-        "createdAt": 1765098313
-      },
-      {
-        "uuid": "e886c78431df4e508de79b8e6ea8e46c",
-        "gameversion": "0.51.x",
-        "modVersion": "0.5.0beta",
-        "size": null,
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E7%AE%80%E6%98%93%E4%BC%98%E5%8C%96%E6%A8%A1%E7%BB%84Optime-v0.5.0beta-game0.51.x-20260904130402/0.51.%2B.Optime_0.5.0beta.zip",
-        "createdAt": 1788527046
-      }
-    ]
-  },
-  {
     "mod": "平滑边界SmoothBorders",
     "introduce": "让城市王国区域内只显示领土部分；让宣称扩张蚕食占领的视觉效果更平滑\r\n⚠已知问题：初次打开模组设置需点击两次",
     "author": "Andres99",
@@ -5790,6 +5748,65 @@
         "author": "溪上翁, kinght",
         "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！ 模组交流qq群：1049012706",
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261003/a96ba859130647e3bf28981e2ad69a9b.png"
+      }
+    ]
+  },
+  {
+    "mod": "简易优化模组Optime",
+    "introduce": "在模组列表中找到此模组，然后点击模组设置即可看到以下内容\n①优化功能：大幅减少对应性能消耗。合并工作分配、简略图渲染加速、区块懒加载、地图图层节流、标签页节流、粒子特效节流、鼠标悬停修复、权能选择修复、历史显示修复\n②其他功能：\n真正的暂停-游戏暂停时冻结弹射物等移动物体\n禁用分析-离开游戏时不自动发送分析数据给开发者\n显示帧数-在屏幕左上角显示帧率计数器\n帧数上限-调整最大帧率限制\n隐藏欢迎窗口-隐藏每次进入游戏时弹出的窗口\n开发者模式-在右上角显示上帝模式按钮",
+    "author": "ApexLite",
+    "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251203/0d0fbc48f7ad4e9f9f09ed1f3077d840.png",
+    "tag": [
+      "辅助模组",
+      "Bug修复",
+      "必备"
+    ],
+    "index": null,
+    "updatedAt": 1791140744,
+    "versions": [
+      {
+        "uuid": "c96d983ad9e74fc1b6f043c57d274aff",
+        "gameversion": "0.22.x",
+        "modVersion": "0.3.0beta",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.0beta-game0.22.x-20251203155840-5493508c/0.22.7%2B.Optime_0.3.0beta.NeoMod.zip",
+        "createdAt": 1765098313
+      },
+      {
+        "uuid": "ecbcaf9a3d93491fa3ab742eb04cf1d3",
+        "gameversion": "0.50.x",
+        "modVersion": "0.3.2pre",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.3.2pre-game0.50.x-20251203155844-bd971581/0.50.%2B.Optime_0.3.2-prerelease.zip",
+        "createdAt": 1765098313
+      },
+      {
+        "uuid": "e886c78431df4e508de79b8e6ea8e46c",
+        "gameversion": "0.51.x",
+        "modVersion": "0.5.0beta",
+        "size": null,
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E7%AE%80%E6%98%93%E4%BC%98%E5%8C%96%E6%A8%A1%E7%BB%84Optime-v0.5.0beta-game0.51.x-20260904130402/0.51.%2B.Optime_0.5.0beta.zip",
+        "createdAt": 1788527046
+      },
+      {
+        "uuid": "92f15244e14c4cbbbdd0a4b4c7678338",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.51.x-20261004190544-db259948/trimmed.zip",
+        "createdAt": 1791140744,
+        "size": null,
+        "modVersion": "1.0",
+        "tag": [
+          "功能扩展",
+          "辅助模组",
+          "原生调整"
+        ],
+        "author": "ApexLite",
+        "introduce": "将Optime内的“真正暂停”功能单独摘取出来。可以令暂停时射出的箭、炮弹、火球等抛射物也暂停",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261004/f71ca57f7fba4de1a41b14ed49e558f1.png"
       }
     ]
   }
