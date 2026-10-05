@@ -5557,40 +5557,5 @@
       }
     ],
     "v3ResourceUuid": "b1e9af5c-5dca-48a0-b267-193f23dc0cd9"
-  },
-  {
-    "mod": "咒术回战正式魔改版",
-    "introduce": "咒术回战同人作品",
-    "author": "功夫茶",
-    "tag": [
-      "功能扩展",
-      "原著衍生",
-      "大型模组"
-    ],
-    "index": null,
-    "updatedAt": 1791189606,
-    "versions": [
-      {
-        "uuid": "8a74470f653e49c8b2618ae13dbd1db8",
-        "gameversion": "0.51.x",
-        "variant": "咒术回战",
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.1-game0.51.x-8a74470f/trimmed.zip",
-        "createdAt": 1791189606,
-        "updatedAt": 1791189614,
-        "size": null,
-        "modVersion": "1.5.1",
-        "v3ReleaseUuid": "8a74470f653e49c8b2618ae13dbd1db8",
-        "author": "功夫茶",
-        "introduce": "咒术回战同人作品",
-        "tag": [
-          "功能扩展",
-          "原著衍生",
-          "大型模组"
-        ],
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261005/0beb5aa301cd431f274d363a13cc090de20b86fa9fff4110f018d4fa16c9fa87.png",
-        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261005/0beb5aa301cd431f274d363a13cc090de20b86fa9fff4110f018d4fa16c9fa87.png"
-      }
-    ],
-    "v3ResourceUuid": "82de0187-0ed7-4b28-90a6-19ffd70f7d9a"
   }
 ]
