@@ -5838,5 +5838,38 @@
       }
     ],
     "v3ResourceUuid": "0615add9-9704-56e4-bed8-703c14ec0f8d"
+  },
+  {
+    "mod": "真正暂停",
+    "introduce": "将Optime内的“真正暂停”功能单独摘取出来。可以令暂停时射出的箭、炮弹、火球等抛射物也暂停",
+    "author": "ApexLite",
+    "tag": [
+      "原生调整",
+      "辅助模组"
+    ],
+    "index": null,
+    "updatedAt": 1791157537,
+    "versions": [
+      {
+        "uuid": "d7ec25d68d3b4e149c7b91c5ed7f0ffb",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0-game0.51.x-d7ec25d6/trimmed.zip",
+        "createdAt": 1791157537,
+        "updatedAt": 1791168208,
+        "size": null,
+        "modVersion": "1.0",
+        "v3ReleaseUuid": "d7ec25d68d3b4e149c7b91c5ed7f0ffb",
+        "author": "ApexLite",
+        "introduce": "将Optime内的“真正暂停”功能单独摘取出来。可以令暂停时射出的箭、炮弹、火球等抛射物也暂停",
+        "tag": [
+          "原生调整",
+          "辅助模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261004/07f693a97492a5daeb64781bcc1abbeab5d4c67704b90b82bf0a55a392cc985b.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261004/07f693a97492a5daeb64781bcc1abbeab5d4c67704b90b82bf0a55a392cc985b.png"
+      }
+    ],
+    "v3ResourceUuid": "b14897a5-18dc-4cdc-84fb-c9265c1a70de"
   }
 ]
