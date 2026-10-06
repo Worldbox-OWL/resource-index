@@ -5910,5 +5910,36 @@
       }
     ],
     "v3ResourceUuid": "b1e9af5c-5dca-48a0-b267-193f23dc0cd9"
+  },
+  {
+    "mod": "二战风云·现代军械",
+    "introduce": "以二战与近现代军事为主题的 WorldBox 内容模组，为游戏补充近现代军械与相关作战单位。①现代军械：为游戏补充近现代枪械、火炮等武器装备，可在世界中生成并投入使用。 ②军事作战单位：加入二战及近现代背景的作战单位，用于组建军队与进行对抗",
+    "author": "康康",
+    "tag": [
+      "大型模组",
+      "近现代科技"
+    ],
+    "index": null,
+    "updatedAt": 1791287220,
+    "versions": [
+      {
+        "uuid": "da5747aadf4f418f8a51981335f6c72f",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v3.41.4-game0.51.x-da5747aa/trimmed.zip",
+        "createdAt": 1791287220,
+        "updatedAt": 1791287226,
+        "size": null,
+        "modVersion": "3.41.4",
+        "v3ReleaseUuid": "da5747aadf4f418f8a51981335f6c72f",
+        "author": "康康",
+        "introduce": "以二战与近现代军事为主题的 WorldBox 内容模组，为游戏补充近现代军械与相关作战单位。①现代军械：为游戏补充近现代枪械、火炮等武器装备，可在世界中生成并投入使用。 ②军事作战单位：加入二战及近现代背景的作战单位，用于组建军队与进行对抗",
+        "tag": [
+          "大型模组",
+          "近现代科技"
+        ]
+      }
+    ],
+    "v3ResourceUuid": "4e006cf6-347d-4c77-8fbe-9494bf34e55c"
   }
 ]
