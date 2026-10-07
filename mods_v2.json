@@ -5596,7 +5596,7 @@
   },
   {
     "mod": "我的模拟长生路",
-    "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！",
+    "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！QQ群：1049012706",
     "author": "溪上翁, kinght",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/8bc67a9d5ecb4c1096922524f4784fca.png",
     "tag": [
@@ -5604,7 +5604,7 @@
       "原著衍生"
     ],
     "index": null,
-    "updatedAt": 1791049257,
+    "updatedAt": 1791361205,
     "versions": [
       {
         "uuid": "5edfac4833494bc69fa0e06d59d447ef",
@@ -5612,15 +5612,18 @@
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.1.9.1-game0.51.x-20260922144325-5b2d351a/trimmed.zip",
         "createdAt": 1790088205,
+        "updatedAt": 1790088205,
         "size": null,
         "modVersion": "0.1.9.1",
+        "v3ReleaseUuid": "5edfac4833494bc69fa0e06d59d447ef",
+        "author": "溪上翁, kinght",
+        "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！",
         "tag": [
           "修炼体系",
           "原著衍生"
         ],
-        "author": "溪上翁, kinght",
-        "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/8bc67a9d5ecb4c1096922524f4784fca.png"
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/8bc67a9d5ecb4c1096922524f4784fca.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260922/8bc67a9d5ecb4c1096922524f4784fca.png"
       },
       {
         "uuid": "46c8536f5c16408387cffd5ded5a1395",
@@ -5628,53 +5631,42 @@
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.2.0-game0.51.x-20260925094854-69bc1e87/trimmed.zip",
         "createdAt": 1790329734,
+        "updatedAt": 1790329734,
         "size": null,
         "modVersion": "0.2.0",
-        "tag": [
-          "功能扩展",
-          "修炼体系",
-          "原著衍生"
-        ],
+        "v3ReleaseUuid": "46c8536f5c16408387cffd5ded5a1395",
         "author": "溪上翁, kinght",
         "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260925/efb74981fce54964b5a4b776df1029c2.png"
-      },
-      {
-        "uuid": "25be5868ae03460f83a4918c5664ec60",
-        "gameversion": "0.51.x",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4.0-game0.51.x-20261003100019-966236e2/trimmed.zip",
-        "createdAt": 1791021619,
-        "size": null,
-        "modVersion": "0.4.0",
         "tag": [
-          "功能扩展",
           "修炼体系",
-          "大型模组"
+          "功能扩展",
+          "原著衍生"
         ],
-        "author": "溪上翁, kinght",
-        "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261003/a3a6b943934348709fc3d9c39b946a8e.png"
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260925/efb74981fce54964b5a4b776df1029c2.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260925/efb74981fce54964b5a4b776df1029c2.png"
       },
       {
-        "uuid": "41bdc7c15ed741818d4e01adb028c112",
+        "uuid": "51283f48e58b4da6b8eb047b36c0f154",
         "gameversion": "0.51.x",
         "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.5.1-game0.51.x-20261003174057-7bde7688/trimmed.zip",
-        "createdAt": 1791049257,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.5.4-game0.51.x-51283f48/trimmed.zip",
+        "createdAt": 1791361205,
+        "updatedAt": 1791361212,
         "size": null,
-        "modVersion": "0.5.1",
+        "modVersion": "0.5.4",
+        "v3ReleaseUuid": "51283f48e58b4da6b8eb047b36c0f154",
+        "author": "溪上翁, kinght",
+        "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！QQ群：1049012706",
         "tag": [
-          "功能扩展",
           "修炼体系",
           "原著衍生",
           "大型模组"
         ],
-        "author": "溪上翁, kinght",
-        "introduce": "还真一世，计较千年，岂是一人一念可证之；仙路无尽，长生未必是生！ 模组交流qq群：1049012706",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261003/a96ba859130647e3bf28981e2ad69a9b.png"
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261007/f70ccf96634f89f611f15f2383a1bc2eeff99a55dfeec22e0cf306a70168e80f.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261007/f70ccf96634f89f611f15f2383a1bc2eeff99a55dfeec22e0cf306a70168e80f.png"
       }
-    ]
+    ],
+    "v3ResourceUuid": "9df3e655-e199-5bdd-80de-3bfac13f9758"
   },
   {
     "mod": "简易优化模组Optime",
