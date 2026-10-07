@@ -5638,5 +5638,38 @@
       }
     ],
     "v3ResourceUuid": "4e006cf6-347d-4c77-8fbe-9494bf34e55c"
+  },
+  {
+    "mod": "防空引用卡死",
+    "introduce": "防卡死mod。能在游戏进行重复空引用时将其进程取消，防止卡死游戏卡死。该mod为辅助mod，多应用于存在大型mod的游戏中，如诡秘之主等。若存在游戏运行时会莫名其妙卡死的情况，则推荐装载此mod来解决卡死问题。",
+    "author": "安详详详详",
+    "tag": [
+      "Bug修复",
+      "辅助模组"
+    ],
+    "index": null,
+    "updatedAt": 1791380299,
+    "versions": [
+      {
+        "uuid": "a370cb7403a74557b34e5ecc7d0d9c49",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-a370cb74/trimmed.zip",
+        "createdAt": 1791380299,
+        "updatedAt": 1791380304,
+        "size": null,
+        "modVersion": "1.0.0",
+        "v3ReleaseUuid": "a370cb7403a74557b34e5ecc7d0d9c49",
+        "author": "安详详详详",
+        "introduce": "防卡死mod。能在游戏进行重复空引用时将其进程取消，防止卡死游戏卡死。该mod为辅助mod，多应用于存在大型mod的游戏中，如诡秘之主等。若存在游戏运行时会莫名其妙卡死的情况，则推荐装载此mod来解决卡死问题。",
+        "tag": [
+          "Bug修复",
+          "辅助模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261007/808402a24aa4a1ee1977a8a0adeddfd80cc0844ba3f2f147cccec625e488addc.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261007/808402a24aa4a1ee1977a8a0adeddfd80cc0844ba3f2f147cccec625e488addc.png"
+      }
+    ],
+    "v3ResourceUuid": "d1a241a7-af7d-4dd6-8ab2-e6e3d7c4cdd4"
   }
 ]
