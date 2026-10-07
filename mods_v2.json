@@ -4975,7 +4975,7 @@
       "原著衍生"
     ],
     "index": null,
-    "updatedAt": 1791366766,
+    "updatedAt": 1791379508,
     "versions": [
       {
         "uuid": "95ea3344f32b4e0bb3444b668fa9a1de",
@@ -5043,6 +5043,26 @@
         "tag": [
           "修炼体系",
           "原生调整",
+          "原著衍生",
+          "大型模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261007/dd5d22ce22eb2a2d85edf2acb7f76c818a2d6b665b62be153a3176408d0da7ce.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261007/dd5d22ce22eb2a2d85edf2acb7f76c818a2d6b665b62be153a3176408d0da7ce.png"
+      },
+      {
+        "uuid": "eac64c3246594bb68753db529a9d25fd",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.3-game0.51.x-eac64c32/trimmed.zip",
+        "createdAt": 1791379508,
+        "updatedAt": 1791379517,
+        "size": null,
+        "modVersion": "1.0.3",
+        "v3ReleaseUuid": "eac64c3246594bb68753db529a9d25fd",
+        "author": "二两墨，愉戏",
+        "introduce": "他日仙界再相逢，一声道友尽沧桑",
+        "tag": [
+          "修炼体系",
           "原著衍生",
           "大型模组"
         ],
