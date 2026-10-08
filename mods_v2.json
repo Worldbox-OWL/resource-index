@@ -6027,7 +6027,7 @@
       "大型模组"
     ],
     "index": null,
-    "updatedAt": 1791416388,
+    "updatedAt": 1791471715,
     "versions": [
       {
         "uuid": "be3652bac791496f97c725dda17c6f49",
@@ -6047,6 +6047,24 @@
         ],
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261007/5b5e0d6547274d800fd116eea3c5ad80e28f0143117a9cc52682e48dc8842468.png",
         "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261007/5b5e0d6547274d800fd116eea3c5ad80e28f0143117a9cc52682e48dc8842468.png"
+      },
+      {
+        "uuid": "ba9bcb96a90645c39683bbda1f445d0b",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.9.4-game0.51.x-ba9bcb96/trimmed.zip",
+        "createdAt": 1791471715,
+        "updatedAt": 1791471726,
+        "size": null,
+        "modVersion": "0.9.4",
+        "v3ReleaseUuid": "ba9bcb96a90645c39683bbda1f445d0b",
+        "author": "s3cond2",
+        "introduce": "3D版世界盒子国外作者s3cond2的worldfall模组,可以在世界盒子体验3D第一人称,使用说明:按F2打开设置,G附身角色,F1使用说明",
+        "tag": [
+          "功能扩展"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261008/5b5e0d6547274d800fd116eea3c5ad80e28f0143117a9cc52682e48dc8842468.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261008/5b5e0d6547274d800fd116eea3c5ad80e28f0143117a9cc52682e48dc8842468.png"
       }
     ],
     "v3ResourceUuid": "64ae56e2-6d56-4f1d-922f-49b894a93088"
