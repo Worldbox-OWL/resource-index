@@ -5165,14 +5165,14 @@
   },
   {
     "mod": "天人武道",
-    "introduce": "以原版的基因染色体构建的适合世盒小人的神藏基因武道，后天神藏，先天合道，每个大境界都有具体的修炼内容，修炼有过程感，不再是单纯的攒经验，目前境界内容开放到大宗师",
+    "introduce": "1、新增三条天人晋升路线\r\n神通天人、破限天人（属性突破21亿上限）、气运天人，各有专属成长逻辑与定位。\r\n 2、模组专属纪元系统（上帝可自由调换纪元顺序，高阶武者少时慎用禁忌纪元）\r\n ①大道纪元：修行增益，更容易领悟神通\r\n​②天命纪元：唯气运天人可成，列国持续征战，大一统后诞生人皇\r\n​③禁忌纪元：世界沉沦黑暗，仅城池气运可保安全，可进阶三尸诡仙\r\n​④末法纪元：神通天人获取经验大幅衰减\r\n​⑤绝灵纪元：天地灵脉枯竭，神通天人体系近乎锁死",
     "author": "摸鱼",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260923/c5ea6bc87c9f41fe8f86ed6f9ee517ac.jpg",
     "tag": [
       "修炼体系"
     ],
     "index": null,
-    "updatedAt": 1790124352,
+    "updatedAt": 1791604091,
     "versions": [
       {
         "uuid": "4a67626c900847b68f38c9aaad114516",
@@ -5180,16 +5180,40 @@
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.7.1-game0.51.x-20260923004552-b3eca3bd/trimmed.zip",
         "createdAt": 1790124352,
+        "updatedAt": 1790124352,
         "size": null,
         "modVersion": "1.0.7.1",
+        "v3ReleaseUuid": "4a67626c900847b68f38c9aaad114516",
+        "author": "摸鱼",
+        "introduce": "以原版的基因染色体构建的适合世盒小人的神藏基因武道，后天神藏，先天合道，每个大境界都有具体的修炼内容，修炼有过程感，不再是单纯的攒经验，目前境界内容开放到大宗师",
         "tag": [
           "修炼体系"
         ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260923/c5ea6bc87c9f41fe8f86ed6f9ee517ac.jpg",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260923/c5ea6bc87c9f41fe8f86ed6f9ee517ac.jpg"
+      },
+      {
+        "uuid": "30adcb0ac4664eeaa2d83cdbc8b83b2b",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.8.3-game0.51.x-30adcb0a/trimmed.zip",
+        "createdAt": 1791604091,
+        "updatedAt": 1791604102,
+        "size": null,
+        "modVersion": "1.0.8.3",
+        "v3ReleaseUuid": "30adcb0ac4664eeaa2d83cdbc8b83b2b",
         "author": "摸鱼",
-        "introduce": "以原版的基因染色体构建的适合世盒小人的神藏基因武道，后天神藏，先天合道，每个大境界都有具体的修炼内容，修炼有过程感，不再是单纯的攒经验，目前境界内容开放到大宗师",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260923/c5ea6bc87c9f41fe8f86ed6f9ee517ac.jpg"
+        "introduce": "1、新增三条天人晋升路线\r\n神通天人、破限天人（属性突破21亿上限）、气运天人，各有专属成长逻辑与定位。\r\n 2、模组专属纪元系统（上帝可自由调换纪元顺序，高阶武者少时慎用禁忌纪元）\r\n ①大道纪元：修行增益，更容易领悟神通\r\n​②天命纪元：唯气运天人可成，列国持续征战，大一统后诞生人皇\r\n​③禁忌纪元：世界沉沦黑暗，仅城池气运可保安全，可进阶三尸诡仙\r\n​④末法纪元：神通天人获取经验大幅衰减\r\n​⑤绝灵纪元：天地灵脉枯竭，神通天人体系近乎锁死",
+        "tag": [
+          "修炼体系",
+          "功能扩展",
+          "大型模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261010/255cb051ee5683787f1f5529cd4233c17eb71c937ac6fe84e815ddfaacba88a4.jpg",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261010/255cb051ee5683787f1f5529cd4233c17eb71c937ac6fe84e815ddfaacba88a4.jpg"
       }
-    ]
+    ],
+    "v3ResourceUuid": "bf700e48-ec4a-56c3-9ee0-dfc33b81f16c"
   },
   {
     "mod": "诡秘之主-宿命之环",
