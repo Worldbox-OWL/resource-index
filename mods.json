@@ -5773,5 +5773,38 @@
       }
     ],
     "v3ResourceUuid": "64ae56e2-6d56-4f1d-922f-49b894a93088"
+  },
+  {
+    "mod": "新纪元",
+    "introduce": "对大部分系统进行修整，使其变得更合理，在不改变游戏原版逻辑的基础上进行大幅度改动。完成版将会涉及文化、语言、书籍、王国、城市、亚种基因、武器护甲、个体属性、建筑产出等，唯一缺点就是不怎么看得出变化，因为目标是尽量不对游戏原版流程大幅改动。",
+    "author": "玄子",
+    "tag": [
+      "功能扩展",
+      "原生调整"
+    ],
+    "index": null,
+    "updatedAt": 1791609406,
+    "versions": [
+      {
+        "uuid": "9fc22807a7f34396aac8b1e625c902ea",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-9fc22807/trimmed.zip",
+        "createdAt": 1791609406,
+        "updatedAt": 1791609412,
+        "size": null,
+        "modVersion": "1.0.0",
+        "v3ReleaseUuid": "9fc22807a7f34396aac8b1e625c902ea",
+        "author": "玄子",
+        "introduce": "对大部分系统进行修整，使其变得更合理，在不改变游戏原版逻辑的基础上进行大幅度改动。完成版将会涉及文化、语言、书籍、王国、城市、亚种基因、武器护甲、个体属性、建筑产出等，唯一缺点就是不怎么看得出变化，因为目标是尽量不对游戏原版流程大幅改动。",
+        "tag": [
+          "功能扩展",
+          "原生调整"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261010/dcc27fa7d47e98f728a575052268cc8542b0f030e285e6e7fca39bdd64c03561.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261010/dcc27fa7d47e98f728a575052268cc8542b0f030e285e6e7fca39bdd64c03561.png"
+      }
+    ],
+    "v3ResourceUuid": "c7aa25d6-a771-4891-a61a-9435c8e49932"
   }
 ]
