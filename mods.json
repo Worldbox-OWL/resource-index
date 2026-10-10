@@ -3162,7 +3162,7 @@
   },
   {
     "mod": "中文名模组",
-    "introduce": "将生物、家庭、装备、城市、氏族、国家、语言、文明、亚种、信仰、联盟、战争、格言更改为中文\n\n10.10更新 \n修复 未使用的过时api导致手机版无法使用\n修复 城市创建时将城市名赋予给文化\n添加 家庭命名",
+    "introduce": "将生物、家庭、装备、城市、氏族、国家、语言、文明、亚种、信仰、联盟、战争、格言更改为中文\r\n\r\n10.10更新\r\n修复 未使用的过时api导致手机版无法使用\r\n修复 城市创建时将城市名赋予给文化\r\n添加 家庭命名",
     "author": "一米",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251214/ec28d2a7267847d4b0562cb8c9175cf1.png",
     "tag": [
@@ -3171,7 +3171,7 @@
       "辅助模组"
     ],
     "index": null,
-    "updatedAt": 1791640870,
+    "updatedAt": 1791644669,
     "versions": [
       {
         "uuid": "78a2bc7dd8384029adc72338d8b3203b",
@@ -3188,6 +3188,24 @@
         "tag": [
           "功能扩展",
           "原生调整",
+          "辅助模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261010/a197b683dd18f21a8faf31b08fd7818df35a2b3acbe36c8fc4bcfedf66b9f233.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261010/a197b683dd18f21a8faf31b08fd7818df35a2b3acbe36c8fc4bcfedf66b9f233.png"
+      },
+      {
+        "uuid": "d221020208704c2cb1b6b84931eaaeff",
+        "gameversion": "0.51.x",
+        "variant": "全国风",
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.51.x-game0.51.x-d2210202/trimmed.zip",
+        "createdAt": 1791644669,
+        "updatedAt": 1791644675,
+        "size": null,
+        "modVersion": "0.51.x",
+        "v3ReleaseUuid": "d221020208704c2cb1b6b84931eaaeff",
+        "author": "一米",
+        "introduce": "将生物、家庭、装备、城市、氏族、国家、语言、文明、亚种、信仰、联盟、战争、格言更改为中文\r\n\r\n10.10更新\r\n修复 未使用的过时api导致手机版无法使用\r\n修复 城市创建时将城市名赋予给文化\r\n添加 家庭命名",
+        "tag": [
           "辅助模组"
         ],
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261010/a197b683dd18f21a8faf31b08fd7818df35a2b3acbe36c8fc4bcfedf66b9f233.png",
