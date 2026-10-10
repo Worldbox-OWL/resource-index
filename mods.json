@@ -3162,73 +3162,39 @@
   },
   {
     "mod": "中文名模组",
-    "introduce": "将生物、装备、城市、氏族、国家、语言、文明、亚种、信仰、联盟、战争、格言更改为中文\r\n\r\n模组正在重构中，此为先行版，问题包括但不限于：\r\n家庭命名未完成\r\n覆盖文明的命名学",
+    "introduce": "本模组把游戏内由程序生成的名称统一替换为中文风格，覆盖生物、装备与饰品、书籍、城市、氏族、文化、家族、王国、语言、宗教、亚种、战争以及格言等对象，让不同文明与势力的命名保持一致的中文观感。①原生名称中文化：生物、装备与饰品、书籍、物品等实体的名称统一为中文，减少中英混排。 ②势力与文明命名：城市、氏族、家族、王国、文化、语言、宗教、亚种、联盟、战争与格言等名称一并中文化。 ③名称生成规则：按对象类型分别提供名称生成规则，批量生成时保持命名风格统一。 ④词库可扩充：名称模板与词条以数据文件组织，方便按需增补词汇。 ⑤版本适配：面向 0.51.x 版本提供，可作为命名表现层的辅助模组使用。",
     "author": "一米",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251214/ec28d2a7267847d4b0562cb8c9175cf1.png",
     "tag": [
-      "功能扩展",
+      "中文命名",
+      "必备",
       "辅助模组"
     ],
     "index": null,
-    "updatedAt": 1774936725,
+    "updatedAt": 1791640679,
     "versions": [
       {
-        "uuid": "e5f4750e0ac44e3db31344f419cc4d97",
-        "gameversion": "0.50.6",
-        "variant": "全国风",
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.0new-game0.50.6-20251214095516-43b6c18b/0.50.6%2B._1.5.0new.zip",
-        "size": null,
-        "modVersion": "1.5.0new"
-      },
-      {
-        "uuid": "cf7cc5c0d50f4392b96ae1800c667426",
+        "uuid": "78a2bc7dd8384029adc72338d8b3203b",
         "gameversion": "0.51.x",
-        "variant": "全国风",
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.0new-game0.51.x-20251214095521-29ce1fa1/0.50.6%2B._1.5.0new.zip",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.51.x-game0.51.x-78a2bc7d/trimmed.zip",
+        "createdAt": 1791640679,
+        "updatedAt": 1791640684,
         "size": null,
-        "modVersion": "1.5.0new"
-      },
-      {
-        "uuid": "e0037d8fdadc4878bf6d43e5bda310f5",
-        "gameversion": "0.14.x",
-        "variant": "全国风",
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.1-game0.14.x-20251214101508-04b56acd/0.14.%2B._1.0.1.zip",
-        "size": null,
-        "modVersion": "1.0.1"
-      },
-      {
-        "uuid": "052fe6bfda594a71a19306b0d5c44990",
-        "gameversion": "0.22.x",
-        "variant": "全国风",
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.4.1-game0.22.x-20251214101515-e2ad363c/0.22.7%2B._1.4.1.NeoMod.zip",
-        "size": null,
-        "modVersion": "1.4.1"
-      },
-      {
-        "uuid": "9312a3258b974964bf23426c09af3eca",
-        "gameversion": "0.50.6",
-        "variant": "日式",
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.0new-game0.50.6-20260331055824-e1f8588e/0.50.%2B._1.5.0new.zip",
-        "size": null,
-        "modVersion": "1.5.0new"
-      },
-      {
-        "uuid": "60f665f92c084424b3ea2684c935ecc1",
-        "gameversion": "0.51.x",
-        "variant": "日式",
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.5.0new-game0.51.x-20260331055833-b0ae1631/0.50.%2B._1.5.0new.zip",
-        "size": null,
-        "modVersion": "1.5.0new"
-      },
-      {
-        "uuid": "77e04793a66540a780f031c1b344cd9c",
-        "gameversion": "0.22.7",
-        "variant": "日式",
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.4.1-game0.22.7-20260331055840-6dadab58/0.22.7%2B._1.4.1.zip",
-        "size": null,
-        "modVersion": "1.4.1"
+        "modVersion": "0.51.x",
+        "v3ReleaseUuid": "78a2bc7dd8384029adc72338d8b3203b",
+        "author": "一米",
+        "introduce": "本模组把游戏内由程序生成的名称统一替换为中文风格，覆盖生物、装备与饰品、书籍、城市、氏族、文化、家族、王国、语言、宗教、亚种、战争以及格言等对象，让不同文明与势力的命名保持一致的中文观感。①原生名称中文化：生物、装备与饰品、书籍、物品等实体的名称统一为中文，减少中英混排。 ②势力与文明命名：城市、氏族、家族、王国、文化、语言、宗教、亚种、联盟、战争与格言等名称一并中文化。 ③名称生成规则：按对象类型分别提供名称生成规则，批量生成时保持命名风格统一。 ④词库可扩充：名称模板与词条以数据文件组织，方便按需增补词汇。 ⑤版本适配：面向 0.51.x 版本提供，可作为命名表现层的辅助模组使用。",
+        "tag": [
+          "功能扩展",
+          "原生调整",
+          "辅助模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261010/a197b683dd18f21a8faf31b08fd7818df35a2b3acbe36c8fc4bcfedf66b9f233.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261010/a197b683dd18f21a8faf31b08fd7818df35a2b3acbe36c8fc4bcfedf66b9f233.png"
       }
-    ]
+    ],
+    "v3ResourceUuid": "5df0931e-24af-5616-b06c-7d6658988eb1"
   },
   {
     "mod": "属性编辑器CharDataEdit",
