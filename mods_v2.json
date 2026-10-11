@@ -1233,35 +1233,64 @@
   },
   {
     "mod": "新战争艺术",
-    "introduce": "将原版“指挥”、“外交”、“组织”分别提供“战争”、“和平”、“统治”特质序列对应，各序列最高6级，主要根据后天努力升级序列号",
-    "author": "星曜,玄子",
+    "introduce": "旧模组翻新，提供高额的管理、军事、外交属性，小人达到年龄有概率觉醒其中一个属性特质序列，并且在后续有概率提升特质等级。适用于原版看海，有效解决王国容易分崩离析、不打架、只打架的简单模组（想多了）",
+    "author": "玄子、星曜、Jake",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/8fab7b27f9a54fcca03fae8841b02106.png",
     "tag": [
       "功能扩展",
       "原生调整"
     ],
     "index": null,
-    "updatedAt": 1765648858,
+    "updatedAt": 1791718997,
     "versions": [
       {
         "uuid": "db219931e24f47149af6f0ef2a256efb",
         "gameversion": "0.14.x",
-        "modVersion": "1.2.1.8",
-        "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.1.8-game0.14.x-20251213180048-628a4392/0.14.%2B.Art.of.War_1.2.1.8.zip",
-        "createdAt": 1765648853
+        "createdAt": 1765648853,
+        "updatedAt": 1765648853,
+        "size": null,
+        "modVersion": "1.2.1.8",
+        "v3ReleaseUuid": "db219931e24f47149af6f0ef2a256efb",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/8fab7b27f9a54fcca03fae8841b02106.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/8fab7b27f9a54fcca03fae8841b02106.png"
       },
       {
         "uuid": "4be93327e7c2428bbe222c73f9f7c60d",
         "gameversion": "0.22.x",
-        "modVersion": "0.2.0",
-        "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.2.0-game0.22.x-20251213180055-0e003cb7/0.22.%2B._0.2.0.zip",
-        "createdAt": 1765648858
+        "createdAt": 1765648858,
+        "updatedAt": 1765648858,
+        "size": null,
+        "modVersion": "0.2.0",
+        "v3ReleaseUuid": "4be93327e7c2428bbe222c73f9f7c60d",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/8fab7b27f9a54fcca03fae8841b02106.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20251213/8fab7b27f9a54fcca03fae8841b02106.png"
+      },
+      {
+        "uuid": "df7414567a7a4a58af47410f2a061cb5",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.0-game0.51.x-df741456/trimmed.zip",
+        "createdAt": 1791718997,
+        "updatedAt": 1791719002,
+        "size": null,
+        "modVersion": "1.0.0",
+        "v3ReleaseUuid": "df7414567a7a4a58af47410f2a061cb5",
+        "author": "玄子、星曜、Jake",
+        "introduce": "旧模组翻新，提供高额的管理、军事、外交属性，小人达到年龄有概率觉醒其中一个属性特质序列，并且在后续有概率提升特质等级。适用于原版看海，有效解决王国容易分崩离析、不打架、只打架的简单模组（想多了）",
+        "tag": [
+          "修炼体系",
+          "功能扩展",
+          "原生调整"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261011/bf6ae157d4ca9848237102c7c2c6f59670606bfb6b97122a397bdde98384995b.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261011/bf6ae157d4ca9848237102c7c2c6f59670606bfb6b97122a397bdde98384995b.png"
       }
-    ]
+    ],
+    "v3ResourceUuid": "bfb02c93-7292-57d4-b605-f545ca331cd7"
   },
   {
     "mod": "异世界抗战IsekaiWorld",
