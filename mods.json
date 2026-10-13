@@ -6063,5 +6063,38 @@
       }
     ],
     "v3ResourceUuid": "5df0931e-24af-5616-b06c-7d6658988eb1"
+  },
+  {
+    "mod": "Plenty o Planets",
+    "introduce": "外网作者制作，简易汉化版。繁星万界（Plenty o Planets / PoP）：每个存档都是一个可探索、殖民和统治的宇宙。王国学习太空科技、建造舰船、建立殖民地，并组成横跨行星的星际帝国。陨石与 UFO 穿越宇宙，撞击行星并触发事件；采矿舰可在小行星带开采太空矿石。全 3D 宇宙地图可自由移动视角，观察行星、舰船航行与采矿。太空战争包含 11 种战斗舰种和能释放战机的母舰，玩家可以亲自驾驶战机作战。多元宇宙战争支持通过 Steam 大厅代码进行在线 1 对 1 对战，胜者夺取败者王国的资源。完整太空采矿与战斗舰建造需要安装 Plenty o Biomes 3.2.0 或更新版本。",
+    "author": "Triickstr",
+    "tag": [
+      "功能扩展",
+      "大型模组"
+    ],
+    "index": null,
+    "updatedAt": 1791906396,
+    "versions": [
+      {
+        "uuid": "82c04789c6b3469186ab0d19d803282e",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.2.3-game0.51.x-82c04789/trimmed.zip",
+        "createdAt": 1791906396,
+        "updatedAt": 1791906413,
+        "size": null,
+        "modVersion": "2.2.3",
+        "v3ReleaseUuid": "82c04789c6b3469186ab0d19d803282e",
+        "author": "Triickstr",
+        "introduce": "外网作者制作，简易汉化版。繁星万界（Plenty o Planets / PoP）：每个存档都是一个可探索、殖民和统治的宇宙。王国学习太空科技、建造舰船、建立殖民地，并组成横跨行星的星际帝国。陨石与 UFO 穿越宇宙，撞击行星并触发事件；采矿舰可在小行星带开采太空矿石。全 3D 宇宙地图可自由移动视角，观察行星、舰船航行与采矿。太空战争包含 11 种战斗舰种和能释放战机的母舰，玩家可以亲自驾驶战机作战。多元宇宙战争支持通过 Steam 大厅代码进行在线 1 对 1 对战，胜者夺取败者王国的资源。完整太空采矿与战斗舰建造需要安装 Plenty o Biomes 3.2.0 或更新版本。",
+        "tag": [
+          "功能扩展",
+          "大型模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261013/8bf008c3a429349933cf51636bf648d85c675ab6c48bde326aebf615ac8a6746.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261013/8bf008c3a429349933cf51636bf648d85c675ab6c48bde326aebf615ac8a6746.png"
+      }
+    ],
+    "v3ResourceUuid": "3f7a4f63-0ef8-42a7-ad7e-04729f2bd7c5"
   }
 ]
