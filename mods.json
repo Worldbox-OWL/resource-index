@@ -5852,7 +5852,7 @@
       "辅助模组"
     ],
     "index": null,
-    "updatedAt": 1791904759,
+    "updatedAt": 1791973331,
     "versions": [
       {
         "uuid": "96847f194da046ce857ea55f14d724ef",
@@ -5891,6 +5891,25 @@
         ],
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261013/8c0ebc02bdcc232d2e48b102f48e9c004d33908baea40eeef7d0a8b397188fbc.png",
         "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261013/8c0ebc02bdcc232d2e48b102f48e9c004d33908baea40eeef7d0a8b397188fbc.png"
+      },
+      {
+        "uuid": "ed8cb0b3230e4c3ba4b61f1fe25a7e12",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.2.0-game0.51.x-ed8cb0b3/trimmed.zip",
+        "createdAt": 1791973331,
+        "updatedAt": 1791973343,
+        "size": null,
+        "modVersion": "1.2.0",
+        "v3ReleaseUuid": "ed8cb0b3230e4c3ba4b61f1fe25a7e12",
+        "author": "信仰芙芙の博士",
+        "introduce": "为3D模组适配了光影水面镜像",
+        "tag": [
+          "功能扩展",
+          "辅助模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261014/8c0ebc02bdcc232d2e48b102f48e9c004d33908baea40eeef7d0a8b397188fbc.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261014/8c0ebc02bdcc232d2e48b102f48e9c004d33908baea40eeef7d0a8b397188fbc.png"
       }
     ],
     "v3ResourceUuid": "20f73f9f-f004-44c0-b4b6-5d98effefa38"
