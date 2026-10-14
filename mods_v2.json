@@ -5131,14 +5131,14 @@
   },
   {
     "mod": "斗破人生",
-    "introduce": "斗破苍穹世界盒子版本",
-    "author": "愉戏",
+    "introduce": "一个有武魂的世界",
+    "author": "古希腊掌管ai的神",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/2925c8145c67413ea09fc9ad0211396c.jpg",
     "tag": [
       "修炼体系"
     ],
     "index": null,
-    "updatedAt": 1790868823,
+    "updatedAt": 1791979448,
     "versions": [
       {
         "uuid": "271d052cd01d49e8b4091b3b488bcb01",
@@ -5146,15 +5146,18 @@
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.55.4-game0.51.x-20260926032325-6da7ef19/trimmed.zip",
         "createdAt": 1790393005,
+        "updatedAt": 1790393005,
         "size": null,
         "modVersion": "0.55.4",
+        "v3ReleaseUuid": "271d052cd01d49e8b4091b3b488bcb01",
+        "author": "愉戏",
+        "introduce": "斗气修炼，异火争锋，群雄逐鹿",
         "tag": [
           "修炼体系",
           "大型模组"
         ],
-        "author": "愉戏",
-        "introduce": "斗气修炼，异火争锋，群雄逐鹿",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260926/601db0d592dc4c6aabfe05ebc4d6eabd.jpg"
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260926/601db0d592dc4c6aabfe05ebc4d6eabd.jpg",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260926/601db0d592dc4c6aabfe05ebc4d6eabd.jpg"
       },
       {
         "uuid": "087cf2cc5b89447da7b28e5acbe0cd24",
@@ -5162,16 +5165,39 @@
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.69.0-game0.51.2-20261001153343-da34c829/trimmed.zip",
         "createdAt": 1790868823,
+        "updatedAt": 1790868823,
         "size": null,
         "modVersion": "0.69.0",
+        "v3ReleaseUuid": "087cf2cc5b89447da7b28e5acbe0cd24",
+        "author": "愉戏",
+        "introduce": "斗破苍穹世界盒子版本",
         "tag": [
           "修炼体系"
         ],
-        "author": "愉戏",
-        "introduce": "斗破苍穹世界盒子版本",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/2925c8145c67413ea09fc9ad0211396c.jpg"
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/2925c8145c67413ea09fc9ad0211396c.jpg",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/2925c8145c67413ea09fc9ad0211396c.jpg"
+      },
+      {
+        "uuid": "fa647141e57948098f68f9e3a5af322b",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0-game0.51.x-fa647141/trimmed.zip",
+        "createdAt": 1791979448,
+        "updatedAt": 1791979457,
+        "size": null,
+        "modVersion": "1.1.0",
+        "v3ReleaseUuid": "fa647141e57948098f68f9e3a5af322b",
+        "author": "古希腊掌管ai的神",
+        "introduce": "一个有武魂的世界",
+        "tag": [
+          "修炼体系",
+          "原著衍生"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261014/3a7b01151e4b000fcfb09681fd0b1dbd0b611204f37787b74d00b521a507e631.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261014/3a7b01151e4b000fcfb09681fd0b1dbd0b611204f37787b74d00b521a507e631.png"
       }
-    ]
+    ],
+    "v3ResourceUuid": "56b068cc-5503-5fb4-9c42-d23983f84c93"
   },
   {
     "mod": "生育限制",
