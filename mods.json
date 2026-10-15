@@ -5545,25 +5545,6 @@
         ],
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/2925c8145c67413ea09fc9ad0211396c.jpg",
         "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/2925c8145c67413ea09fc9ad0211396c.jpg"
-      },
-      {
-        "uuid": "fa647141e57948098f68f9e3a5af322b",
-        "gameversion": "0.51.x",
-        "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0-game0.51.x-fa647141/trimmed.zip",
-        "createdAt": 1791979448,
-        "updatedAt": 1791979457,
-        "size": null,
-        "modVersion": "1.1.0",
-        "v3ReleaseUuid": "fa647141e57948098f68f9e3a5af322b",
-        "author": "古希腊掌管ai的神",
-        "introduce": "一个有武魂的世界",
-        "tag": [
-          "修炼体系",
-          "原著衍生"
-        ],
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261014/3a7b01151e4b000fcfb09681fd0b1dbd0b611204f37787b74d00b521a507e631.png",
-        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261014/3a7b01151e4b000fcfb09681fd0b1dbd0b611204f37787b74d00b521a507e631.png"
       }
     ],
     "v3ResourceUuid": "56b068cc-5503-5fb4-9c42-d23983f84c93"
