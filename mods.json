@@ -4735,34 +4735,65 @@
   },
   {
     "mod": "天工技艺Supower",
-    "introduce": "①王国操作：指定宣战、指定和平、脱离战争、全图行政(可选物种)、自然世界、吞并王国、分割国家、移交城市、王国物种转换、王国回防、驻扎边境、王国动员、王国快速征兵\n②城市操作：指派建城、吞并城市、回防、动员、城市分割（上下）、城市分割（左右）、城市快速征兵、城市物种转换、放置文明建筑、升级城市建筑、设为首都\n③单位操作：生成单位(所有生物)、指定身份(可选神明、将军、氏族长等)、状态选择器(可选军队城市王国)、移除单位、单位传送、指定爱人、指定挚友、指定生育、指定攻击目标\n④其他：喂食窗口-在单位窗口点击饱食度条打开\n操控单位玩法-可交互地图、V键单位窗口、B键放置建筑、E键喂食\n模组设置-单分类模式、无视征兵上限(仅对快速征兵权能)、快速移动(动员回防驻扎等添加兴奋状态)、宗教神明补丁(允许设置神明)、神创宗教(宗教创立者视为初代神明)、操控模式",
+    "introduce": "从国家、城市、单位三个层面扩展玩家可直接使用的权柄，把许多原本只能间接影响的操作变成可点击、可选择的具体功能。①王国级权柄：指定宣战与和平、脱离战争、全图行政划分（可指定物种与自然世界）、吞并王国、分割国家、移交城市、王国物种转换，以及回防、驻扎边境、 ②城市级权柄：指派建城、吞并城市、回防动员、按上下或左右分割城市、快速征兵、城市物种转换、放置文明建筑、升级城市建筑、设为首都 ③单位级权柄：生成任意生物、指定身份（神明/将军/氏族长等）、切换状态、移除与传送单位，以及指定攻击目标、爱人、挚友和生育对象 ④操控与喂食玩法：可交互地图与快捷键操作，V 键单位窗口、B 键放置建筑、E 键喂食，并在单位窗口通过饱食度条打开喂食窗口 ⑤模组设置：提供单分类模式、无视征兵上限（仅对快速征兵生效）、快速移动、宗教神明补丁与神创宗教等可调选项",
     "author": "半梦半醒",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260818/ace2c9ddf81146b9abaa7100e43521f0.png",
     "tag": [
       "功能扩展",
+      "必备",
       "辅助模组"
     ],
     "index": null,
-    "updatedAt": 1789990800,
+    "updatedAt": 1792082915,
     "versions": [
+      {
+        "uuid": "07473b2a594f453d87657b957d0318de",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.2-game0.51.x-20260829061000-284bd9bc/0.51.%2B.Supower_1.1.2.zip",
+        "createdAt": 1787983805,
+        "updatedAt": 1787983805,
+        "size": null,
+        "modVersion": "1.1.2",
+        "v3ReleaseUuid": "07473b2a594f453d87657b957d0318de",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260818/ace2c9ddf81146b9abaa7100e43521f0.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260818/ace2c9ddf81146b9abaa7100e43521f0.png"
+      },
       {
         "uuid": "cbe3ab452e614a9ea4831413fb1bab5e",
         "gameversion": "0.51.x",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.3-game0.51.x-20260921113904-d0309d77/0.51.%2B.Supower_1.1.3.zip",
+        "createdAt": 1789990744,
+        "updatedAt": 1789990744,
         "size": null,
-        "modVersion": "1.1.3"
+        "modVersion": "1.1.3",
+        "v3ReleaseUuid": "cbe3ab452e614a9ea4831413fb1bab5e",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260818/ace2c9ddf81146b9abaa7100e43521f0.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260818/ace2c9ddf81146b9abaa7100e43521f0.png",
+        "supersedes": "07473b2a594f453d87657b957d0318de"
       },
       {
-        "uuid": "07473b2a594f453d87657b957d0318de",
+        "uuid": "b6935e8b90ac4fa496466c3e5a0b0dd3",
         "gameversion": "0.51.x",
-        "modVersion": "1.1.2",
-        "size": null,
         "variant": null,
-        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.2-game0.51.x-20260829061000-284bd9bc/0.51.%2B.Supower_1.1.2.zip",
-        "createdAt": 1787983805
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.4-game0.51.x-b6935e8b/trimmed.zip",
+        "createdAt": 1792082915,
+        "updatedAt": 1792082921,
+        "size": null,
+        "modVersion": "1.1.4",
+        "v3ReleaseUuid": "b6935e8b90ac4fa496466c3e5a0b0dd3",
+        "author": "半梦半醒",
+        "introduce": "从国家、城市、单位三个层面扩展玩家可直接使用的权柄，把许多原本只能间接影响的操作变成可点击、可选择的具体功能。①王国级权柄：指定宣战与和平、脱离战争、全图行政划分（可指定物种与自然世界）、吞并王国、分割国家、移交城市、王国物种转换，以及回防、驻扎边境、 ②城市级权柄：指派建城、吞并城市、回防动员、按上下或左右分割城市、快速征兵、城市物种转换、放置文明建筑、升级城市建筑、设为首都 ③单位级权柄：生成任意生物、指定身份（神明/将军/氏族长等）、切换状态、移除与传送单位，以及指定攻击目标、爱人、挚友和生育对象 ④操控与喂食玩法：可交互地图与快捷键操作，V 键单位窗口、B 键放置建筑、E 键喂食，并在单位窗口通过饱食度条打开喂食窗口 ⑤模组设置：提供单分类模式、无视征兵上限（仅对快速征兵生效）、快速移动、宗教神明补丁与神创宗教等可调选项",
+        "tag": [
+          "功能扩展",
+          "辅助模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260818/ace2c9ddf81146b9abaa7100e43521f0.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260818/ace2c9ddf81146b9abaa7100e43521f0.png"
       }
-    ]
+    ],
+    "v3ResourceUuid": "814955df-ea3b-5420-8342-11c210627d8e"
   },
   {
     "mod": "斩神录",
