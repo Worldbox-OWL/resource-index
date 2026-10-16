@@ -6585,5 +6585,40 @@
       }
     ],
     "v3ResourceUuid": "e5793a86-28d1-4465-a22e-f22133631d06"
+  },
+  {
+    "mod": "新斗罗大陆",
+    "introduce": "一个有武魂的世界",
+    "author": "古希腊掌管ai的神",
+    "tag": [
+      "修炼体系",
+      "原著衍生",
+      "独特生物"
+    ],
+    "index": null,
+    "updatedAt": 1792140393,
+    "versions": [
+      {
+        "uuid": "b81e838c0fd245f08a1f42a7451e2d72",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.1.0-game0.51.x-b81e838c/trimmed.zip",
+        "createdAt": 1792140393,
+        "updatedAt": 1792140401,
+        "size": null,
+        "modVersion": "1.1.0",
+        "v3ReleaseUuid": "b81e838c0fd245f08a1f42a7451e2d72",
+        "author": "古希腊掌管ai的神",
+        "introduce": "一个有武魂的世界",
+        "tag": [
+          "修炼体系",
+          "原著衍生",
+          "独特生物"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261016/3a7b01151e4b000fcfb09681fd0b1dbd0b611204f37787b74d00b521a507e631.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261016/3a7b01151e4b000fcfb09681fd0b1dbd0b611204f37787b74d00b521a507e631.png"
+      }
+    ],
+    "v3ResourceUuid": "9c6a1ac3-b412-4bd3-a642-79bb30943c06"
   }
 ]
