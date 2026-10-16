@@ -6219,5 +6219,40 @@
       }
     ],
     "v3ResourceUuid": "3f7a4f63-0ef8-42a7-ad7e-04729f2bd7c5"
+  },
+  {
+    "mod": "战斗之神CombatGods",
+    "introduce": "①战斗之路:段位-新手(白)、好手(蓝)、专家(黄)、大师(橙、双流派)、宗师(红)、神(金黑、神通、三流派)；太初(太初技法)。太初仅能手动赋予，各段单位周身会环绕气场方便分辨\r\n流派-铁拳、岚腿、千刃、气功、裂地、幻步、猎道；在战斗中可将习得技法提升为奥义\r\n技法-通用、流派(限制流派)、合体(多人共同)、神通、太初\r\n②其他：模组设置-自动收藏、段位限制、神数量限制、世界终焉(敌对太初直接开始战斗)\r\n权能-各段位赋予、降级、释放绝技、模组设置",
+    "author": "Turbo",
+    "tag": [
+      "修炼体系",
+      "功能扩展",
+      "大型模组"
+    ],
+    "index": null,
+    "updatedAt": 1792113475,
+    "versions": [
+      {
+        "uuid": "7bf5eda7220a4619934b97d6a6a21292",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.2-game0.51.x-7bf5eda7/trimmed.zip",
+        "createdAt": 1792113475,
+        "updatedAt": 1792113483,
+        "size": null,
+        "modVersion": "1.0.2",
+        "v3ReleaseUuid": "7bf5eda7220a4619934b97d6a6a21292",
+        "author": "Turbo",
+        "introduce": "①战斗之路:段位-新手(白)、好手(蓝)、专家(黄)、大师(橙、双流派)、宗师(红)、神(金黑、神通、三流派)；太初(太初技法)。太初仅能手动赋予，各段单位周身会环绕气场方便分辨\r\n流派-铁拳、岚腿、千刃、气功、裂地、幻步、猎道；在战斗中可将习得技法提升为奥义\r\n技法-通用、流派(限制流派)、合体(多人共同)、神通、太初\r\n②其他：模组设置-自动收藏、段位限制、神数量限制、世界终焉(敌对太初直接开始战斗)\r\n权能-各段位赋予、降级、释放绝技、模组设置",
+        "tag": [
+          "修炼体系",
+          "功能扩展",
+          "大型模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261016/1b8c2171a373eacfdfaaa285275badcd9d323a1aeed66be5ee87bf536e1b8252.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261016/1b8c2171a373eacfdfaaa285275badcd9d323a1aeed66be5ee87bf536e1b8252.png"
+      }
+    ],
+    "v3ResourceUuid": "e5793a86-28d1-4465-a22e-f22133631d06"
   }
 ]
