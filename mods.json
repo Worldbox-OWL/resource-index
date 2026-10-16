@@ -5203,14 +5203,14 @@
   },
   {
     "mod": "天人武道",
-    "introduce": "1.0.8.4内容:1、修复后天后期会脱离阵营成为流民的问题，即小人杀自己国家的人的问题\r\n2、优化，提高流畅度\r\n3、修复一些卡死问题\r\n\r\n1.0.8.3内容:\r\n1、新增三条天人晋升路线\r\n神通天人、破限天人（属性突破21亿上限）、气运天人，各有专属成长逻辑与定位。\r\n 2、模组专属纪元系统（上帝可自由调换纪元顺序，高阶武者少时慎用禁忌纪元）\r\n ①大道纪元：修行增益，更容易领悟神通\r\n​②天命纪元：唯气运天人可成，列国持续征战，大一统后诞生人皇\r\n​③禁忌纪元：世界沉沦黑暗，仅城池气运可保安全，可进阶三尸诡仙\r\n​④末法纪元：神通天人获取经验大幅衰减\r\n​⑤绝灵纪元：天地灵脉枯竭，神通天人体系近乎锁死",
+    "introduce": "0.51天人武道1.0.8.9\r\n4、兼容战斗之神，突破到对应境界，会获得战斗之神的对应境界特质，流派适配功法，如果功法类型是剑，战斗之神中流派必定是剑决，同时天人武道不会错误的把战斗之神中的技能伤害归零\r\n2、添加最高境界限制\r\n3、降低突破死亡率\r\n4、修复被眩晕的bug\r\n5、优化，提高流畅度",
     "author": "摸鱼",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260923/c5ea6bc87c9f41fe8f86ed6f9ee517ac.jpg",
     "tag": [
       "修炼体系"
     ],
     "index": null,
-    "updatedAt": 1791643442,
+    "updatedAt": 1792162136,
     "versions": [
       {
         "uuid": "4a67626c900847b68f38c9aaad114516",
@@ -5269,6 +5269,26 @@
         ],
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261010/255cb051ee5683787f1f5529cd4233c17eb71c937ac6fe84e815ddfaacba88a4.jpg",
         "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261010/255cb051ee5683787f1f5529cd4233c17eb71c937ac6fe84e815ddfaacba88a4.jpg"
+      },
+      {
+        "uuid": "4b4664635e104b598f10b41385f6017f",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.0.8.9-game0.51.x-4b466463/trimmed.zip",
+        "createdAt": 1792162136,
+        "updatedAt": 1792162147,
+        "size": null,
+        "modVersion": "1.0.8.9",
+        "v3ReleaseUuid": "4b4664635e104b598f10b41385f6017f",
+        "author": "摸鱼",
+        "introduce": "0.51天人武道1.0.8.9\r\n4、兼容战斗之神，突破到对应境界，会获得战斗之神的对应境界特质，流派适配功法，如果功法类型是剑，战斗之神中流派必定是剑决，同时天人武道不会错误的把战斗之神中的技能伤害归零\r\n2、添加最高境界限制\r\n3、降低突破死亡率\r\n4、修复被眩晕的bug\r\n5、优化，提高流畅度",
+        "tag": [
+          "修炼体系",
+          "大型模组",
+          "独特生物"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261016/255cb051ee5683787f1f5529cd4233c17eb71c937ac6fe84e815ddfaacba88a4.jpg",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261016/255cb051ee5683787f1f5529cd4233c17eb71c937ac6fe84e815ddfaacba88a4.jpg"
       }
     ],
     "v3ResourceUuid": "bf700e48-ec4a-56c3-9ee0-dfc33b81f16c"
