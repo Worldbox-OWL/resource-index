@@ -6739,5 +6739,38 @@
       }
     ],
     "v3ResourceUuid": "35dc52f7-5457-41f3-8fe3-8a2a4847bb18"
+  },
+  {
+    "mod": "风云排行榜",
+    "introduce": "最强大的排行榜mod，国家争斗看海和修仙必装",
+    "author": "Mo",
+    "tag": [
+      "功能扩展",
+      "辅助模组"
+    ],
+    "index": null,
+    "updatedAt": 1792395897,
+    "versions": [
+      {
+        "uuid": "ee594d43011741318da17dcabcfd87c2",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.1-game0.51.x-ee594d43/trimmed.zip",
+        "createdAt": 1792395897,
+        "updatedAt": 1792395904,
+        "size": null,
+        "modVersion": "1.3.1",
+        "v3ReleaseUuid": "ee594d43011741318da17dcabcfd87c2",
+        "author": "Mo",
+        "introduce": "最强大的排行榜mod，国家争斗看海和修仙必装",
+        "tag": [
+          "功能扩展",
+          "辅助模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261019/2f7a7071a4728db3347105d3eff6df86a5c968d9cfbdc7e7131d8d282ba54c64.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261019/2f7a7071a4728db3347105d3eff6df86a5c968d9cfbdc7e7131d8d282ba54c64.png"
+      }
+    ],
+    "v3ResourceUuid": "48d2e962-c6b2-474b-b9ae-77e09d7af35f"
   }
 ]
