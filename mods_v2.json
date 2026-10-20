@@ -4723,14 +4723,14 @@
   },
   {
     "mod": "古典经济学",
-    "introduce": "让经济风暴席卷一切！通过在原版基础上进行构建的新经济系统，让玩家扮演国家进行征伐，统治。ui全面重置，更好的使用，设置优化，军队名称显示等等。。。",
+    "introduce": "《古典经济学》为 WorldBox 加入一套宏观经济与国家治理模拟。①宏观经济监测：按王国统计财富、GDP、贫富差距与物价，并呈现繁荣、衰退、萧条与复苏等经济周期。 ②银行与货币政策：城市银行拥有真实存贷款账本，贷款违约会向弱国传染；玩家可通过中央银行操作台调整利率、额度与准备金，并观察挤兑风险和商业税变化。 ③中央银行家玩法：可认领国家，管理王室金库、持续政策、法令、原版建筑放置、外交关系和政绩，并查看本国经济趋势。 ④法典与国策：王国法律与国策会由 AI 演变，并影响国民状态和多个治理系统。 ⑤统治者性格与议会制衡：读取原版国王性格特质，影响政策成功率、国库侵蚀、事件倾向和议会制衡效果。 ⑥王国抉择事件：提供多族事件池、随机事件组合、跨年连锁剧情、国王名代入和扩展事件效果，玩家与 AI 会按国家情况作出决断。 ⑦界面与本地化：包含内阁待办、事件流、事件过滤与折叠、字体和按钮缩放，并支持多种界面语言自动跟随游戏本体。",
     "author": "Jake",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260918/07a361c38672412ea47a1995fabba35c.png",
     "tag": [
       "功能扩展"
     ],
     "index": null,
-    "updatedAt": 1792429390,
+    "updatedAt": 1792512668,
     "versions": [
       {
         "uuid": "bdbee3b775de41699183449b8a56c82c",
@@ -4764,6 +4764,26 @@
         ],
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261019/3e225ac29a28c88e52788ed0deb1f267b1385f7a78c7ca42d4783d6c60298546.png",
         "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261019/3e225ac29a28c88e52788ed0deb1f267b1385f7a78c7ca42d4783d6c60298546.png"
+      },
+      {
+        "uuid": "d0c4247a4f03488685df642f6ffdc7a5",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.3.1-game0.51.x-d0c4247a/trimmed.zip",
+        "createdAt": 1792512668,
+        "updatedAt": 1792512673,
+        "size": null,
+        "modVersion": "2.3.1",
+        "v3ReleaseUuid": "d0c4247a4f03488685df642f6ffdc7a5",
+        "author": "Jake",
+        "introduce": "《古典经济学》为 WorldBox 加入一套宏观经济与国家治理模拟。①宏观经济监测：按王国统计财富、GDP、贫富差距与物价，并呈现繁荣、衰退、萧条与复苏等经济周期。 ②银行与货币政策：城市银行拥有真实存贷款账本，贷款违约会向弱国传染；玩家可通过中央银行操作台调整利率、额度与准备金，并观察挤兑风险和商业税变化。 ③中央银行家玩法：可认领国家，管理王室金库、持续政策、法令、原版建筑放置、外交关系和政绩，并查看本国经济趋势。 ④法典与国策：王国法律与国策会由 AI 演变，并影响国民状态和多个治理系统。 ⑤统治者性格与议会制衡：读取原版国王性格特质，影响政策成功率、国库侵蚀、事件倾向和议会制衡效果。 ⑥王国抉择事件：提供多族事件池、随机事件组合、跨年连锁剧情、国王名代入和扩展事件效果，玩家与 AI 会按国家情况作出决断。 ⑦界面与本地化：包含内阁待办、事件流、事件过滤与折叠、字体和按钮缩放，并支持多种界面语言自动跟随游戏本体。",
+        "tag": [
+          "功能扩展",
+          "原生调整",
+          "大型模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261020/3e225ac29a28c88e52788ed0deb1f267b1385f7a78c7ca42d4783d6c60298546.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261020/3e225ac29a28c88e52788ed0deb1f267b1385f7a78c7ca42d4783d6c60298546.png"
       }
     ],
     "v3ResourceUuid": "660dd5c7-b65a-520f-b48c-c18ac7829ada"
