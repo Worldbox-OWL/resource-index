@@ -5649,15 +5649,15 @@
   },
   {
     "mod": "仙逆",
-    "introduce": "修仙类型",
+    "introduce": "以《仙逆》修真世界为主题的大型修仙内容模组重制版，为游戏补充修真题材的玩法内容与修炼体系，适合希望体验修仙题材的玩家。①修真题材内容：围绕《仙逆》修真世界主题，为游戏补充修仙题材的玩法内容与修炼体系。 ②大型内容模组：以体量较大的单一内容包形式提供，覆盖修仙题材的主要内容玩法。 ③重制版本更新：本次为重制后的新版本（0.28.1），与旧版仙逆模组互不兼容，需单独使用。",
     "author": "康康",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260930/2d75f947c4a6492c9fe9903330b09cc1.png",
     "tag": [
-      "大型模组",
-      "修炼体系"
+      "修炼体系",
+      "大型模组"
     ],
     "index": null,
-    "updatedAt": 1790780281,
+    "updatedAt": 1792828630,
     "versions": [
       {
         "uuid": "ba4a89d346fb4485a67bc9455eb13b35",
@@ -5665,13 +5665,36 @@
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4.2-game0.51.x-20260930145801-dc1979be/trimmed.zip",
         "createdAt": 1790780281,
+        "updatedAt": 1790780281,
         "size": null,
         "modVersion": "0.4.2",
+        "v3ReleaseUuid": "ba4a89d346fb4485a67bc9455eb13b35",
         "author": "康康",
         "introduce": "修仙类型",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260930/2d75f947c4a6492c9fe9903330b09cc1.png"
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260930/2d75f947c4a6492c9fe9903330b09cc1.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260930/2d75f947c4a6492c9fe9903330b09cc1.png"
+      },
+      {
+        "uuid": "20585339ff3e4a5f924b166a9ea71f69",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.28.1-game0.51.x-20585339/trimmed.zip",
+        "createdAt": 1792828630,
+        "updatedAt": 1792828636,
+        "size": null,
+        "modVersion": "0.28.1",
+        "v3ReleaseUuid": "20585339ff3e4a5f924b166a9ea71f69",
+        "author": "康康",
+        "introduce": "以《仙逆》修真世界为主题的大型修仙内容模组重制版，为游戏补充修真题材的玩法内容与修炼体系，适合希望体验修仙题材的玩家。①修真题材内容：围绕《仙逆》修真世界主题，为游戏补充修仙题材的玩法内容与修炼体系。 ②大型内容模组：以体量较大的单一内容包形式提供，覆盖修仙题材的主要内容玩法。 ③重制版本更新：本次为重制后的新版本（0.28.1），与旧版仙逆模组互不兼容，需单独使用。",
+        "tag": [
+          "修炼体系",
+          "大型模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261024/e808515b4207bc32a700ebb27c1737635bd265c490cd32358bf502c031259d40.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261024/e808515b4207bc32a700ebb27c1737635bd265c490cd32358bf502c031259d40.png"
       }
-    ]
+    ],
+    "v3ResourceUuid": "016fe11b-7ca0-5036-8da6-6b21dfb9b9d6"
   },
   {
     "mod": "主神空间·万界",
