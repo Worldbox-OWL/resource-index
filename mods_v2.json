@@ -4743,14 +4743,14 @@
   },
   {
     "mod": "古典经济学",
-    "introduce": "《古典经济学》为 WorldBox 加入宏观经济与国家治理模拟：按王国统计财富、GDP、贫富差距和物价，并呈现繁荣、衰退、萧条与复苏的经济周期；城市银行拥有真实的存贷款账本，贷款违约会向弱国传染，玩家可通过中央银行操作台调整利率、额度与准备。①宏观经济监测：按王国统计财富与经济指标，并呈现繁荣、衰退、萧条和复苏等经济周期。 ②银行与货币政策：城市银行拥有真实的存贷款账本，贷款违约可能在弱国间传染；中央银行操作台可调整利率、额度与准备金，并显示挤兑风险和商业税变化。 ③中央银行家经营国家：可认领国家并管理王室金库、持续政策、法令、原版建筑放置、外交关系与施政政绩，同时查看本国经济趋势。 ④法典、国策与统治者性格：王国法律与国策会由 AI 演变并影响国民状态；原版国王性格特质会影响政策成功率、国库侵蚀、事件倾向和议会制衡。 ⑤王国抉择事件：提供多族事件池、随机事件组合、跨年连锁剧情、国王名代入和扩展事件效果，玩家与 AI 会依据国家情况作出决断。 ⑥内阁与界面本地化：包含内阁待办、事件流过滤折叠、字体和按钮缩放，并支持多种界面语言自动跟随游戏本体。",
+    "introduce": "现在兼容帝国盒子（Empirecraft）虚拟小人模式！\r\n让经济风暴席卷一切！通过在原版基础上进行构建的新经济系统，让玩家扮演国家进行征伐，统治。ui全面重置，更好的使用，设置优化，军队名称显示等等。。。",
     "author": "Jake",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260918/07a361c38672412ea47a1995fabba35c.png",
     "tag": [
       "功能扩展"
     ],
     "index": null,
-    "updatedAt": 1792600773,
+    "updatedAt": 1792845448,
     "versions": [
       {
         "uuid": "bdbee3b775de41699183449b8a56c82c",
@@ -4823,6 +4823,25 @@
         ],
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261021/3e225ac29a28c88e52788ed0deb1f267b1385f7a78c7ca42d4783d6c60298546.png",
         "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261021/3e225ac29a28c88e52788ed0deb1f267b1385f7a78c7ca42d4783d6c60298546.png"
+      },
+      {
+        "uuid": "6c3ab65e03624ba082972f52386b127c",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.3.2-game0.51.x-6c3ab65e/trimmed.zip",
+        "createdAt": 1792845448,
+        "updatedAt": 1792845456,
+        "size": null,
+        "modVersion": "2.3.2",
+        "v3ReleaseUuid": "6c3ab65e03624ba082972f52386b127c",
+        "author": "Jake",
+        "introduce": "现在兼容帝国盒子（Empirecraft）虚拟小人模式！\r\n让经济风暴席卷一切！通过在原版基础上进行构建的新经济系统，让玩家扮演国家进行征伐，统治。ui全面重置，更好的使用，设置优化，军队名称显示等等。。。",
+        "tag": [
+          "功能扩展",
+          "大型模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261024/3e225ac29a28c88e52788ed0deb1f267b1385f7a78c7ca42d4783d6c60298546.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261024/3e225ac29a28c88e52788ed0deb1f267b1385f7a78c7ca42d4783d6c60298546.png"
       }
     ],
     "v3ResourceUuid": "660dd5c7-b65a-520f-b48c-c18ac7829ada"
