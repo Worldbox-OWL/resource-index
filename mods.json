@@ -4734,23 +4734,34 @@
   },
   {
     "mod": "主神空间·万界",
-    "introduce": "你是创世神本模组提供更加自由的可能性，你可以随意修改人物及特质属性数据，也可以打开轮回者诞生功能，把这当做一个体系，点击链接即可查看详细介绍：https://zak-netizen-tech.github.io/zhu-shen-kong-jian/",
+    "introduce": "适配不了手机版",
     "author": "扎克",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/bdc6ce51cb32433da836ccd4224e84e8.jpg",
     "tag": [
-      "辅助模组",
-      "修炼体系"
+      "修炼体系",
+      "辅助模组"
     ],
     "index": null,
-    "updatedAt": 1790868956,
+    "updatedAt": 1792844737,
     "versions": [
       {
         "uuid": "10cae095f6344ee6a1ac5722db05a517",
         "gameversion": "0.51.x",
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.73-game0.51.x-20260920094433-c1b3fd73/trimmed.zip",
+        "createdAt": 1789897473,
+        "updatedAt": 1789897473,
         "size": null,
-        "modVersion": "1.73"
+        "modVersion": "1.73",
+        "v3ReleaseUuid": "10cae095f6344ee6a1ac5722db05a517",
+        "author": "扎克",
+        "introduce": "你是创世神本模组提供更加自由的可能性，你可以随意修改人物及特质属性数据，也可以打开轮回者诞生功能，把这当做一个体系，点击链接即可查看详细介绍：https://zak-netizen-tech.github.io/zhu-shen-kong-jian/",
+        "tag": [
+          "修炼体系",
+          "辅助模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/bdc6ce51cb32433da836ccd4224e84e8.jpg",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260920/bdc6ce51cb32433da836ccd4224e84e8.jpg"
       },
       {
         "uuid": "f083af35548f4579aaf877a7891437c2",
@@ -4758,15 +4769,18 @@
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.8-game0.51.2-20260927145518-e38ee24a/trimmed.zip",
         "createdAt": 1790520918,
+        "updatedAt": 1790520918,
         "size": null,
         "modVersion": "1.8",
-        "tag": [
-          "辅助模组",
-          "修炼体系"
-        ],
+        "v3ReleaseUuid": "f083af35548f4579aaf877a7891437c2",
         "author": "扎克",
         "introduce": "修改器和轮回者和一些有意思的小玩意儿，比如无限手套轮回眼死亡笔记等，详情请看链接：https://zak-netizen-tech.github.io/zhu-shen-kong-jian/",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260927/832cecc86d844977b3141a50b2265c9a.jpg"
+        "tag": [
+          "修炼体系",
+          "辅助模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260927/832cecc86d844977b3141a50b2265c9a.jpg",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260927/832cecc86d844977b3141a50b2265c9a.jpg"
       },
       {
         "uuid": "452eae56914d48c4b979257eb8e0da00",
@@ -4774,17 +4788,40 @@
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.9-game0.51.2-20261001153556-80f6e3de/trimmed.zip",
         "createdAt": 1790868956,
+        "updatedAt": 1790868956,
         "size": null,
         "modVersion": "1.9",
-        "tag": [
-          "辅助模组",
-          "修炼体系"
-        ],
+        "v3ReleaseUuid": "452eae56914d48c4b979257eb8e0da00",
         "author": "扎克",
         "introduce": "浅浅的还原了一下主神空间的功能",
-        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/6b11f2f85228470aa314ab26a8bda11a.jpg"
+        "tag": [
+          "修炼体系",
+          "辅助模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/6b11f2f85228470aa314ab26a8bda11a.jpg",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261001/6b11f2f85228470aa314ab26a8bda11a.jpg"
+      },
+      {
+        "uuid": "c4a6f3596296414ba9c867d1c1f66242",
+        "gameversion": "0.51.2",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.93-game0.51.2-c4a6f359/trimmed.zip",
+        "createdAt": 1792844737,
+        "updatedAt": 1792844744,
+        "size": null,
+        "modVersion": "1.93",
+        "v3ReleaseUuid": "c4a6f3596296414ba9c867d1c1f66242",
+        "author": "扎克",
+        "introduce": "适配不了手机版",
+        "tag": [
+          "修炼体系",
+          "辅助模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261024/dc4a7ac0e79f34b65ce718c49b06583d89d900508815df22fad085e785ac243f.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261024/dc4a7ac0e79f34b65ce718c49b06583d89d900508815df22fad085e785ac243f.png"
       }
-    ]
+    ],
+    "v3ResourceUuid": "49dd56d9-59b2-5c56-bb2a-99d24cc606e4"
   },
   {
     "mod": "趣玩增益FunBoost",
