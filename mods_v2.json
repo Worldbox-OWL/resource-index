@@ -6835,7 +6835,7 @@
   },
   {
     "mod": "Re-EarlyMordenWar近代战争重制版",
-    "introduce": "以十九世纪前中期为背景的模组，对政治，经济，外交，战争进行了较大的修改，并且进行了UI美化",
+    "introduce": "以十九世纪前中期为背景的模组，对政治，经济，外交，战争进行了较大的修改，并且进行了UI和建筑美化",
     "author": "Nancun & Garden_eel#3649",
     "tag": [
       "功能扩展",
@@ -6843,7 +6843,7 @@
       "近现代科技"
     ],
     "index": null,
-    "updatedAt": 1792681870,
+    "updatedAt": 1792843171,
     "versions": [
       {
         "uuid": "fe38571805c94f198dd403ec398e4a5f",
@@ -6924,6 +6924,26 @@
         ],
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261022/6267e85d41b68cbc840177369998995b360b8b6b88714fb2ef7e0c67f23f6f7e.png",
         "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261022/6267e85d41b68cbc840177369998995b360b8b6b88714fb2ef7e0c67f23f6f7e.png"
+      },
+      {
+        "uuid": "c7b8e5aaf3b9462c964e924ad41dc740",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4.9-flash-game0.51.x-c7b8e5aa/trimmed.zip",
+        "createdAt": 1792843171,
+        "updatedAt": 1792843179,
+        "size": null,
+        "modVersion": "0.4.9-flash",
+        "v3ReleaseUuid": "c7b8e5aaf3b9462c964e924ad41dc740",
+        "author": "Nancun & Garden_eel#3649",
+        "introduce": "以十九世纪前中期为背景的模组，对政治，经济，外交，战争进行了较大的修改，并且进行了UI和建筑美化",
+        "tag": [
+          "功能扩展",
+          "大型模组",
+          "近现代科技"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261024/6267e85d41b68cbc840177369998995b360b8b6b88714fb2ef7e0c67f23f6f7e.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261024/6267e85d41b68cbc840177369998995b360b8b6b88714fb2ef7e0c67f23f6f7e.png"
       }
     ],
     "v3ResourceUuid": "35dc52f7-5457-41f3-8fe3-8a2a4847bb18"
