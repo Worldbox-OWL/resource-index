@@ -4513,14 +4513,14 @@
   },
   {
     "mod": "古典经济学",
-    "introduce": "现在兼容帝国盒子（Empirecraft）虚拟小人模式！\r\n让经济风暴席卷一切！通过在原版基础上进行构建的新经济系统，让玩家扮演国家进行征伐，统治。ui全面重置，更好的使用，设置优化，军队名称显示等等。。。",
+    "introduce": "现在兼容外交大修和帝国盒子（Empirecraft）虚拟小人模式！\r\n让经济风暴席卷一切！通过在原版基础上进行构建的新经济系统，让玩家扮演国家进行征伐，统治。ui全面重置，更好的使用，设置优化，军队名称显示等等。。。",
     "author": "Jake",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260918/07a361c38672412ea47a1995fabba35c.png",
     "tag": [
       "功能扩展"
     ],
     "index": null,
-    "updatedAt": 1792845448,
+    "updatedAt": 1792936829,
     "versions": [
       {
         "uuid": "bdbee3b775de41699183449b8a56c82c",
@@ -4612,6 +4612,25 @@
         ],
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261024/3e225ac29a28c88e52788ed0deb1f267b1385f7a78c7ca42d4783d6c60298546.png",
         "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261024/3e225ac29a28c88e52788ed0deb1f267b1385f7a78c7ca42d4783d6c60298546.png"
+      },
+      {
+        "uuid": "2c9cf3b21514414fb7e767110c0b3d16",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.3.5-game0.51.x-2c9cf3b2/trimmed.zip",
+        "createdAt": 1792936829,
+        "updatedAt": 1792936836,
+        "size": null,
+        "modVersion": "2.3.5",
+        "v3ReleaseUuid": "2c9cf3b21514414fb7e767110c0b3d16",
+        "author": "Jake",
+        "introduce": "现在兼容外交大修和帝国盒子（Empirecraft）虚拟小人模式！\r\n让经济风暴席卷一切！通过在原版基础上进行构建的新经济系统，让玩家扮演国家进行征伐，统治。ui全面重置，更好的使用，设置优化，军队名称显示等等。。。",
+        "tag": [
+          "功能扩展",
+          "大型模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261025/3e225ac29a28c88e52788ed0deb1f267b1385f7a78c7ca42d4783d6c60298546.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261025/3e225ac29a28c88e52788ed0deb1f267b1385f7a78c7ca42d4783d6c60298546.png"
       }
     ],
     "v3ResourceUuid": "660dd5c7-b65a-520f-b48c-c18ac7829ada"
