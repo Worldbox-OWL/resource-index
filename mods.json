@@ -6635,7 +6635,7 @@
       "近现代科技"
     ],
     "index": null,
-    "updatedAt": 1792989169,
+    "updatedAt": 1793197115,
     "versions": [
       {
         "uuid": "fe38571805c94f198dd403ec398e4a5f",
@@ -6756,6 +6756,26 @@
         ],
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261026/6267e85d41b68cbc840177369998995b360b8b6b88714fb2ef7e0c67f23f6f7e.png",
         "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261026/6267e85d41b68cbc840177369998995b360b8b6b88714fb2ef7e0c67f23f6f7e.png"
+      },
+      {
+        "uuid": "c45ae192df394e448c536c27a53277fc",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.4.10-base-game0.51.x-c45ae192/trimmed.zip",
+        "createdAt": 1793197115,
+        "updatedAt": 1793197124,
+        "size": null,
+        "modVersion": "0.4.10-base",
+        "v3ReleaseUuid": "c45ae192df394e448c536c27a53277fc",
+        "author": "Nancun & Garden_eel#3649",
+        "introduce": "以十九世纪前中期为背景的模组，对政治，经济，外交，战争进行了较大的修改，并且进行了UI和建筑美化",
+        "tag": [
+          "功能扩展",
+          "大型模组",
+          "近现代科技"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261028/6267e85d41b68cbc840177369998995b360b8b6b88714fb2ef7e0c67f23f6f7e.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261028/6267e85d41b68cbc840177369998995b360b8b6b88714fb2ef7e0c67f23f6f7e.png"
       }
     ],
     "v3ResourceUuid": "35dc52f7-5457-41f3-8fe3-8a2a4847bb18"
