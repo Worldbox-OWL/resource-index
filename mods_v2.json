@@ -7394,5 +7394,38 @@
       }
     ],
     "v3ResourceUuid": "1e20e008-b7c1-454b-8410-e82d737b7a8d"
+  },
+  {
+    "mod": "蛊真人·吾命如蛊",
+    "introduce": "蛊真人模组",
+    "author": "ShakeingQ",
+    "tag": [
+      "修炼体系",
+      "原著衍生"
+    ],
+    "index": null,
+    "updatedAt": 1793205601,
+    "versions": [
+      {
+        "uuid": "3e4fea3717ea44b598c460f3242296c7",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v0.65.1-game0.51.x-3e4fea37/trimmed.zip",
+        "createdAt": 1793205601,
+        "updatedAt": 1793205620,
+        "size": null,
+        "modVersion": "0.65.1",
+        "v3ReleaseUuid": "3e4fea3717ea44b598c460f3242296c7",
+        "author": "ShakeingQ",
+        "introduce": "蛊真人模组",
+        "tag": [
+          "修炼体系",
+          "原著衍生"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261028/570facf671f1a9d62a2fb4facf6dc62e353c4104f62a122a412e7f323c053791.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261028/570facf671f1a9d62a2fb4facf6dc62e353c4104f62a122a412e7f323c053791.png"
+      }
+    ],
+    "v3ResourceUuid": "9351d698-06bc-4765-9f3a-ae619775ce5f"
   }
 ]
