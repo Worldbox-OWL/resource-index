@@ -6217,14 +6217,14 @@
   },
   {
     "mod": "Worldfall：WaterLight",
-    "introduce": "为3D模组适配了光影水面镜像",
+    "introduce": "适配3D模组的水面倒影、Sildur风格天空光影与涟漪的反射增强模组",
     "author": "信仰芙芙の博士",
     "tag": [
       "功能扩展",
       "辅助模组"
     ],
     "index": null,
-    "updatedAt": 1791973331,
+    "updatedAt": 1793174539,
     "versions": [
       {
         "uuid": "96847f194da046ce857ea55f14d724ef",
@@ -6282,6 +6282,25 @@
         ],
         "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261014/8c0ebc02bdcc232d2e48b102f48e9c004d33908baea40eeef7d0a8b397188fbc.png",
         "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261014/8c0ebc02bdcc232d2e48b102f48e9c004d33908baea40eeef7d0a8b397188fbc.png"
+      },
+      {
+        "uuid": "27de6792eb31449abb67a0480a915d98",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.3.0-game0.51.x-27de6792/trimmed.zip",
+        "createdAt": 1793174539,
+        "updatedAt": 1793174547,
+        "size": null,
+        "modVersion": "1.3.0",
+        "v3ReleaseUuid": "27de6792eb31449abb67a0480a915d98",
+        "author": "信仰芙芙の博士",
+        "introduce": "适配3D模组的水面倒影、Sildur风格天空光影与涟漪的反射增强模组",
+        "tag": [
+          "功能扩展",
+          "辅助模组"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261028/8c0ebc02bdcc232d2e48b102f48e9c004d33908baea40eeef7d0a8b397188fbc.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261028/8c0ebc02bdcc232d2e48b102f48e9c004d33908baea40eeef7d0a8b397188fbc.png"
       }
     ],
     "v3ResourceUuid": "20f73f9f-f004-44c0-b4b6-5d98effefa38"
