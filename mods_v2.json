@@ -3519,27 +3519,54 @@
   },
   {
     "mod": "忍者盒ShinobiBox",
-    "introduce": "①氏族特色：日向一族白眼；宇智波一族(因陀罗后裔)多种写轮眼；千手一族(柱间后裔)木遁；漩涡一族(阿修罗后裔)九尾人柱力；秋道一族倍化之术；李一族体术\n②晋升机制：忍者-忍校生(上述氏族及其他天才达到2级)、下忍(等级3)、中忍(等级5)、上忍(等级7)、暗部(等级9)、影(国王)、传奇忍(拥有任一仙术特质)、忍者之神(掌握土火雷水风属性)\n人柱力-需九尾人柱力(击杀九尾)-初期释放(2级)、尾兽衣V1(2级半血)、尾兽衣V2(3级)、不完全尾兽(4级)、九尾查克拉(6级、智力或外交≥20)、九尾连结(7级)、九尾化身(8级)。九尾连结/化身并拥有任一仙术可开启九尾仙人模式。九尾连结/化身濒死时有概率使用重粒子模式自爆\n写轮眼-宇智波击杀数达到30或经历悲剧会觉醒万花筒(可使用基础须佐能乎)；万花筒对战万花筒濒死时可觉醒永恒万花筒(可使用神威虚化)；羽衣+40岁 / 因陀罗+柱间细胞 / 阿修罗+万花筒 可以获得轮回眼",
-    "author": "RayTracerX",
+    "introduce": "在 WorldBox 原生模拟之上叠加一层忍者体系。单位为人类，按概率获得查克拉属性与忍族血统，自主成长、晋升、结族与交战；玩家通过权柄施加条件，不直接操控个体。含 24 个忍族与 180 余种混血血统、18 种万花筒花纹（带失明累积）、须佐能乎、白眼与转生眼、五种基础性质与 20 余种进阶遁术、四支仙术与八门遁甲、11 只尾兽与人柱力机制、中忍／上忍考试与实时对阵表、六个卷轴流派、九种体术、可实际装备的忍具、晓与叛忍、悬赏榜、任务功勋与编年史。",
+    "author": "LucidVIII",
     "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260226/fc45a5a5ece54db3b5efeff275c71c30.png",
     "tag": [
-      "半成品",
       "修炼体系",
+      "半成品",
       "原著衍生"
     ],
     "index": null,
-    "updatedAt": 1775151097,
+    "updatedAt": 1793183561,
     "versions": [
       {
         "uuid": "4735ab6b48ab4ac68aa466f2ffa3b5a2",
         "gameversion": "0.51.x",
-        "modVersion": "2.0.1",
-        "size": null,
         "variant": null,
         "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/%E5%BF%8D%E8%80%85%E7%9B%92ShinobiBox-v2.0.1-game0.51.x-20260402173126/0.51.%2B.ShinobiBox_2.0.1.zip",
-        "createdAt": 1775151097
+        "createdAt": 1775151097,
+        "updatedAt": 1775151097,
+        "size": null,
+        "modVersion": "2.0.1",
+        "v3ReleaseUuid": "4735ab6b48ab4ac68aa466f2ffa3b5a2",
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260226/fc45a5a5ece54db3b5efeff275c71c30.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20260226/fc45a5a5ece54db3b5efeff275c71c30.png"
+      },
+      {
+        "uuid": "4a3d165b6189409393b854e9a8650464",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v2.1.17-game0.51.x-4a3d165b/trimmed.zip",
+        "createdAt": 1793183561,
+        "updatedAt": 1793183568,
+        "size": null,
+        "modVersion": "2.1.17",
+        "v3ReleaseUuid": "4a3d165b6189409393b854e9a8650464",
+        "author": "LucidVIII",
+        "introduce": "在 WorldBox 原生模拟之上叠加一层忍者体系。单位为人类，按概率获得查克拉属性与忍族血统，自主成长、晋升、结族与交战；玩家通过权柄施加条件，不直接操控个体。含 24 个忍族与 180 余种混血血统、18 种万花筒花纹（带失明累积）、须佐能乎、白眼与转生眼、五种基础性质与 20 余种进阶遁术、四支仙术与八门遁甲、11 只尾兽与人柱力机制、中忍／上忍考试与实时对阵表、六个卷轴流派、九种体术、可实际装备的忍具、晓与叛忍、悬赏榜、任务功勋与编年史。",
+        "tag": [
+          "修炼体系",
+          "功能扩展",
+          "原著衍生",
+          "大型模组",
+          "独特生物"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261028/8c1d211ca9a25309716ab80eaf61669e2280c6f8ebee4f966baabbd8b3835425.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261028/8c1d211ca9a25309716ab80eaf61669e2280c6f8ebee4f966baabbd8b3835425.png"
       }
-    ]
+    ],
+    "v3ResourceUuid": "1898e1a0-f1ef-54ce-bf8a-5537b25e8916"
   },
   {
     "mod": "城市领土限制CityLimiter",
