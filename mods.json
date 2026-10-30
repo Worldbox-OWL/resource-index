@@ -7144,5 +7144,40 @@
       }
     ],
     "v3ResourceUuid": "9351d698-06bc-4765-9f3a-ae619775ce5f"
+  },
+  {
+    "mod": "万记",
+    "introduce": "1：默认开启克苏鲁修仙，修炼者有概率成为怪物，可在模组设置关闭\r\n2：三条修炼道途\r\n求法者：入门求法者，小神通，中神通，大神通，突破时抽取技能，有概率成为因果律修行者或者普通修行者\r\n武道：铜皮，铁骨，玉身，圣体，每个境界会带有武学（技能特效）在战斗之时可以获取气血\r\n剑道：剑修，剑圣，剑帝，剑神，共有两种不同样子的飞剑，剑圣之后，攻击时会召唤坠剑",
+    "author": "浩瀚星空里的林白",
+    "tag": [
+      "修炼体系",
+      "功能扩展",
+      "独特生物"
+    ],
+    "index": null,
+    "updatedAt": 1793374050,
+    "versions": [
+      {
+        "uuid": "dc98b1e604494441ac7260805703d1f8",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-resources/releases/download/v1.4-game0.51.x-dc98b1e6/trimmed.zip",
+        "createdAt": 1793374050,
+        "updatedAt": 1793374072,
+        "size": null,
+        "modVersion": "1.4",
+        "v3ReleaseUuid": "dc98b1e604494441ac7260805703d1f8",
+        "author": "浩瀚星空里的林白",
+        "introduce": "1：默认开启克苏鲁修仙，修炼者有概率成为怪物，可在模组设置关闭\r\n2：三条修炼道途\r\n求法者：入门求法者，小神通，中神通，大神通，突破时抽取技能，有概率成为因果律修行者或者普通修行者\r\n武道：铜皮，铁骨，玉身，圣体，每个境界会带有武学（技能特效）在战斗之时可以获取气血\r\n剑道：剑修，剑圣，剑帝，剑神，共有两种不同样子的飞剑，剑圣之后，攻击时会召唤坠剑",
+        "tag": [
+          "修炼体系",
+          "功能扩展",
+          "独特生物"
+        ],
+        "preview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261030/7c120c0cae72435d1dbb6b31c4df58edd36104402a829c663d49523cbde83bb5.png",
+        "sourcePreview": "https://raw.githubusercontent.com/Worldbox-OWL/image-hosting/main/20261030/7c120c0cae72435d1dbb6b31c4df58edd36104402a829c663d49523cbde83bb5.png"
+      }
+    ],
+    "v3ResourceUuid": "c4df3008-3b01-4083-9daf-602733e1b7b6"
   }
 ]
