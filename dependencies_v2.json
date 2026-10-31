@@ -144,7 +144,7 @@
     "introduce": "",
     "author": "",
     "index": null,
-    "updatedAt": 1793450219,
+    "updatedAt": 1793450299,
     "versions": [
       {
         "uuid": "2215d373e82e4772adb9663cfe8ad700",
@@ -156,6 +156,17 @@
         "size": null,
         "modVersion": null,
         "v3ReleaseUuid": "2215d373e82e4772adb9663cfe8ad700"
+      },
+      {
+        "uuid": "dd00083347054714be61937c5b51063d",
+        "gameversion": "0.51.x",
+        "variant": null,
+        "downloadLink": "https://github.com/Worldbox-OWL/mod-dependencies/releases/download/v1.2.1.1-game0.51.x-dd000833/NeoModLoader_1.2.1.1.0.51._.zip",
+        "createdAt": 1793450299,
+        "updatedAt": 1793450315,
+        "size": null,
+        "modVersion": null,
+        "v3ReleaseUuid": "dd00083347054714be61937c5b51063d"
       }
     ],
     "v3ResourceUuid": "57e400df-2d06-4bba-9e94-d480a25ce480"
