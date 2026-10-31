@@ -138,5 +138,14 @@
         "createdAt": 1772806447
       }
     ]
+  },
+  {
+    "mod": "模组装载器NeoModLoader_1.2.1.1(适用于0.51.+)",
+    "introduce": "",
+    "author": "",
+    "index": null,
+    "updatedAt": 1793450153,
+    "versions": [],
+    "v3ResourceUuid": "57e400df-2d06-4bba-9e94-d480a25ce480"
   }
 ]
